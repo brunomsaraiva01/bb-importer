@@ -62,6 +62,11 @@ for pagina in range(1, paginas + 1):
 
     print(f'Página {pagina}/{paginas}: {len(unicos)} imóveis', flush=True)
 
+if len(ids) != total:
+    raise RuntimeError(
+        f'Catalogo incompleto: anunciado={total}, encontrados={len(ids)}'
+    )
+
 resultado = {
     'total_anunciado': total,
     'imoveis': list(ids.values())
