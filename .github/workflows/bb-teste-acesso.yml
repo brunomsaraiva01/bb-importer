@@ -1,0 +1,21 @@
+name: Testar acesso BB
+on:
+  workflow_dispatch:
+jobs:
+  teste:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Testar pagina individual
+        run: |
+          python3 - <<'PY'
+          import urllib.request
+          url = 'https://www.seuimovelbb.com.br/imovel/id/10020'
+          req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+          try:
+              with urllib.request.urlopen(req, timeout=20) as resposta:
+                  print('HTTP:', resposta.status)
+                  print('Bytes:', len(resposta.read()))
+          except Exception as erro:
+              print('FALHA:', erro)
+              raise
+          PY
