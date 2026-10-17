@@ -18,18 +18,18 @@ if [ "$(git rev-parse HEAD)" != "$(git rev-parse origin/main)" ]; then
 fi
 
 echo "1/4 - Descobrindo imoveis..."
-python3 bb_descobrir_catalogo.py
+.venv/bin/python bb_descobrir_catalogo.py
 
 echo "2/4 - Coletando dados e fotos..."
 rm -rf bb-coleta-temporaria
-python3 bb_coletar_catalogo.py \
+.venv/bin/python bb_coletar_catalogo.py \
   --catalogo bb-catalogo-atualizado.json \
   --limite 0 \
   --pausa 2 \
   --saida bb-coleta-temporaria
 
 echo "3/4 - Validando coleta..."
-python3 bb_validar_publicacao.py
+.venv/bin/python bb_validar_publicacao.py
 
 echo "4/4 - Coleta aprovada."
 echo "Pronto para publicar no GitHub."
