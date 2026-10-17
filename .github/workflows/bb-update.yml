@@ -17,7 +17,7 @@ concurrency:
 jobs:
   atualizar:
     runs-on: ubuntu-latest
-    timeout-minutes: 180
+    timeout-minutes: 90
 
     steps:
       - name: Baixar repositorio
@@ -69,7 +69,9 @@ jobs:
           successful = []
 
           for run in data.get("workflow_runs", []):
-              if run.get("event") not in ("schedule", "workflow_dispatch"):
+              if run.get("event") not in (
+                  "schedule", "workflow_dispatch"
+              ):
                   continue
               if run.get("conclusion") != "success":
                   continue
@@ -83,7 +85,8 @@ jobs:
 
           run_now = (
               not successful
-              or (now - max(successful)).total_seconds() >= 15 * 86400
+              or (now - max(successful)).total_seconds()
+              >= 15 * 86400
           )
 
           with open(output, "a") as f:
@@ -92,57 +95,85 @@ jobs:
           print(f"Executar coleta: {run_now}")
           PY
 
-      - name: Coletar imoveis BB
-        if: steps.intervalo.outputs.run == 'true'
-        run: |
-          python bb_coletar_catalogo.py \
-            --limite 0 \
-            --pausa 2 \
-            --saida bb-coleta
-
-      - name: Validar resultado
+      - name: Verificar catalogo existente
         if: steps.intervalo.outputs.run == 'true'
         run: |
           python - <<'PY'
           import json
           from pathlib import Path
 
-          folder = Path("bb-coleta/por-uf")
-          files = sorted(folder.glob("*.json"))
+          catalogo = Path("bb-catalogo-validacao.json")
+          pasta = Path("bb-coleta/por-uf")
 
-          if len(files) < 20:
+          if not catalogo.exists():
+              raise SystemExit("Catalogo de IDs ausente")
+
+          arquivos = list(pasta.glob("*.json"))
+          if len(arquivos) < 20:
               raise SystemExit(
-                  "Coleta incompleta: menos de 20 estados."
+                  "Catalogo publicado incompleto"
               )
 
           total = 0
-          for path in files:
-              data = json.loads(path.read_text(encoding="utf-8"))
-              properties = data.get("imoveis", [])
-              if not isinstance(properties, list):
-                  raise SystemExit(f"Formato invalido: {path}")
-              total += len(properties)
+          for arquivo in arquivos:
+              dados = json.loads(
+                  arquivo.read_text(encoding="utf-8")
+              )
+              total += len(dados.get("imoveis", []))
 
-          print(f"Estados: {len(files)}")
-          print(f"Imoveis: {total}")
+          print(f"Estados existentes: {len(arquivos)}")
+          print(f"Imoveis existentes: {total}")
 
           if total < 700:
               raise SystemExit(
-                  "Coleta abaixo do limite de seguranca."
+                  "Base existente abaixo do minimo"
               )
           PY
 
-      - name: Publicar JSONs
+      - name: Coletar amostra limitada BB
         if: steps.intervalo.outputs.run == 'true'
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          python bb_coletar_catalogo.py \
+            --limite 20 \
+            --pausa 2 \
+            --saida bb-coleta-amostra
 
-          git add bb-coleta/por-uf/
+      - name: Validar amostra
+        if: steps.intervalo.outputs.run == 'true'
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
 
-          if ! git diff --cached --quiet; then
-            git commit -m "Atualizar catalogo BB"
-            git push
-          else
-            echo "Nenhuma alteracao nos JSONs."
-          fi
+          auditoria = Path(
+              "bb-coleta-amostra/auditoria.json"
+          )
+
+          if not auditoria.exists():
+              raise SystemExit(
+                  "Auditoria da amostra nao encontrada"
+              )
+
+          dados = json.loads(
+              auditoria.read_text(encoding="utf-8")
+          )
+
+          print(
+              json.dumps(
+                  dados,
+                  ensure_ascii=False,
+                  indent=2
+              )
+          )
+
+          print(
+              "Amostra concluida. "
+              "Catalogo publicado preservado."
+          )
+          PY
+
+      - name: Preservar catalogo publicado
+        if: steps.intervalo.outputs.run == 'true'
+        run: |
+          echo "Nenhum JSON existente sera substituido."
+          echo "Amostra executada sem publicacao."
