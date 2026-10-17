@@ -33,67 +33,7 @@ jobs:
 
       - name: Verificar intervalo de 15 dias
         id: intervalo
-        env:
-          GH_TOKEN: ${{ github.token }}
-        run: |
-          python - <<'PY'
-          import os
-          import json
-          import subprocess
-          from datetime import datetime, timezone
-
-          output = os.environ["GITHUB_OUTPUT"]
-
-          if os.environ["GITHUB_EVENT_NAME"] == "workflow_dispatch":
-              with open(output, "a") as f:
-                  print("run=true", file=f)
-              raise SystemExit(0)
-
-          repo = os.environ["GITHUB_REPOSITORY"]
-          result = subprocess.run(
-              [
-                  "gh", "api", "--method", "GET",
-                  f"repos/{repo}/actions/workflows/bb-update.yml/runs",
-                  "-f", "status=completed",
-                  "-f", "per_page=100"
-              ],
-              capture_output=True,
-              text=True
-          )
-
-          if result.returncode != 0:
-              raise SystemExit(result.stderr)
-
-          data = json.loads(result.stdout)
-          now = datetime.now(timezone.utc)
-          successful = []
-
-          for run in data.get("workflow_runs", []):
-              if run.get("event") not in (
-                  "schedule", "workflow_dispatch"
-              ):
-                  continue
-              if run.get("conclusion") != "success":
-                  continue
-
-              finished = run.get("updated_at")
-              if finished:
-                  dt = datetime.fromisoformat(
-                      finished.replace("Z", "+00:00")
-                  )
-                  successful.append(dt)
-
-          run_now = (
-              not successful
-              or (now - max(successful)).total_seconds()
-              >= 15 * 86400
-          )
-
-          with open(output, "a") as f:
-              print(f"run={str(run_now).lower()}", file=f)
-
-          print(f"Executar coleta: {run_now}")
-          PY
+        run: python bb_verificar_intervalo.py
 
       - name: Verificar catalogo existente
         if: steps.intervalo.outputs.run == 'true'
@@ -130,50 +70,42 @@ jobs:
               )
           PY
 
+      - name: Descobrir catalogo atualizado
+        if: steps.intervalo.outputs.run == 'true'
+        run: python bb_descobrir_catalogo.py
+
       - name: Coletar amostra limitada BB
         if: steps.intervalo.outputs.run == 'true'
         run: |
           python bb_coletar_catalogo.py \
-            --limite 20 \
+            --catalogo bb-catalogo-atualizado.json \
+            --limite 0 \
             --pausa 2 \
-            --saida bb-coleta-amostra
+            --saida bb-coleta-temporaria
 
-      - name: Validar amostra
+      - name: Validar coleta completa
+        if: steps.intervalo.outputs.run == 'true'
+        run: python bb_validar_publicacao.py
+
+      - name: Publicar catalogo validado
         if: steps.intervalo.outputs.run == 'true'
         run: |
-          python - <<'PY'
-          import json
-          from pathlib import Path
+          cp bb-catalogo-atualizado.json bb-catalogo-validacao.json
+          mkdir -p bb-coleta/por-uf
+          rm -f bb-coleta/por-uf/*.json
+          cp bb-coleta-temporaria/por-uf/*.json bb-coleta/por-uf/
+          cp bb-coleta-temporaria/auditoria.json bb-coleta/auditoria.json
 
-          auditoria = Path(
-              "bb-coleta-amostra/auditoria.json"
-          )
-
-          if not auditoria.exists():
-              raise SystemExit(
-                  "Auditoria da amostra nao encontrada"
-              )
-
-          dados = json.loads(
-              auditoria.read_text(encoding="utf-8")
-          )
-
-          print(
-              json.dumps(
-                  dados,
-                  ensure_ascii=False,
-                  indent=2
-              )
-          )
-
-          print(
-              "Amostra concluida. "
-              "Catalogo publicado preservado."
-          )
-          PY
-
-      - name: Preservar catalogo publicado
+      - name: Enviar atualizacao ao GitHub
         if: steps.intervalo.outputs.run == 'true'
         run: |
-          echo "Nenhum JSON existente sera substituido."
-          echo "Amostra executada sem publicacao."
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          date -u +"%Y-%m-%dT%H:%M:%S+00:00" > .bb-ultima-atualizacao.txt
+          git add .bb-ultima-atualizacao.txt
+          git add bb-catalogo-validacao.json bb-catalogo-atualizado.json bb-coleta/por-uf/
+          git add -f bb-coleta/auditoria.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Atualiza catalogo BB automaticamente"
+            git push origin HEAD:main
+          fi

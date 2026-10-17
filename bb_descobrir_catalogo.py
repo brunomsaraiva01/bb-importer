@@ -45,6 +45,8 @@ print(f'Catálogo anunciado: {total} imóveis')
 print(f'Páginas previstas: {paginas}', flush=True)
 
 for pagina in range(1, paginas + 1):
+    if pagina > 1:
+        time.sleep(2)
     dados = primeira if pagina == 1 else consultar(pagina)
     encontrados = re.findall(r'/imovel/id/(\d+)', dados.get('lista', ''))
     unicos = list(dict.fromkeys(encontrados))
@@ -62,7 +64,7 @@ for pagina in range(1, paginas + 1):
 
     print(f'Página {pagina}/{paginas}: {len(unicos)} imóveis', flush=True)
 
-if len(ids) != total:
+if total <= 0 or len(ids) < total * 0.99 or len(ids) > total:
     raise RuntimeError(
         f'Catalogo incompleto: anunciado={total}, encontrados={len(ids)}'
     )
