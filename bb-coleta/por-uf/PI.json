@@ -2,33 +2,534 @@
   "imoveis": [
     {
       "source_type": "bb",
-      "source_external_id": "10495",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/10495",
-      "external_reference": "100212",
-      "city": "Itaueira",
+      "source_external_id": "12335",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12335",
+      "external_reference": "97509",
+      "city": "José de Freitas",
       "state": "PI",
-      "address": "Avenida Manoel Alves Beserra, nº 478, Centro",
-      "asking_price": 146943.46,
-      "price_display": "R$ 146.943,46",
-      "sale_modality_hint": "proposta",
+      "address": "Rua Projetada I, nº 131, Santa Rosa",
+      "asking_price": null,
+      "price_display": "Aceita BB?",
+      "sale_modality_hint": "aceita_bb",
       "auction_date_raw": null,
       "first_auction_minimum_bid": null,
       "second_auction_minimum_bid": null,
-      "description": "ID100212 ITAUEIRA (PI) Descrição legal: Imóvel Urbano Residencial, Casa situada na Avenida Manoel Alves Beserra, nº 478, Centro, Município de ITAUEIRA - PI. Melhor descrito na matrícula 3901 do Serventia Extrajudicial do Oficio Único de Itaueira - PI. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente; b) A titularidade do IPTU encontra-se atualmente em nome de terceiros, cabendo ao arrematante a obrigação de promover, após a arrematação, a devida atualização cadastral e a transferência da titularidade para o seu nome junto ao órgão municipal competente, arcando integralmente com todas as providências, custos e eventuais despesas necessárias à regularização. Os valores de IPTU eventualmente devidos serão tratados conforme o disposto no item 16.7 deste Edital.",
+      "description": "ID97509 JOSÉ DE FREITAS (PI) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Projetada I, nº 131, Santa Rosa, Município de José de Freitas - PI. Melhor descrito na matrícula 10878 do Cartório do 1º Ofício de Notas e Registro de Imóveis de José de Freitas - PI. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente; b) Existe divergência do logradouro registrado na matrícula (Rua Projetada 1) e no cadastro da Prefeitura Municipal de José de Freitas (Rua Projetada 245). Os procedimentos e despesas para retificação do registro público ficarão por conta do adquirente.",
       "observations": [
         "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
         "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
       ],
       "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "3901",
-      "registry_office": "Serventia Extrajudicial do Oficio Único de Itaueira - PI",
-      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=26334",
+      "registry_number": "10878",
+      "registry_office": "Cartório do 1º Ofício de Notas e Registro de Imóveis de José de Freitas - PI",
+      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=27950",
       "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/10495_1.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/10495_2.jpg"
+        "https://www.seuimovelbb.com.br/imagem/imovel/12335_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12335_2.jpeg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12335_3.jpg"
       ],
-      "latitude": -7.5989481,
-      "longitude": -43.0280896,
+      "latitude": -4.769085,
+      "longitude": -42.581814,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12331",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12331",
+      "external_reference": "97120",
+      "city": "Altos",
+      "state": "PI",
+      "address": "Rua Projetada, nº 60, Bairro Ciana",
+      "asking_price": null,
+      "price_display": "Aceita BB?",
+      "sale_modality_hint": "aceita_bb",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID97120 ALTOS (PI) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Projetada, nº 60, Bairro Ciana, Município de Altos - PI. Melhor descrito na matrícula 11061 da 01ª Serventia Extrajudicial de Registro Geral de Altos - PI. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente; b) O imóvel é FOREIRO e possui senhorio com direito de preferência na aquisição do bem, conforme item 4.5 deste Edital; c) O Comprador assume a responsabilidade dos riscos, providências e custas necessárias à obtenção de autorizações para transferência do domínio útil e recolhimento dos laudêmios, de modo a possibilitar a lavratura da escritura de venda e compra do imóvel, bem como quaisquer regularizações pertinentes junto aos órgãos competentes, independentemente da data da constituição de sua condição de foreiro.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "11061",
+      "registry_office": "01ª Serventia Extrajudicial de Registro Geral de Altos - PI",
+      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=27944",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12331_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12331_2.jpeg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12331_3.jpg"
+      ],
+      "latitude": -8.3229488,
+      "longitude": -43.1747162,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12340",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12340",
+      "external_reference": "97448",
+      "city": "São Pedro do Piauí",
+      "state": "PI",
+      "address": "Rua Sem Nome, nº 1398, Bairro Alto da Cruz",
+      "asking_price": null,
+      "price_display": "Aceita BB?",
+      "sale_modality_hint": "aceita_bb",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID97448 SÃO PEDRO DO PIAUÍ (PI) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Sem Nome, nº 1398, Bairro Alto da Cruz, Município de São Pedro do Piauí - PI. Melhor descrito na matrícula 4875 da Serventia Extrajudicial do Ofício Único de São Pedro do Piauí - PI. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente; b) A titularidade do IPTU encontra-se atualmente em nome de terceiros, cabendo ao arrematante a obrigação de promover, após a arrematação, a devida atualização cadastral e a transferência da titularidade para o seu nome junto ao órgão municipal competente, arcando integralmente com todas as providências, custos e eventuais despesas necessárias à regularização. Os valores de IPTU eventualmente devidos serão tratados conforme o disposto no item 16.7 deste Edital.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "4875",
+      "registry_office": "Serventia Extrajudicial do Ofício Único de São Pedro do Piauí - PI",
+      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=27956",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12340_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12340_2.jpeg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12340_3.jpg"
+      ],
+      "latitude": -5.927144,
+      "longitude": -42.720123,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12330",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12330",
+      "external_reference": "97568",
+      "city": "Água Branca",
+      "state": "PI",
+      "address": "Rua Vita Dias, s/nº, Lote 03, Quadra K, Loteamento Soares III, Bulungão",
+      "asking_price": null,
+      "price_display": "Aceita BB?",
+      "sale_modality_hint": "aceita_bb",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID97568 ÁGUA BRANCA (PI) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Vita Dias, s/nº, Lote 03, Quadra K, Loteamento Soares III, Bulungão, Município de Água Branca - PI. Melhor descrito na matrícula 8254 da 01º Serventia Extrajudicial de Registro Geral de Água Branca - PI. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "8254",
+      "registry_office": "01º Serventia Extrajudicial de Registro Geral de Água Branca - PI",
+      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=27943",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12330_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12330_2.jpeg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12330_3.jpg"
+      ],
+      "latitude": -7.095865,
+      "longitude": -41.469118,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12338",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12338",
+      "external_reference": "97397",
+      "city": "São Pedro do Piauí",
+      "state": "PI",
+      "address": "Rua João Claro de Sousa, nº 468, Bairro Alto da Cruz",
+      "asking_price": null,
+      "price_display": "Aceita BB?",
+      "sale_modality_hint": "aceita_bb",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID97397 SÃO PEDRO DO PIAUÍ (PI) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua João Claro de Sousa, nº 468, Bairro Alto da Cruz, Município de São Pedro do Piauí - PI. Melhor descrito na matrícula 5109 da Serventia Extrajudicial do Ofício Único de São Pedro do Piauí - PI. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente; b) A titularidade do IPTU encontra-se atualmente em nome de terceiros, cabendo ao arrematante a obrigação de promover, após a arrematação, a devida atualização cadastral e a transferência da titularidade para o seu nome junto ao órgão municipal competente, arcando integralmente com todas as providências, custos e eventuais despesas necessárias à regularização. Os valores de IPTU eventualmente devidos serão tratados conforme o disposto no item 16.7 deste Edital.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "5109",
+      "registry_office": "Serventia Extrajudicial do Ofício Único de São Pedro do Piauí - PI",
+      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=27954",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12338_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12338_2.jpeg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12338_3.jpg"
+      ],
+      "latitude": -5.9256173,
+      "longitude": -42.7200274,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12336",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12336",
+      "external_reference": "97254",
+      "city": "São Pedro do Piauí",
+      "state": "PI",
+      "address": "Rua Osvaldo Cruz, nº 1400, Bairro Alto da Cruz",
+      "asking_price": null,
+      "price_display": "Aceita BB?",
+      "sale_modality_hint": "aceita_bb",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID97254 SÃO PEDRO DO PIAUÍ (PI) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Osvaldo Cruz, nº 1400, Bairro Alto da Cruz, Município de São Pedro do Piauí - PI. Melhor descrito na matrícula 4600 da Serventia Extrajudicial do Ofício Único de São Pedro do Piauí - PI. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente; b) A titularidade do IPTU encontra-se atualmente em nome de terceiros, cabendo ao arrematante a obrigação de promover, após a arrematação, a devida atualização cadastral e a transferência da titularidade para o seu nome junto ao órgão municipal competente, arcando integralmente com todas as providências, custos e eventuais despesas necessárias à regularização. Os valores de IPTU eventualmente devidos serão tratados conforme o disposto no item 16.7 deste Edital.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "4600",
+      "registry_office": "Serventia Extrajudicial do Ofício Único de São Pedro do Piauí - PI",
+      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=27952",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12336_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12336_2.jpeg"
+      ],
+      "latitude": -5.918602,
+      "longitude": -42.71685,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12334",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12334",
+      "external_reference": "97514",
+      "city": "José de Freitas",
+      "state": "PI",
+      "address": "Rua José da Costa Sobrinho, nº 15, Quadra J, Conjunto Habitacional Dirceu Arcoverde",
+      "asking_price": null,
+      "price_display": "Aceita BB?",
+      "sale_modality_hint": "aceita_bb",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID97514 JOSÉ DE FREITAS (PI) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua José da Costa Sobrinho, nº 15, Quadra J, Conjunto Habitacional Dirceu Arcoverde, Município de José de Freitas - PI. Melhor descrito na matrícula 11583 do Cartório do 1º Ofício de Notas e Registro de Imóveis de José de Freitas - PI. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente; b) Existe divergência entre as áreas de terreno e benfeitorias registradas na matrícula e as constantes no cadastro do imóvel na Prefeitura Municipal de José de Freitas ? PI. Os procedimentos e despesas para a regularização da pendência ficarão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "11583",
+      "registry_office": "Cartório do 1º Ofício de Notas e Registro de Imóveis de José de Freitas - PI",
+      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=27949",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12334_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12334_2.jpeg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12334_3.jpg"
+      ],
+      "latitude": -4.764964,
+      "longitude": -42.567718,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12332",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12332",
+      "external_reference": "97512",
+      "city": "Altos",
+      "state": "PI",
+      "address": "Rua Projetada I, nº 2399, Bairro Ciana",
+      "asking_price": null,
+      "price_display": "Aceita BB?",
+      "sale_modality_hint": "aceita_bb",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID97512 ALTOS (PI) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Projetada I, nº 2399, Bairro Ciana, Município de Altos - PI. Melhor descrito na matrícula 10262 da 01ª Serventia Extrajudicial de Registro Geral de Altos - PI. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "10262",
+      "registry_office": "01ª Serventia Extrajudicial de Registro Geral de Altos - PI",
+      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=27945",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12332_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12332_2.jpeg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12332_3.jpg"
+      ],
+      "latitude": -5.0288087,
+      "longitude": -42.447508,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12328",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12328",
+      "external_reference": "96670",
+      "city": "Água Branca",
+      "state": "PI",
+      "address": "Rua Projetada 08, Quadra S, Lote 01, Loteamento Serragem Poeirão",
+      "asking_price": null,
+      "price_display": "Aceita BB?",
+      "sale_modality_hint": "aceita_bb",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID96670 ÁGUA BRANCA (PI) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Projetada 08, Quadra S, Lote 01, Loteamento Serragem Poeirão, Município de Água Branca - PI. Melhor descrito na matrícula 8447 da 1ª Serventia de Registro Geral de Água Branca - PI. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente; b) Existe edificação não averbada na matrícula. Os procedimentos e despesas para a regularização da pendência ficarão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "8447",
+      "registry_office": "1ª Serventia de Registro Geral de Água Branca - PI",
+      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=27940",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12328_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12328_2.jpeg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12328_3.jpg"
+      ],
+      "latitude": -6.528707,
+      "longitude": -39.489479,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12339",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12339",
+      "external_reference": "97401",
+      "city": "São Pedro do Piauí",
+      "state": "PI",
+      "address": "Rua Projetada, nº 336, Bairro Cidade Nova",
+      "asking_price": null,
+      "price_display": "Aceita BB?",
+      "sale_modality_hint": "aceita_bb",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID97401 SÃO PEDRO DO PIAUÍ (PI) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Projetada, nº 336, Bairro Cidade Nova, Município de São Pedro do Piauí - PI. Melhor descrito na matrícula 5171 da Serventia Extrajudicial do Ofício Único de São Pedro do Piauí - PI. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente; b) A titularidade do IPTU encontra-se atualmente em nome de terceiros, cabendo ao arrematante a obrigação de promover, após a arrematação, a devida atualização cadastral e a transferência da titularidade para o seu nome junto ao órgão municipal competente, arcando integralmente com todas as providências, custos e eventuais despesas necessárias à regularização. Os valores de IPTU eventualmente devidos serão tratados conforme o disposto no item 16.7 deste Edital.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "5171",
+      "registry_office": "Serventia Extrajudicial do Ofício Único de São Pedro do Piauí - PI",
+      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=27955",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12339_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12339_2.jpeg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12339_3.jpg"
+      ],
+      "latitude": -5.9256173,
+      "longitude": -42.7200274,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12329",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12329",
+      "external_reference": "97311",
+      "city": "Água Branca",
+      "state": "PI",
+      "address": "Rua Projetada 08, s/nº, Loteamento Serragem, Quadra H, Lote 04, Bairro Poeirão",
+      "asking_price": null,
+      "price_display": "Aceita BB?",
+      "sale_modality_hint": "aceita_bb",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID97311 ÁGUA BRANCA (PI) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Projetada 08, s/nº, Loteamento Serragem, Quadra H, Lote 04, Bairro Poeirão, Município de Água Branca - PI. Melhor descrito na matrícula 8372 da 01ª Serventia Extrajudicial de Registro Geral de Água Branca - PI. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "8372",
+      "registry_office": "01ª Serventia Extrajudicial de Registro Geral de Água Branca - PI",
+      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=27942",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12329_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12329_2.jpeg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12329_3.jpg"
+      ],
+      "latitude": -7.514751,
+      "longitude": -39.732498,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12337",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12337",
+      "external_reference": "97395",
+      "city": "São Pedro do Piauí",
+      "state": "PI",
+      "address": "Rua Aurino Aquino do Nascimento, nº 2643, Bairro Alto da Cruz",
+      "asking_price": null,
+      "price_display": "Aceita BB?",
+      "sale_modality_hint": "aceita_bb",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID97395 SÃO PEDRO DO PIAUÍ (PI) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Aurino Aquino do Nascimento, nº 2643, Bairro Alto da Cruz, Município de São Pedro do Piauí - PI. Melhor descrito na matrícula 4827 da Serventia Extrajudicial do Ofício Único de São Pedro do Piauí - PI. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente; b) A titularidade do IPTU encontra-se atualmente em nome de terceiros, cabendo ao arrematante a obrigação de promover, após a arrematação, a devida atualização cadastral e a transferência da titularidade para o seu nome junto ao órgão municipal competente, arcando integralmente com todas as providências, custos e eventuais despesas necessárias à regularização. Os valores de IPTU eventualmente devidos serão tratados conforme o disposto no item 16.7 deste Edital.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "4827",
+      "registry_office": "Serventia Extrajudicial do Ofício Único de São Pedro do Piauí - PI",
+      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=27953",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12337_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12337_2.jpeg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12337_3.jpg"
+      ],
+      "latitude": -5.908247,
+      "longitude": -42.720112,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11381",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11381",
+      "external_reference": "101153",
+      "city": "Lagoa Alegre",
+      "state": "PI",
+      "address": null,
+      "asking_price": 19380.0,
+      "price_display": "R$ 19.380,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID101153 LAGOA ALEGRE (PI)Descrição legal: Residência com área construída de 51,57m², dentro de um terreno com área de 200,00m², situada na Rua Projetada 07, nr. 02, Quadra L, Lote 02, Bairro Centro, Lagoa Alegre - PI. Melhor descrita na matrícula nº 9126 do CRI 1 Serventia Extrajudicial de Registo de União - PI. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente. Imóvel foreiro",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "9126",
+      "registry_office": "CRI 1 Serventia Extrajudicial de Registo de União - PI",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/14941",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11381_1.png",
+        "https://www.seuimovelbb.com.br/imagem/imovel/11381_2.png"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "7023",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/7023",
+      "external_reference": "99144",
+      "city": "José de Freitas",
+      "state": "PI",
+      "address": "Rua Alegria 282, Cidade Nova, José de Freitas-PI. Considerações Importantes: O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "asking_price": 22380.0,
+      "price_display": "R$ 22.380,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID99144 Uma Casa Residencial, melhor descrito na matrícula 9864 do CRI de José de Freitas -PI. Status da Ocupação: Ocupado. Localização: Rua Alegria 282, Cidade Nova, José de Freitas-PI. Considerações Importantes: O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "9864",
+      "registry_office": "CRI de José de Freitas -PI",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/381",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/7023_1.jpg"
+      ],
+      "latitude": -4.7582639,
+      "longitude": -42.5764651,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "10599",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/10599",
+      "external_reference": "97288",
+      "city": "São Pedro do Piauí",
+      "state": "PI",
+      "address": "Rua Aurino Aquino do Nascimento, nº 2761, Bairro Alto da Cruz",
+      "asking_price": 25616.34,
+      "price_display": "R$ 25.616,34",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID97288 SÃO PEDRO DO PIAUÍ (PI) Descrição legal: Imóvel Urbano Residencial, Casa situada à Rua Aurino Aquino do Nascimento, nº 2761, Bairro Alto da Cruz, município de São Pedro do Piauí/PI. Melhor descrito na matrícula 5272 da Serventia Extrajudicial do Ofício Único de São Pedro do Piauí/PI. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente; b) A titularidade do IPTU está em nome de terceiros; eventuais procedimentos e despesas para a regularização da pendência ficarão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "5272",
+      "registry_office": "Serventia Extrajudicial do Ofício Único de São Pedro do Piauí/PI",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/565",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/10599_1.png",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10599_2.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10599_3.jpg"
+      ],
+      "latitude": -5.9255703,
+      "longitude": -42.720097,
       "documents": {
         "edital_url": null,
         "matricula_url": null
@@ -107,135 +608,30 @@
     },
     {
       "source_type": "bb",
-      "source_external_id": "10599",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/10599",
-      "external_reference": "97288",
+      "source_external_id": "11709",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11709",
+      "external_reference": "101396",
       "city": "São Pedro do Piauí",
       "state": "PI",
-      "address": "Rua Aurino Aquino do Nascimento, nº 2761, Bairro Alto da Cruz",
-      "asking_price": 25616.34,
-      "price_display": "R$ 25.616,34",
+      "address": "Rua Gil Teixeira, nº 85, Outro Lado",
+      "asking_price": 31000.0,
+      "price_display": "R$ 31.000,00",
       "sale_modality_hint": "proposta",
       "auction_date_raw": null,
       "first_auction_minimum_bid": null,
       "second_auction_minimum_bid": null,
-      "description": "ID97288 SÃO PEDRO DO PIAUÍ (PI) Descrição legal: Imóvel Urbano Residencial, Casa situada à Rua Aurino Aquino do Nascimento, nº 2761, Bairro Alto da Cruz, município de São Pedro do Piauí/PI. Melhor descrito na matrícula 5272 da Serventia Extrajudicial do Ofício Único de São Pedro do Piauí/PI. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente; b) A titularidade do IPTU está em nome de terceiros; eventuais procedimentos e despesas para a regularização da pendência ficarão por conta do adquirente.",
+      "description": "ID101396 SÃO PEDRO DO PIAUÍ (PI) Descrição legal: Descrição legal: Imóvel Urbano: Residência com área construída de 69,65m², em terreno com área de 319,15m², situada na Rua Gil Teixeira, nº 85, Outro Lado, Município de São Pedro do Piauí-PI. Melhor descrito na matrícula 4954 da Serventia Extrajudicial do Ofício Único de São Pedro do Piauí-PI. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
       "observations": [
         "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
         "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
       ],
       "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "5272",
-      "registry_office": "Serventia Extrajudicial do Ofício Único de São Pedro do Piauí/PI",
-      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/565",
+      "registry_number": "4954",
+      "registry_office": "Serventia Extrajudicial do Ofício Único de São Pedro do Piauí-PI",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/15024",
       "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/10599_1.png",
-        "https://www.seuimovelbb.com.br/imagem/imovel/10599_2.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/10599_3.jpg"
-      ],
-      "latitude": -5.9255703,
-      "longitude": -42.720097,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "11381",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11381",
-      "external_reference": "101153",
-      "city": "Lagoa Alegre",
-      "state": "PI",
-      "address": null,
-      "asking_price": 19380.0,
-      "price_display": "R$ 19.380,00",
-      "sale_modality_hint": "proposta",
-      "auction_date_raw": null,
-      "first_auction_minimum_bid": null,
-      "second_auction_minimum_bid": null,
-      "description": "ID101153 LAGOA ALEGRE (PI)Descrição legal: Residência com área construída de 51,57m², dentro de um terreno com área de 200,00m², situada na Rua Projetada 07, nr. 02, Quadra L, Lote 02, Bairro Centro, Lagoa Alegre - PI. Melhor descrita na matrícula nº 9126 do CRI 1 Serventia Extrajudicial de Registo de União - PI. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente. Imóvel foreiro",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "9126",
-      "registry_office": "CRI 1 Serventia Extrajudicial de Registo de União - PI",
-      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/14941",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/11381_1.png",
-        "https://www.seuimovelbb.com.br/imagem/imovel/11381_2.png"
-      ],
-      "latitude": null,
-      "longitude": null,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "11703",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11703",
-      "external_reference": "101293",
-      "city": "Piracuruca",
-      "state": "PI",
-      "address": "Rua Projetada, nº 45, Bairro Esplanada",
-      "asking_price": 62000.0,
-      "price_display": "R$ 62.000,00",
-      "sale_modality_hint": "proposta",
-      "auction_date_raw": null,
-      "first_auction_minimum_bid": null,
-      "second_auction_minimum_bid": null,
-      "description": "ID101293 PIRACURUCA (PI) Descrição legal: Descrição legal: Imóvel Urbano: Terreno com edificação de 67,00m², situado na Rua Projetada, nº 45, Bairro Esplanada, Município de Piracuruca - PI. Melhor descrito na matrícula 21795 da 1ª Serventia Extrajudicial de Registro Geral de Piracuruca - PI. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "21795",
-      "registry_office": "1ª Serventia Extrajudicial de Registro Geral de Piracuruca - PI",
-      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/15023",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/11703_1.png",
-        "https://www.seuimovelbb.com.br/imagem/imovel/11703_2.png"
-      ],
-      "latitude": null,
-      "longitude": null,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "11704",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11704",
-      "external_reference": "101275",
-      "city": "Piracuruca",
-      "state": "PI",
-      "address": "Rua Olavo Bilac, nº 324, Bairro Baixa da Ema",
-      "asking_price": 43000.0,
-      "price_display": "R$ 43.000,00",
-      "sale_modality_hint": "proposta",
-      "auction_date_raw": null,
-      "first_auction_minimum_bid": null,
-      "second_auction_minimum_bid": null,
-      "description": "ID101275 PIRACURUCA (PI) Descrição legal: Descrição legal: Imóvel Urbano: Terreno com edificação de 65,00m², situado na Rua Olavo Bilac, nº 324, Bairro Baixa da Ema, Município de Piracuruca - PI. Melhor descrito na matrícula 20684 da 1ª Serventia Extrajudicial de Registro Geral de Piracuruca - PI. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "20684",
-      "registry_office": "1ª Serventia Extrajudicial de Registro Geral de Piracuruca - PI",
-      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/15020",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/11704_1.png"
+        "https://www.seuimovelbb.com.br/imagem/imovel/11709_1.png",
+        "https://www.seuimovelbb.com.br/imagem/imovel/11709_2.png"
       ],
       "latitude": null,
       "longitude": null,
@@ -284,6 +680,76 @@
     },
     {
       "source_type": "bb",
+      "source_external_id": "11704",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11704",
+      "external_reference": "101275",
+      "city": "Piracuruca",
+      "state": "PI",
+      "address": "Rua Olavo Bilac, nº 324, Bairro Baixa da Ema",
+      "asking_price": 43000.0,
+      "price_display": "R$ 43.000,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID101275 PIRACURUCA (PI) Descrição legal: Descrição legal: Imóvel Urbano: Terreno com edificação de 65,00m², situado na Rua Olavo Bilac, nº 324, Bairro Baixa da Ema, Município de Piracuruca - PI. Melhor descrito na matrícula 20684 da 1ª Serventia Extrajudicial de Registro Geral de Piracuruca - PI. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "20684",
+      "registry_office": "1ª Serventia Extrajudicial de Registro Geral de Piracuruca - PI",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/15020",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11704_1.png"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "2317",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/2317",
+      "external_reference": "99200",
+      "city": "José de Freitas",
+      "state": "PI",
+      "address": "Rua Firminópolis, 173, Bairro Deus me Deu, no município de José de Freitas/PI. Considerações Importantes: O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "asking_price": 48404.2,
+      "price_display": "R$ 48.404,20",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID99200 Casa Residencial, melhor descrito na Matrícula 8332 do Cartório de Registro de José de Freitas - PI. Status da Ocupação: Ocupado. Localização: Rua Firminópolis, 173, Bairro Deus me Deu, no município de José de Freitas/PI. Considerações Importantes: O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "8332",
+      "registry_office": "Cartório de Registro de José de Freitas - PI",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/382",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/2317_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/2317_2.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/2317_3.jpg"
+      ],
+      "latitude": -4.765004,
+      "longitude": -42.5549698,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
       "source_external_id": "11706",
       "source_url": "https://www.seuimovelbb.com.br/imovel/id/11706",
       "external_reference": "101278",
@@ -319,30 +785,30 @@
     },
     {
       "source_type": "bb",
-      "source_external_id": "11709",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11709",
-      "external_reference": "101396",
-      "city": "São Pedro do Piauí",
+      "source_external_id": "12304",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12304",
+      "external_reference": "103011",
+      "city": "União",
       "state": "PI",
-      "address": "Rua Gil Teixeira, nº 85, Outro Lado",
-      "asking_price": 31000.0,
-      "price_display": "R$ 31.000,00",
+      "address": "Rua Projetada 03, Bairro São Sebastião",
+      "asking_price": 57000.0,
+      "price_display": "R$ 57.000,00",
       "sale_modality_hint": "proposta",
       "auction_date_raw": null,
       "first_auction_minimum_bid": null,
       "second_auction_minimum_bid": null,
-      "description": "ID101396 SÃO PEDRO DO PIAUÍ (PI) Descrição legal: Descrição legal: Imóvel Urbano: Residência com área construída de 69,65m², em terreno com área de 319,15m², situada na Rua Gil Teixeira, nº 85, Outro Lado, Município de São Pedro do Piauí-PI. Melhor descrito na matrícula 4954 da Serventia Extrajudicial do Ofício Único de São Pedro do Piauí-PI. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "description": "ID103011 UNIÃO (PI) Descrição legal: Imóvel Urbano: Terreno com edificação, situado na Rua Projetada 03, Bairro São Sebastião, Município de União-PI. Melhor descrito na matrícula nº 10831 da 1ª Serventia Extrajudicial de Registro de Imóveis de União-PI a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
       "observations": [
         "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
         "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
       ],
       "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "4954",
-      "registry_office": "Serventia Extrajudicial do Ofício Único de São Pedro do Piauí-PI",
-      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/15024",
+      "registry_number": "10831",
+      "registry_office": "1ª Serventia Extrajudicial de Registro de Imóveis de União-PI",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/15118",
       "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/11709_1.png",
-        "https://www.seuimovelbb.com.br/imagem/imovel/11709_2.png"
+        "https://www.seuimovelbb.com.br/imagem/imovel/12304_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12304_2.jpg"
       ],
       "latitude": null,
       "longitude": null,
@@ -354,32 +820,33 @@
     },
     {
       "source_type": "bb",
-      "source_external_id": "12033",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12033",
-      "external_reference": null,
-      "city": "Altos",
+      "source_external_id": "11703",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11703",
+      "external_reference": "101293",
+      "city": "Piracuruca",
       "state": "PI",
-      "address": "R. Projetada, 32, Santo Antônio, Altos-PI, CEP 64290-000",
-      "asking_price": 101589.47,
-      "price_display": "R$ 101.589,47",
-      "sale_modality_hint": null,
-      "auction_date_raw": "23/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": 101589.47,
-      "second_auction_minimum_bid": 111527.94,
-      "description": "Nº DO BEM: 530156160 ALTOS (PI) Descrição: IMÓVEL DE MATRÍCULA 12166 DA 1ª SERVENTIA EXTRAJUDICIAL DE REGISTRO GERAL DE ALTOS-PI, ASSIM DESCRITO: Casa residencial nº 32, com área construída de 62,67m² e respectivo terreno com área total de 160,05m², com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 0104139034301 Localização: R. Projetada, 32, Santo Antônio, Altos-PI, CEP 64290-000 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 101.589,47 (cento e um mil quinhentos e oitenta e nove reais e quarenta e sete centavos) Lance mínimo para arrematação em 2º leilão: R$ 111.527,94 (cento e onze mil, quinhentos e vinte e sete reais e noventa e quatro centavos)",
+      "address": "Rua Projetada, nº 45, Bairro Esplanada",
+      "asking_price": 62000.0,
+      "price_display": "R$ 62.000,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID101293 PIRACURUCA (PI) Descrição legal: Descrição legal: Imóvel Urbano: Terreno com edificação de 67,00m², situado na Rua Projetada, nº 45, Bairro Esplanada, Município de Piracuruca - PI. Melhor descrito na matrícula 21795 da 1ª Serventia Extrajudicial de Registro Geral de Piracuruca - PI. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
       "observations": [
         "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
         "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
       ],
       "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "12166",
-      "registry_office": "1ª SERVENTIA EXTRAJUDICIAL DE REGISTRO GERAL DE ALTOS-PI",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27787",
+      "registry_number": "21795",
+      "registry_office": "1ª Serventia Extrajudicial de Registro Geral de Piracuruca - PI",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/15023",
       "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12033_1.jpg"
+        "https://www.seuimovelbb.com.br/imagem/imovel/11703_1.png",
+        "https://www.seuimovelbb.com.br/imagem/imovel/11703_2.png"
       ],
-      "latitude": -5.032208,
-      "longitude": -42.442043,
+      "latitude": null,
+      "longitude": null,
       "documents": {
         "edital_url": null,
         "matricula_url": null
@@ -414,40 +881,6 @@
       ],
       "latitude": -7.09092,
       "longitude": -40.611872,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "12035",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12035",
-      "external_reference": null,
-      "city": "Fronteiras",
-      "state": "PI",
-      "address": "R. Projetada, 140, Belo Vista, Fronteiras-PI, CEP 64690-000",
-      "asking_price": 106443.99,
-      "price_display": "R$ 106.443,99",
-      "sale_modality_hint": null,
-      "auction_date_raw": "23/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": 106443.99,
-      "second_auction_minimum_bid": 443511.05,
-      "description": "Nº DO BEM: 518682427 FRONTEIRAS (PI) Descrição: IMÓVEL DE MATRÍCULA 4431 DO OFÍCIO ÚNICO DE FRONTEIRAS-PI, ASSIM DESCRITO: Casa, com área construída de 97,50m² e terreno com área total de 280,00m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: Localização: R. Projetada, 140, Belo Vista, Fronteiras-PI, CEP 64690-000 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 106.443,99 (cento e seis mil quatrocentos e quarenta e três reais e noventa e nove centavos) Lance mínimo para arrematação em 2º leilão: R$ 443.511,05 (quatrocentos e quarenta e três mil, quinhentos e onze reais e cinco centavos)",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "4431",
-      "registry_office": "OFÍCIO ÚNICO DE FRONTEIRAS-PI",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27789",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12035_1.jpg"
-      ],
-      "latitude": -7.068912,
-      "longitude": -41.454548,
       "documents": {
         "edital_url": null,
         "matricula_url": null
@@ -524,6 +957,109 @@
     },
     {
       "source_type": "bb",
+      "source_external_id": "12033",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12033",
+      "external_reference": null,
+      "city": "Altos",
+      "state": "PI",
+      "address": "R. Projetada, 32, Santo Antônio, Altos-PI, CEP 64290-000",
+      "asking_price": 101589.47,
+      "price_display": "R$ 101.589,47",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 101589.47,
+      "second_auction_minimum_bid": 111527.94,
+      "description": "Nº DO BEM: 530156160 ALTOS (PI) Descrição: IMÓVEL DE MATRÍCULA 12166 DA 1ª SERVENTIA EXTRAJUDICIAL DE REGISTRO GERAL DE ALTOS-PI, ASSIM DESCRITO: Casa residencial nº 32, com área construída de 62,67m² e respectivo terreno com área total de 160,05m², com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 0104139034301 Localização: R. Projetada, 32, Santo Antônio, Altos-PI, CEP 64290-000 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 101.589,47 (cento e um mil quinhentos e oitenta e nove reais e quarenta e sete centavos) Lance mínimo para arrematação em 2º leilão: R$ 111.527,94 (cento e onze mil, quinhentos e vinte e sete reais e noventa e quatro centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "12166",
+      "registry_office": "1ª SERVENTIA EXTRAJUDICIAL DE REGISTRO GERAL DE ALTOS-PI",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27787",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12033_1.jpg"
+      ],
+      "latitude": -5.032208,
+      "longitude": -42.442043,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12035",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12035",
+      "external_reference": null,
+      "city": "Fronteiras",
+      "state": "PI",
+      "address": "R. Projetada, 140, Belo Vista, Fronteiras-PI, CEP 64690-000",
+      "asking_price": 106443.99,
+      "price_display": "R$ 106.443,99",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 106443.99,
+      "second_auction_minimum_bid": 443511.05,
+      "description": "Nº DO BEM: 518682427 FRONTEIRAS (PI) Descrição: IMÓVEL DE MATRÍCULA 4431 DO OFÍCIO ÚNICO DE FRONTEIRAS-PI, ASSIM DESCRITO: Casa, com área construída de 97,50m² e terreno com área total de 280,00m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: Localização: R. Projetada, 140, Belo Vista, Fronteiras-PI, CEP 64690-000 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 106.443,99 (cento e seis mil quatrocentos e quarenta e três reais e noventa e nove centavos) Lance mínimo para arrematação em 2º leilão: R$ 443.511,05 (quatrocentos e quarenta e três mil, quinhentos e onze reais e cinco centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "4431",
+      "registry_office": "OFÍCIO ÚNICO DE FRONTEIRAS-PI",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27789",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12035_1.jpg"
+      ],
+      "latitude": -7.068912,
+      "longitude": -41.454548,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "10495",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/10495",
+      "external_reference": "100212",
+      "city": "Itaueira",
+      "state": "PI",
+      "address": "Avenida Manoel Alves Beserra, nº 478, Centro",
+      "asking_price": 146943.46,
+      "price_display": "R$ 146.943,46",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID100212 ITAUEIRA (PI) Descrição legal: Imóvel Urbano Residencial, Casa situada na Avenida Manoel Alves Beserra, nº 478, Centro, Município de ITAUEIRA - PI. Melhor descrito na matrícula 3901 do Serventia Extrajudicial do Oficio Único de Itaueira - PI. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente; b) A titularidade do IPTU encontra-se atualmente em nome de terceiros, cabendo ao arrematante a obrigação de promover, após a arrematação, a devida atualização cadastral e a transferência da titularidade para o seu nome junto ao órgão municipal competente, arcando integralmente com todas as providências, custos e eventuais despesas necessárias à regularização. Os valores de IPTU eventualmente devidos serão tratados conforme o disposto no item 16.7 deste Edital.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "3901",
+      "registry_office": "Serventia Extrajudicial do Oficio Único de Itaueira - PI",
+      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=26334",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/10495_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10495_2.jpg"
+      ],
+      "latitude": -7.5989481,
+      "longitude": -43.0280896,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
       "source_external_id": "12128",
       "source_url": "https://www.seuimovelbb.com.br/imovel/id/12128",
       "external_reference": "99574",
@@ -550,721 +1086,6 @@
       ],
       "latitude": null,
       "longitude": null,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "12210",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12210",
-      "external_reference": "96670",
-      "city": "Água Branca",
-      "state": "PI",
-      "address": "Rua Projetada 08, Quadra S, Lote 01, Loteamento Serragem Poeirão",
-      "asking_price": null,
-      "price_display": "Aceita BB?",
-      "sale_modality_hint": "aceita_bb",
-      "auction_date_raw": "13/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": null,
-      "second_auction_minimum_bid": null,
-      "description": "ID96670 ÁGUA BRANCA (PI) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Projetada 08, Quadra S, Lote 01, Loteamento Serragem Poeirão, Município de Água Branca - PI. Melhor descrito na matrícula 8447 da 1ª Serventia de Registro Geral de Água Branca - PI. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente; b) Existe edificação não averbada na matrícula. Os procedimentos e despesas para a regularização da pendência ficarão por conta do adquirente.",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "8447",
-      "registry_office": "1ª Serventia de Registro Geral de Água Branca - PI",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27940",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12210_1.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12210_2.jpeg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12210_3.jpg"
-      ],
-      "latitude": -6.528707,
-      "longitude": -39.489479,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "12211",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12211",
-      "external_reference": "97284",
-      "city": "Água Branca",
-      "state": "PI",
-      "address": "Rua 12, Quadra Q, Lote 09, Loteamento Alto Ville, Bairro Alto do Açude",
-      "asking_price": null,
-      "price_display": "Aceita BB?",
-      "sale_modality_hint": "aceita_bb",
-      "auction_date_raw": "13/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": null,
-      "second_auction_minimum_bid": null,
-      "description": "ID97284 ÁGUA BRANCA (PI) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua 12, Quadra Q, Lote 09, Loteamento Alto Ville, Bairro Alto do Açude, Município de Água Branca - PI. Melhor descrito na matrícula 8806 da 01ª Serventia Extrajudicial de Registro Geral de Água Branca - PI. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "8806",
-      "registry_office": "01ª Serventia Extrajudicial de Registro Geral de Água Branca - PI",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27941",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12211_1.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12211_2.jpeg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12211_3.jpg"
-      ],
-      "latitude": -7.225036,
-      "longitude": -39.378128,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "12212",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12212",
-      "external_reference": "97311",
-      "city": "Água Branca",
-      "state": "PI",
-      "address": "Rua Projetada 08, s/nº, Loteamento Serragem, Quadra H, Lote 04, Bairro Poeirão",
-      "asking_price": null,
-      "price_display": "Aceita BB?",
-      "sale_modality_hint": "aceita_bb",
-      "auction_date_raw": "13/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": null,
-      "second_auction_minimum_bid": null,
-      "description": "ID97311 ÁGUA BRANCA (PI) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Projetada 08, s/nº, Loteamento Serragem, Quadra H, Lote 04, Bairro Poeirão, Município de Água Branca - PI. Melhor descrito na matrícula 8372 da 01ª Serventia Extrajudicial de Registro Geral de Água Branca - PI. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "8372",
-      "registry_office": "01ª Serventia Extrajudicial de Registro Geral de Água Branca - PI",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27942",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12212_1.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12212_2.jpeg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12212_3.jpg"
-      ],
-      "latitude": -7.514751,
-      "longitude": -39.732498,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "12213",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12213",
-      "external_reference": "97568",
-      "city": "Água Branca",
-      "state": "PI",
-      "address": "Rua Vita Dias, s/nº, Lote 03, Quadra K, Loteamento Soares III, Bulungão",
-      "asking_price": null,
-      "price_display": "Aceita BB?",
-      "sale_modality_hint": "aceita_bb",
-      "auction_date_raw": "13/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": null,
-      "second_auction_minimum_bid": null,
-      "description": "ID97568 ÁGUA BRANCA (PI) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Vita Dias, s/nº, Lote 03, Quadra K, Loteamento Soares III, Bulungão, Município de Água Branca - PI. Melhor descrito na matrícula 8254 da 01º Serventia Extrajudicial de Registro Geral de Água Branca - PI. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "8254",
-      "registry_office": "01º Serventia Extrajudicial de Registro Geral de Água Branca - PI",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27943",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12213_1.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12213_2.jpeg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12213_3.jpg"
-      ],
-      "latitude": -7.095865,
-      "longitude": -41.469118,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "12214",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12214",
-      "external_reference": "97120",
-      "city": "Altos",
-      "state": "PI",
-      "address": "Rua Projetada, nº 60, Bairro Ciana",
-      "asking_price": null,
-      "price_display": "Aceita BB?",
-      "sale_modality_hint": "aceita_bb",
-      "auction_date_raw": "13/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": null,
-      "second_auction_minimum_bid": null,
-      "description": "ID97120 ALTOS (PI) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Projetada, nº 60, Bairro Ciana, Município de Altos - PI. Melhor descrito na matrícula 11061 da 01ª Serventia Extrajudicial de Registro Geral de Altos - PI. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente; b) O imóvel é FOREIRO e possui senhorio com direito de preferência na aquisição do bem, conforme item 4.5 deste Edital; c) O Comprador assume a responsabilidade dos riscos, providências e custas necessárias à obtenção de autorizações para transferência do domínio útil e recolhimento dos laudêmios, de modo a possibilitar a lavratura da escritura de venda e compra do imóvel, bem como quaisquer regularizações pertinentes junto aos órgãos competentes, independentemente da data da constituição de sua condição de foreiro.",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "11061",
-      "registry_office": "01ª Serventia Extrajudicial de Registro Geral de Altos - PI",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27944",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12214_1.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12214_2.jpeg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12214_3.jpg"
-      ],
-      "latitude": -8.3229488,
-      "longitude": -43.1747162,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "12215",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12215",
-      "external_reference": "97512",
-      "city": "Altos",
-      "state": "PI",
-      "address": "Rua Projetada I, nº 2399, Bairro Ciana",
-      "asking_price": null,
-      "price_display": "Aceita BB?",
-      "sale_modality_hint": "aceita_bb",
-      "auction_date_raw": "13/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": null,
-      "second_auction_minimum_bid": null,
-      "description": "ID97512 ALTOS (PI) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Projetada I, nº 2399, Bairro Ciana, Município de Altos - PI. Melhor descrito na matrícula 10262 da 01ª Serventia Extrajudicial de Registro Geral de Altos - PI. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "10262",
-      "registry_office": "01ª Serventia Extrajudicial de Registro Geral de Altos - PI",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27945",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12215_1.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12215_2.jpeg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12215_3.jpg"
-      ],
-      "latitude": -5.0288087,
-      "longitude": -42.447508,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "12216",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12216",
-      "external_reference": "96823",
-      "city": "Altos",
-      "state": "PI",
-      "address": "Rua Emidio Manoel, nº 394, Lote 17, Quadra U, Loteamento São Sebastião",
-      "asking_price": null,
-      "price_display": "Aceita BB?",
-      "sale_modality_hint": "aceita_bb",
-      "auction_date_raw": "13/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": null,
-      "second_auction_minimum_bid": null,
-      "description": "ID96823 ALTOS (PI) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Emidio Manoel, nº 394, Lote 17, Quadra U, Loteamento São Sebastião, Município de Altos - PI. Melhor descrito na matrícula 6624 da 01ª Serventia Extrajudicial de Registro Geral de Altos - PI. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "6624",
-      "registry_office": "01ª Serventia Extrajudicial de Registro Geral de Altos - PI",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27946",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12216_1.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12216_2.jpeg"
-      ],
-      "latitude": -27.574843,
-      "longitude": -48.626015,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "12217",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12217",
-      "external_reference": "95334",
-      "city": "Cocal",
-      "state": "PI",
-      "address": "Avenida Coronel João Marques, nº 870, Bairro Noventa",
-      "asking_price": null,
-      "price_display": "Aceita BB?",
-      "sale_modality_hint": "aceita_bb",
-      "auction_date_raw": "13/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": null,
-      "second_auction_minimum_bid": null,
-      "description": "ID95334 COCAL (PI) Descrição legal: Imóvel Urbano Residencial, Casa 03 situada na Avenida Coronel João Marques, nº 870, Bairro Noventa, Município de Cocal - PI. Melhor descrito na matrícula 2326 do Cartório do 1º Ofício de Cocal - PI. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente; b) Na matrícula não consta a área do terreno. Eventuais procedimentos e despesas para a regularização da pendência ficarão por conta do adquirente.",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "2326",
-      "registry_office": "Cartório do 1º Ofício de Cocal - PI",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27947",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12217_1.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12217_2.jpeg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12217_3.jpg"
-      ],
-      "latitude": -3.482984,
-      "longitude": -41.563987,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "12218",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12218",
-      "external_reference": "97595",
-      "city": "José de Freitas",
-      "state": "PI",
-      "address": "Rua Paulo Melo, nº 245, Centro",
-      "asking_price": null,
-      "price_display": "Aceita BB?",
-      "sale_modality_hint": "aceita_bb",
-      "auction_date_raw": "13/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": null,
-      "second_auction_minimum_bid": null,
-      "description": "ID97595 JOSÉ DE FREITAS (PI) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Paulo Melo, nº 245, Centro, Município de José de Freitas - PI. Melhor descrito na matrícula 11180 do Cartório de Registro de Imóveis de José de Freitas - PI. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "11180",
-      "registry_office": "Cartório de Registro de Imóveis de José de Freitas - PI",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27948",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12218_1.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12218_2.jpeg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12218_3.jpg"
-      ],
-      "latitude": -4.762233,
-      "longitude": -42.573593,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "12219",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12219",
-      "external_reference": "97514",
-      "city": "José de Freitas",
-      "state": "PI",
-      "address": "Rua José da Costa Sobrinho, nº 15, Quadra J, Conjunto Habitacional Dirceu Arcoverde",
-      "asking_price": null,
-      "price_display": "Aceita BB?",
-      "sale_modality_hint": "aceita_bb",
-      "auction_date_raw": "13/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": null,
-      "second_auction_minimum_bid": null,
-      "description": "ID97514 JOSÉ DE FREITAS (PI) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua José da Costa Sobrinho, nº 15, Quadra J, Conjunto Habitacional Dirceu Arcoverde, Município de José de Freitas - PI. Melhor descrito na matrícula 11583 do Cartório do 1º Ofício de Notas e Registro de Imóveis de José de Freitas - PI. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente; b) Existe divergência entre as áreas de terreno e benfeitorias registradas na matrícula e as constantes no cadastro do imóvel na Prefeitura Municipal de José de Freitas ? PI. Os procedimentos e despesas para a regularização da pendência ficarão por conta do adquirente.",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "11583",
-      "registry_office": "Cartório do 1º Ofício de Notas e Registro de Imóveis de José de Freitas - PI",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27949",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12219_1.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12219_2.jpeg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12219_3.jpg"
-      ],
-      "latitude": -4.764964,
-      "longitude": -42.567718,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "12220",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12220",
-      "external_reference": "97509",
-      "city": "José de Freitas",
-      "state": "PI",
-      "address": "Rua Projetada I, nº 131, Santa Rosa",
-      "asking_price": null,
-      "price_display": "Aceita BB?",
-      "sale_modality_hint": "aceita_bb",
-      "auction_date_raw": "13/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": null,
-      "second_auction_minimum_bid": null,
-      "description": "ID97509 JOSÉ DE FREITAS (PI) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Projetada I, nº 131, Santa Rosa, Município de José de Freitas - PI. Melhor descrito na matrícula 10878 do Cartório do 1º Ofício de Notas e Registro de Imóveis de José de Freitas - PI. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente; b) Existe divergência do logradouro registrado na matrícula (Rua Projetada 1) e no cadastro da Prefeitura Municipal de José de Freitas (Rua Projetada 245). Os procedimentos e despesas para retificação do registro público ficarão por conta do adquirente.",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "10878",
-      "registry_office": "Cartório do 1º Ofício de Notas e Registro de Imóveis de José de Freitas - PI",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27950",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12220_1.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12220_2.jpeg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12220_3.jpg"
-      ],
-      "latitude": -4.769085,
-      "longitude": -42.581814,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "12221",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12221",
-      "external_reference": "97312",
-      "city": "São Pedro do Piauí",
-      "state": "PI",
-      "address": "Rua Luiza Soares, Quadra B, Lote 08, Loteamento Luiza Soares Nunes, Bairro Alto da Cruz",
-      "asking_price": null,
-      "price_display": "Aceita BB?",
-      "sale_modality_hint": "aceita_bb",
-      "auction_date_raw": "13/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": null,
-      "second_auction_minimum_bid": null,
-      "description": "ID97312 SÃO PEDRO DO PIAUÍ (PI) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Luiza Soares, Quadra B, Lote 08, Loteamento Luiza Soares Nunes, Bairro Alto da Cruz, Município de São Pedro do Piauí - PI. Melhor descrito na matrícula 4815 do Cartório de Registro de Imóveis de São Pedro do Piauí - PI. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente; b) A titularidade do IPTU encontra-se atualmente em nome de terceiros, cabendo ao arrematante a obrigação de promover, após a arrematação, a devida atualização cadastral e a transferência da titularidade para o seu nome junto ao órgão municipal competente, arcando integralmente com todas as providências, custos e eventuais despesas necessárias à regularização. Os valores de IPTU eventualmente devidos serão tratados conforme o disposto no item 16.7 deste Edital.",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "4815",
-      "registry_office": "Cartório de Registro de Imóveis de São Pedro do Piauí - PI",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27951",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12221_1.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12221_2.jpeg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12221_3.jpg"
-      ],
-      "latitude": -5.927144,
-      "longitude": -42.720123,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "12222",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12222",
-      "external_reference": "97254",
-      "city": "São Pedro do Piauí",
-      "state": "PI",
-      "address": "Rua Osvaldo Cruz, nº 1400, Bairro Alto da Cruz",
-      "asking_price": null,
-      "price_display": "Aceita BB?",
-      "sale_modality_hint": "aceita_bb",
-      "auction_date_raw": "13/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": null,
-      "second_auction_minimum_bid": null,
-      "description": "ID97254 SÃO PEDRO DO PIAUÍ (PI) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Osvaldo Cruz, nº 1400, Bairro Alto da Cruz, Município de São Pedro do Piauí - PI. Melhor descrito na matrícula 4600 da Serventia Extrajudicial do Ofício Único de São Pedro do Piauí - PI. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente; b) A titularidade do IPTU encontra-se atualmente em nome de terceiros, cabendo ao arrematante a obrigação de promover, após a arrematação, a devida atualização cadastral e a transferência da titularidade para o seu nome junto ao órgão municipal competente, arcando integralmente com todas as providências, custos e eventuais despesas necessárias à regularização. Os valores de IPTU eventualmente devidos serão tratados conforme o disposto no item 16.7 deste Edital.",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "4600",
-      "registry_office": "Serventia Extrajudicial do Ofício Único de São Pedro do Piauí - PI",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27952",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12222_1.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12222_2.jpeg"
-      ],
-      "latitude": -5.918602,
-      "longitude": -42.71685,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "12223",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12223",
-      "external_reference": "97395",
-      "city": "São Pedro do Piauí",
-      "state": "PI",
-      "address": "Rua Aurino Aquino do Nascimento, nº 2643, Bairro Alto da Cruz",
-      "asking_price": null,
-      "price_display": "Aceita BB?",
-      "sale_modality_hint": "aceita_bb",
-      "auction_date_raw": "13/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": null,
-      "second_auction_minimum_bid": null,
-      "description": "ID97395 SÃO PEDRO DO PIAUÍ (PI) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Aurino Aquino do Nascimento, nº 2643, Bairro Alto da Cruz, Município de São Pedro do Piauí - PI. Melhor descrito na matrícula 4827 da Serventia Extrajudicial do Ofício Único de São Pedro do Piauí - PI. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente; b) A titularidade do IPTU encontra-se atualmente em nome de terceiros, cabendo ao arrematante a obrigação de promover, após a arrematação, a devida atualização cadastral e a transferência da titularidade para o seu nome junto ao órgão municipal competente, arcando integralmente com todas as providências, custos e eventuais despesas necessárias à regularização. Os valores de IPTU eventualmente devidos serão tratados conforme o disposto no item 16.7 deste Edital.",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "4827",
-      "registry_office": "Serventia Extrajudicial do Ofício Único de São Pedro do Piauí - PI",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27953",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12223_1.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12223_2.jpeg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12223_3.jpg"
-      ],
-      "latitude": -5.908247,
-      "longitude": -42.720112,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "12224",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12224",
-      "external_reference": "97397",
-      "city": "São Pedro do Piauí",
-      "state": "PI",
-      "address": "Rua João Claro de Sousa, nº 468, Bairro Alto da Cruz",
-      "asking_price": null,
-      "price_display": "Aceita BB?",
-      "sale_modality_hint": "aceita_bb",
-      "auction_date_raw": "13/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": null,
-      "second_auction_minimum_bid": null,
-      "description": "ID97397 SÃO PEDRO DO PIAUÍ (PI) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua João Claro de Sousa, nº 468, Bairro Alto da Cruz, Município de São Pedro do Piauí - PI. Melhor descrito na matrícula 5109 da Serventia Extrajudicial do Ofício Único de São Pedro do Piauí - PI. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente; b) A titularidade do IPTU encontra-se atualmente em nome de terceiros, cabendo ao arrematante a obrigação de promover, após a arrematação, a devida atualização cadastral e a transferência da titularidade para o seu nome junto ao órgão municipal competente, arcando integralmente com todas as providências, custos e eventuais despesas necessárias à regularização. Os valores de IPTU eventualmente devidos serão tratados conforme o disposto no item 16.7 deste Edital.",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "5109",
-      "registry_office": "Serventia Extrajudicial do Ofício Único de São Pedro do Piauí - PI",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27954",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12224_1.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12224_2.jpeg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12224_3.jpg"
-      ],
-      "latitude": -5.9256173,
-      "longitude": -42.7200274,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "12225",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12225",
-      "external_reference": "97401",
-      "city": "São Pedro do Piauí",
-      "state": "PI",
-      "address": "Rua Projetada, nº 336, Bairro Cidade Nova",
-      "asking_price": null,
-      "price_display": "Aceita BB?",
-      "sale_modality_hint": "aceita_bb",
-      "auction_date_raw": "13/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": null,
-      "second_auction_minimum_bid": null,
-      "description": "ID97401 SÃO PEDRO DO PIAUÍ (PI) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Projetada, nº 336, Bairro Cidade Nova, Município de São Pedro do Piauí - PI. Melhor descrito na matrícula 5171 da Serventia Extrajudicial do Ofício Único de São Pedro do Piauí - PI. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente; b) A titularidade do IPTU encontra-se atualmente em nome de terceiros, cabendo ao arrematante a obrigação de promover, após a arrematação, a devida atualização cadastral e a transferência da titularidade para o seu nome junto ao órgão municipal competente, arcando integralmente com todas as providências, custos e eventuais despesas necessárias à regularização. Os valores de IPTU eventualmente devidos serão tratados conforme o disposto no item 16.7 deste Edital.",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "5171",
-      "registry_office": "Serventia Extrajudicial do Ofício Único de São Pedro do Piauí - PI",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27955",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12225_1.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12225_2.jpeg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12225_3.jpg"
-      ],
-      "latitude": -5.9256173,
-      "longitude": -42.7200274,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "12226",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12226",
-      "external_reference": "97448",
-      "city": "São Pedro do Piauí",
-      "state": "PI",
-      "address": "Rua Sem Nome, nº 1398, Bairro Alto da Cruz",
-      "asking_price": null,
-      "price_display": "Aceita BB?",
-      "sale_modality_hint": "aceita_bb",
-      "auction_date_raw": "13/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": null,
-      "second_auction_minimum_bid": null,
-      "description": "ID97448 SÃO PEDRO DO PIAUÍ (PI) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Sem Nome, nº 1398, Bairro Alto da Cruz, Município de São Pedro do Piauí - PI. Melhor descrito na matrícula 4875 da Serventia Extrajudicial do Ofício Único de São Pedro do Piauí - PI. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente; b) A titularidade do IPTU encontra-se atualmente em nome de terceiros, cabendo ao arrematante a obrigação de promover, após a arrematação, a devida atualização cadastral e a transferência da titularidade para o seu nome junto ao órgão municipal competente, arcando integralmente com todas as providências, custos e eventuais despesas necessárias à regularização. Os valores de IPTU eventualmente devidos serão tratados conforme o disposto no item 16.7 deste Edital.",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "4875",
-      "registry_office": "Serventia Extrajudicial do Ofício Único de São Pedro do Piauí - PI",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27956",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12226_1.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12226_2.jpeg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12226_3.jpg"
-      ],
-      "latitude": -5.927144,
-      "longitude": -42.720123,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "12304",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12304",
-      "external_reference": "103011",
-      "city": "União",
-      "state": "PI",
-      "address": "Rua Projetada 03, Bairro São Sebastião",
-      "asking_price": 57000.0,
-      "price_display": "R$ 57.000,00",
-      "sale_modality_hint": "proposta",
-      "auction_date_raw": null,
-      "first_auction_minimum_bid": null,
-      "second_auction_minimum_bid": null,
-      "description": "ID103011 UNIÃO (PI) Descrição legal: Imóvel Urbano: Terreno com edificação, situado na Rua Projetada 03, Bairro São Sebastião, Município de União-PI. Melhor descrito na matrícula nº 10831 da 1ª Serventia Extrajudicial de Registro de Imóveis de União-PI a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "10831",
-      "registry_office": "1ª Serventia Extrajudicial de Registro de Imóveis de União-PI",
-      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/15118",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12304_1.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12304_2.jpg"
-      ],
-      "latitude": null,
-      "longitude": null,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "2317",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/2317",
-      "external_reference": "99200",
-      "city": "José de Freitas",
-      "state": "PI",
-      "address": "Rua Firminópolis, 173, Bairro Deus me Deu, no município de José de Freitas/PI. Considerações Importantes: O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
-      "asking_price": 48404.2,
-      "price_display": "R$ 48.404,20",
-      "sale_modality_hint": "proposta",
-      "auction_date_raw": null,
-      "first_auction_minimum_bid": null,
-      "second_auction_minimum_bid": null,
-      "description": "ID99200 Casa Residencial, melhor descrito na Matrícula 8332 do Cartório de Registro de José de Freitas - PI. Status da Ocupação: Ocupado. Localização: Rua Firminópolis, 173, Bairro Deus me Deu, no município de José de Freitas/PI. Considerações Importantes: O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "8332",
-      "registry_office": "Cartório de Registro de José de Freitas - PI",
-      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/382",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/2317_1.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/2317_2.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/2317_3.jpg"
-      ],
-      "latitude": -4.765004,
-      "longitude": -42.5549698,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "7023",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/7023",
-      "external_reference": "99144",
-      "city": "José de Freitas",
-      "state": "PI",
-      "address": "Rua Alegria 282, Cidade Nova, José de Freitas-PI. Considerações Importantes: O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
-      "asking_price": 22380.0,
-      "price_display": "R$ 22.380,00",
-      "sale_modality_hint": "proposta",
-      "auction_date_raw": null,
-      "first_auction_minimum_bid": null,
-      "second_auction_minimum_bid": null,
-      "description": "ID99144 Uma Casa Residencial, melhor descrito na matrícula 9864 do CRI de José de Freitas -PI. Status da Ocupação: Ocupado. Localização: Rua Alegria 282, Cidade Nova, José de Freitas-PI. Considerações Importantes: O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "9864",
-      "registry_office": "CRI de José de Freitas -PI",
-      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/381",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/7023_1.jpg"
-      ],
-      "latitude": -4.7582639,
-      "longitude": -42.5764651,
       "documents": {
         "edital_url": null,
         "matricula_url": null

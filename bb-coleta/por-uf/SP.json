@@ -2,212 +2,35 @@
   "imoveis": [
     {
       "source_type": "bb",
-      "source_external_id": "10020",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/10020",
-      "external_reference": "100596",
-      "city": "Ribeirão Preto",
+      "source_external_id": "3762",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/3762",
+      "external_reference": "98899",
+      "city": "Júlio Mesquita",
       "state": "SP",
-      "address": "Avenida Professora Edul Rangel,1650, Ap 305, Bl5 Vg121 - Res Jequetiba",
-      "asking_price": 94150.0,
-      "price_display": "R$ 94.150,00",
+      "address": "Rua João Becão, nº 6, Lote 09A, Quadra 40, Centro",
+      "asking_price": 54900.0,
+      "price_display": "R$ 54.900,00",
       "sale_modality_hint": "proposta",
       "auction_date_raw": null,
       "first_auction_minimum_bid": null,
       "second_auction_minimum_bid": null,
-      "description": "ID100596 RIBEIRÃO PRETO(SP) Descrição legal: Imóvel Urbano Residencial, Apartamento 305, com vaga de garagem situada na Avenida Professora Edul Rangel,1650, Ap 305, Bl5 Vg121 - Res Jequetiba, Município de RIBEIRÃO PRETO - SP. Melhor descrito na matrícula 166525 do 2º Oficial de Registro de Imóveis de Ribeirão Preto-SP. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente. b) A titularidade do condomínio está em nome de terceiros e as providências e eventuais despesas para regularização do imóvel correrão por conta do adquirente. c) A titularidade do IPTU está em nome de terceiros e as providências e eventuais despesas para regularização do imóvel correrão por conta do adquirente.",
+      "description": "ID98899 JÚLIO MESQUITA (SP) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua João Becão, nº 6, Lote 09A, Quadra 40, Centro, município de Júlio Mesquita - SP. Melhor descrito na matrícula 11684 do Oficial de Registro de Imóveis de Cafelândia - SP. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente, conforme item 16.8 deste Edital; b) A titularidade do IPTU está em nome de terceiros; eventuais procedimentos e despesas para a regularização da pendência ficarão por conta do adquirente.",
       "observations": [
         "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
         "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
       ],
       "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "166525",
-      "registry_office": "2º Oficial de Registro de Imóveis de Ribeirão Preto-SP",
-      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/14680",
+      "registry_number": "11684",
+      "registry_office": "Oficial de Registro de Imóveis de Cafelândia - SP",
+      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=21795",
       "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/10020_1.jpg"
+        "https://www.seuimovelbb.com.br/imagem/imovel/3762_1.jfif",
+        "https://www.seuimovelbb.com.br/imagem/imovel/3762_2.jfif",
+        "https://www.seuimovelbb.com.br/imagem/imovel/3762_3.jfif",
+        "https://www.seuimovelbb.com.br/imagem/imovel/3762_4.jfif"
       ],
       "latitude": null,
       "longitude": null,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "10611",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/10611",
-      "external_reference": "92461",
-      "city": "Limeira",
-      "state": "SP",
-      "address": "Rua Limeira, nº 1065, Loteamento Jardim Hortência",
-      "asking_price": 1083700.0,
-      "price_display": "R$ 1.083.700,00",
-      "sale_modality_hint": "proposta",
-      "auction_date_raw": null,
-      "first_auction_minimum_bid": null,
-      "second_auction_minimum_bid": null,
-      "description": "ID92461 LIMEIRA (SP)Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Limeira, nº 1065, Loteamento Jardim Hortência, Município de Limeira - SP. Melhor descrito na matrícula 7554 do 1º Oficial de Registro de Imóveis e Anexos da Comarca de Limeira - SP. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "7554",
-      "registry_office": "1º Oficial de Registro de Imóveis e Anexos da Comarca de Limeira - SP",
-      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/14615",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/10611_1.jpeg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/10611_2.jpeg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/10611_3.jpeg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/10611_4.jpeg"
-      ],
-      "latitude": null,
-      "longitude": null,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "10830",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/10830",
-      "external_reference": "74415",
-      "city": "Limeira",
-      "state": "SP",
-      "address": null,
-      "asking_price": 2950000.0,
-      "price_display": "R$ 2.950.000,00",
-      "sale_modality_hint": "proposta",
-      "auction_date_raw": null,
-      "first_auction_minimum_bid": null,
-      "second_auction_minimum_bid": null,
-      "description": "ID74415 LIMEIRA (SP) Descrição legal: Imóvel Urbano: Prédio Comercial localizado na Praça Doutor Luciano Esteves dos Santos, nº 9, Centro, no Município de Limeira - SP. Melhor descrito na matrícula 7.925 do 1º Oficial de Registro de Imóveis de Limeira - SP. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente, conforme item 16.8 deste Edital; b) O imóvel comercial foi invadido, resultando no furto de diversos itens, incluindo fios elétricos, torneiras e ar condicionado. A situação do imóvel compromete a integridade do espaço, exigindo reparos para restabelecer sua função. As custas serão por conta do adquirente que se declara informado do fato. c) Foram verificadas divergências entres as áreas dos terrenos e edificações registradas nas matrículas, nos dados cadastrados na Prefeitura Municipal, e as verificadas em loco, que exigem regularização oportuna e ficarão a cargo do comprado.",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "7.925",
-      "registry_office": "1º Oficial de Registro de Imóveis de Limeira - SP",
-      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=26377",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/10830_1.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/10830_2.jpg"
-      ],
-      "latitude": -23.484409,
-      "longitude": -46.655087,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "10831",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/10831",
-      "external_reference": "88863",
-      "city": "Ribeirão Preto",
-      "state": "SP",
-      "address": "Rua Buarque, 70, Campos Elísios, Ribeirão Preto (SP)",
-      "asking_price": 5797747.0,
-      "price_display": "R$ 5.797.747,00",
-      "sale_modality_hint": "proposta",
-      "auction_date_raw": null,
-      "first_auction_minimum_bid": null,
-      "second_auction_minimum_bid": null,
-      "description": "ID88863 RIBEIRÃO PRETO (SP) Descrição legal: Imóvel Urbano: Prédio Comercial situado na Rua Buarque, 70, Campos Elísios, Ribeirão Preto (SP). Melhor descrito na Matrícula 56.043 do 1° CRI de Ribeirão Preto (SP). a) São de responsabilidade do arrematante, todos os procedimentos e custas: a regularização de possíveis divergências de área na matrícula e nos dados cadastrais na Prefeitura. b) São de responsabilidade do arrematante, todos os procedimentos e custas: Todas as custas e emolumentos necessários para a confecção da Escritura e transferência no Registro de Imóveis. c) Caberá ao arrematante, às suas custas e após a compra, quaisquer providências por eventual necessidade de desembaraço e regularização documental do imóvel arrematado, como a regularização da área no registro de imóvel, no cadastro na Prefeitura e a encontrada no local, entre outros. d) O Banco do Brasil S/A terá um prazo de 90 dias para entregar e desocupar o imóvel. A desocupação total se dará no prazo de até 90 (noventa) dias após a data do Leilão, e o adquirente se declara informado do fato.",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": null,
-      "registry_number": "56.043",
-      "registry_office": "1° CRI de Ribeirão Preto (SP)",
-      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=26378",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/10831_1.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/10831_2.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/10831_3.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/10831_4.jpg"
-      ],
-      "latitude": -21.151588,
-      "longitude": -47.80396,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "11146",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11146",
-      "external_reference": "72699",
-      "city": "Bauru",
-      "state": "SP",
-      "address": null,
-      "asking_price": 13452060.34,
-      "price_display": "R$ 13.452.060,34",
-      "sale_modality_hint": "proposta",
-      "auction_date_raw": null,
-      "first_auction_minimum_bid": null,
-      "second_auction_minimum_bid": null,
-      "description": "ID72699 BAURU (SP) Descrição legal: Imóvel Urbano: Prédio Comercial localizado na Rua Antônio Cintra Junior, 3-11, Jardim Cruzeiro do Sul, Bauru (SP). Melhor descrito na matrícula 18685 do 2º CRI de Bauru (SP). a) Permanecerá no imóvel 83 (oitenta e três) Aparelhos de ar-condicionado e uma plataforma elevatória. Os equipamentos estão instalados no imóvel, ficando o arrematante responsável por lhe atribuir a destinação que considerar adequada as suas custas.",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": null,
-      "registry_number": "18685",
-      "registry_office": "2º CRI de Bauru (SP)",
-      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=27082",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/11146_1.jfif",
-        "https://www.seuimovelbb.com.br/imagem/imovel/11146_2.jfif",
-        "https://www.seuimovelbb.com.br/imagem/imovel/11146_3.jfif",
-        "https://www.seuimovelbb.com.br/imagem/imovel/11146_4.jfif"
-      ],
-      "latitude": -22.785152,
-      "longitude": -48.133392,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "11735",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11735",
-      "external_reference": "101487",
-      "city": "Tupã",
-      "state": "SP",
-      "address": "Rua Marília, nº 4059",
-      "asking_price": 100660.0,
-      "price_display": "R$ 100.660,00",
-      "sale_modality_hint": "proposta",
-      "auction_date_raw": null,
-      "first_auction_minimum_bid": null,
-      "second_auction_minimum_bid": null,
-      "description": "ID101487 TUPÃ (SP) Descrição legal: Imóvel Urbano Residencial, Apartamento nº 33, Bloco I, do Condomínio Residencial Parque dos Sabiás I, com uma vaga de garagem, situado na Rua Marília, nº 4059, Município de Tupã - SP. Melhor descrito na Matrícula 41891 do Oficial de Registro de Imóveis de Tupã - SP. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente; b) A titularidade do IPTU encontra-se atualmente em nome de terceiros, cabendo ao arrematante a obrigação de promover, após a arrematação, a devida atualização cadastral e a transferência da titularidade para o seu nome junto ao órgão municipal competente, arcando integralmente com todas as providências, custos e eventuais despesas necessárias à regularização. Os valores de IPTU eventualmente devidos serão tratados conforme o disposto no item 16.7 deste Edital; c) A titularidade do Condomínio encontra-se atualmente em nome de terceiros, cabendo ao arrematante a obrigação de promover, após a arrematação, a devida atualização cadastral e a transferência da titularidade para o seu nome junto ao condomínio, arcando integralmente com todas as providências, custos e eventuais despesas necessárias à regularização. Os valores de condomínio eventualmente devidos serão tratados conforme o disposto no item 16.7 deste Edital.",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "41891",
-      "registry_office": "Oficial de Registro de Imóveis de Tupã - SP",
-      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=27330",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/11735_1.png"
-      ],
-      "latitude": -21.936684,
-      "longitude": -50.489008,
       "documents": {
         "edital_url": null,
         "matricula_url": null
@@ -250,32 +73,66 @@
     },
     {
       "source_type": "bb",
-      "source_external_id": "12093",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12093",
-      "external_reference": null,
-      "city": "Araçatuba",
+      "source_external_id": "10020",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/10020",
+      "external_reference": "100596",
+      "city": "Ribeirão Preto",
       "state": "SP",
-      "address": "R. Antônio dos Santos Ribeiro, 300, AP. 404, BL 02, Cond. Pq. Almare, Conj. Hab. Dr. Antônio Villela Silva, Araçatuba-SP, CEP 16057-560",
-      "asking_price": 136878.44,
-      "price_display": "R$ 136.878,44",
-      "sale_modality_hint": null,
-      "auction_date_raw": "23/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": 136878.44,
-      "second_auction_minimum_bid": 129431.54,
-      "description": "Nº DO BEM: 531454176 ARAÇATUBA (SP) Descrição: IMÓVEL DE MATRÍCULA 116130 DO OFICIAL DE REGISTRO DE IMÓVEIS DE ARAÇATUBA-SP, ASSIM DESCRITO: Apartamento nº 404, com área real privativa coberta de 44,01m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 4210007002605450240 Localização: R. Antônio dos Santos Ribeiro, 300, AP. 404, BL 02, Cond. Pq. Almare, Conj. Hab. Dr. Antônio Villela Silva, Araçatuba-SP, CEP 16057-560 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 136.878,44 (cento e trinta e seis mil oitocentos e setenta e oito reais e quarenta e quatro centavos) Lance mínimo para arrematação em 2º leilão: R$ 129.431,54 (cento e vinte e nove mil, quatrocentos e trinta e um reais e cinquenta e quatro centavos)",
+      "address": "Avenida Professora Edul Rangel,1650, Ap 305, Bl5 Vg121 - Res Jequetiba",
+      "asking_price": 94150.0,
+      "price_display": "R$ 94.150,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID100596 RIBEIRÃO PRETO(SP) Descrição legal: Imóvel Urbano Residencial, Apartamento 305, com vaga de garagem situada na Avenida Professora Edul Rangel,1650, Ap 305, Bl5 Vg121 - Res Jequetiba, Município de RIBEIRÃO PRETO - SP. Melhor descrito na matrícula 166525 do 2º Oficial de Registro de Imóveis de Ribeirão Preto-SP. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente. b) A titularidade do condomínio está em nome de terceiros e as providências e eventuais despesas para regularização do imóvel correrão por conta do adquirente. c) A titularidade do IPTU está em nome de terceiros e as providências e eventuais despesas para regularização do imóvel correrão por conta do adquirente.",
       "observations": [
         "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
         "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
       ],
       "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "116130",
-      "registry_office": "OFICIAL DE REGISTRO DE IMÓVEIS DE ARAÇATUBA-SP",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27847",
+      "registry_number": "166525",
+      "registry_office": "2º Oficial de Registro de Imóveis de Ribeirão Preto-SP",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/14680",
       "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12093_1.jpg"
+        "https://www.seuimovelbb.com.br/imagem/imovel/10020_1.jpg"
       ],
-      "latitude": -21.173943,
-      "longitude": -50.449988,
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11735",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11735",
+      "external_reference": "101487",
+      "city": "Tupã",
+      "state": "SP",
+      "address": "Rua Marília, nº 4059",
+      "asking_price": 100660.0,
+      "price_display": "R$ 100.660,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID101487 TUPÃ (SP) Descrição legal: Imóvel Urbano Residencial, Apartamento nº 33, Bloco I, do Condomínio Residencial Parque dos Sabiás I, com uma vaga de garagem, situado na Rua Marília, nº 4059, Município de Tupã - SP. Melhor descrito na Matrícula 41891 do Oficial de Registro de Imóveis de Tupã - SP. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente; b) A titularidade do IPTU encontra-se atualmente em nome de terceiros, cabendo ao arrematante a obrigação de promover, após a arrematação, a devida atualização cadastral e a transferência da titularidade para o seu nome junto ao órgão municipal competente, arcando integralmente com todas as providências, custos e eventuais despesas necessárias à regularização. Os valores de IPTU eventualmente devidos serão tratados conforme o disposto no item 16.7 deste Edital; c) A titularidade do Condomínio encontra-se atualmente em nome de terceiros, cabendo ao arrematante a obrigação de promover, após a arrematação, a devida atualização cadastral e a transferência da titularidade para o seu nome junto ao condomínio, arcando integralmente com todas as providências, custos e eventuais despesas necessárias à regularização. Os valores de condomínio eventualmente devidos serão tratados conforme o disposto no item 16.7 deste Edital.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "41891",
+      "registry_office": "Oficial de Registro de Imóveis de Tupã - SP",
+      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=27330",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11735_1.png"
+      ],
+      "latitude": -21.936684,
+      "longitude": -50.489008,
       "documents": {
         "edital_url": null,
         "matricula_url": null
@@ -318,142 +175,6 @@
     },
     {
       "source_type": "bb",
-      "source_external_id": "12095",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12095",
-      "external_reference": null,
-      "city": "Araraquara",
-      "state": "SP",
-      "address": "Av. Dr. Miguel Couto, 493, AP. 303, BL 09, Cond. Pq. Amarige, Jd. Primor, Araraquara-SP, CEP 14806-090",
-      "asking_price": 128752.89,
-      "price_display": "R$ 128.752,89",
-      "sale_modality_hint": null,
-      "auction_date_raw": "23/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": 128752.89,
-      "second_auction_minimum_bid": 118028.54,
-      "description": "Nº DO BEM: 518891407 ARARAQUARA (SP) Descrição: IMÓVEL DE MATRÍCULA 124618 DO 1º OFICIAL DE REGISTRO DE IMÓVEIS DE ARARAQUARA-SP, ASSIM DESCRITO: Apartamento nº 303, com área real privativa coberta de 44,76m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 1914836600 Localização: Av. Dr. Miguel Couto, 493, AP. 303, BL 09, Cond. Pq. Amarige, Jd. Primor, Araraquara-SP, CEP 14806-090 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Obs.3: Consta PENHORA conforme Av. 6 da matrícula, referente ao processo nº 1004903-76.2025.8.26.0037. Nos termos do § 11 do artigo 27 da Lei nº 9.514/97, os direitos reais de garantia ou constrições, tais como penhoras, arrestos, bloqueios e indisponibilidades de qualquer natureza incidentes sobre o direito real de aquisição do fiduciante, não impedem a consolidação da propriedade em nome do credor fiduciário nem a venda do imóvel para realização da garantia. Lance mínimo para arrematação em 1º leilão: R$ 128.752,89 (cento e vinte e oito mil setecentos e cinquenta e dois reais e oitenta e nove centavos) Lance mínimo para arrematação em 2º leilão: R$ 118.028,54 (cento e dezoito mil e vinte e oito reais e cinquenta e quatro centavos)",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "124618",
-      "registry_office": "1º OFICIAL DE REGISTRO DE IMÓVEIS DE ARARAQUARA-SP",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27849",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12095_1.jpg"
-      ],
-      "latitude": -21.761929,
-      "longitude": -48.156067,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "12096",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12096",
-      "external_reference": null,
-      "city": "Bauru",
-      "state": "SP",
-      "address": "R. Hermenegildo Quagliato, 7-70, AP. 105, BL 05, Cond. Spazio Belluno, Pq. União, Bauru-SP. CEP 17063-256",
-      "asking_price": 188753.25,
-      "price_display": "R$ 188.753,25",
-      "sale_modality_hint": null,
-      "auction_date_raw": "23/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": 188753.25,
-      "second_auction_minimum_bid": 314016.74,
-      "description": "Nº DO BEM: 513551346 BAURU (SP) Descrição: IMÓVEL DE MATRÍCULA 109799 DO 2º OFICIAL DE REGISTRO DE IMÓVEIS DE BAURU-SP, ASSIM DESCRITO: Apartamento nº 105, com área real privativa coberta de 47,34m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 40640257 Localização: R. Hermenegildo Quagliato, 7-70, AP. 105, BL 05, Cond. Spazio Belluno, Pq. União, Bauru-SP. CEP 17063-256 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Obs.3: Consta PENHORA conforme Av. 5 da matrícula, referente ao processo nº 10071506920188260071. Nos termos do § 11 do artigo 27 da Lei nº 9.514/97, os direitos reais de garantia ou constrições, tais como penhoras, arrestos, bloqueios e indisponibilidades de qualquer natureza incidentes sobre o direito real de aquisição do fiduciante, não impedem a consolidação da propriedade em nome do credor fiduciário nem a venda do imóvel para realização da garantia. Lance mínimo para arrematação em 1º leilão: R$ 188.753,25 (cento e oitenta e oito mil setecentos e cinquenta e três reais e vinte e cinco centavos) Lance mínimo para arrematação em 2º leilão: R$ 314.016,74 (trezentos e quatorze mil e dezesseis reais e setenta e quatro centavos)",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "109799",
-      "registry_office": "2º OFICIAL DE REGISTRO DE IMÓVEIS DE BAURU-SP",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27850",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12096_1.jpg"
-      ],
-      "latitude": -22.306678,
-      "longitude": -49.084314,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "12097",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12097",
-      "external_reference": null,
-      "city": "Bauru",
-      "state": "SP",
-      "address": "R. Jorge Schneyder Filho, 11-05, AP. 202, BL 09, Cond. Pq. Bogotá, Pq. Bauru, Bauru-SP, CEP 17031-659",
-      "asking_price": 164274.06,
-      "price_display": "R$ 164.274,06",
-      "sale_modality_hint": null,
-      "auction_date_raw": "23/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": 164274.06,
-      "second_auction_minimum_bid": 102206.2,
-      "description": "Nº DO BEM: 518381030 BAURU (SP) Descrição: IMÓVEL DE MATRÍCULA 118045 DO 2º OFICIAL DE REGISTRO DE IMÓVEIS DE BAURU-SP, ASSIM DESCRITO: Apartamento nº 202, com área real privativa coberta de 46,63m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 30513337 Localização: R. Jorge Schneyder Filho, 11-05, AP. 202, BL 09, Cond. Pq. Bogotá, Pq. Bauru, Bauru-SP, CEP 17031-659 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 164.274,06 (cento e sessenta e quatro mil duzentos e setenta e quatro reais e seis centavos) Lance mínimo para arrematação em 2º leilão: R$ 102.206,20 (cento e dois mil, duzentos e seis reais e vinte centavos)",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "118045",
-      "registry_office": "2º OFICIAL DE REGISTRO DE IMÓVEIS DE BAURU-SP",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27851",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12097_1.jpg"
-      ],
-      "latitude": -22.324471,
-      "longitude": -49.017203,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "12098",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12098",
-      "external_reference": null,
-      "city": "Campinas",
-      "state": "SP",
-      "address": "R. Castel Nuovo, 74, AP. 01, BL V, Cond. Raul Renato, Jd. García, Campinas-SP, CEP 13061-085",
-      "asking_price": 267947.24,
-      "price_display": "R$ 267.947,24",
-      "sale_modality_hint": null,
-      "auction_date_raw": "23/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": 267947.24,
-      "second_auction_minimum_bid": 186345.13,
-      "description": "Nº DO BEM: 532799930 CAMPINAS (SP) Descrição: IMÓVEL DE MATRÍCULA 6746 DO 3º CARTÓRIO DE REGISTRO DE IMÓVEIS DE CAMPINAS-SP, ASSIM DESCRITO: Apartamento nº 01, com área útil de 52,606892m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 3413.54.94.0001.06005 Localização: R. Castel Nuovo, 74, AP. 01, BL V, Cond. Raul Renato, Jd. García, Campinas-SP, CEP 13061-085 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Obs.3: Consta INDISPONIBILIDADE conforme Av. 15 da matrícula, referente ao processo nº 00109083620225150024; e INDISPONIBILIDADE, conforme Av. 16 da matrícula, referente ao processo nº 10019361720225020608; e INDISPONIBILIDADE, conforme Av. 17 da matrícula, referente ao processo nº 00110458520235150055. Nos termos do § 11 do artigo 27 da Lei nº 9.514/97, os direitos reais de garantia ou constrições, tais como penhoras, arrestos, bloqueios e indisponibilidades de qualquer natureza incidentes sobre o direito real de aquisição do fiduciante, não impedem a consolidação da propriedade em nome do credor fiduciário nem a venda do imóvel para realização da garantia. Lance mínimo para arrematação em 1º leilão: R$ 267.947,24 (duzentos e sessenta e sete mil novecentos e quarenta e sete reais e vinte e quatro centavos) Lance mínimo para arrematação em 2º leilão: R$ 186.345,13 (cento e oitenta e seis mil, trezentos e quarenta e cinco reais e treze centavos)",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "6746",
-      "registry_office": "3º CARTÓRIO DE REGISTRO DE IMÓVEIS DE CAMPINAS-SP",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27852",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12098_1.jpg"
-      ],
-      "latitude": -22.915589,
-      "longitude": -47.104362,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
       "source_external_id": "12099",
       "source_url": "https://www.seuimovelbb.com.br/imovel/id/12099",
       "external_reference": null,
@@ -488,236 +209,32 @@
     },
     {
       "source_type": "bb",
-      "source_external_id": "12100",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12100",
+      "source_external_id": "12095",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12095",
       "external_reference": null,
-      "city": "Guarujá",
+      "city": "Araraquara",
       "state": "SP",
-      "address": "R. Alberto Quatrini Bianchi, 677, AP. 41, Ed. Golden Coral, Enseada, Guarujá-SP, CEP 11440-460",
-      "asking_price": 713265.0,
-      "price_display": "R$ 713.265,00",
+      "address": "Av. Dr. Miguel Couto, 493, AP. 303, BL 09, Cond. Pq. Amarige, Jd. Primor, Araraquara-SP, CEP 14806-090",
+      "asking_price": 128752.89,
+      "price_display": "R$ 128.752,89",
       "sale_modality_hint": null,
       "auction_date_raw": "23/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": 713265.0,
-      "second_auction_minimum_bid": 568573.26,
-      "description": "Nº DO BEM: 536445458 GUARUJÁ (SP) Descrição: IMÓVEL DE MATRÍCULA 108295 DO CARTÓRIO DE REGISTRO DE IMÓVEIS DE GUARUJÁ-SP, ASSIM DESCRITO: Apartamento nº 41, com área útil de 103,02m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 30137001005 Localização: R. Alberto Quatrini Bianchi, 677, AP. 41, Ed. Golden Coral, Enseada, Guarujá-SP, CEP 11440-460 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Obs.3: Consta PENHORA conforme Av. 6 da matrícula, referente ao processo nº 0004684-85-2024-8-26-0564; e PENHORA, conforme Av. 7 da matrícula, referente ao processo nº 0009393-66-2024-8-26-0564. Nos termos do § 11 do artigo 27 da Lei nº 9.514/97, os direitos reais de garantia ou constrições, tais como penhoras, arrestos, bloqueios e indisponibilidades de qualquer natureza incidentes sobre o direito real de aquisição do fiduciante, não impedem a consolidação da propriedade em nome do credor fiduciário nem a venda do imóvel para realização da garantia. Lance mínimo para arrematação em 1º leilão: R$ 713.265,00 (setecentos e treze mil duzentos e sessenta e cinco reais) Lance mínimo para arrematação em 2º leilão: R$ 568.573,26 (quinhentos e sessenta e oito mil, quinhentos e setenta e três reais e vinte e seis centavos)",
+      "first_auction_minimum_bid": 128752.89,
+      "second_auction_minimum_bid": 118028.54,
+      "description": "Nº DO BEM: 518891407 ARARAQUARA (SP) Descrição: IMÓVEL DE MATRÍCULA 124618 DO 1º OFICIAL DE REGISTRO DE IMÓVEIS DE ARARAQUARA-SP, ASSIM DESCRITO: Apartamento nº 303, com área real privativa coberta de 44,76m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 1914836600 Localização: Av. Dr. Miguel Couto, 493, AP. 303, BL 09, Cond. Pq. Amarige, Jd. Primor, Araraquara-SP, CEP 14806-090 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Obs.3: Consta PENHORA conforme Av. 6 da matrícula, referente ao processo nº 1004903-76.2025.8.26.0037. Nos termos do § 11 do artigo 27 da Lei nº 9.514/97, os direitos reais de garantia ou constrições, tais como penhoras, arrestos, bloqueios e indisponibilidades de qualquer natureza incidentes sobre o direito real de aquisição do fiduciante, não impedem a consolidação da propriedade em nome do credor fiduciário nem a venda do imóvel para realização da garantia. Lance mínimo para arrematação em 1º leilão: R$ 128.752,89 (cento e vinte e oito mil setecentos e cinquenta e dois reais e oitenta e nove centavos) Lance mínimo para arrematação em 2º leilão: R$ 118.028,54 (cento e dezoito mil e vinte e oito reais e cinquenta e quatro centavos)",
       "observations": [
         "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
         "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
       ],
       "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "108295",
-      "registry_office": "CARTÓRIO DE REGISTRO DE IMÓVEIS DE GUARUJÁ-SP",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27854",
+      "registry_number": "124618",
+      "registry_office": "1º OFICIAL DE REGISTRO DE IMÓVEIS DE ARARAQUARA-SP",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27849",
       "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12100_1.jpg"
+        "https://www.seuimovelbb.com.br/imagem/imovel/12095_1.jpg"
       ],
-      "latitude": -23.983763,
-      "longitude": -46.234665,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "12101",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12101",
-      "external_reference": null,
-      "city": "Hortolândia",
-      "state": "SP",
-      "address": "R. Antônio Fernandes Leite, 1520, AP. 11, BL A, Cond. Res. Portal do Bosque, Núcleo Santa Isabel, Hortolândia-SP, CEP 13185-373",
-      "asking_price": 195693.39,
-      "price_display": "R$ 195.693,39",
-      "sale_modality_hint": null,
-      "auction_date_raw": "23/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": 195693.39,
-      "second_auction_minimum_bid": 202197.82,
-      "description": "Nº DO BEM: 528610722 SUMARÉ (SP) Descrição: IMÓVEL DE MATRÍCULA 163982 DO REGISTRO DE IMÓVEIS DE SUMARÉ-SP, ASSIM DESCRITO: Apartamento nº 11, com área privativa de 51,14m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 03.29.022.0050.001 Localização: R. Antônio Fernandes Leite, 1520, AP. 11, BL A, Cond. Res. Portal do Bosque, Núcleo Santa Isabel, Hortolândia-SP, CEP 13185-373 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 195.693,39 (cento e noventa e cinco mil seiscentos e noventa e três reais e trinta e nove centavos) Lance mínimo para arrematação em 2º leilão: R$ 202.197,82 (duzentos e dois mil, cento e noventa e sete reais e oitenta e dois centavos)",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "163982",
-      "registry_office": "REGISTRO DE IMÓVEIS DE SUMARÉ-SP",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27855",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12101_1.jpg"
-      ],
-      "latitude": -22.906205,
-      "longitude": -47.172768,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "12102",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12102",
-      "external_reference": null,
-      "city": "Orindiúva",
-      "state": "SP",
-      "address": "R. Alcides Alves Ferreira, 457, Centro, Orindiúva-SP, CEP 15480-021",
-      "asking_price": 863870.38,
-      "price_display": "R$ 863.870,38",
-      "sale_modality_hint": null,
-      "auction_date_raw": "23/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": 863870.38,
-      "second_auction_minimum_bid": 264145.85,
-      "description": "Nº DO BEM: 536829606 PAULO DE FARIA (SP) Descrição: IMÓVEL DE MATRÍCULA 2430 DO OFICIAL DE REGISTRO DE IMÓVEIS DE PAULO DE FARIA-SP, ASSIM DESCRITO: Casa, com área construída de 113,70m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 0613/00 Localização: R. Alcides Alves Ferreira, 457, Centro, Orindiúva-SP, CEP 15480-021 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Obs.3: Consta AÇÃO JUDICIAL conforme Av. 17 da matrícula, referente ao processo nº 1001045-22.2025.8.26.0430. Nos termos do § 11 do artigo 27 da Lei nº 9.514/97, os direitos reais de garantia ou constrições, tais como penhoras, arrestos, bloqueios e indisponibilidades de qualquer natureza incidentes sobre o direito real de aquisição do fiduciante, não impedem a consolidação da propriedade em nome do credor fiduciário nem a venda do imóvel para realização da garantia. Lance mínimo para arrematação em 1º leilão: R$ 863.870,38 (oitocentos e sessenta e três mil oitocentos e setenta reais e trinta e oito centavos) Lance mínimo para arrematação em 2º leilão: R$ 264.145,85 (duzentos e sessenta e quatro mil, cento e quarenta e cinco reais e oitenta e cinco centavos)",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "2430",
-      "registry_office": "OFICIAL DE REGISTRO DE IMÓVEIS DE PAULO DE FARIA-SP",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27856",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12102_1.jpg"
-      ],
-      "latitude": -20.183226,
-      "longitude": -49.351318,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "12103",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12103",
-      "external_reference": null,
-      "city": "Piracicaba",
-      "state": "SP",
-      "address": "Av. das Ondas, 4699, AP. 402, BL 10, Cond. Pq. Pérola do Oriente, Ondas, Piracicaba-SP, CEP 13403-799",
-      "asking_price": 260883.36,
-      "price_display": "R$ 260.883,36",
-      "sale_modality_hint": null,
-      "auction_date_raw": "23/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": 260883.36,
-      "second_auction_minimum_bid": 284442.23,
-      "description": "Nº DO BEM: 520407533 PIRACICABA (SP) Descrição: IMÓVEL DE MATRÍCULA 112821 DO PRIMEIRO OFICIAL DE REGISTRO DE IMÓVEIS E CIVIL DE PESSOA JURÍDICA DE PIRACICABA-SP, ASSIM DESCRITO: Apartamento nº 402, com área privativa total de 46,59m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 129015010690158 Localização: Av. das Ondas, 4699, AP. 402, BL 10, Cond. Pq. Pérola do Oriente, Ondas, Piracicaba-SP, CEP 13403-799 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 260.883,36 (duzentos e sessenta mil oitocentos e oitenta e três reais e trinta e seis centavos) Lance mínimo para arrematação em 2º leilão: R$ 284.442,23 (duzentos e oitenta e quatro mil, quatrocentos e quarenta e dois reais e vinte e três centavos)",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "112821",
-      "registry_office": "PRIMEIRO OFICIAL DE REGISTRO DE IMÓVEIS E CIVIL DE PESSOA JURÍDICA DE PIRACICABA-SP",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27857",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12103_1.jpg"
-      ],
-      "latitude": -22.697714,
-      "longitude": -47.676879,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "12104",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12104",
-      "external_reference": null,
-      "city": "Poá",
-      "state": "SP",
-      "address": "R. União, 605, AP. 23, BL 2, Conj. Res. União, Jd. América, Poá-SP, CEP 08555-680",
-      "asking_price": 227925.21,
-      "price_display": "R$ 227.925,21",
-      "sale_modality_hint": null,
-      "auction_date_raw": "23/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": 227925.21,
-      "second_auction_minimum_bid": 104868.66,
-      "description": "Nº DO BEM: 539305594 POÁ (SP) Descrição: IMÓVEL DE MATRÍCULA 67432 DO OFICIAL DE REGISTRO DE IMÓVEIS DE POÁ-SP, ASSIM DESCRITO: Apartamento nº 23, com área real privativa de 42,595m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 432116178098302007 Localização: R. União, 605, AP. 23, BL 2, Conj. Res. União, Jd. América, Poá-SP, CEP 08555-680 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 227.925,21 (duzentos e vinte e sete mil novecentos e vinte e cinco reais e vinte e um centavos) Lance mínimo para arrematação em 2º leilão: R$ 104.868,66 (cento e quatro mil, oitocentos e sessenta e oito reais e sessenta e seis centavos)",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "67432",
-      "registry_office": "OFICIAL DE REGISTRO DE IMÓVEIS DE POÁ-SP",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27858",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12104_1.jpg"
-      ],
-      "latitude": -23.510937,
-      "longitude": -46.351035,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "12105",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12105",
-      "external_reference": null,
-      "city": "Praia Grande",
-      "state": "SP",
-      "address": "R. Balneário Camboriú, 100, AP. 81, Res. Camboriú, Aviação, Praia Grande-SP, CEP 11702-740",
-      "asking_price": 528283.73,
-      "price_display": "R$ 528.283,73",
-      "sale_modality_hint": null,
-      "auction_date_raw": "23/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": 528283.73,
-      "second_auction_minimum_bid": 258463.98,
-      "description": "Nº DO BEM: 539736350 POÁ (SP) Descrição: IMÓVEL DE MATRÍCULA 142018 DO REGISTRO DE IMÓVEIS DE PRAIA GRANDE-SP, ASSIM DESCRITO: Apartamento nº 81, com área útil de 81,3561m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 203040030020081-3 Localização: R. Balneário Camboriú, 100, AP. 81, Res. Camboriú, Aviação, Praia Grande-SP, CEP 11702-740 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 528.283,73 (quinhentos e vinte e oito mil duzentos e oitenta e três reais e setenta e três centavos) Lance mínimo para arrematação em 2º leilão: R$ 258.463,98 (duzentos e cinquenta e oito mil, quatrocentos e sessenta e três reais e noventa e oito centavos)",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "142018",
-      "registry_office": "REGISTRO DE IMÓVEIS DE PRAIA GRANDE-SP",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27859",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12105_1.jpg"
-      ],
-      "latitude": -24.019896,
-      "longitude": -46.449375,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "12106",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12106",
-      "external_reference": null,
-      "city": "Ribeirão Preto",
-      "state": "SP",
-      "address": "R. Guiana Inglesa, 153, Vila Mariana, Ribeirão Preto-SP. CEP 14075-210",
-      "asking_price": 195693.39,
-      "price_display": "R$ 195.693,39",
-      "sale_modality_hint": null,
-      "auction_date_raw": "23/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": 195693.39,
-      "second_auction_minimum_bid": 158342.98,
-      "description": "Nº DO BEM: 530453077 RIBEIRÃO PRETO (SP) Descrição: IMÓVEL DE MATRÍCULA 62963 DO 1º OFICIAL DE REGISTRO DE IMÓVEIS DE RIBEIRÃO PRETO-SP, ASSIM DESCRITO: Prédio residencial, e respectivo terreno com área total de 110,50m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 82403 Localização: R. Guiana Inglesa, 153, Vila Mariana, Ribeirão Preto-SP. CEP 14075-210 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 195.693,39 (cento e noventa e cinco mil seiscentos e noventa e três reais e trinta e nove centavos) Lance mínimo para arrematação em 2º leilão: R$ 158.342,98 (cento e cinquenta e oito mil, trezentos e quarenta e dois reais e noventa e oito centavos)",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "62963",
-      "registry_office": "1º OFICIAL DE REGISTRO DE IMÓVEIS DE RIBEIRÃO PRETO-SP",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27860",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12106_1.jpg"
-      ],
-      "latitude": -21.150785,
-      "longitude": -47.792313,
+      "latitude": -21.761929,
+      "longitude": -48.156067,
       "documents": {
         "edital_url": null,
         "matricula_url": null
@@ -760,143 +277,32 @@
     },
     {
       "source_type": "bb",
-      "source_external_id": "12108",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12108",
+      "source_external_id": "12093",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12093",
       "external_reference": null,
-      "city": "Santa Cruz do Rio Pardo",
+      "city": "Araçatuba",
       "state": "SP",
-      "address": "R. Benedita Oliveira Melo, 504, Bosque Lorenzetti II, Santa Cruz do Rio Pardo-SP, CEP 18910-282",
-      "asking_price": 436082.72,
-      "price_display": "R$ 436.082,72",
+      "address": "R. Antônio dos Santos Ribeiro, 300, AP. 404, BL 02, Cond. Pq. Almare, Conj. Hab. Dr. Antônio Villela Silva, Araçatuba-SP, CEP 16057-560",
+      "asking_price": 136878.44,
+      "price_display": "R$ 136.878,44",
       "sale_modality_hint": null,
       "auction_date_raw": "23/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": 436082.72,
-      "second_auction_minimum_bid": 273770.34,
-      "description": "Nº DO BEM: 541416620 SANTA CRUZ DO RIO PARDO (SP) Descrição: IMÓVEL DE MATRÍCULA 42950 DO OFICIAL DE REGISTRO DE IMÓVEIS E ANEXOS DE SANTA CRUZ DO RIO PARDO-SP, ASSIM DESCRITO: Residência, com área de 61,30m² e respectivo terreno com área total de 141,26m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 0-02-04-08-0027-0015-00-00-0 Localização: R. Benedita Oliveira Melo, 504, Bosque Lorenzetti II, Santa Cruz do Rio Pardo-SP, CEP 18910-282 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 436.082,72 (quatrocentos e trinta e seis mil e oitenta e dois reais e setenta e dois centavos) Lance mínimo para arrematação em 2º leilão: R$ 273.770,34 (duzentos e setenta e três mil, setecentos e setenta reais e trinta e quatro centavos)",
+      "first_auction_minimum_bid": 136878.44,
+      "second_auction_minimum_bid": 129431.54,
+      "description": "Nº DO BEM: 531454176 ARAÇATUBA (SP) Descrição: IMÓVEL DE MATRÍCULA 116130 DO OFICIAL DE REGISTRO DE IMÓVEIS DE ARAÇATUBA-SP, ASSIM DESCRITO: Apartamento nº 404, com área real privativa coberta de 44,01m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 4210007002605450240 Localização: R. Antônio dos Santos Ribeiro, 300, AP. 404, BL 02, Cond. Pq. Almare, Conj. Hab. Dr. Antônio Villela Silva, Araçatuba-SP, CEP 16057-560 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 136.878,44 (cento e trinta e seis mil oitocentos e setenta e oito reais e quarenta e quatro centavos) Lance mínimo para arrematação em 2º leilão: R$ 129.431,54 (cento e vinte e nove mil, quatrocentos e trinta e um reais e cinquenta e quatro centavos)",
       "observations": [
         "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
         "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
       ],
       "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "42950",
-      "registry_office": "OFICIAL DE REGISTRO DE IMÓVEIS E ANEXOS DE SANTA CRUZ DO RIO PARDO-SP",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27862",
+      "registry_number": "116130",
+      "registry_office": "OFICIAL DE REGISTRO DE IMÓVEIS DE ARAÇATUBA-SP",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27847",
       "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12108_1.jpg"
+        "https://www.seuimovelbb.com.br/imagem/imovel/12093_1.jpg"
       ],
-      "latitude": -22.891509,
-      "longitude": -49.651855,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "12109",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12109",
-      "external_reference": null,
-      "city": "São José do Rio Preto",
-      "state": "SP",
-      "address": "Av. Manoel de Freitas Assunção, 301, AP. 201, BL 20, Cond. Pq. Rio Ebro, Rios de Spagna, São José do Rio Preto-SP, CEP 15045-604",
-      "asking_price": 159680.21,
-      "price_display": "R$ 159.680,21",
-      "sale_modality_hint": null,
-      "auction_date_raw": "23/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": 159680.21,
-      "second_auction_minimum_bid": 106232.79,
-      "description": "Nº DO BEM: 515211600 SÃO JOSÉ DO RIO PRETO (SP) Descrição: IMÓVEL DE MATRÍCULA 168694 DO 1º OFICIAL DE REGISTRO DE IMÓVEIS DE SÃO JOSÉ DO RIO PRETO-SP, ASSIM DESCRITO: Apartamento nº 201, com área real privativa de 46,58m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 261141309 Localização: Av. Manoel de Freitas Assunção, 301, AP. 201, BL 20, Cond. Pq. Rio Ebro, Rios de Spagna, São José do Rio Preto-SP, CEP 15045-604 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 159.680,21 (cento e cinquenta e nove mil seiscentos e oitenta reais e vinte e um centavos) Lance mínimo para arrematação em 2º leilão: R$ 106.232,79 (cento e seis mil, duzentos e trinta e dois reais e setenta e nove centavos)",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "168694",
-      "registry_office": "1º OFICIAL DE REGISTRO DE IMÓVEIS DE SÃO JOSÉ DO RIO PRETO-SP",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27863",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12109_1.jfif",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12109_2.jfif",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12109_3.jfif",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12109_4.jfif"
-      ],
-      "latitude": -20.775636,
-      "longitude": -49.349058,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "12110",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12110",
-      "external_reference": null,
-      "city": "São José do Rio Preto",
-      "state": "SP",
-      "address": "R. Dorcelino Narciso, 500, Unidade Autônoma 812, BL 08, Res. Villa Felicita, Jd. Jandira, São José do Rio Preto-SP, CEP 15057-522",
-      "asking_price": 178583.59,
-      "price_display": "R$ 178.583,59",
-      "sale_modality_hint": null,
-      "auction_date_raw": "23/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": 178583.59,
-      "second_auction_minimum_bid": 177715.45,
-      "description": "Nº DO BEM: 531215998 SÃO JOSÉ DO RIO PRETO (SP) Descrição: IMÓVEL DE MATRÍCULA 105426 DO 1º OFICIAL DE REGISTRO DE IMÓVEIS DE SÃO JOSÉ DO RIO PRETO-SP, ASSIM DESCRITO: Apartamento nº 812, com área útil privativa de 55,69m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 0320126117 Localização: R. Dorcelino Narciso, 500, Unidade Autônoma 812, BL 08, Res. Villa Felicita, Jd. Jandira, São José do Rio Preto-SP, CEP 15057-522 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 178.583,59 (cento e setenta e oito mil quinhentos e oitenta e três reais e cinquenta e nove centavos) Lance mínimo para arrematação em 2º leilão: R$ 177.715,45 (cento e setenta e sete mil, setecentos e quinze reais e quarenta e cinco centavos)",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "105426",
-      "registry_office": "1º OFICIAL DE REGISTRO DE IMÓVEIS DE SÃO JOSÉ DO RIO PRETO-SP",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27864",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12110_1.jfif",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12110_2.jfif",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12110_3.jfif",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12110_4.jfif"
-      ],
-      "latitude": -20.764931,
-      "longitude": -49.382423,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "12111",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12111",
-      "external_reference": null,
-      "city": "São José do Rio Preto",
-      "state": "SP",
-      "address": "R. Patrícia Rodrigues Fontes, 705, AP. 403, BL 03, Cond. Pq. Rio Salso, Rios di Itália, São José do Rio Preto-SP, CEP 15057-562",
-      "asking_price": 174713.61,
-      "price_display": "R$ 174.713,61",
-      "sale_modality_hint": null,
-      "auction_date_raw": "23/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": 174713.61,
-      "second_auction_minimum_bid": 122092.58,
-      "description": "Nº DO BEM: 523982120 SÃO JOSÉ DO RIO PRETO (SP) Descrição: IMÓVEL DE MATRÍCULA 174780 DO 1º OFICIAL DE REGISTRO DE IMÓVEIS DE SÃO JOSÉ DO RIO PRETO-SP, ASSIM DESCRITO: Apartamento nº 403, com área real privativa coberta de 43,99m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 333552047 Localização: R. Patrícia Rodrigues Fontes, 705, AP. 403, BL 03, Cond. Pq. Rio Salso, Rios di Itália, São José do Rio Preto-SP, CEP 15057-562 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 174.713,61 (cento e setenta e quatro mil setecentos e treze reais e sessenta e um centavos) Lance mínimo para arrematação em 2º leilão: R$ 122.092,58 (cento e vinte e dois mil e noventa e dois reais e cinquenta e oito centavos)",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "174780",
-      "registry_office": "1º OFICIAL DE REGISTRO DE IMÓVEIS DE SÃO JOSÉ DO RIO PRETO-SP",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27865",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12111_1.jfif",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12111_2.jfif",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12111_3.jfif",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12111_4.jfif"
-      ],
-      "latitude": -20.899684,
-      "longitude": -49.36286,
+      "latitude": -21.173943,
+      "longitude": -50.449988,
       "documents": {
         "edital_url": null,
         "matricula_url": null
@@ -942,6 +348,43 @@
     },
     {
       "source_type": "bb",
+      "source_external_id": "12109",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12109",
+      "external_reference": null,
+      "city": "São José do Rio Preto",
+      "state": "SP",
+      "address": "Av. Manoel de Freitas Assunção, 301, AP. 201, BL 20, Cond. Pq. Rio Ebro, Rios de Spagna, São José do Rio Preto-SP, CEP 15045-604",
+      "asking_price": 159680.21,
+      "price_display": "R$ 159.680,21",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 159680.21,
+      "second_auction_minimum_bid": 106232.79,
+      "description": "Nº DO BEM: 515211600 SÃO JOSÉ DO RIO PRETO (SP) Descrição: IMÓVEL DE MATRÍCULA 168694 DO 1º OFICIAL DE REGISTRO DE IMÓVEIS DE SÃO JOSÉ DO RIO PRETO-SP, ASSIM DESCRITO: Apartamento nº 201, com área real privativa de 46,58m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 261141309 Localização: Av. Manoel de Freitas Assunção, 301, AP. 201, BL 20, Cond. Pq. Rio Ebro, Rios de Spagna, São José do Rio Preto-SP, CEP 15045-604 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 159.680,21 (cento e cinquenta e nove mil seiscentos e oitenta reais e vinte e um centavos) Lance mínimo para arrematação em 2º leilão: R$ 106.232,79 (cento e seis mil, duzentos e trinta e dois reais e setenta e nove centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "168694",
+      "registry_office": "1º OFICIAL DE REGISTRO DE IMÓVEIS DE SÃO JOSÉ DO RIO PRETO-SP",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27863",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12109_1.jfif",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12109_2.jfif",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12109_3.jfif",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12109_4.jfif"
+      ],
+      "latitude": -20.775636,
+      "longitude": -49.349058,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
       "source_external_id": "12113",
       "source_url": "https://www.seuimovelbb.com.br/imovel/id/12113",
       "external_reference": null,
@@ -979,6 +422,318 @@
     },
     {
       "source_type": "bb",
+      "source_external_id": "12097",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12097",
+      "external_reference": null,
+      "city": "Bauru",
+      "state": "SP",
+      "address": "R. Jorge Schneyder Filho, 11-05, AP. 202, BL 09, Cond. Pq. Bogotá, Pq. Bauru, Bauru-SP, CEP 17031-659",
+      "asking_price": 164274.06,
+      "price_display": "R$ 164.274,06",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 164274.06,
+      "second_auction_minimum_bid": 102206.2,
+      "description": "Nº DO BEM: 518381030 BAURU (SP) Descrição: IMÓVEL DE MATRÍCULA 118045 DO 2º OFICIAL DE REGISTRO DE IMÓVEIS DE BAURU-SP, ASSIM DESCRITO: Apartamento nº 202, com área real privativa coberta de 46,63m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 30513337 Localização: R. Jorge Schneyder Filho, 11-05, AP. 202, BL 09, Cond. Pq. Bogotá, Pq. Bauru, Bauru-SP, CEP 17031-659 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 164.274,06 (cento e sessenta e quatro mil duzentos e setenta e quatro reais e seis centavos) Lance mínimo para arrematação em 2º leilão: R$ 102.206,20 (cento e dois mil, duzentos e seis reais e vinte centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "118045",
+      "registry_office": "2º OFICIAL DE REGISTRO DE IMÓVEIS DE BAURU-SP",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27851",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12097_1.jpg"
+      ],
+      "latitude": -22.324471,
+      "longitude": -49.017203,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12111",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12111",
+      "external_reference": null,
+      "city": "São José do Rio Preto",
+      "state": "SP",
+      "address": "R. Patrícia Rodrigues Fontes, 705, AP. 403, BL 03, Cond. Pq. Rio Salso, Rios di Itália, São José do Rio Preto-SP, CEP 15057-562",
+      "asking_price": 174713.61,
+      "price_display": "R$ 174.713,61",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 174713.61,
+      "second_auction_minimum_bid": 122092.58,
+      "description": "Nº DO BEM: 523982120 SÃO JOSÉ DO RIO PRETO (SP) Descrição: IMÓVEL DE MATRÍCULA 174780 DO 1º OFICIAL DE REGISTRO DE IMÓVEIS DE SÃO JOSÉ DO RIO PRETO-SP, ASSIM DESCRITO: Apartamento nº 403, com área real privativa coberta de 43,99m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 333552047 Localização: R. Patrícia Rodrigues Fontes, 705, AP. 403, BL 03, Cond. Pq. Rio Salso, Rios di Itália, São José do Rio Preto-SP, CEP 15057-562 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 174.713,61 (cento e setenta e quatro mil setecentos e treze reais e sessenta e um centavos) Lance mínimo para arrematação em 2º leilão: R$ 122.092,58 (cento e vinte e dois mil e noventa e dois reais e cinquenta e oito centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "174780",
+      "registry_office": "1º OFICIAL DE REGISTRO DE IMÓVEIS DE SÃO JOSÉ DO RIO PRETO-SP",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27865",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12111_1.jfif",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12111_2.jfif",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12111_3.jfif",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12111_4.jfif"
+      ],
+      "latitude": -20.899684,
+      "longitude": -49.36286,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12110",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12110",
+      "external_reference": null,
+      "city": "São José do Rio Preto",
+      "state": "SP",
+      "address": "R. Dorcelino Narciso, 500, Unidade Autônoma 812, BL 08, Res. Villa Felicita, Jd. Jandira, São José do Rio Preto-SP, CEP 15057-522",
+      "asking_price": 178583.59,
+      "price_display": "R$ 178.583,59",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 178583.59,
+      "second_auction_minimum_bid": 177715.45,
+      "description": "Nº DO BEM: 531215998 SÃO JOSÉ DO RIO PRETO (SP) Descrição: IMÓVEL DE MATRÍCULA 105426 DO 1º OFICIAL DE REGISTRO DE IMÓVEIS DE SÃO JOSÉ DO RIO PRETO-SP, ASSIM DESCRITO: Apartamento nº 812, com área útil privativa de 55,69m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 0320126117 Localização: R. Dorcelino Narciso, 500, Unidade Autônoma 812, BL 08, Res. Villa Felicita, Jd. Jandira, São José do Rio Preto-SP, CEP 15057-522 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 178.583,59 (cento e setenta e oito mil quinhentos e oitenta e três reais e cinquenta e nove centavos) Lance mínimo para arrematação em 2º leilão: R$ 177.715,45 (cento e setenta e sete mil, setecentos e quinze reais e quarenta e cinco centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "105426",
+      "registry_office": "1º OFICIAL DE REGISTRO DE IMÓVEIS DE SÃO JOSÉ DO RIO PRETO-SP",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27864",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12110_1.jfif",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12110_2.jfif",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12110_3.jfif",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12110_4.jfif"
+      ],
+      "latitude": -20.764931,
+      "longitude": -49.382423,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12096",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12096",
+      "external_reference": null,
+      "city": "Bauru",
+      "state": "SP",
+      "address": "R. Hermenegildo Quagliato, 7-70, AP. 105, BL 05, Cond. Spazio Belluno, Pq. União, Bauru-SP. CEP 17063-256",
+      "asking_price": 188753.25,
+      "price_display": "R$ 188.753,25",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 188753.25,
+      "second_auction_minimum_bid": 314016.74,
+      "description": "Nº DO BEM: 513551346 BAURU (SP) Descrição: IMÓVEL DE MATRÍCULA 109799 DO 2º OFICIAL DE REGISTRO DE IMÓVEIS DE BAURU-SP, ASSIM DESCRITO: Apartamento nº 105, com área real privativa coberta de 47,34m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 40640257 Localização: R. Hermenegildo Quagliato, 7-70, AP. 105, BL 05, Cond. Spazio Belluno, Pq. União, Bauru-SP. CEP 17063-256 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Obs.3: Consta PENHORA conforme Av. 5 da matrícula, referente ao processo nº 10071506920188260071. Nos termos do § 11 do artigo 27 da Lei nº 9.514/97, os direitos reais de garantia ou constrições, tais como penhoras, arrestos, bloqueios e indisponibilidades de qualquer natureza incidentes sobre o direito real de aquisição do fiduciante, não impedem a consolidação da propriedade em nome do credor fiduciário nem a venda do imóvel para realização da garantia. Lance mínimo para arrematação em 1º leilão: R$ 188.753,25 (cento e oitenta e oito mil setecentos e cinquenta e três reais e vinte e cinco centavos) Lance mínimo para arrematação em 2º leilão: R$ 314.016,74 (trezentos e quatorze mil e dezesseis reais e setenta e quatro centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "109799",
+      "registry_office": "2º OFICIAL DE REGISTRO DE IMÓVEIS DE BAURU-SP",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27850",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12096_1.jpg"
+      ],
+      "latitude": -22.306678,
+      "longitude": -49.084314,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12101",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12101",
+      "external_reference": null,
+      "city": "Hortolândia",
+      "state": "SP",
+      "address": "R. Antônio Fernandes Leite, 1520, AP. 11, BL A, Cond. Res. Portal do Bosque, Núcleo Santa Isabel, Hortolândia-SP, CEP 13185-373",
+      "asking_price": 195693.39,
+      "price_display": "R$ 195.693,39",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 195693.39,
+      "second_auction_minimum_bid": 202197.82,
+      "description": "Nº DO BEM: 528610722 SUMARÉ (SP) Descrição: IMÓVEL DE MATRÍCULA 163982 DO REGISTRO DE IMÓVEIS DE SUMARÉ-SP, ASSIM DESCRITO: Apartamento nº 11, com área privativa de 51,14m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 03.29.022.0050.001 Localização: R. Antônio Fernandes Leite, 1520, AP. 11, BL A, Cond. Res. Portal do Bosque, Núcleo Santa Isabel, Hortolândia-SP, CEP 13185-373 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 195.693,39 (cento e noventa e cinco mil seiscentos e noventa e três reais e trinta e nove centavos) Lance mínimo para arrematação em 2º leilão: R$ 202.197,82 (duzentos e dois mil, cento e noventa e sete reais e oitenta e dois centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "163982",
+      "registry_office": "REGISTRO DE IMÓVEIS DE SUMARÉ-SP",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27855",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12101_1.jpg"
+      ],
+      "latitude": -22.906205,
+      "longitude": -47.172768,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12106",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12106",
+      "external_reference": null,
+      "city": "Ribeirão Preto",
+      "state": "SP",
+      "address": "R. Guiana Inglesa, 153, Vila Mariana, Ribeirão Preto-SP. CEP 14075-210",
+      "asking_price": 195693.39,
+      "price_display": "R$ 195.693,39",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 195693.39,
+      "second_auction_minimum_bid": 158342.98,
+      "description": "Nº DO BEM: 530453077 RIBEIRÃO PRETO (SP) Descrição: IMÓVEL DE MATRÍCULA 62963 DO 1º OFICIAL DE REGISTRO DE IMÓVEIS DE RIBEIRÃO PRETO-SP, ASSIM DESCRITO: Prédio residencial, e respectivo terreno com área total de 110,50m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 82403 Localização: R. Guiana Inglesa, 153, Vila Mariana, Ribeirão Preto-SP. CEP 14075-210 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 195.693,39 (cento e noventa e cinco mil seiscentos e noventa e três reais e trinta e nove centavos) Lance mínimo para arrematação em 2º leilão: R$ 158.342,98 (cento e cinquenta e oito mil, trezentos e quarenta e dois reais e noventa e oito centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "62963",
+      "registry_office": "1º OFICIAL DE REGISTRO DE IMÓVEIS DE RIBEIRÃO PRETO-SP",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27860",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12106_1.jpg"
+      ],
+      "latitude": -21.150785,
+      "longitude": -47.792313,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12104",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12104",
+      "external_reference": null,
+      "city": "Poá",
+      "state": "SP",
+      "address": "R. União, 605, AP. 23, BL 2, Conj. Res. União, Jd. América, Poá-SP, CEP 08555-680",
+      "asking_price": 227925.21,
+      "price_display": "R$ 227.925,21",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 227925.21,
+      "second_auction_minimum_bid": 104868.66,
+      "description": "Nº DO BEM: 539305594 POÁ (SP) Descrição: IMÓVEL DE MATRÍCULA 67432 DO OFICIAL DE REGISTRO DE IMÓVEIS DE POÁ-SP, ASSIM DESCRITO: Apartamento nº 23, com área real privativa de 42,595m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 432116178098302007 Localização: R. União, 605, AP. 23, BL 2, Conj. Res. União, Jd. América, Poá-SP, CEP 08555-680 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 227.925,21 (duzentos e vinte e sete mil novecentos e vinte e cinco reais e vinte e um centavos) Lance mínimo para arrematação em 2º leilão: R$ 104.868,66 (cento e quatro mil, oitocentos e sessenta e oito reais e sessenta e seis centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "67432",
+      "registry_office": "OFICIAL DE REGISTRO DE IMÓVEIS DE POÁ-SP",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27858",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12104_1.jpg"
+      ],
+      "latitude": -23.510937,
+      "longitude": -46.351035,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12103",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12103",
+      "external_reference": null,
+      "city": "Piracicaba",
+      "state": "SP",
+      "address": "Av. das Ondas, 4699, AP. 402, BL 10, Cond. Pq. Pérola do Oriente, Ondas, Piracicaba-SP, CEP 13403-799",
+      "asking_price": 260883.36,
+      "price_display": "R$ 260.883,36",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 260883.36,
+      "second_auction_minimum_bid": 284442.23,
+      "description": "Nº DO BEM: 520407533 PIRACICABA (SP) Descrição: IMÓVEL DE MATRÍCULA 112821 DO PRIMEIRO OFICIAL DE REGISTRO DE IMÓVEIS E CIVIL DE PESSOA JURÍDICA DE PIRACICABA-SP, ASSIM DESCRITO: Apartamento nº 402, com área privativa total de 46,59m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 129015010690158 Localização: Av. das Ondas, 4699, AP. 402, BL 10, Cond. Pq. Pérola do Oriente, Ondas, Piracicaba-SP, CEP 13403-799 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 260.883,36 (duzentos e sessenta mil oitocentos e oitenta e três reais e trinta e seis centavos) Lance mínimo para arrematação em 2º leilão: R$ 284.442,23 (duzentos e oitenta e quatro mil, quatrocentos e quarenta e dois reais e vinte e três centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "112821",
+      "registry_office": "PRIMEIRO OFICIAL DE REGISTRO DE IMÓVEIS E CIVIL DE PESSOA JURÍDICA DE PIRACICABA-SP",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27857",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12103_1.jpg"
+      ],
+      "latitude": -22.697714,
+      "longitude": -47.676879,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12098",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12098",
+      "external_reference": null,
+      "city": "Campinas",
+      "state": "SP",
+      "address": "R. Castel Nuovo, 74, AP. 01, BL V, Cond. Raul Renato, Jd. García, Campinas-SP, CEP 13061-085",
+      "asking_price": 267947.24,
+      "price_display": "R$ 267.947,24",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 267947.24,
+      "second_auction_minimum_bid": 186345.13,
+      "description": "Nº DO BEM: 532799930 CAMPINAS (SP) Descrição: IMÓVEL DE MATRÍCULA 6746 DO 3º CARTÓRIO DE REGISTRO DE IMÓVEIS DE CAMPINAS-SP, ASSIM DESCRITO: Apartamento nº 01, com área útil de 52,606892m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 3413.54.94.0001.06005 Localização: R. Castel Nuovo, 74, AP. 01, BL V, Cond. Raul Renato, Jd. García, Campinas-SP, CEP 13061-085 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Obs.3: Consta INDISPONIBILIDADE conforme Av. 15 da matrícula, referente ao processo nº 00109083620225150024; e INDISPONIBILIDADE, conforme Av. 16 da matrícula, referente ao processo nº 10019361720225020608; e INDISPONIBILIDADE, conforme Av. 17 da matrícula, referente ao processo nº 00110458520235150055. Nos termos do § 11 do artigo 27 da Lei nº 9.514/97, os direitos reais de garantia ou constrições, tais como penhoras, arrestos, bloqueios e indisponibilidades de qualquer natureza incidentes sobre o direito real de aquisição do fiduciante, não impedem a consolidação da propriedade em nome do credor fiduciário nem a venda do imóvel para realização da garantia. Lance mínimo para arrematação em 1º leilão: R$ 267.947,24 (duzentos e sessenta e sete mil novecentos e quarenta e sete reais e vinte e quatro centavos) Lance mínimo para arrematação em 2º leilão: R$ 186.345,13 (cento e oitenta e seis mil, trezentos e quarenta e cinco reais e treze centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "6746",
+      "registry_office": "3º CARTÓRIO DE REGISTRO DE IMÓVEIS DE CAMPINAS-SP",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27852",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12098_1.jpg"
+      ],
+      "latitude": -22.915589,
+      "longitude": -47.104362,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
       "source_external_id": "12114",
       "source_url": "https://www.seuimovelbb.com.br/imovel/id/12114",
       "external_reference": null,
@@ -1005,6 +760,74 @@
       ],
       "latitude": -23.611807,
       "longitude": -46.743068,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12108",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12108",
+      "external_reference": null,
+      "city": "Santa Cruz do Rio Pardo",
+      "state": "SP",
+      "address": "R. Benedita Oliveira Melo, 504, Bosque Lorenzetti II, Santa Cruz do Rio Pardo-SP, CEP 18910-282",
+      "asking_price": 436082.72,
+      "price_display": "R$ 436.082,72",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 436082.72,
+      "second_auction_minimum_bid": 273770.34,
+      "description": "Nº DO BEM: 541416620 SANTA CRUZ DO RIO PARDO (SP) Descrição: IMÓVEL DE MATRÍCULA 42950 DO OFICIAL DE REGISTRO DE IMÓVEIS E ANEXOS DE SANTA CRUZ DO RIO PARDO-SP, ASSIM DESCRITO: Residência, com área de 61,30m² e respectivo terreno com área total de 141,26m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 0-02-04-08-0027-0015-00-00-0 Localização: R. Benedita Oliveira Melo, 504, Bosque Lorenzetti II, Santa Cruz do Rio Pardo-SP, CEP 18910-282 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 436.082,72 (quatrocentos e trinta e seis mil e oitenta e dois reais e setenta e dois centavos) Lance mínimo para arrematação em 2º leilão: R$ 273.770,34 (duzentos e setenta e três mil, setecentos e setenta reais e trinta e quatro centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "42950",
+      "registry_office": "OFICIAL DE REGISTRO DE IMÓVEIS E ANEXOS DE SANTA CRUZ DO RIO PARDO-SP",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27862",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12108_1.jpg"
+      ],
+      "latitude": -22.891509,
+      "longitude": -49.651855,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12105",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12105",
+      "external_reference": null,
+      "city": "Praia Grande",
+      "state": "SP",
+      "address": "R. Balneário Camboriú, 100, AP. 81, Res. Camboriú, Aviação, Praia Grande-SP, CEP 11702-740",
+      "asking_price": 528283.73,
+      "price_display": "R$ 528.283,73",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 528283.73,
+      "second_auction_minimum_bid": 258463.98,
+      "description": "Nº DO BEM: 539736350 POÁ (SP) Descrição: IMÓVEL DE MATRÍCULA 142018 DO REGISTRO DE IMÓVEIS DE PRAIA GRANDE-SP, ASSIM DESCRITO: Apartamento nº 81, com área útil de 81,3561m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 203040030020081-3 Localização: R. Balneário Camboriú, 100, AP. 81, Res. Camboriú, Aviação, Praia Grande-SP, CEP 11702-740 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 528.283,73 (quinhentos e vinte e oito mil duzentos e oitenta e três reais e setenta e três centavos) Lance mínimo para arrematação em 2º leilão: R$ 258.463,98 (duzentos e cinquenta e oito mil, quatrocentos e sessenta e três reais e noventa e oito centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "142018",
+      "registry_office": "REGISTRO DE IMÓVEIS DE PRAIA GRANDE-SP",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27859",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12105_1.jpg"
+      ],
+      "latitude": -24.019896,
+      "longitude": -46.449375,
       "documents": {
         "edital_url": null,
         "matricula_url": null
@@ -1081,29 +904,100 @@
     },
     {
       "source_type": "bb",
-      "source_external_id": "12167",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12167",
-      "external_reference": "103094",
-      "city": "Araçatuba",
+      "source_external_id": "12100",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12100",
+      "external_reference": null,
+      "city": "Guarujá",
       "state": "SP",
-      "address": "Rua Pedro Janser, 1086, Parque Aloha, Monte Carlo",
-      "asking_price": 70500.0,
-      "price_display": "R$ 70.500,00",
-      "sale_modality_hint": "proposta",
-      "auction_date_raw": null,
-      "first_auction_minimum_bid": null,
-      "second_auction_minimum_bid": null,
-      "description": "ID103094 ARAÇATUBA (SP) Descrição legal: Imóvel Urbano: Apartamento 104, Bloco 20, com área privativa de 44,01 m², situado na Rua Pedro Janser, 1086, Parque Aloha, Monte Carlo, Município de Araçatuba-SP. Melhor descrito na Matrícula 107486 do Oficial de Registro de Imóveis, Títulos e Documentos da Comarca de Araçatuba-SP a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "address": "R. Alberto Quatrini Bianchi, 677, AP. 41, Ed. Golden Coral, Enseada, Guarujá-SP, CEP 11440-460",
+      "asking_price": 713265.0,
+      "price_display": "R$ 713.265,00",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 713265.0,
+      "second_auction_minimum_bid": 568573.26,
+      "description": "Nº DO BEM: 536445458 GUARUJÁ (SP) Descrição: IMÓVEL DE MATRÍCULA 108295 DO CARTÓRIO DE REGISTRO DE IMÓVEIS DE GUARUJÁ-SP, ASSIM DESCRITO: Apartamento nº 41, com área útil de 103,02m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 30137001005 Localização: R. Alberto Quatrini Bianchi, 677, AP. 41, Ed. Golden Coral, Enseada, Guarujá-SP, CEP 11440-460 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Obs.3: Consta PENHORA conforme Av. 6 da matrícula, referente ao processo nº 0004684-85-2024-8-26-0564; e PENHORA, conforme Av. 7 da matrícula, referente ao processo nº 0009393-66-2024-8-26-0564. Nos termos do § 11 do artigo 27 da Lei nº 9.514/97, os direitos reais de garantia ou constrições, tais como penhoras, arrestos, bloqueios e indisponibilidades de qualquer natureza incidentes sobre o direito real de aquisição do fiduciante, não impedem a consolidação da propriedade em nome do credor fiduciário nem a venda do imóvel para realização da garantia. Lance mínimo para arrematação em 1º leilão: R$ 713.265,00 (setecentos e treze mil duzentos e sessenta e cinco reais) Lance mínimo para arrematação em 2º leilão: R$ 568.573,26 (quinhentos e sessenta e oito mil, quinhentos e setenta e três reais e vinte e seis centavos)",
       "observations": [
         "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
         "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
       ],
       "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "107486",
-      "registry_office": "Oficial de Registro de Imóveis, Títulos e Documentos da Comarca de Araçatuba-SP",
-      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/15156",
+      "registry_number": "108295",
+      "registry_office": "CARTÓRIO DE REGISTRO DE IMÓVEIS DE GUARUJÁ-SP",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27854",
       "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12167_1.png"
+        "https://www.seuimovelbb.com.br/imagem/imovel/12100_1.jpg"
+      ],
+      "latitude": -23.983763,
+      "longitude": -46.234665,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12102",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12102",
+      "external_reference": null,
+      "city": "Orindiúva",
+      "state": "SP",
+      "address": "R. Alcides Alves Ferreira, 457, Centro, Orindiúva-SP, CEP 15480-021",
+      "asking_price": 863870.38,
+      "price_display": "R$ 863.870,38",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 863870.38,
+      "second_auction_minimum_bid": 264145.85,
+      "description": "Nº DO BEM: 536829606 PAULO DE FARIA (SP) Descrição: IMÓVEL DE MATRÍCULA 2430 DO OFICIAL DE REGISTRO DE IMÓVEIS DE PAULO DE FARIA-SP, ASSIM DESCRITO: Casa, com área construída de 113,70m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 0613/00 Localização: R. Alcides Alves Ferreira, 457, Centro, Orindiúva-SP, CEP 15480-021 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Obs.3: Consta AÇÃO JUDICIAL conforme Av. 17 da matrícula, referente ao processo nº 1001045-22.2025.8.26.0430. Nos termos do § 11 do artigo 27 da Lei nº 9.514/97, os direitos reais de garantia ou constrições, tais como penhoras, arrestos, bloqueios e indisponibilidades de qualquer natureza incidentes sobre o direito real de aquisição do fiduciante, não impedem a consolidação da propriedade em nome do credor fiduciário nem a venda do imóvel para realização da garantia. Lance mínimo para arrematação em 1º leilão: R$ 863.870,38 (oitocentos e sessenta e três mil oitocentos e setenta reais e trinta e oito centavos) Lance mínimo para arrematação em 2º leilão: R$ 264.145,85 (duzentos e sessenta e quatro mil, cento e quarenta e cinco reais e oitenta e cinco centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "2430",
+      "registry_office": "OFICIAL DE REGISTRO DE IMÓVEIS DE PAULO DE FARIA-SP",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27856",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12102_1.jpg"
+      ],
+      "latitude": -20.183226,
+      "longitude": -49.351318,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "10611",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/10611",
+      "external_reference": "92461",
+      "city": "Limeira",
+      "state": "SP",
+      "address": "Rua Limeira, nº 1065, Loteamento Jardim Hortência",
+      "asking_price": 1083700.0,
+      "price_display": "R$ 1.083.700,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID92461 LIMEIRA (SP)Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Limeira, nº 1065, Loteamento Jardim Hortência, Município de Limeira - SP. Melhor descrito na matrícula 7554 do 1º Oficial de Registro de Imóveis e Anexos da Comarca de Limeira - SP. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "7554",
+      "registry_office": "1º Oficial de Registro de Imóveis e Anexos da Comarca de Limeira - SP",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/14615",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/10611_1.jpeg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10611_2.jpeg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10611_3.jpeg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10611_4.jpeg"
       ],
       "latitude": null,
       "longitude": null,
@@ -1115,105 +1009,35 @@
     },
     {
       "source_type": "bb",
-      "source_external_id": "12236",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12236",
-      "external_reference": "0644",
-      "city": "Ribeirão Preto",
+      "source_external_id": "8819",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/8819",
+      "external_reference": "2938",
+      "city": "Cachoeira Paulista",
       "state": "SP",
-      "address": "Rua Piracicaba, parte do Lote nº 9, Quadra nº 02, Jardim Mosteiro",
-      "asking_price": null,
-      "price_display": "Aceita BB?",
-      "sale_modality_hint": "aceita_bb",
-      "auction_date_raw": "13/10/2026 a partir das 10h00",
+      "address": null,
+      "asking_price": 2255326.0,
+      "price_display": "R$ 2.255.326,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
       "first_auction_minimum_bid": null,
       "second_auction_minimum_bid": null,
-      "description": "ID0644 RIBEIRÃO PRETO (SP) Descrição legal: Imóvel Urbano Residencial, Terreno situado na Rua Piracicaba, parte do Lote nº 9, Quadra nº 02, Jardim Mosteiro, Município de Ribeirão Preto - SP. Melhor descrito na matrícula 50545 do 2º Ofício de Registro de Imóveis de Ribeirão Preto - SP. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente; b) O terreno encontra-se murado em todo o seu perímetro, dispondo de portão para acesso de veículos e apresentando, em sua maior extensão, área impermeabilizada com piso cimentado rústico. Nos fundos do imóvel existem benfeitorias de caráter precário, consistentes em pequena cobertura executada com telhas de fibrocimento, contendo churrasqueira e pia. Foi constatada, ainda, a existência de abertura destinada à passagem de pedestres, interligando o imóvel ao lote vizinho, identificado pelo nº predial 133 da Rua Piracicaba, situação cuja regularidade e eventuais implicações deverão ser verificadas pelo interessado. c) Existe AÇÃO DE EXECUÇÃO n° 00148946019968260506 no TJ-SP e o arrematante declara-se informado do fato e ciente de que a responsabilidade do BANCO por evicção está disciplinada neste Edital, conforme item 4.11 e seus subitens; d) Existe AÇÃO DE EXECUÇÃO n° 00148954519968260506 no TJ-SP e o arrematante declara-se informado do fato e ciente de que a responsabilidade do BANCO por evicção está disciplinada neste Edital, conforme item 4.11 e seus subitens.",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "50545",
-      "registry_office": "2º Ofício de Registro de Imóveis de Ribeirão Preto - SP",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27966",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12236_1.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12236_2.jpeg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12236_3.jpg"
-      ],
-      "latitude": -21.180753,
-      "longitude": -47.791805,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "12237",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12237",
-      "external_reference": "95487",
-      "city": "Ribeirão Preto",
-      "state": "SP",
-      "address": "Avenida Professora Edul Rangel Rabello, nº 1650",
-      "asking_price": null,
-      "price_display": "Aceita BB?",
-      "sale_modality_hint": "aceita_bb",
-      "auction_date_raw": "13/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": null,
-      "second_auction_minimum_bid": null,
-      "description": "ID95487 RIBEIRÃO PRETO (SP) Descrição legal: Imóvel Urbano Residencial, Apartamento nº 402, Bloco 04, do Condomínio Parque Romanetto, situado na Avenida Professora Edul Rangel Rabello, nº 1650, Município de Ribeirão Preto - SP. Melhor descrito na matrícula 166498 do 2º Oficial de Registro de Imóveis de Ribeirão Preto - SP. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente; b) A titularidade do IPTU encontra-se atualmente em nome de terceiros, cabendo ao arrematante a obrigação de promover, após a arrematação, a devida atualização cadastral e a transferência da titularidade para o seu nome junto ao órgão municipal competente, arcando integralmente com todas as providências, custos e eventuais despesas necessárias à regularização. Os valores de IPTU eventualmente devidos serão tratados conforme o disposto no item 16.7 deste Edital; c) A titularidade do Condomínio encontra-se atualmente em nome de terceiros, cabendo ao arrematante a obrigação de promover, após a arrematação, a devida atualização cadastral e a transferência da titularidade para o seu nome junto ao condomínio, arcando integralmente com todas as providências, custos e eventuais despesas necessárias à regularização. Os valores de condomínio eventualmente devidos serão tratados conforme o disposto no item 16.7 deste Edital.",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "166498",
-      "registry_office": "2º Oficial de Registro de Imóveis de Ribeirão Preto - SP",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27967",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12237_1.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12237_2.jpeg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12237_3.jpg"
-      ],
-      "latitude": -21.221515,
-      "longitude": -47.762719,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "12263",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12263",
-      "external_reference": "72915",
-      "city": "Catanduva",
-      "state": "SP",
-      "address": "RUA PERNAMBUCO,145 CENTRO-CATANDUVA - SP",
-      "asking_price": 6950000.0,
-      "price_display": "R$ 6.950.000,00",
-      "sale_modality_hint": null,
-      "auction_date_raw": "20/10/2026 a partir das 11h00",
-      "first_auction_minimum_bid": null,
-      "second_auction_minimum_bid": null,
-      "description": "ID72915 CATANDUVA (SP) Descrição legal: Imóvel Urbano: Prédio Comercial, situado na RUA PERNAMBUCO,145 CENTRO-CATANDUVA - SP. Melhor descrito na Matrícula 4.115 do 1° CRI de CATANDUVA - SP. a) Do imóvel adquirido na presente licitação será obrigatoriamente locado ao BANCO do Brasil S/A, sendo que o Banco do Brasil alugará integralmente o imóvel; b) Prazo da Locação: (por até 60 meses); c) O adquirente se submete às todos os itens previstas na Cláusula 3.2 do ANEXO 7 deste edital; d) Valor de locação inicialmente estabelecido será de R$ 45.175,00; e) Caberá ao arrematante, às suas custas e após a compra, quaisquer providências por eventual necessidade de desembaraço e regularização documental do imóvel arrematado, como regularização da área no registro de imóvel, no cadastro na Prefeitura e a encontrada no local, entre outros. f) Caberá ao arrematante a realização tempestiva de benfeitorias necessárias no 3º pavimento e cobertura técnica, tais como: umidade em paredes; umidade em contramarcos e esquadrias e destacamento/desplacamento de revestimentos cerâmicos. g) O arrematante declara estar ciente de que o imóvel possui áreas com acesso restrito, destinadas exclusivamente ao uso interno de funcionários do Banco do Brasil, sendo expressamente vedado o ingresso de terceiros. h) O arrematante se declara ciente de que está em curso a realização de obras na agência por conta do Banco.",
+      "description": "ID2938 CACHOEIRA PAULISTA(SP) Descrição legal: IMÓVEL URBANO: Prédio Tipo Comercial situada na Rua Coronel Domiciano, 12 - Centro, Cachoeira Paulista - SP; Melhor descrito na matrícula 318 do de Registro de Imóveis da Cachoeira Paulista- SP. a) As possíveis divergências entres as áreas dos terrenos e edificações registradas na matrícula, nos dados cadastrados na Prefeitura Municipal, e as verificadas em loco, que exigem regularização oportuna e ficarão a cargo do comprador. Eventuais procedimentos e despesas para a regularização da pendência ficarão por conta do adquirente.",
       "observations": [
         "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
         "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
       ],
       "occupancy_status": null,
-      "registry_number": "4.115",
-      "registry_office": "1° CRI de CATANDUVA - SP",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27991",
+      "registry_number": "318",
+      "registry_office": "de Registro de Imóveis da Cachoeira Paulista- SP",
+      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=24771",
       "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12263_1.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12263_2.jpg"
+        "https://www.seuimovelbb.com.br/imagem/imovel/8819_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/8819_2.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/8819_3.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/8819_4.jpg"
       ],
-      "latitude": -21.134552,
-      "longitude": -48.971361,
+      "latitude": -22.6640238,
+      "longitude": -45.0068853,
       "documents": {
         "edital_url": null,
         "matricula_url": null
@@ -1222,33 +1046,33 @@
     },
     {
       "source_type": "bb",
-      "source_external_id": "12264",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12264",
-      "external_reference": "74182",
-      "city": "Lins",
+      "source_external_id": "10830",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/10830",
+      "external_reference": "74415",
+      "city": "Limeira",
       "state": "SP",
-      "address": "R.VINTE E UM DE ABRIL,140 CENTRO-LINS - SP",
-      "asking_price": 5980000.0,
-      "price_display": "R$ 5.980.000,00",
-      "sale_modality_hint": null,
-      "auction_date_raw": "20/10/2026 a partir das 11h00",
+      "address": null,
+      "asking_price": 2950000.0,
+      "price_display": "R$ 2.950.000,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
       "first_auction_minimum_bid": null,
       "second_auction_minimum_bid": null,
-      "description": "ID74182 LINS (SP) Rua 21 de Abril Descrição legal: Imóvel Urbano: Prédio Comercial, situado na R.VINTE E UM DE ABRIL,140 CENTRO-LINS - SP. Melhor descrito na Matrícula do CRI de 25.739 do CRI de LINS - SP. a) Do imóvel adquirido na presente licitação será obrigatoriamente locado ao BANCO do Brasil S/A, sendo que o Banco do Brasil alugará integralmente o imóvel; b) Prazo da Locação: (por até 60 meses); c) O adquirente se submete às todos os itens previstas na Cláusula 3.2 do ANEXO 7 deste edital; d) Valor de locação inicialmente estabelecido será de R$ 38.870,00; e) Caberá ao arrematante, às suas custas e após a compra, quaisquer providências por eventual necessidade de desembaraço e regularização documental do imóvel arrematado, como regularização da área no registro de imóvel, no cadastro na Prefeitura e a encontrada no local, entre outros. f) O arrematante declara estar ciente de que o imóvel possui áreas com acesso restrito, destinadas exclusivamente ao uso interno de funcionários do Banco do Brasil, sendo expressamente vedado o ingresso de terceiros. g) O arrematante se declara ciente de que está em curso a realização de obras na agência por conta do Banco.",
+      "description": "ID74415 LIMEIRA (SP) Descrição legal: Imóvel Urbano: Prédio Comercial localizado na Praça Doutor Luciano Esteves dos Santos, nº 9, Centro, no Município de Limeira - SP. Melhor descrito na matrícula 7.925 do 1º Oficial de Registro de Imóveis de Limeira - SP. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente, conforme item 16.8 deste Edital; b) O imóvel comercial foi invadido, resultando no furto de diversos itens, incluindo fios elétricos, torneiras e ar condicionado. A situação do imóvel compromete a integridade do espaço, exigindo reparos para restabelecer sua função. As custas serão por conta do adquirente que se declara informado do fato. c) Foram verificadas divergências entres as áreas dos terrenos e edificações registradas nas matrículas, nos dados cadastrados na Prefeitura Municipal, e as verificadas em loco, que exigem regularização oportuna e ficarão a cargo do comprado.",
       "observations": [
         "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
         "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
       ],
-      "occupancy_status": null,
-      "registry_number": null,
-      "registry_office": null,
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27992",
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "7.925",
+      "registry_office": "1º Oficial de Registro de Imóveis de Limeira - SP",
+      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=26377",
       "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12264_1.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12264_2.jpg"
+        "https://www.seuimovelbb.com.br/imagem/imovel/10830_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10830_2.jpg"
       ],
-      "latitude": -21.673061,
-      "longitude": -49.752625,
+      "latitude": -23.484409,
+      "longitude": -46.655087,
       "documents": {
         "edital_url": null,
         "matricula_url": null
@@ -1292,6 +1116,113 @@
     },
     {
       "source_type": "bb",
+      "source_external_id": "10831",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/10831",
+      "external_reference": "88863",
+      "city": "Ribeirão Preto",
+      "state": "SP",
+      "address": "Rua Buarque, 70, Campos Elísios, Ribeirão Preto (SP)",
+      "asking_price": 5797747.0,
+      "price_display": "R$ 5.797.747,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID88863 RIBEIRÃO PRETO (SP) Descrição legal: Imóvel Urbano: Prédio Comercial situado na Rua Buarque, 70, Campos Elísios, Ribeirão Preto (SP). Melhor descrito na Matrícula 56.043 do 1° CRI de Ribeirão Preto (SP). a) São de responsabilidade do arrematante, todos os procedimentos e custas: a regularização de possíveis divergências de área na matrícula e nos dados cadastrais na Prefeitura. b) São de responsabilidade do arrematante, todos os procedimentos e custas: Todas as custas e emolumentos necessários para a confecção da Escritura e transferência no Registro de Imóveis. c) Caberá ao arrematante, às suas custas e após a compra, quaisquer providências por eventual necessidade de desembaraço e regularização documental do imóvel arrematado, como a regularização da área no registro de imóvel, no cadastro na Prefeitura e a encontrada no local, entre outros. d) O Banco do Brasil S/A terá um prazo de 90 dias para entregar e desocupar o imóvel. A desocupação total se dará no prazo de até 90 (noventa) dias após a data do Leilão, e o adquirente se declara informado do fato.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": null,
+      "registry_number": "56.043",
+      "registry_office": "1° CRI de Ribeirão Preto (SP)",
+      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=26378",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/10831_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10831_2.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10831_3.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10831_4.jpg"
+      ],
+      "latitude": -21.151588,
+      "longitude": -47.80396,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12264",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12264",
+      "external_reference": "74182",
+      "city": "Lins",
+      "state": "SP",
+      "address": "R.VINTE E UM DE ABRIL,140 CENTRO-LINS - SP",
+      "asking_price": 5980000.0,
+      "price_display": "R$ 5.980.000,00",
+      "sale_modality_hint": null,
+      "auction_date_raw": "20/10/2026 a partir das 11h00",
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID74182 LINS (SP) Rua 21 de Abril Descrição legal: Imóvel Urbano: Prédio Comercial, situado na R.VINTE E UM DE ABRIL,140 CENTRO-LINS - SP. Melhor descrito na Matrícula do CRI de 25.739 do CRI de LINS - SP. a) Do imóvel adquirido na presente licitação será obrigatoriamente locado ao BANCO do Brasil S/A, sendo que o Banco do Brasil alugará integralmente o imóvel; b) Prazo da Locação: (por até 60 meses); c) O adquirente se submete às todos os itens previstas na Cláusula 3.2 do ANEXO 7 deste edital; d) Valor de locação inicialmente estabelecido será de R$ 38.870,00; e) Caberá ao arrematante, às suas custas e após a compra, quaisquer providências por eventual necessidade de desembaraço e regularização documental do imóvel arrematado, como regularização da área no registro de imóvel, no cadastro na Prefeitura e a encontrada no local, entre outros. f) O arrematante declara estar ciente de que o imóvel possui áreas com acesso restrito, destinadas exclusivamente ao uso interno de funcionários do Banco do Brasil, sendo expressamente vedado o ingresso de terceiros. g) O arrematante se declara ciente de que está em curso a realização de obras na agência por conta do Banco.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": null,
+      "registry_number": null,
+      "registry_office": null,
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27992",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12264_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12264_2.jpg"
+      ],
+      "latitude": -21.673061,
+      "longitude": -49.752625,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12263",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12263",
+      "external_reference": "72915",
+      "city": "Catanduva",
+      "state": "SP",
+      "address": "RUA PERNAMBUCO,145 CENTRO-CATANDUVA - SP",
+      "asking_price": 6950000.0,
+      "price_display": "R$ 6.950.000,00",
+      "sale_modality_hint": null,
+      "auction_date_raw": "20/10/2026 a partir das 11h00",
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID72915 CATANDUVA (SP) Descrição legal: Imóvel Urbano: Prédio Comercial, situado na RUA PERNAMBUCO,145 CENTRO-CATANDUVA - SP. Melhor descrito na Matrícula 4.115 do 1° CRI de CATANDUVA - SP. a) Do imóvel adquirido na presente licitação será obrigatoriamente locado ao BANCO do Brasil S/A, sendo que o Banco do Brasil alugará integralmente o imóvel; b) Prazo da Locação: (por até 60 meses); c) O adquirente se submete às todos os itens previstas na Cláusula 3.2 do ANEXO 7 deste edital; d) Valor de locação inicialmente estabelecido será de R$ 45.175,00; e) Caberá ao arrematante, às suas custas e após a compra, quaisquer providências por eventual necessidade de desembaraço e regularização documental do imóvel arrematado, como regularização da área no registro de imóvel, no cadastro na Prefeitura e a encontrada no local, entre outros. f) Caberá ao arrematante a realização tempestiva de benfeitorias necessárias no 3º pavimento e cobertura técnica, tais como: umidade em paredes; umidade em contramarcos e esquadrias e destacamento/desplacamento de revestimentos cerâmicos. g) O arrematante declara estar ciente de que o imóvel possui áreas com acesso restrito, destinadas exclusivamente ao uso interno de funcionários do Banco do Brasil, sendo expressamente vedado o ingresso de terceiros. h) O arrematante se declara ciente de que está em curso a realização de obras na agência por conta do Banco.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": null,
+      "registry_number": "4.115",
+      "registry_office": "1° CRI de CATANDUVA - SP",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27991",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12263_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12263_2.jpg"
+      ],
+      "latitude": -21.134552,
+      "longitude": -48.971361,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
       "source_external_id": "12266",
       "source_url": "https://www.seuimovelbb.com.br/imovel/id/12266",
       "external_reference": "79364",
@@ -1327,72 +1258,35 @@
     },
     {
       "source_type": "bb",
-      "source_external_id": "3762",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/3762",
-      "external_reference": "98899",
-      "city": "Júlio Mesquita",
-      "state": "SP",
-      "address": "Rua João Becão, nº 6, Lote 09A, Quadra 40, Centro",
-      "asking_price": 54900.0,
-      "price_display": "R$ 54.900,00",
-      "sale_modality_hint": "proposta",
-      "auction_date_raw": null,
-      "first_auction_minimum_bid": null,
-      "second_auction_minimum_bid": null,
-      "description": "ID98899 JÚLIO MESQUITA (SP) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua João Becão, nº 6, Lote 09A, Quadra 40, Centro, município de Júlio Mesquita - SP. Melhor descrito na matrícula 11684 do Oficial de Registro de Imóveis de Cafelândia - SP. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente, conforme item 16.8 deste Edital; b) A titularidade do IPTU está em nome de terceiros; eventuais procedimentos e despesas para a regularização da pendência ficarão por conta do adquirente.",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "11684",
-      "registry_office": "Oficial de Registro de Imóveis de Cafelândia - SP",
-      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=21795",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/3762_1.jfif",
-        "https://www.seuimovelbb.com.br/imagem/imovel/3762_2.jfif",
-        "https://www.seuimovelbb.com.br/imagem/imovel/3762_3.jfif",
-        "https://www.seuimovelbb.com.br/imagem/imovel/3762_4.jfif"
-      ],
-      "latitude": null,
-      "longitude": null,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "8819",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/8819",
-      "external_reference": "2938",
-      "city": "Cachoeira Paulista",
+      "source_external_id": "11146",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11146",
+      "external_reference": "72699",
+      "city": "Bauru",
       "state": "SP",
       "address": null,
-      "asking_price": 2255326.0,
-      "price_display": "R$ 2.255.326,00",
+      "asking_price": 13452060.34,
+      "price_display": "R$ 13.452.060,34",
       "sale_modality_hint": "proposta",
       "auction_date_raw": null,
       "first_auction_minimum_bid": null,
       "second_auction_minimum_bid": null,
-      "description": "ID2938 CACHOEIRA PAULISTA(SP) Descrição legal: IMÓVEL URBANO: Prédio Tipo Comercial situada na Rua Coronel Domiciano, 12 - Centro, Cachoeira Paulista - SP; Melhor descrito na matrícula 318 do de Registro de Imóveis da Cachoeira Paulista- SP. a) As possíveis divergências entres as áreas dos terrenos e edificações registradas na matrícula, nos dados cadastrados na Prefeitura Municipal, e as verificadas em loco, que exigem regularização oportuna e ficarão a cargo do comprador. Eventuais procedimentos e despesas para a regularização da pendência ficarão por conta do adquirente.",
+      "description": "ID72699 BAURU (SP) Descrição legal: Imóvel Urbano: Prédio Comercial localizado na Rua Antônio Cintra Junior, 3-11, Jardim Cruzeiro do Sul, Bauru (SP). Melhor descrito na matrícula 18685 do 2º CRI de Bauru (SP). a) Permanecerá no imóvel 83 (oitenta e três) Aparelhos de ar-condicionado e uma plataforma elevatória. Os equipamentos estão instalados no imóvel, ficando o arrematante responsável por lhe atribuir a destinação que considerar adequada as suas custas.",
       "observations": [
         "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
         "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
       ],
       "occupancy_status": null,
-      "registry_number": "318",
-      "registry_office": "de Registro de Imóveis da Cachoeira Paulista- SP",
-      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=24771",
+      "registry_number": "18685",
+      "registry_office": "2º CRI de Bauru (SP)",
+      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=27082",
       "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/8819_1.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/8819_2.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/8819_3.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/8819_4.jpg"
+        "https://www.seuimovelbb.com.br/imagem/imovel/11146_1.jfif",
+        "https://www.seuimovelbb.com.br/imagem/imovel/11146_2.jfif",
+        "https://www.seuimovelbb.com.br/imagem/imovel/11146_3.jfif",
+        "https://www.seuimovelbb.com.br/imagem/imovel/11146_4.jfif"
       ],
-      "latitude": -22.6640238,
-      "longitude": -45.0068853,
+      "latitude": -22.785152,
+      "longitude": -48.133392,
       "documents": {
         "edital_url": null,
         "matricula_url": null

@@ -2,35 +2,33 @@
   "imoveis": [
     {
       "source_type": "bb",
-      "source_external_id": "10470",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/10470",
-      "external_reference": "74515",
-      "city": "Montenegro",
+      "source_external_id": "12345",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12345",
+      "external_reference": "97720",
+      "city": "Farroupilha",
       "state": "RS",
-      "address": "Rua Ramiro Barcelos, nº 1469, Centro, Montenegro (RS)",
-      "asking_price": 2961947.0,
-      "price_display": "R$ 2.961.947,00",
-      "sale_modality_hint": "proposta",
+      "address": "Av. das Indústrias, Lote 188, Quadra 05, do Condomínio Industrial Greentec",
+      "asking_price": null,
+      "price_display": "Aceita BB?",
+      "sale_modality_hint": "aceita_bb",
       "auction_date_raw": null,
       "first_auction_minimum_bid": null,
       "second_auction_minimum_bid": null,
-      "description": "ID74515 MONTENEGRO (RS) Descrição legal : Imóvel Urbano: Prédio Comercial, situado na Rua Ramiro Barcelos, nº 1469, Centro, Montenegro (RS). Melhor descrito na Matricula 30629 do CRI de Montenegro (RS). a) Caberá ao arrematante, às suas custas e após a compra, quaisquer providências por eventual necessidade de desembaraço e regularização documental do imóvel arrematado, como regularização da área no registro de imóvel, no cadastro na Prefeitura e a encontrada no local, entre outros. b) Unidade autônoma denominada Agência, localizada em edifício de ocupação mista. O conjunto de propriedade do BB compreende o pavimento térreo, os dois entrepisos, o segundo pavimento e o terceiro pavimento do prédio, totalizando área privativa de 976,36 m², área de uso comum de 46,74 m² e área global de 1.023,10 m². A unidade corresponde à fração ideal de 0,78644 do terreno do condomínio, cujo lote possui área total de 421,08 m². As unidades residenciais 201 e 301 não serão vendidas pois não pertencem ao Banco do Brasil. c) Todas as custas e emolumentos necessários para a confecção da Escritura e transferência no Registro de Imóveis ficarão por conta do adquirente. d) O imóvel integra condomínio regido por convenção registrada, devendo o adquirente respeitar integralmente suas disposições. e) O Banco do Brasil S/A terá um prazo de 90 dias para entregar e desocupar o imóvel. A desocupação total se dará no prazo de até 90 (noventa) dias após a data do Leilão, e o adquirente se declara informado do fato. f) Permanecerá no imóvel um cofre, ficando o arrematante responsável por lhe atribuir a destinação que considerar adequada as suas custas.",
+      "description": "ID97720 FARROUPILHA (RS) Descrição legal: Imóvel Urbano, Terreno Industrial situado na Av. das Indústrias, Lote 188, Quadra 05, do Condomínio Industrial Greentec, Município de Farroupilha - RS. Melhor descrito na matrícula 32885 do Registro de Imóveis de Farroupilha - RS. a) Imóvel possui área de preservação permanente e área não edificante e o arrematante se declara informado do fato, assumindo a responsabilidade pelos riscos, providências e custas necessárias para a manutenção das restrições relativas ao uso da área de preservação permanente e, quando for o caso, da reserva legal, nos exatos termos da legislação ambiental.",
       "observations": [
         "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
         "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
       ],
       "occupancy_status": null,
-      "registry_number": "30629",
-      "registry_office": "CRI de Montenegro (RS)",
-      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=26309",
+      "registry_number": "32885",
+      "registry_office": "Registro de Imóveis de Farroupilha - RS",
+      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=27964",
       "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/10470_1.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/10470_2.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/10470_3.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/10470_4.jpg"
+        "https://www.seuimovelbb.com.br/imagem/imovel/12345_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12345_2.jpeg"
       ],
-      "latitude": null,
-      "longitude": null,
+      "latitude": -29.2232949,
+      "longitude": -51.3253988,
       "documents": {
         "edital_url": null,
         "matricula_url": null
@@ -39,69 +37,69 @@
     },
     {
       "source_type": "bb",
-      "source_external_id": "11753",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11753",
-      "external_reference": "98948",
-      "city": "Capão da Canoa",
+      "source_external_id": "12078",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12078",
+      "external_reference": null,
+      "city": "Lajedo",
+      "state": "RS",
+      "address": "R. Projetada 03, 74, Lt. 12, QD. C, Lot. J.R. Monteiro, Lajedo-PE, CEP 55385-000",
+      "asking_price": 100763.13,
+      "price_display": "R$ 100.763,13",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 100763.13,
+      "second_auction_minimum_bid": 72020.2,
+      "description": "Nº DO BEM: 516265234 LAJEDO (PE) Descrição: IMÓVEL DE MATRÍCULA 4368 DO CARTÓRIO FERNANDES BARROS DE LAJEDO-PE, ASSIM DESCRITO: Casa de residência, com área de 93,60m² e respectivo terreno com área total de 120,00m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 01.01.166.0012.001 Localização: R. Projetada 03, 74, Lt. 12, QD. C, Lot. J.R. Monteiro, Lajedo-PE, CEP 55385-000 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 100.763,13 (cem mil setecentos e sessenta e três reais e treze centavos) Lance mínimo para arrematação em 2º leilão: R$ 72.020,20 (setenta e dois mil e vinte reais e vinte centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "4368",
+      "registry_office": "CARTÓRIO FERNANDES BARROS DE LAJEDO-PE",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27832",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12078_1.jpg"
+      ],
+      "latitude": -8.647554,
+      "longitude": -36.341055,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "3057",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/3057",
+      "external_reference": "98842",
+      "city": "Venâncio Aires",
       "state": "RS",
       "address": null,
-      "asking_price": 49500.0,
-      "price_display": "R$ 49.500,00",
+      "asking_price": 127000.0,
+      "price_display": "R$ 127.000,00",
       "sale_modality_hint": "proposta",
       "auction_date_raw": null,
       "first_auction_minimum_bid": null,
       "second_auction_minimum_bid": null,
-      "description": "ID98948 CAPÃO DA CANOA(RS) Descrição legal: Terreno urbano localizado na Rua Itália, lote 2, quadra 40, na praia da zona norte de Capão da Canoa, no município de Capão da Canoa (RS), sem edificação, melhor descrito na matrícula 122.131 do Registro de Imóveis de Capão da Canoa RS. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente, conforme item 16.8 deste Edital. b) Conforme croqui enviado pela Prefeitura e laudo de avaliação, foi constatado que uma parte do imóvel foi ocupado pela abertura de uma rua. Desta forma, a área do terreno que antes era de 325m² atualmente encontra-se com a área de 144,80m². Caso seja necessário a regularização da área da matrícula do imóvel os custos e todos os procedimentos ficarão por conta do adquirente",
+      "description": "ID98842 VENÂNCIO AIRES(RS) Descrição legal: Imóvel Urbano: Um terreno, contendo um prédio residencial , sob nº 844 da Rua Arnoldo Uhry. Correspondendo o dito terreno ao lote Administrativo nº 136 da quadra 2045, em Venâncio Aires / RS. Melhor descrito na matrícula nº 51286, do CRI de Venâncio Aires - RS. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente, conforme item 16.8 deste Edital.",
       "observations": [
         "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
         "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
       ],
       "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "122.131",
-      "registry_office": "Registro de Imóveis de Capão da Canoa RS",
-      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/15173",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/11753_1.jpeg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/11753_2.jpeg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/11753_3.jpeg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/11753_4.jpeg"
-      ],
-      "latitude": null,
-      "longitude": null,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "12071",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12071",
-      "external_reference": null,
-      "city": "Caxias do Sul",
-      "state": "RS",
-      "address": "R. Gécio Alves de Oliveira, 372, AP. 105, BL A, Res. Sollarium Caxias, São Caetano, Caxias do Sul-RS, CEP 95095-130",
-      "asking_price": 172000.0,
-      "price_display": "R$ 172.000,00",
-      "sale_modality_hint": null,
-      "auction_date_raw": "23/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": 172000.0,
-      "second_auction_minimum_bid": 189956.07,
-      "description": "Nº DO BEM: 516210388 CAXIAS DO SUL (RS) Descrição: VENDA CONJUNTA DOS IMÓVEIS DE MATRÍCULAS 153.251 e 153.172 DO CARTÓRIO DE REGISTRO DE IMÓVEIS 1ª ZONA DE CAXIAS DO SUL-RS, ASSIM DESCRITO: Apartamento nº 105, com área privativa de 51,716m², melhor descrito(a) e caracterizado(a) na respectiva matrícula 153.251, valor de venda em 1º leilão: 139.612,30 (cento e trinta e nove mil, seiscentos e doze reais e trinta centavos) e 2º leilão: R$ 154.197,50 (cento e cinquenta e quatro mil, cento e noventa e sete reais e cinquenta centavos) b) Box nº 19 com área privativa real de 12,00m², melhor descrito(a) e caracterizado(a) na respectiva matrícula 153.172, valor de venda em 1º leilão: R$ 32.387,70 (trinta e dois mil, trezentos e oitenta e sete reais e setenta centavos) e 2º leilão: R$ 35.758,57 (trinta e cinco mil, setecentos e cinquenta e oito reais e cinquenta e sete centavos) Inscrição Imobiliária: 52.01.3945.025.005 e 52.01.3945.025.211 Localização: R. Gécio Alves de Oliveira, 372, AP. 105, BL A, Res. Sollarium Caxias, São Caetano, Caxias do Sul-RS, CEP 95095-130 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Obs.3: Consta PENHORA conforme Av. 9 da matrícula, referente ao processo nº 5013674-94.2025.8.21.0010/RS. Nos termos do § 11 do artigo 27 da Lei nº 9.514/97, os direitos reais de garantia ou constrições, tais como penhoras, arrestos, bloqueios e indisponibilidades de qualquer natureza incidentes sobre o direito real de aquisição do fiduciante, não impedem a consolidação da propriedade em nome do credor fiduciário nem a venda do imóvel para realização da garantia. Lance mínimo para arrematação em 1º leilão: R$ 172.000,00 (cento e setenta e dois mil reais) Lance mínimo para arrematação em 2º leilão: R$ 189.956,07 (cento e oitenta e nove mil, novecentos e cinquenta e seis reais e sete centavos)",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "153.251",
+      "registry_number": "51286",
       "registry_office": null,
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27825",
+      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=20419",
       "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12071_1.jpg"
+        "https://www.seuimovelbb.com.br/imagem/imovel/3057_1.jfif",
+        "https://www.seuimovelbb.com.br/imagem/imovel/3057_2.jfif",
+        "https://www.seuimovelbb.com.br/imagem/imovel/3057_3.jfif",
+        "https://www.seuimovelbb.com.br/imagem/imovel/3057_4.jfif"
       ],
-      "latitude": -29.20323,
-      "longitude": -51.205389,
+      "latitude": -29.6088241,
+      "longitude": -52.1762811,
       "documents": {
         "edital_url": null,
         "matricula_url": null
@@ -110,32 +108,32 @@
     },
     {
       "source_type": "bb",
-      "source_external_id": "12072",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12072",
+      "source_external_id": "12082",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12082",
       "external_reference": null,
-      "city": "Caxias do Sul",
+      "city": "São Leopoldo",
       "state": "RS",
-      "address": "R. Luiz Covolan, 3154, AP. 207, Box 128, Res. Jd. da Cidade, Industrial, Caxias do Sul-RS, CEP 95112-889",
-      "asking_price": 178583.65,
-      "price_display": "R$ 178.583,65",
+      "address": "R. Acapulco, 294, AP. 219, BL E, Cond. Res. Acapulco, São João Batista, São Leopoldo-RS, CEP 93022-590",
+      "asking_price": 128166.2,
+      "price_display": "R$ 128.166,20",
       "sale_modality_hint": null,
       "auction_date_raw": "23/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": 178583.65,
-      "second_auction_minimum_bid": 123699.98,
-      "description": "Nº DO BEM: 527183476 CAXIAS DO SUL (RS) Descrição: IMÓVEL DE MATRÍCULA 177893 DO SERVIÇO REGISTRAL DE IMÓVEIS - 1ª ZONA DE CAXIAS DO SUL-RS, ASSIM DESCRITO: Apartamento nº 207, com área real privativa de 66,3662m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 44012838003007 Localização: R. Luiz Covolan, 3154, AP. 207, Box 128, Res. Jd. da Cidade, Industrial, Caxias do Sul-RS, CEP 95112-889 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 178.583,65 (cento e setenta e oito mil quinhentos e oitenta e três reais e sessenta e cinco centavos) Lance mínimo para arrematação em 2º leilão: R$ 123.699,98 (cento e vinte e três mil, seiscentos e noventa e nove reais e noventa e oito centavos)",
+      "first_auction_minimum_bid": 128166.2,
+      "second_auction_minimum_bid": 160573.8,
+      "description": "Nº DO BEM: 521344490 SÃO LEOPOLDO (RS) Descrição: IMÓVEL DE MATRÍCULA 78096 DO OFÍCIO DE REGISTRO DE IMÓVEIS DE SÃO LEOPOLDO-RS, ASSIM DESCRITO: Apartamento nº 219, com área privativa de 39,05m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 75538 Localização: R. Acapulco, 294, AP. 219, BL E, Cond. Res. Acapulco, São João Batista, São Leopoldo-RS, CEP 93022-590 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 128.166,20 (cento e vinte e oito mil cento e sessenta e seis reais e vinte centavos) Lance mínimo para arrematação em 2º leilão: R$ 160.573,80 (cento e sessenta mil, quinhentos e setenta e três reais e oitenta centavos)",
       "observations": [
         "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
         "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
       ],
       "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "177893",
-      "registry_office": "SERVIÇO REGISTRAL DE IMÓVEIS - 1ª ZONA DE CAXIAS DO SUL-RS",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27826",
+      "registry_number": "78096",
+      "registry_office": "OFÍCIO DE REGISTRO DE IMÓVEIS DE SÃO LEOPOLDO-RS",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27836",
       "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12072_1.jpg"
+        "https://www.seuimovelbb.com.br/imagem/imovel/12082_1.jpg"
       ],
-      "latitude": -29.162464,
-      "longitude": -51.21502,
+      "latitude": -29.793867,
+      "longitude": -51.168044,
       "documents": {
         "edital_url": null,
         "matricula_url": null
@@ -144,32 +142,32 @@
     },
     {
       "source_type": "bb",
-      "source_external_id": "12073",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12073",
+      "source_external_id": "12084",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12084",
       "external_reference": null,
-      "city": "Caxias do Sul",
+      "city": "Sapucaia do Sul",
       "state": "RS",
-      "address": "R. Sinimbu, 2440, AP. 301, Ed. Importadora Comercial, São Pelegrino, Caxias do Sul-RS, CEP 95020-510",
-      "asking_price": 226904.83,
-      "price_display": "R$ 226.904,83",
+      "address": "Av. Lúcio Bittencourt, 1350, AP. 104, BL 08, Cond. Porto de Nápolis, Centro, Sapucaia do Sul-RS, CEP 93214-170",
+      "asking_price": 136300.0,
+      "price_display": "R$ 136.300,00",
       "sale_modality_hint": null,
       "auction_date_raw": "23/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": 226904.83,
-      "second_auction_minimum_bid": 185359.61,
-      "description": "Nº DO BEM: 525550248 CAXIAS DO SUL (RS) Descrição: IMÓVEL DE MATRÍCULA 64885 DO SERVIÇO REGISTRAL DE IMÓVEIS 1ª ZONA DE CAXIAS DO SUL-RS, ASSIM DESCRITO: Apartamento nº 301, com área privativa de 82,058m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 44081736001012 Localização: R. Sinimbu, 2440, AP. 301, Ed. Importadora Comercial, São Pelegrino, Caxias do Sul-RS, CEP 95020-510 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 226.904,83 (duzentos e vinte e seis mil novecentos e quatro reais e oitenta e três centavos) Lance mínimo para arrematação em 2º leilão: R$ 185.359,61 (cento e oitenta e cinco mil, trezentos e cinquenta e nove reais e sessenta e um centavos)",
+      "first_auction_minimum_bid": 136300.0,
+      "second_auction_minimum_bid": 220261.49,
+      "description": "Nº DO BEM: 515240866 SAPUCAIA DO SUL (RS) Descrição: IMÓVEL DE MATRÍCULA 40336 DO REGISTRO DE IMÓVEIS DE SAPUCAIA DO SUL-RS, ASSIM DESCRITO: Apartamento nº 104, com área real privativa de 36,69m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 04G76.19.006.11.00.284 Localização: Av. Lúcio Bittencourt, 1350, AP. 104, BL 08, Cond. Porto de Nápolis, Centro, Sapucaia do Sul-RS, CEP 93214-170 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Obs.3: Consta PENHORA conforme Av. 10 da matrícula, referente ao processo nº 035/1.16.0006164-0. Nos termos do § 11 do artigo 27 da Lei nº 9.514/97, os direitos reais de garantia ou constrições, tais como penhoras, arrestos, bloqueios e indisponibilidades de qualquer natureza incidentes sobre o direito real de aquisição do fiduciante, não impedem a consolidação da propriedade em nome do credor fiduciário nem a venda do imóvel para realização da garantia. Lance mínimo para arrematação em 1º leilão: R$ 136.300,00 (cento e trinta e seis mil e trezentos reais) Lance mínimo para arrematação em 2º leilão: R$ 220.261,49 (duzentos e vinte mil, duzentos e sessenta e um reais e quarenta e nove centavos)",
       "observations": [
         "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
         "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
       ],
       "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "64885",
-      "registry_office": "SERVIÇO REGISTRAL DE IMÓVEIS 1ª ZONA DE CAXIAS DO SUL-RS",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27827",
+      "registry_number": "40336",
+      "registry_office": "REGISTRO DE IMÓVEIS DE SAPUCAIA DO SUL-RS",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27838",
       "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12073_1.jpg"
+        "https://www.seuimovelbb.com.br/imagem/imovel/12084_1.jpg"
       ],
-      "latitude": -29.169048,
-      "longitude": -51.186305,
+      "latitude": -29.817535,
+      "longitude": -51.162241,
       "documents": {
         "edital_url": null,
         "matricula_url": null
@@ -212,6 +210,142 @@
     },
     {
       "source_type": "bb",
+      "source_external_id": "12083",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12083",
+      "external_reference": null,
+      "city": "São Leopoldo",
+      "state": "RS",
+      "address": "Av. Albino Timm, 7-B, Lt. 07, Qd. 1.658, Conj. Hab. Cohab Feitoria, Feitoria, São Leopoldo-RS, CEP 93056-000",
+      "asking_price": 157943.99,
+      "price_display": "R$ 157.943,99",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 157943.99,
+      "second_auction_minimum_bid": 267783.75,
+      "description": "Nº DO BEM: 520928635 SÃO LEOPOLDO (RS) Descrição: IMÓVEL DE MATRÍCULA 66661 DO OFÍCIO DE REGISTRO DE IMÓVEIS DE SÃO LEOPOLDO-RS, ASSIM DESCRITO: Casa de Alvenaria nº 7-B, com área real total de 37,80m² e respectivo terreno com área total de 240,00m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 48539 Localização: Av. Albino Timm, 7-B, Lt. 07, Qd. 1.658, Conj. Hab. Cohab Feitoria, Feitoria, São Leopoldo-RS, CEP 93056-000 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 157.943,99 (cento e cinquenta e sete mil novecentos e quarenta e três reais e noventa e nove centavos) Lance mínimo para arrematação em 2º leilão: R$ 267.783,75 (duzentos e sessenta e sete mil, setecentos e oitenta e três reais e setenta e cinco centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "66661",
+      "registry_office": "OFÍCIO DE REGISTRO DE IMÓVEIS DE SÃO LEOPOLDO-RS",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27837",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12083_1.jpg"
+      ],
+      "latitude": -29.752916,
+      "longitude": -51.091281,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12085",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12085",
+      "external_reference": null,
+      "city": "Sapucaia do Sul",
+      "state": "RS",
+      "address": "R. Dona Ernestina, 417, AP. 101, BL 5, Cond. Res. Nicolau Kuhn, Pasqualini, Sapucaia do Sul-RS, CEP 93224-498",
+      "asking_price": 160404.42,
+      "price_display": "R$ 160.404,42",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 160404.42,
+      "second_auction_minimum_bid": 190398.71,
+      "description": "Nº DO BEM: 530516973 SAPUCAIA DO SUL (RS) Descrição: IMÓVEL DE MATRÍCULA 28079 DO REGISTRO DE IMÓVEIS DE SAPUCAIA DO SUL-RS, ASSIM DESCRITO: Apartamento nº 101, com área real privativa de 38,815m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 94860040 Localização: R. Dona Ernestina, 417, AP. 101, BL 5, Cond. Res. Nicolau Kuhn, Pasqualini, Sapucaia do Sul-RS, CEP 93224-498 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 160.404,42 (cento e sessenta mil quatrocentos e quatro reais e quarenta e dois centavos) Lance mínimo para arrematação em 2º leilão: R$ 190.398,71 (cento e noventa mil, trezentos e noventa e oito reais e setenta e um centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "28079",
+      "registry_office": "REGISTRO DE IMÓVEIS DE SAPUCAIA DO SUL-RS",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27839",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12085_1.jpg"
+      ],
+      "latitude": -29.837207,
+      "longitude": -51.13142,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12071",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12071",
+      "external_reference": null,
+      "city": "Caxias do Sul",
+      "state": "RS",
+      "address": "R. Gécio Alves de Oliveira, 372, AP. 105, BL A, Res. Sollarium Caxias, São Caetano, Caxias do Sul-RS, CEP 95095-130",
+      "asking_price": 172000.0,
+      "price_display": "R$ 172.000,00",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 172000.0,
+      "second_auction_minimum_bid": 189956.07,
+      "description": "Nº DO BEM: 516210388 CAXIAS DO SUL (RS) Descrição: VENDA CONJUNTA DOS IMÓVEIS DE MATRÍCULAS 153.251 e 153.172 DO CARTÓRIO DE REGISTRO DE IMÓVEIS 1ª ZONA DE CAXIAS DO SUL-RS, ASSIM DESCRITO: Apartamento nº 105, com área privativa de 51,716m², melhor descrito(a) e caracterizado(a) na respectiva matrícula 153.251, valor de venda em 1º leilão: 139.612,30 (cento e trinta e nove mil, seiscentos e doze reais e trinta centavos) e 2º leilão: R$ 154.197,50 (cento e cinquenta e quatro mil, cento e noventa e sete reais e cinquenta centavos) b) Box nº 19 com área privativa real de 12,00m², melhor descrito(a) e caracterizado(a) na respectiva matrícula 153.172, valor de venda em 1º leilão: R$ 32.387,70 (trinta e dois mil, trezentos e oitenta e sete reais e setenta centavos) e 2º leilão: R$ 35.758,57 (trinta e cinco mil, setecentos e cinquenta e oito reais e cinquenta e sete centavos) Inscrição Imobiliária: 52.01.3945.025.005 e 52.01.3945.025.211 Localização: R. Gécio Alves de Oliveira, 372, AP. 105, BL A, Res. Sollarium Caxias, São Caetano, Caxias do Sul-RS, CEP 95095-130 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Obs.3: Consta PENHORA conforme Av. 9 da matrícula, referente ao processo nº 5013674-94.2025.8.21.0010/RS. Nos termos do § 11 do artigo 27 da Lei nº 9.514/97, os direitos reais de garantia ou constrições, tais como penhoras, arrestos, bloqueios e indisponibilidades de qualquer natureza incidentes sobre o direito real de aquisição do fiduciante, não impedem a consolidação da propriedade em nome do credor fiduciário nem a venda do imóvel para realização da garantia. Lance mínimo para arrematação em 1º leilão: R$ 172.000,00 (cento e setenta e dois mil reais) Lance mínimo para arrematação em 2º leilão: R$ 189.956,07 (cento e oitenta e nove mil, novecentos e cinquenta e seis reais e sete centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "153.251",
+      "registry_office": null,
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27825",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12071_1.jpg"
+      ],
+      "latitude": -29.20323,
+      "longitude": -51.205389,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12081",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12081",
+      "external_reference": null,
+      "city": "Porto Alegre",
+      "state": "RS",
+      "address": "R. Gabriel Franco da Luz, 560, AP. 303, T A - Avanti, Sarandi, Porto Alegre-RS, CEP 91120-415",
+      "asking_price": 172531.45,
+      "price_display": "R$ 172.531,45",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 172531.45,
+      "second_auction_minimum_bid": 274736.65,
+      "description": "Nº DO BEM: 513132859 PORTO ALEGRE (RS) Descrição: VENDA CONJUNTA DOS IMÓVEIS DE MATRÍCULAS 171.251 e 171.779 DO REGISTRO DE IMÓVEIS DA 4ª ZONA DE PORTO ALEGRE-RS, ASSIM DESCRITO: Apartamento nº 303, com área real privativa de 42,27m², melhor descrito(a) e caracterizado(a) na respectiva matrícula 171.251, valor de venda em 1º leilão: 137.999,98 (cento e trinta e sete mil e novecentos e noventa e nove reais e noventa e oito centavos) e 2º leilão: R$ 219.758,52 (duzentos e dezenove mil e setecentos e cinquenta e oito reais e cinquenta e dois centavos) b) Box 261 com área privativa real de 10,58m², melhor descrito(a) e caracterizado(a) na respectiva matrícula 171.779, valor de venda em 1º leilão: R$ 34.531,47 (trinta e quatro mil e quinhentos e trinta e um reais e quarenta e sete centavos) e 2º leilão: R$ 54.978,13 (cinquenta e quatro mil, novecentos e setenta e oito reais e treze centavos) Inscrição Imobiliária: 100111222 - 100111788 Localização: R. Gabriel Franco da Luz, 560, AP. 303, T A - Avanti, Sarandi, Porto Alegre-RS, CEP 91120-415 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 172.531,45 (cento e setenta e dois mil quinhentos e trinta e um reais e quarenta e cinco centavos) Lance mínimo para arrematação em 2º leilão: R$ 274.736,65 (duzentos e setenta e quatro mil, setecentos e trinta e seis reais e sessenta e cinco centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "171.251",
+      "registry_office": null,
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27835",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12081_1.jpg"
+      ],
+      "latitude": -29.981472,
+      "longitude": -51.123602,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
       "source_external_id": "12075",
       "source_url": "https://www.seuimovelbb.com.br/imovel/id/12075",
       "external_reference": null,
@@ -246,103 +380,32 @@
     },
     {
       "source_type": "bb",
-      "source_external_id": "12076",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12076",
+      "source_external_id": "12072",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12072",
       "external_reference": null,
-      "city": "Gravataí",
+      "city": "Caxias do Sul",
       "state": "RS",
-      "address": "Av. Dorival Cândido Luz de Oliveira, 3.520, AP. 205, BL 08, Cond. Res. Porto Centro, São Jerônimo, Gravataí-RS, CEP 94040-000",
-      "asking_price": 200000.0,
-      "price_display": "R$ 200.000,00",
+      "address": "R. Luiz Covolan, 3154, AP. 207, Box 128, Res. Jd. da Cidade, Industrial, Caxias do Sul-RS, CEP 95112-889",
+      "asking_price": 178583.65,
+      "price_display": "R$ 178.583,65",
       "sale_modality_hint": null,
       "auction_date_raw": "23/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": 200000.0,
-      "second_auction_minimum_bid": 249170.54,
-      "description": "Nº DO BEM: 517123230 GRAVATAÍ (RS) Descrição: IMÓVEL DE MATRÍCULA 112050 DO REGISTRO DE IMÓVEIS DE GRAVATAÍ-RS, ASSIM DESCRITO: Apartamento nº 205, com área real privativa coberta de 45,66m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 1034280093001360 Localização: Av. Dorival Cândido Luz de Oliveira, 3.520, AP. 205, BL 08, Cond. Res. Porto Centro, São Jerônimo, Gravataí-RS, CEP 94040-000 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 200.000,00 (duzentos mil reais) Lance mínimo para arrematação em 2º leilão: R$ 249.170,54 (duzentos e quarenta e nove mil, cento e setenta reais e cinquenta e quatro centavos)",
+      "first_auction_minimum_bid": 178583.65,
+      "second_auction_minimum_bid": 123699.98,
+      "description": "Nº DO BEM: 527183476 CAXIAS DO SUL (RS) Descrição: IMÓVEL DE MATRÍCULA 177893 DO SERVIÇO REGISTRAL DE IMÓVEIS - 1ª ZONA DE CAXIAS DO SUL-RS, ASSIM DESCRITO: Apartamento nº 207, com área real privativa de 66,3662m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 44012838003007 Localização: R. Luiz Covolan, 3154, AP. 207, Box 128, Res. Jd. da Cidade, Industrial, Caxias do Sul-RS, CEP 95112-889 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 178.583,65 (cento e setenta e oito mil quinhentos e oitenta e três reais e sessenta e cinco centavos) Lance mínimo para arrematação em 2º leilão: R$ 123.699,98 (cento e vinte e três mil, seiscentos e noventa e nove reais e noventa e oito centavos)",
       "observations": [
         "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
         "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
       ],
       "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "112050",
-      "registry_office": "REGISTRO DE IMÓVEIS DE GRAVATAÍ-RS",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27830",
+      "registry_number": "177893",
+      "registry_office": "SERVIÇO REGISTRAL DE IMÓVEIS - 1ª ZONA DE CAXIAS DO SUL-RS",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27826",
       "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12076_1.jpg"
+        "https://www.seuimovelbb.com.br/imagem/imovel/12072_1.jpg"
       ],
-      "latitude": -29.936717,
-      "longitude": -51.028606,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "12077",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12077",
-      "external_reference": null,
-      "city": "Imbé",
-      "state": "RS",
-      "address": "R. Vinte e Quatro, 203, Harmonia, Imbé-RS, CEP 95625-000",
-      "asking_price": 390000.0,
-      "price_display": "R$ 390.000,00",
-      "sale_modality_hint": null,
-      "auction_date_raw": "23/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": 390000.0,
-      "second_auction_minimum_bid": 237308.25,
-      "description": "Nº DO BEM: 509374083 TRAMANDAÍ (RS) Descrição: IMÓVEL DE MATRÍCULA 11809 DO REGISTRO DE IMÓVEIS DA COMARCA DE TRAMANDAÍ-RS, ASSIM DESCRITO: Casa, com área construída de 176,70m² e terreno com área total de 325,00m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 221030200090000992 Localização: R. Vinte e Quatro, 203, Harmonia, Imbé-RS, CEP 95625-000 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 390.000,00 (trezentos e noventa mil reais) Lance mínimo para arrematação em 2º leilão: R$ 237.308,25 (duzentos e trinta e sete mil, trezentos e oito reais e vinte e cinco centavos)",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "11809",
-      "registry_office": "REGISTRO DE IMÓVEIS DA COMARCA DE TRAMANDAÍ-RS",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27831",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12077_1.jfif",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12077_2.jfif",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12077_3.jfif",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12077_4.jfif"
-      ],
-      "latitude": -29.917131,
-      "longitude": -50.092701,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "12078",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12078",
-      "external_reference": null,
-      "city": "Lajedo",
-      "state": "RS",
-      "address": "R. Projetada 03, 74, Lt. 12, QD. C, Lot. J.R. Monteiro, Lajedo-PE, CEP 55385-000",
-      "asking_price": 100763.13,
-      "price_display": "R$ 100.763,13",
-      "sale_modality_hint": null,
-      "auction_date_raw": "23/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": 100763.13,
-      "second_auction_minimum_bid": 72020.2,
-      "description": "Nº DO BEM: 516265234 LAJEDO (PE) Descrição: IMÓVEL DE MATRÍCULA 4368 DO CARTÓRIO FERNANDES BARROS DE LAJEDO-PE, ASSIM DESCRITO: Casa de residência, com área de 93,60m² e respectivo terreno com área total de 120,00m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 01.01.166.0012.001 Localização: R. Projetada 03, 74, Lt. 12, QD. C, Lot. J.R. Monteiro, Lajedo-PE, CEP 55385-000 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 100.763,13 (cem mil setecentos e sessenta e três reais e treze centavos) Lance mínimo para arrematação em 2º leilão: R$ 72.020,20 (setenta e dois mil e vinte reais e vinte centavos)",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "4368",
-      "registry_office": "CARTÓRIO FERNANDES BARROS DE LAJEDO-PE",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27832",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12078_1.jpg"
-      ],
-      "latitude": -8.647554,
-      "longitude": -36.341055,
+      "latitude": -29.162464,
+      "longitude": -51.21502,
       "documents": {
         "edital_url": null,
         "matricula_url": null
@@ -419,32 +482,32 @@
     },
     {
       "source_type": "bb",
-      "source_external_id": "12081",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12081",
+      "source_external_id": "12076",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12076",
       "external_reference": null,
-      "city": "Porto Alegre",
+      "city": "Gravataí",
       "state": "RS",
-      "address": "R. Gabriel Franco da Luz, 560, AP. 303, T A - Avanti, Sarandi, Porto Alegre-RS, CEP 91120-415",
-      "asking_price": 172531.45,
-      "price_display": "R$ 172.531,45",
+      "address": "Av. Dorival Cândido Luz de Oliveira, 3.520, AP. 205, BL 08, Cond. Res. Porto Centro, São Jerônimo, Gravataí-RS, CEP 94040-000",
+      "asking_price": 200000.0,
+      "price_display": "R$ 200.000,00",
       "sale_modality_hint": null,
       "auction_date_raw": "23/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": 172531.45,
-      "second_auction_minimum_bid": 274736.65,
-      "description": "Nº DO BEM: 513132859 PORTO ALEGRE (RS) Descrição: VENDA CONJUNTA DOS IMÓVEIS DE MATRÍCULAS 171.251 e 171.779 DO REGISTRO DE IMÓVEIS DA 4ª ZONA DE PORTO ALEGRE-RS, ASSIM DESCRITO: Apartamento nº 303, com área real privativa de 42,27m², melhor descrito(a) e caracterizado(a) na respectiva matrícula 171.251, valor de venda em 1º leilão: 137.999,98 (cento e trinta e sete mil e novecentos e noventa e nove reais e noventa e oito centavos) e 2º leilão: R$ 219.758,52 (duzentos e dezenove mil e setecentos e cinquenta e oito reais e cinquenta e dois centavos) b) Box 261 com área privativa real de 10,58m², melhor descrito(a) e caracterizado(a) na respectiva matrícula 171.779, valor de venda em 1º leilão: R$ 34.531,47 (trinta e quatro mil e quinhentos e trinta e um reais e quarenta e sete centavos) e 2º leilão: R$ 54.978,13 (cinquenta e quatro mil, novecentos e setenta e oito reais e treze centavos) Inscrição Imobiliária: 100111222 - 100111788 Localização: R. Gabriel Franco da Luz, 560, AP. 303, T A - Avanti, Sarandi, Porto Alegre-RS, CEP 91120-415 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 172.531,45 (cento e setenta e dois mil quinhentos e trinta e um reais e quarenta e cinco centavos) Lance mínimo para arrematação em 2º leilão: R$ 274.736,65 (duzentos e setenta e quatro mil, setecentos e trinta e seis reais e sessenta e cinco centavos)",
+      "first_auction_minimum_bid": 200000.0,
+      "second_auction_minimum_bid": 249170.54,
+      "description": "Nº DO BEM: 517123230 GRAVATAÍ (RS) Descrição: IMÓVEL DE MATRÍCULA 112050 DO REGISTRO DE IMÓVEIS DE GRAVATAÍ-RS, ASSIM DESCRITO: Apartamento nº 205, com área real privativa coberta de 45,66m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 1034280093001360 Localização: Av. Dorival Cândido Luz de Oliveira, 3.520, AP. 205, BL 08, Cond. Res. Porto Centro, São Jerônimo, Gravataí-RS, CEP 94040-000 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 200.000,00 (duzentos mil reais) Lance mínimo para arrematação em 2º leilão: R$ 249.170,54 (duzentos e quarenta e nove mil, cento e setenta reais e cinquenta e quatro centavos)",
       "observations": [
         "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
         "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
       ],
       "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "171.251",
-      "registry_office": null,
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27835",
+      "registry_number": "112050",
+      "registry_office": "REGISTRO DE IMÓVEIS DE GRAVATAÍ-RS",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27830",
       "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12081_1.jpg"
+        "https://www.seuimovelbb.com.br/imagem/imovel/12076_1.jpg"
       ],
-      "latitude": -29.981472,
-      "longitude": -51.123602,
+      "latitude": -29.936717,
+      "longitude": -51.028606,
       "documents": {
         "edital_url": null,
         "matricula_url": null
@@ -453,32 +516,32 @@
     },
     {
       "source_type": "bb",
-      "source_external_id": "12082",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12082",
+      "source_external_id": "12073",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12073",
       "external_reference": null,
-      "city": "São Leopoldo",
+      "city": "Caxias do Sul",
       "state": "RS",
-      "address": "R. Acapulco, 294, AP. 219, BL E, Cond. Res. Acapulco, São João Batista, São Leopoldo-RS, CEP 93022-590",
-      "asking_price": 128166.2,
-      "price_display": "R$ 128.166,20",
+      "address": "R. Sinimbu, 2440, AP. 301, Ed. Importadora Comercial, São Pelegrino, Caxias do Sul-RS, CEP 95020-510",
+      "asking_price": 226904.83,
+      "price_display": "R$ 226.904,83",
       "sale_modality_hint": null,
       "auction_date_raw": "23/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": 128166.2,
-      "second_auction_minimum_bid": 160573.8,
-      "description": "Nº DO BEM: 521344490 SÃO LEOPOLDO (RS) Descrição: IMÓVEL DE MATRÍCULA 78096 DO OFÍCIO DE REGISTRO DE IMÓVEIS DE SÃO LEOPOLDO-RS, ASSIM DESCRITO: Apartamento nº 219, com área privativa de 39,05m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 75538 Localização: R. Acapulco, 294, AP. 219, BL E, Cond. Res. Acapulco, São João Batista, São Leopoldo-RS, CEP 93022-590 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 128.166,20 (cento e vinte e oito mil cento e sessenta e seis reais e vinte centavos) Lance mínimo para arrematação em 2º leilão: R$ 160.573,80 (cento e sessenta mil, quinhentos e setenta e três reais e oitenta centavos)",
+      "first_auction_minimum_bid": 226904.83,
+      "second_auction_minimum_bid": 185359.61,
+      "description": "Nº DO BEM: 525550248 CAXIAS DO SUL (RS) Descrição: IMÓVEL DE MATRÍCULA 64885 DO SERVIÇO REGISTRAL DE IMÓVEIS 1ª ZONA DE CAXIAS DO SUL-RS, ASSIM DESCRITO: Apartamento nº 301, com área privativa de 82,058m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 44081736001012 Localização: R. Sinimbu, 2440, AP. 301, Ed. Importadora Comercial, São Pelegrino, Caxias do Sul-RS, CEP 95020-510 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 226.904,83 (duzentos e vinte e seis mil novecentos e quatro reais e oitenta e três centavos) Lance mínimo para arrematação em 2º leilão: R$ 185.359,61 (cento e oitenta e cinco mil, trezentos e cinquenta e nove reais e sessenta e um centavos)",
       "observations": [
         "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
         "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
       ],
       "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "78096",
-      "registry_office": "OFÍCIO DE REGISTRO DE IMÓVEIS DE SÃO LEOPOLDO-RS",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27836",
+      "registry_number": "64885",
+      "registry_office": "SERVIÇO REGISTRAL DE IMÓVEIS 1ª ZONA DE CAXIAS DO SUL-RS",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27827",
       "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12082_1.jpg"
+        "https://www.seuimovelbb.com.br/imagem/imovel/12073_1.jpg"
       ],
-      "latitude": -29.793867,
-      "longitude": -51.168044,
+      "latitude": -29.169048,
+      "longitude": -51.186305,
       "documents": {
         "edital_url": null,
         "matricula_url": null
@@ -487,277 +550,35 @@
     },
     {
       "source_type": "bb",
-      "source_external_id": "12083",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12083",
-      "external_reference": null,
-      "city": "São Leopoldo",
+      "source_external_id": "7166",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/7166",
+      "external_reference": "1781",
+      "city": "Viamão",
       "state": "RS",
-      "address": "Av. Albino Timm, 7-B, Lt. 07, Qd. 1.658, Conj. Hab. Cohab Feitoria, Feitoria, São Leopoldo-RS, CEP 93056-000",
-      "asking_price": 157943.99,
-      "price_display": "R$ 157.943,99",
-      "sale_modality_hint": null,
-      "auction_date_raw": "23/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": 157943.99,
-      "second_auction_minimum_bid": 267783.75,
-      "description": "Nº DO BEM: 520928635 SÃO LEOPOLDO (RS) Descrição: IMÓVEL DE MATRÍCULA 66661 DO OFÍCIO DE REGISTRO DE IMÓVEIS DE SÃO LEOPOLDO-RS, ASSIM DESCRITO: Casa de Alvenaria nº 7-B, com área real total de 37,80m² e respectivo terreno com área total de 240,00m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 48539 Localização: Av. Albino Timm, 7-B, Lt. 07, Qd. 1.658, Conj. Hab. Cohab Feitoria, Feitoria, São Leopoldo-RS, CEP 93056-000 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 157.943,99 (cento e cinquenta e sete mil novecentos e quarenta e três reais e noventa e nove centavos) Lance mínimo para arrematação em 2º leilão: R$ 267.783,75 (duzentos e sessenta e sete mil, setecentos e oitenta e três reais e setenta e cinco centavos)",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "66661",
-      "registry_office": "OFÍCIO DE REGISTRO DE IMÓVEIS DE SÃO LEOPOLDO-RS",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27837",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12083_1.jpg"
-      ],
-      "latitude": -29.752916,
-      "longitude": -51.091281,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "12084",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12084",
-      "external_reference": null,
-      "city": "Sapucaia do Sul",
-      "state": "RS",
-      "address": "Av. Lúcio Bittencourt, 1350, AP. 104, BL 08, Cond. Porto de Nápolis, Centro, Sapucaia do Sul-RS, CEP 93214-170",
-      "asking_price": 136300.0,
-      "price_display": "R$ 136.300,00",
-      "sale_modality_hint": null,
-      "auction_date_raw": "23/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": 136300.0,
-      "second_auction_minimum_bid": 220261.49,
-      "description": "Nº DO BEM: 515240866 SAPUCAIA DO SUL (RS) Descrição: IMÓVEL DE MATRÍCULA 40336 DO REGISTRO DE IMÓVEIS DE SAPUCAIA DO SUL-RS, ASSIM DESCRITO: Apartamento nº 104, com área real privativa de 36,69m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 04G76.19.006.11.00.284 Localização: Av. Lúcio Bittencourt, 1350, AP. 104, BL 08, Cond. Porto de Nápolis, Centro, Sapucaia do Sul-RS, CEP 93214-170 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Obs.3: Consta PENHORA conforme Av. 10 da matrícula, referente ao processo nº 035/1.16.0006164-0. Nos termos do § 11 do artigo 27 da Lei nº 9.514/97, os direitos reais de garantia ou constrições, tais como penhoras, arrestos, bloqueios e indisponibilidades de qualquer natureza incidentes sobre o direito real de aquisição do fiduciante, não impedem a consolidação da propriedade em nome do credor fiduciário nem a venda do imóvel para realização da garantia. Lance mínimo para arrematação em 1º leilão: R$ 136.300,00 (cento e trinta e seis mil e trezentos reais) Lance mínimo para arrematação em 2º leilão: R$ 220.261,49 (duzentos e vinte mil, duzentos e sessenta e um reais e quarenta e nove centavos)",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "40336",
-      "registry_office": "REGISTRO DE IMÓVEIS DE SAPUCAIA DO SUL-RS",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27838",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12084_1.jpg"
-      ],
-      "latitude": -29.817535,
-      "longitude": -51.162241,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "12085",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12085",
-      "external_reference": null,
-      "city": "Sapucaia do Sul",
-      "state": "RS",
-      "address": "R. Dona Ernestina, 417, AP. 101, BL 5, Cond. Res. Nicolau Kuhn, Pasqualini, Sapucaia do Sul-RS, CEP 93224-498",
-      "asking_price": 160404.42,
-      "price_display": "R$ 160.404,42",
-      "sale_modality_hint": null,
-      "auction_date_raw": "23/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": 160404.42,
-      "second_auction_minimum_bid": 190398.71,
-      "description": "Nº DO BEM: 530516973 SAPUCAIA DO SUL (RS) Descrição: IMÓVEL DE MATRÍCULA 28079 DO REGISTRO DE IMÓVEIS DE SAPUCAIA DO SUL-RS, ASSIM DESCRITO: Apartamento nº 101, com área real privativa de 38,815m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 94860040 Localização: R. Dona Ernestina, 417, AP. 101, BL 5, Cond. Res. Nicolau Kuhn, Pasqualini, Sapucaia do Sul-RS, CEP 93224-498 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 160.404,42 (cento e sessenta mil quatrocentos e quatro reais e quarenta e dois centavos) Lance mínimo para arrematação em 2º leilão: R$ 190.398,71 (cento e noventa mil, trezentos e noventa e oito reais e setenta e um centavos)",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "28079",
-      "registry_office": "REGISTRO DE IMÓVEIS DE SAPUCAIA DO SUL-RS",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27839",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12085_1.jpg"
-      ],
-      "latitude": -29.837207,
-      "longitude": -51.13142,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "12234",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12234",
-      "external_reference": "97720",
-      "city": "Farroupilha",
-      "state": "RS",
-      "address": "Av. das Indústrias, Lote 188, Quadra 05, do Condomínio Industrial Greentec",
-      "asking_price": null,
-      "price_display": "Aceita BB?",
-      "sale_modality_hint": "aceita_bb",
-      "auction_date_raw": "13/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": null,
-      "second_auction_minimum_bid": null,
-      "description": "ID97720 FARROUPILHA (RS) Descrição legal: Imóvel Urbano, Terreno Industrial situado na Av. das Indústrias, Lote 188, Quadra 05, do Condomínio Industrial Greentec, Município de Farroupilha - RS. Melhor descrito na matrícula 32885 do Registro de Imóveis de Farroupilha - RS. a) Imóvel possui área de preservação permanente e área não edificante e o arrematante se declara informado do fato, assumindo a responsabilidade pelos riscos, providências e custas necessárias para a manutenção das restrições relativas ao uso da área de preservação permanente e, quando for o caso, da reserva legal, nos exatos termos da legislação ambiental.",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": null,
-      "registry_number": "32885",
-      "registry_office": "Registro de Imóveis de Farroupilha - RS",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27964",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12234_1.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12234_2.jpeg"
-      ],
-      "latitude": -29.2232949,
-      "longitude": -51.3253988,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "12258",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12258",
-      "external_reference": "75232",
-      "city": "Colorado",
-      "state": "RS",
-      "address": "Rua Assis Brasil,585- Centro - Colorado/RS",
-      "asking_price": 1190000.0,
-      "price_display": "R$ 1.190.000,00",
-      "sale_modality_hint": null,
-      "auction_date_raw": "20/10/2026 a partir das 11h00",
-      "first_auction_minimum_bid": null,
-      "second_auction_minimum_bid": null,
-      "description": "ID75232 COLORADO (RS) Descrição legal: Imóvel Urbano: Prédio Comercial, situado na Rua Assis Brasil,585- Centro - Colorado/RS. Melhor descrito na Matrícula 1484 do CRI de Colorado/RS. a) Do imóvel adquirido na presente licitação será obrigatoriamente locado ao BANCO do Brasil S/A, sendo que o Banco do Brasil alugará integralmente o imóvel; b) Prazo da Locação: (por até 60 meses); c) O adquirente se submete às todos os itens previstas na Cláusula 3.2 do ANEXO 7 deste edital; d) Valor de locação inicialmente estabelecido será de R$ 7.735,00; e) Caberá ao arrematante, às suas custas e após a compra, quaisquer providências por eventual necessidade de desembaraço e regularização documental do imóvel arrematado, como abertura de matrícula, regularização da área encontrada na matrícula e no cadastro na Prefeitura, entre outros. f) O arrematante se declara ciente de que está em curso a realização de obras na agência.",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": null,
-      "registry_number": "1484",
-      "registry_office": "CRI de Colorado/RS",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27986",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12258_1.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12258_2.jpg"
-      ],
-      "latitude": -29.695503,
-      "longitude": -51.458782,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "12259",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12259",
-      "external_reference": "74345",
-      "city": "São Gabriel",
-      "state": "RS",
-      "address": "PRAÇA DOUTOR FERNANDO ABBOTT, 23 CENTRO- SAO GABRIEL - RS",
-      "asking_price": 5780000.0,
-      "price_display": "R$ 5.780.000,00",
-      "sale_modality_hint": null,
-      "auction_date_raw": "20/10/2026 a partir das 11h00",
-      "first_auction_minimum_bid": null,
-      "second_auction_minimum_bid": null,
-      "description": "ID74345 SÃO GABRIEL (RS) Descrição legal: Imóvel Urbano: Prédio Comercial, situado na PRAÇA DOUTOR FERNANDO ABBOTT, 23 CENTRO- SAO GABRIEL - RS. Melhor descrito na Matrícula 22.392 do CRI de SAO GABRIEL - RS. a) Do imóvel adquirido na presente licitação será obrigatoriamente locado ao BANCO do Brasil S/A, sendo que o Banco do Brasil alugará integralmente o imóvel; b) Prazo da Locação: (por até 60 meses); c) O adquirente se submete às todos os itens previstas na Cláusula 3.2 do ANEXO 7 deste edital; d) Valor de locação inicialmente estabelecido será de R$ 37.570,00; e) Caberá ao arrematante, às suas custas e após a compra, quaisquer providências por eventual necessidade de desembaraço e regularização documental do imóvel arrematado, como regularização da área no registro de imóvel, no cadastro na Prefeitura e a encontrada no local, entre outros. f) O arrematante declara estar ciente de que o imóvel possui áreas com acesso restrito, destinadas exclusivamente ao uso interno de funcionários do Banco do Brasil, sendo expressamente vedado o ingresso de terceiros. g) O arrematante se declara ciente de que está em curso a realização de obras na agência por conta do Banco.",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": null,
-      "registry_number": "22.392",
-      "registry_office": "CRI de SAO GABRIEL - RS",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27987",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12259_1.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12259_2.jpg"
-      ],
-      "latitude": -29.500113,
-      "longitude": -51.966351,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "12260",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12260",
-      "external_reference": "74770",
-      "city": "Soledade",
-      "state": "RS",
-      "address": "Av. Mal. Floriano Peixoto, 744, Centro, Soledade/ RS",
-      "asking_price": 3490000.0,
-      "price_display": "R$ 3.490.000,00",
-      "sale_modality_hint": null,
-      "auction_date_raw": "20/10/2026 a partir das 11h00",
-      "first_auction_minimum_bid": null,
-      "second_auction_minimum_bid": null,
-      "description": "ID74770 SOLEDADE (RS) Descrição legal: Imóvel Urbano: Prédio Comercial, situado na Av. Mal. Floriano Peixoto, 744, Centro, Soledade/ RS. Melhor descrito nas Matrículas 23492 e 8541 do CRI de Soledade/ RS. a) Do imóvel adquirido na presente licitação será obrigatoriamente locado ao BANCO do Brasil S/A, sendo que o Banco do Brasil alugará integralmente o imóvel; b) Prazo da Locação: (por até 60 meses); c) O adquirente se submete às todos os itens previstas na Cláusula 3.2 do ANEXO 7 deste edital; d) Valor de locação inicialmente estabelecido será de R$ 22.685,00; e) Caberá ao arrematante, às suas custas e após a compra, quaisquer providências por eventual necessidade de desembaraço e regularização documental do imóvel arrematado, como abertura de matrícula, regularização da área encontrada na matrícula e no cadastro na Prefeitura, entre outros. f) O arrematante se declara ciente de que está em curso a realização de obras na agência. g) O imóvel está vinculado a condomínio regularmente instituído. O adquirente declara estar ciente dessa condição e aceita integralmente a Convenção de Condomínio e o Regulamento Interno, obrigando-se a observá-los e a fazer constar, no instrumento de alienação, a ciência e aceitação dessas normas.",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": null,
-      "registry_number": null,
-      "registry_office": null,
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27988",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12260_1.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12260_2.jpg"
-      ],
-      "latitude": -28.831329,
-      "longitude": -52.512135,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "3057",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/3057",
-      "external_reference": "98842",
-      "city": "Venâncio Aires",
-      "state": "RS",
-      "address": null,
-      "asking_price": 127000.0,
-      "price_display": "R$ 127.000,00",
+      "address": "Rua Beco dos Guterres, nº 2565, Bairro Passo do Vigário",
+      "asking_price": 300000.0,
+      "price_display": "R$ 300.000,00",
       "sale_modality_hint": "proposta",
       "auction_date_raw": null,
       "first_auction_minimum_bid": null,
       "second_auction_minimum_bid": null,
-      "description": "ID98842 VENÂNCIO AIRES(RS) Descrição legal: Imóvel Urbano: Um terreno, contendo um prédio residencial , sob nº 844 da Rua Arnoldo Uhry. Correspondendo o dito terreno ao lote Administrativo nº 136 da quadra 2045, em Venâncio Aires / RS. Melhor descrito na matrícula nº 51286, do CRI de Venâncio Aires - RS. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente, conforme item 16.8 deste Edital.",
+      "description": "ID1781 VIAMÃO (RS)Descrição legal: Imóvel Urbano Residencial, Casa B-12, situada na Rua Beco dos Guterres, nº 2565, Bairro Passo do Vigário, Município de Viamão - RS. Melhor descrito na matrícula 53319 do Oficial de Registro de Imóveis de Viamão - RS. O BANCO DO BRASIL RESPONDE PELA EVICÇÃO.",
       "observations": [
         "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
         "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
       ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "51286",
-      "registry_office": null,
-      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=20419",
+      "occupancy_status": null,
+      "registry_number": "53319",
+      "registry_office": "Oficial de Registro de Imóveis de Viamão - RS",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/14609",
       "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/3057_1.jfif",
-        "https://www.seuimovelbb.com.br/imagem/imovel/3057_2.jfif",
-        "https://www.seuimovelbb.com.br/imagem/imovel/3057_3.jfif",
-        "https://www.seuimovelbb.com.br/imagem/imovel/3057_4.jfif"
+        "https://www.seuimovelbb.com.br/imagem/imovel/7166_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/7166_2.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/7166_3.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/7166_4.jpg"
       ],
-      "latitude": -29.6088241,
-      "longitude": -52.1762811,
+      "latitude": null,
+      "longitude": null,
       "documents": {
         "edital_url": null,
         "matricula_url": null
@@ -766,35 +587,35 @@
     },
     {
       "source_type": "bb",
-      "source_external_id": "3547",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/3547",
-      "external_reference": "74335",
-      "city": "Arroio do Meio",
+      "source_external_id": "12077",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12077",
+      "external_reference": null,
+      "city": "Imbé",
       "state": "RS",
-      "address": "Rua Mal. Floriano Peixoto, nº 310, Centro",
-      "asking_price": 1266500.0,
-      "price_display": "R$ 1.266.500,00",
-      "sale_modality_hint": "proposta",
-      "auction_date_raw": null,
-      "first_auction_minimum_bid": null,
-      "second_auction_minimum_bid": null,
-      "description": "ID74335 ARROIO DO MEIO (RS) Descrição legal: Imóvel Urbano: Prédio comercial situado na Rua Mal. Floriano Peixoto, nº 310, Centro, município de Arroio do Meio - RS. Melhor descrito na matrícula 2438 do Registro de Imóveis de Arroio do Meio - RS. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente, conforme item 16.8 deste Edital; b) O imóvel foi afetado pelas enchentes ocorridas no Rio Grande do Sul no ano de 2024, sofrendo danos nos seus sistemas de vedação, forro e possivelmente hídricos, elétricos e sanitários, e o arrematante se declara informado do fato. As providências e eventuais despesas para regularização dos danos correrão por conta do adquirente.",
+      "address": "R. Vinte e Quatro, 203, Harmonia, Imbé-RS, CEP 95625-000",
+      "asking_price": 390000.0,
+      "price_display": "R$ 390.000,00",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 390000.0,
+      "second_auction_minimum_bid": 237308.25,
+      "description": "Nº DO BEM: 509374083 TRAMANDAÍ (RS) Descrição: IMÓVEL DE MATRÍCULA 11809 DO REGISTRO DE IMÓVEIS DA COMARCA DE TRAMANDAÍ-RS, ASSIM DESCRITO: Casa, com área construída de 176,70m² e terreno com área total de 325,00m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 221030200090000992 Localização: R. Vinte e Quatro, 203, Harmonia, Imbé-RS, CEP 95625-000 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 390.000,00 (trezentos e noventa mil reais) Lance mínimo para arrematação em 2º leilão: R$ 237.308,25 (duzentos e trinta e sete mil, trezentos e oito reais e vinte e cinco centavos)",
       "observations": [
         "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
         "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
       ],
       "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "2438",
-      "registry_office": "Registro de Imóveis de Arroio do Meio - RS",
-      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=21499",
+      "registry_number": "11809",
+      "registry_office": "REGISTRO DE IMÓVEIS DA COMARCA DE TRAMANDAÍ-RS",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27831",
       "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/3547_1.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/3547_2.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/3547_3.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/3547_4.jpg"
+        "https://www.seuimovelbb.com.br/imagem/imovel/12077_1.jfif",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12077_2.jfif",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12077_3.jfif",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12077_4.jfif"
       ],
-      "latitude": -29.4033952,
-      "longitude": -51.9440665,
+      "latitude": -29.917131,
+      "longitude": -50.092701,
       "documents": {
         "edital_url": null,
         "matricula_url": null
@@ -840,35 +661,177 @@
     },
     {
       "source_type": "bb",
-      "source_external_id": "7166",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/7166",
-      "external_reference": "1781",
-      "city": "Viamão",
+      "source_external_id": "12258",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12258",
+      "external_reference": "75232",
+      "city": "Colorado",
       "state": "RS",
-      "address": "Rua Beco dos Guterres, nº 2565, Bairro Passo do Vigário",
-      "asking_price": 300000.0,
-      "price_display": "R$ 300.000,00",
-      "sale_modality_hint": "proposta",
-      "auction_date_raw": null,
+      "address": "Rua Assis Brasil,585- Centro - Colorado/RS",
+      "asking_price": 1190000.0,
+      "price_display": "R$ 1.190.000,00",
+      "sale_modality_hint": null,
+      "auction_date_raw": "20/10/2026 a partir das 11h00",
       "first_auction_minimum_bid": null,
       "second_auction_minimum_bid": null,
-      "description": "ID1781 VIAMÃO (RS)Descrição legal: Imóvel Urbano Residencial, Casa B-12, situada na Rua Beco dos Guterres, nº 2565, Bairro Passo do Vigário, Município de Viamão - RS. Melhor descrito na matrícula 53319 do Oficial de Registro de Imóveis de Viamão - RS. O BANCO DO BRASIL RESPONDE PELA EVICÇÃO.",
+      "description": "ID75232 COLORADO (RS) Descrição legal: Imóvel Urbano: Prédio Comercial, situado na Rua Assis Brasil,585- Centro - Colorado/RS. Melhor descrito na Matrícula 1484 do CRI de Colorado/RS. a) Do imóvel adquirido na presente licitação será obrigatoriamente locado ao BANCO do Brasil S/A, sendo que o Banco do Brasil alugará integralmente o imóvel; b) Prazo da Locação: (por até 60 meses); c) O adquirente se submete às todos os itens previstas na Cláusula 3.2 do ANEXO 7 deste edital; d) Valor de locação inicialmente estabelecido será de R$ 7.735,00; e) Caberá ao arrematante, às suas custas e após a compra, quaisquer providências por eventual necessidade de desembaraço e regularização documental do imóvel arrematado, como abertura de matrícula, regularização da área encontrada na matrícula e no cadastro na Prefeitura, entre outros. f) O arrematante se declara ciente de que está em curso a realização de obras na agência.",
       "observations": [
         "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
         "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
       ],
       "occupancy_status": null,
-      "registry_number": "53319",
-      "registry_office": "Oficial de Registro de Imóveis de Viamão - RS",
-      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/14609",
+      "registry_number": "1484",
+      "registry_office": "CRI de Colorado/RS",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27986",
       "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/7166_1.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/7166_2.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/7166_3.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/7166_4.jpg"
+        "https://www.seuimovelbb.com.br/imagem/imovel/12258_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12258_2.jpg"
+      ],
+      "latitude": -29.695503,
+      "longitude": -51.458782,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "3547",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/3547",
+      "external_reference": "74335",
+      "city": "Arroio do Meio",
+      "state": "RS",
+      "address": "Rua Mal. Floriano Peixoto, nº 310, Centro",
+      "asking_price": 1266500.0,
+      "price_display": "R$ 1.266.500,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID74335 ARROIO DO MEIO (RS) Descrição legal: Imóvel Urbano: Prédio comercial situado na Rua Mal. Floriano Peixoto, nº 310, Centro, município de Arroio do Meio - RS. Melhor descrito na matrícula 2438 do Registro de Imóveis de Arroio do Meio - RS. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente, conforme item 16.8 deste Edital; b) O imóvel foi afetado pelas enchentes ocorridas no Rio Grande do Sul no ano de 2024, sofrendo danos nos seus sistemas de vedação, forro e possivelmente hídricos, elétricos e sanitários, e o arrematante se declara informado do fato. As providências e eventuais despesas para regularização dos danos correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "2438",
+      "registry_office": "Registro de Imóveis de Arroio do Meio - RS",
+      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=21499",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/3547_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/3547_2.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/3547_3.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/3547_4.jpg"
+      ],
+      "latitude": -29.4033952,
+      "longitude": -51.9440665,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "10470",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/10470",
+      "external_reference": "74515",
+      "city": "Montenegro",
+      "state": "RS",
+      "address": "Rua Ramiro Barcelos, nº 1469, Centro, Montenegro (RS)",
+      "asking_price": 2961947.0,
+      "price_display": "R$ 2.961.947,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID74515 MONTENEGRO (RS) Descrição legal : Imóvel Urbano: Prédio Comercial, situado na Rua Ramiro Barcelos, nº 1469, Centro, Montenegro (RS). Melhor descrito na Matricula 30629 do CRI de Montenegro (RS). a) Caberá ao arrematante, às suas custas e após a compra, quaisquer providências por eventual necessidade de desembaraço e regularização documental do imóvel arrematado, como regularização da área no registro de imóvel, no cadastro na Prefeitura e a encontrada no local, entre outros. b) Unidade autônoma denominada Agência, localizada em edifício de ocupação mista. O conjunto de propriedade do BB compreende o pavimento térreo, os dois entrepisos, o segundo pavimento e o terceiro pavimento do prédio, totalizando área privativa de 976,36 m², área de uso comum de 46,74 m² e área global de 1.023,10 m². A unidade corresponde à fração ideal de 0,78644 do terreno do condomínio, cujo lote possui área total de 421,08 m². As unidades residenciais 201 e 301 não serão vendidas pois não pertencem ao Banco do Brasil. c) Todas as custas e emolumentos necessários para a confecção da Escritura e transferência no Registro de Imóveis ficarão por conta do adquirente. d) O imóvel integra condomínio regido por convenção registrada, devendo o adquirente respeitar integralmente suas disposições. e) O Banco do Brasil S/A terá um prazo de 90 dias para entregar e desocupar o imóvel. A desocupação total se dará no prazo de até 90 (noventa) dias após a data do Leilão, e o adquirente se declara informado do fato. f) Permanecerá no imóvel um cofre, ficando o arrematante responsável por lhe atribuir a destinação que considerar adequada as suas custas.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": null,
+      "registry_number": "30629",
+      "registry_office": "CRI de Montenegro (RS)",
+      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=26309",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/10470_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10470_2.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10470_3.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10470_4.jpg"
       ],
       "latitude": null,
       "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12260",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12260",
+      "external_reference": "74770",
+      "city": "Soledade",
+      "state": "RS",
+      "address": "Av. Mal. Floriano Peixoto, 744, Centro, Soledade/ RS",
+      "asking_price": 3490000.0,
+      "price_display": "R$ 3.490.000,00",
+      "sale_modality_hint": null,
+      "auction_date_raw": "20/10/2026 a partir das 11h00",
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID74770 SOLEDADE (RS) Descrição legal: Imóvel Urbano: Prédio Comercial, situado na Av. Mal. Floriano Peixoto, 744, Centro, Soledade/ RS. Melhor descrito nas Matrículas 23492 e 8541 do CRI de Soledade/ RS. a) Do imóvel adquirido na presente licitação será obrigatoriamente locado ao BANCO do Brasil S/A, sendo que o Banco do Brasil alugará integralmente o imóvel; b) Prazo da Locação: (por até 60 meses); c) O adquirente se submete às todos os itens previstas na Cláusula 3.2 do ANEXO 7 deste edital; d) Valor de locação inicialmente estabelecido será de R$ 22.685,00; e) Caberá ao arrematante, às suas custas e após a compra, quaisquer providências por eventual necessidade de desembaraço e regularização documental do imóvel arrematado, como abertura de matrícula, regularização da área encontrada na matrícula e no cadastro na Prefeitura, entre outros. f) O arrematante se declara ciente de que está em curso a realização de obras na agência. g) O imóvel está vinculado a condomínio regularmente instituído. O adquirente declara estar ciente dessa condição e aceita integralmente a Convenção de Condomínio e o Regulamento Interno, obrigando-se a observá-los e a fazer constar, no instrumento de alienação, a ciência e aceitação dessas normas.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": null,
+      "registry_number": null,
+      "registry_office": null,
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27988",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12260_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12260_2.jpg"
+      ],
+      "latitude": -28.831329,
+      "longitude": -52.512135,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12259",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12259",
+      "external_reference": "74345",
+      "city": "São Gabriel",
+      "state": "RS",
+      "address": "PRAÇA DOUTOR FERNANDO ABBOTT, 23 CENTRO- SAO GABRIEL - RS",
+      "asking_price": 5780000.0,
+      "price_display": "R$ 5.780.000,00",
+      "sale_modality_hint": null,
+      "auction_date_raw": "20/10/2026 a partir das 11h00",
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID74345 SÃO GABRIEL (RS) Descrição legal: Imóvel Urbano: Prédio Comercial, situado na PRAÇA DOUTOR FERNANDO ABBOTT, 23 CENTRO- SAO GABRIEL - RS. Melhor descrito na Matrícula 22.392 do CRI de SAO GABRIEL - RS. a) Do imóvel adquirido na presente licitação será obrigatoriamente locado ao BANCO do Brasil S/A, sendo que o Banco do Brasil alugará integralmente o imóvel; b) Prazo da Locação: (por até 60 meses); c) O adquirente se submete às todos os itens previstas na Cláusula 3.2 do ANEXO 7 deste edital; d) Valor de locação inicialmente estabelecido será de R$ 37.570,00; e) Caberá ao arrematante, às suas custas e após a compra, quaisquer providências por eventual necessidade de desembaraço e regularização documental do imóvel arrematado, como regularização da área no registro de imóvel, no cadastro na Prefeitura e a encontrada no local, entre outros. f) O arrematante declara estar ciente de que o imóvel possui áreas com acesso restrito, destinadas exclusivamente ao uso interno de funcionários do Banco do Brasil, sendo expressamente vedado o ingresso de terceiros. g) O arrematante se declara ciente de que está em curso a realização de obras na agência por conta do Banco.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": null,
+      "registry_number": "22.392",
+      "registry_office": "CRI de SAO GABRIEL - RS",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27987",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12259_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12259_2.jpg"
+      ],
+      "latitude": -29.500113,
+      "longitude": -51.966351,
       "documents": {
         "edital_url": null,
         "matricula_url": null

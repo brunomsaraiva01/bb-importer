@@ -2,32 +2,141 @@
   "imoveis": [
     {
       "source_type": "bb",
-      "source_external_id": "10526",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/10526",
-      "external_reference": "100125",
+      "source_external_id": "12347",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12347",
+      "external_reference": "97576",
+      "city": "Nossa Senhora do Socorro",
+      "state": "SE",
+      "address": "Rua 06 De Março, nº 159, Lote 07, Quadra 63, Jardim Rosa de Maio",
+      "asking_price": null,
+      "price_display": "Aceita BB?",
+      "sale_modality_hint": "aceita_bb",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID97576 NOSSA SENHORA DO SOCORRO (SE) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua 06 De Março, nº 159, Lote 07, Quadra 63, Jardim Rosa de Maio, Município de Nossa Senhora do Socorro - SE. Melhor descrito na matrícula 21860 do CRI de Nossa Senhora do Socorro - SE. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "21860",
+      "registry_office": "CRI de Nossa Senhora do Socorro - SE",
+      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=27971",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12347_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12347_2.jpeg"
+      ],
+      "latitude": -10.8912872,
+      "longitude": -37.1515302,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12349",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12349",
+      "external_reference": "97649",
+      "city": "Nossa Senhora do Socorro",
+      "state": "SE",
+      "address": "Rua Perimetral Centro, nº 1026, Lote 16-B1, Quadra 27, Loteamento Jardim Rosa de Maio",
+      "asking_price": null,
+      "price_display": "Aceita BB?",
+      "sale_modality_hint": "aceita_bb",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID97649 NOSSA SENHORA DO SOCORRO (SE) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Perimetral Centro, nº 1026, Lote 16-B1, Quadra 27, Loteamento Jardim Rosa de Maio, Município de Nossa Senhora do Socorro - SE. Melhor descrito na matrícula 23572 do CRI de Nossa Senhora do Socorro - SE. a) O imóvel teve seu estado de conservação alterado, e o arrematante se declara informado do fato, devendo verificar as condições gerais do imóvel. Eventuais procedimentos e despesas para a regularização da pendência e a retificação do registro público junto ao cartório ficarão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": null,
+      "registry_number": "23572",
+      "registry_office": "CRI de Nossa Senhora do Socorro - SE",
+      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=27973",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12349_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12349_2.jpeg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12349_3.jpg"
+      ],
+      "latitude": -10.890813,
+      "longitude": -37.15798,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12348",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12348",
+      "external_reference": "97627",
+      "city": "Nossa Senhora do Socorro",
+      "state": "SE",
+      "address": "Rua 04 de Fevereiro, nº 40, Lote 05-A, Quadra 27, Jardim Rosa de Maio",
+      "asking_price": null,
+      "price_display": "Aceita BB?",
+      "sale_modality_hint": "aceita_bb",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID97627 NOSSA SENHORA DO SOCORRO (SE) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua 04 de Fevereiro, nº 40, Lote 05-A, Quadra 27, Jardim Rosa de Maio, Município de Nossa Senhora do Socorro - SE. Melhor descrito na matrícula 23201 do CRI de Nossa Senhora do Socorro - SE. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "23201",
+      "registry_office": "CRI de Nossa Senhora do Socorro - SE",
+      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=27972",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12348_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12348_2.jpeg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12348_3.jpg"
+      ],
+      "latitude": -10.8912872,
+      "longitude": -37.1515302,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12346",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12346",
+      "external_reference": "97899",
       "city": "Capela",
       "state": "SE",
-      "address": "Rua Projetada A, nº 05, Lote 02, Quadra A, Bairro São Cristovão",
-      "asking_price": 50000.0,
-      "price_display": "R$ 50.000,00",
-      "sale_modality_hint": "proposta",
+      "address": "Rua Projetada, nº 36, Quadra A, Lote 05, Bairro Sobradinho, Capela - SE",
+      "asking_price": null,
+      "price_display": "Aceita BB?",
+      "sale_modality_hint": "aceita_bb",
       "auction_date_raw": null,
       "first_auction_minimum_bid": null,
       "second_auction_minimum_bid": null,
-      "description": "ID100125 CAPELA (SE) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Projetada A, nº 05, Lote 02, Quadra A, Bairro São Cristovão, Município de CAPELA - SE. Melhor descrito na matrícula 12370 do 2º Ofício de Registro de Imóveis de Capela - SE. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "description": "ID97899 CAPELA (SE) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Projetada, nº 36, Quadra A, Lote 05, Bairro Sobradinho, Capela - SE. Melhor descrito na matrícula 10167 do Cartório do 2º Ofício da Comarca de Capela - SE. a) O imóvel teve seu estado de conservação alterado, e o arrematante se declara informado do fato, devendo verificar as condições gerais do imóvel. Eventuais procedimentos e despesas para a regularização da pendência e a retificação do registro público junto ao cartório ficarão por conta do adquirente.",
       "observations": [
         "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
         "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
       ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "12370",
-      "registry_office": "2º Ofício de Registro de Imóveis de Capela - SE",
-      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=26365",
+      "occupancy_status": null,
+      "registry_number": "10167",
+      "registry_office": "Cartório do 2º Ofício da Comarca de Capela - SE",
+      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=27970",
       "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/10526_1.jpg"
+        "https://www.seuimovelbb.com.br/imagem/imovel/12346_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12346_2.jpeg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12346_3.jpg"
       ],
-      "latitude": -11.009159,
-      "longitude": -37.10732,
+      "latitude": -15.6573342,
+      "longitude": -47.8004946,
       "documents": {
         "edital_url": null,
         "matricula_url": null
@@ -36,33 +145,35 @@
     },
     {
       "source_type": "bb",
-      "source_external_id": "10604",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/10604",
-      "external_reference": "91451",
+      "source_external_id": "7116",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/7116",
+      "external_reference": "73969",
       "city": "Nossa Senhora do Socorro",
       "state": "SE",
       "address": null,
-      "asking_price": 23040.0,
-      "price_display": "R$ 23.040,00",
+      "asking_price": 17100.0,
+      "price_display": "R$ 17.100,00",
       "sale_modality_hint": "proposta",
       "auction_date_raw": null,
       "first_auction_minimum_bid": null,
       "second_auction_minimum_bid": null,
-      "description": "ID91451 NOSSA SENHORA DO SOCORRO (SE)Imóvel residencial (casa) e respectivo lote 44-B da quadra 17 no loteamento Jardim Vila Ney com área total de 125,00m³, melhor descrito e caraterizado na matrícula 24034 da 1ª Circunscrição Imobiliária de Nossa Senhora do Socorro/SE. Status da Ocupação: Ocupado. Endereço: Rua B, nº 170, Lote 44B, Quadra 17 - Bairro Complexo Jardim - Nossa Senhora do Socorro/SE. Considerações Importantes: O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "description": "ID73969 Imóvel residencial e respectiva área desmembrada localizada na quadra 17, no LOTEAMENTO JARDIM VILA NEY, com área total de 125,00m², melhor descrito e caracterizado na matrícula 24031 do 1º Ofício da Comarca de Nossa Senhora do Socorro/SE. Status da Ocupação: Ocupado. Endereço: Rua B, 176, Quadra 17, Lote 43A - Jardim Vila Ney - Nossa Senhora do Socorro/SE. Considerações Importantes: O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
       "observations": [
         "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
         "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
       ],
       "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "24034",
-      "registry_office": "1ª Circunscrição Imobiliária de Nossa Senhora do Socorro/SE",
-      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/206",
+      "registry_number": "24031",
+      "registry_office": "1º Ofício da Comarca de Nossa Senhora do Socorro/SE",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/124",
       "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/10604_1.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/10604_2.jpg"
+        "https://www.seuimovelbb.com.br/imagem/imovel/7116_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/7116_2.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/7116_3.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/7116_4.jpg"
       ],
-      "latitude": -10.8479058,
-      "longitude": -37.0559693,
+      "latitude": -10.8478959,
+      "longitude": -37.0559534,
       "documents": {
         "edital_url": null,
         "matricula_url": null
@@ -71,34 +182,32 @@
     },
     {
       "source_type": "bb",
-      "source_external_id": "10605",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/10605",
-      "external_reference": "92566",
-      "city": "Nossa Senhora do Socorro",
+      "source_external_id": "3766",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/3766",
+      "external_reference": "97904",
+      "city": "Capela",
       "state": "SE",
-      "address": null,
-      "asking_price": 39050.0,
-      "price_display": "R$ 39.050,00",
+      "address": "Rua Projetada, nº 104, Quadra A, Lote 15, Bairro Sobradinho",
+      "asking_price": 18080.0,
+      "price_display": "R$ 18.080,00",
       "sale_modality_hint": "proposta",
       "auction_date_raw": null,
       "first_auction_minimum_bid": null,
       "second_auction_minimum_bid": null,
-      "description": "ID92566 NOSSA SENHORA DO SOCORRO (SE)Imóvel residencial e respectiva área desmembrada localizada na quadra 59, Loteamento Jardim Rosa de Maio, com área total de 135,00m², melhor descrito e caracterizado na matrícula 23117 da 1ª Circunscrição Imobiliária de Nossa Senhora do Socorro/SE. Status da Ocupação: Ocupado. Endereço: Rua 04 de Março, nº 119, Área C, Quadra 59 - Bairro Jardim Rosa de Maio - Nossa Senhora do Socorro/SE. Considerações Importantes: O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "description": "ID97904 CAPELA (SE) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Projetada, nº 104, Quadra A, Lote 15, Bairro Sobradinho, município de Capela - SE. Melhor descrito na Matrícula 10177 do Cartório do 2º Ofício da Comarca de Capela - SE. a) O imóvel teve seu estado de conservação alterado, encontra-se sem o telhado, sem esquadrias e sem portas de acesso, e o arrematante se declara informado do fato. Eventuais procedimentos e despesas para regularização da pendência correrão por conta do adquirente.",
       "observations": [
         "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
         "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
       ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "23117",
-      "registry_office": "1ª Circunscrição Imobiliária de Nossa Senhora do Socorro/SE",
-      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/207",
+      "occupancy_status": null,
+      "registry_number": "10177",
+      "registry_office": "Cartório do 2º Ofício da Comarca de Capela - SE",
+      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=21799",
       "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/10605_1.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/10605_2.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/10605_3.jpg"
+        "https://www.seuimovelbb.com.br/imagem/imovel/3766_1.jpg"
       ],
-      "latitude": -10.8531544,
-      "longitude": -37.1270097,
+      "latitude": null,
+      "longitude": null,
       "documents": {
         "edital_url": null,
         "matricula_url": null
@@ -107,33 +216,32 @@
     },
     {
       "source_type": "bb",
-      "source_external_id": "10606",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/10606",
-      "external_reference": "92574",
+      "source_external_id": "8710",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/8710",
+      "external_reference": "99725",
       "city": "Nossa Senhora do Socorro",
       "state": "SE",
-      "address": null,
-      "asking_price": 21060.0,
-      "price_display": "R$ 21.060,00",
+      "address": "Rua 14 de Janeiro, nº 10, Quadra 02, Lote 07-A, Loteamento Jardim Rosa de Maio",
+      "asking_price": 18850.0,
+      "price_display": "R$ 18.850,00",
       "sale_modality_hint": "proposta",
       "auction_date_raw": null,
       "first_auction_minimum_bid": null,
       "second_auction_minimum_bid": null,
-      "description": "ID92574 NOSSA SENHORA DO SOCORRO (SE)Imóvel residencial e respectiva área desmembrada localizada na quadra 17, no Loteamento Jardim Vila Ney , Lote nº 40-A, com área total de 150,00m², melhor descrito e caracterizado na matrícula 24028 da 1ª Circunscrição Imobiliária de Nossa Senhora do Socorro/SE. Status da Ocupação: Ocupado. Endereço: Rua B, 182, Lote 40-A, Quadra 17 - Loteamento Jardim Vila Ney - Nossa Senhora do Socorro/SE. Considerações Importantes: O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "description": "ID99725 NOSSA SENHORA DO SOCORRO (SE) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua 14 de Janeiro, nº 10, Quadra 02, Lote 07-A, Loteamento Jardim Rosa de Maio, Município de Nossa Senhora do Socorro - SE. Melhor descrito na matrícula nº 29525 da 1ª Circunscrição Imobiliária de Nossa Senhora do Socorro - SE. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
       "observations": [
         "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
         "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
       ],
       "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "24028",
-      "registry_office": "1ª Circunscrição Imobiliária de Nossa Senhora do Socorro/SE",
-      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/208",
+      "registry_number": "29525",
+      "registry_office": "1ª Circunscrição Imobiliária de Nossa Senhora do Socorro - SE",
+      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=25432",
       "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/10606_1.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/10606_2.jpg"
+        "https://www.seuimovelbb.com.br/imagem/imovel/8710_1.jpg"
       ],
-      "latitude": -10.8478627,
-      "longitude": -37.0560155,
+      "latitude": -10.854848,
+      "longitude": -37.125717,
       "documents": {
         "edital_url": null,
         "matricula_url": null
@@ -179,35 +287,33 @@
     },
     {
       "source_type": "bb",
-      "source_external_id": "10608",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/10608",
-      "external_reference": "93773",
+      "source_external_id": "10606",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/10606",
+      "external_reference": "92574",
       "city": "Nossa Senhora do Socorro",
       "state": "SE",
       "address": null,
-      "asking_price": 22320.0,
-      "price_display": "R$ 22.320,00",
+      "asking_price": 21060.0,
+      "price_display": "R$ 21.060,00",
       "sale_modality_hint": "proposta",
       "auction_date_raw": null,
       "first_auction_minimum_bid": null,
       "second_auction_minimum_bid": null,
-      "description": "ID93773 NOSSA SENHORA DO SOCORRO (SE)Imóvel residencial e respectivo lote 42-B com área total de 125,00m² no Loteamento Jardim Vila Ney, melhor descrito e caracterizado na matrícula 24030 da 1ª Circunscrição Imobiliária de Nossa Senhora do Socorro/SE. Status da Ocupação: Ocupado. Endereço: Rua B, nº 178, Lote 42B Quadra 17 - Bairro Complexo Jardim - Nossa Senhora do Socorro/SE. Considerações Importantes: O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "description": "ID92574 NOSSA SENHORA DO SOCORRO (SE)Imóvel residencial e respectiva área desmembrada localizada na quadra 17, no Loteamento Jardim Vila Ney , Lote nº 40-A, com área total de 150,00m², melhor descrito e caracterizado na matrícula 24028 da 1ª Circunscrição Imobiliária de Nossa Senhora do Socorro/SE. Status da Ocupação: Ocupado. Endereço: Rua B, 182, Lote 40-A, Quadra 17 - Loteamento Jardim Vila Ney - Nossa Senhora do Socorro/SE. Considerações Importantes: O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
       "observations": [
         "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
         "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
       ],
       "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "24030",
+      "registry_number": "24028",
       "registry_office": "1ª Circunscrição Imobiliária de Nossa Senhora do Socorro/SE",
-      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/265",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/208",
       "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/10608_1.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/10608_2.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/10608_3.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/10608_4.jpg"
+        "https://www.seuimovelbb.com.br/imagem/imovel/10606_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10606_2.jpg"
       ],
-      "latitude": -10.8478926,
-      "longitude": -37.0559481,
+      "latitude": -10.8478627,
+      "longitude": -37.0560155,
       "documents": {
         "edital_url": null,
         "matricula_url": null
@@ -252,6 +358,78 @@
     },
     {
       "source_type": "bb",
+      "source_external_id": "10608",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/10608",
+      "external_reference": "93773",
+      "city": "Nossa Senhora do Socorro",
+      "state": "SE",
+      "address": null,
+      "asking_price": 22320.0,
+      "price_display": "R$ 22.320,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID93773 NOSSA SENHORA DO SOCORRO (SE)Imóvel residencial e respectivo lote 42-B com área total de 125,00m² no Loteamento Jardim Vila Ney, melhor descrito e caracterizado na matrícula 24030 da 1ª Circunscrição Imobiliária de Nossa Senhora do Socorro/SE. Status da Ocupação: Ocupado. Endereço: Rua B, nº 178, Lote 42B Quadra 17 - Bairro Complexo Jardim - Nossa Senhora do Socorro/SE. Considerações Importantes: O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "24030",
+      "registry_office": "1ª Circunscrição Imobiliária de Nossa Senhora do Socorro/SE",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/265",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/10608_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10608_2.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10608_3.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10608_4.jpg"
+      ],
+      "latitude": -10.8478926,
+      "longitude": -37.0559481,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "10604",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/10604",
+      "external_reference": "91451",
+      "city": "Nossa Senhora do Socorro",
+      "state": "SE",
+      "address": null,
+      "asking_price": 23040.0,
+      "price_display": "R$ 23.040,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID91451 NOSSA SENHORA DO SOCORRO (SE)Imóvel residencial (casa) e respectivo lote 44-B da quadra 17 no loteamento Jardim Vila Ney com área total de 125,00m³, melhor descrito e caraterizado na matrícula 24034 da 1ª Circunscrição Imobiliária de Nossa Senhora do Socorro/SE. Status da Ocupação: Ocupado. Endereço: Rua B, nº 170, Lote 44B, Quadra 17 - Bairro Complexo Jardim - Nossa Senhora do Socorro/SE. Considerações Importantes: O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "24034",
+      "registry_office": "1ª Circunscrição Imobiliária de Nossa Senhora do Socorro/SE",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/206",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/10604_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10604_2.jpg"
+      ],
+      "latitude": -10.8479058,
+      "longitude": -37.0559693,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
       "source_external_id": "10610",
       "source_url": "https://www.seuimovelbb.com.br/imovel/id/10610",
       "external_reference": "94389",
@@ -288,459 +466,6 @@
     },
     {
       "source_type": "bb",
-      "source_external_id": "12117",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12117",
-      "external_reference": null,
-      "city": "Aracaju",
-      "state": "SE",
-      "address": "Av. Etelvino Alves de Lima, 85, AP. 104, T 01, Cond. Res. Al. de Aracaju, Inácio Barbosa, Aracaju-SE, CEP 49040-696",
-      "asking_price": 170911.2,
-      "price_display": "R$ 170.911,20",
-      "sale_modality_hint": null,
-      "auction_date_raw": "23/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": 170911.2,
-      "second_auction_minimum_bid": 189421.02,
-      "description": "Nº DO BEM: 513531823 ARACAJU (SE) Descrição: IMÓVEL DE MATRÍCULA 36951 DO 1º OFÍCIO DE ARACAJU-SE, ASSIM DESCRITO: Apartamento nº 104, com área privativa de 47,22m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 30-02-017-1654-01-004 Localização: Av. Etelvino Alves de Lima, 85, AP. 104, T 01, Cond. Res. Al. de Aracaju, Inácio Barbosa, Aracaju-SE, CEP 49040-696 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 170.911,20 (cento e setenta mil novecentos e onze reais e vinte centavos) Lance mínimo para arrematação em 2º leilão: R$ 189.421,02 (cento e oitenta e nove mil, quatrocentos e vinte e um reais e dois centavos)",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "36951",
-      "registry_office": "1º OFÍCIO DE ARACAJU-SE",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27871",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12117_1.jpg"
-      ],
-      "latitude": -10.951062,
-      "longitude": -37.079804,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "12118",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12118",
-      "external_reference": null,
-      "city": "Aracaju",
-      "state": "SE",
-      "address": "Av. Etelvino Alves de Lima (R. Via Férrea), 260, AP. 406, BL 01, Cond. Res. Al. dos Pássaros, Inácio Barbosa, Aracaju-SE, CEP 49040-696",
-      "asking_price": 188917.43,
-      "price_display": "R$ 188.917,43",
-      "sale_modality_hint": null,
-      "auction_date_raw": "23/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": 188917.43,
-      "second_auction_minimum_bid": 167254.97,
-      "description": "Nº DO BEM: 515209068 ARACAJU (SE) Descrição: IMÓVEL DE MATRÍCULA 37469 DO CARTÓRIO DO 1º OFÍCIO DE ARACAJU-SE, ASSIM DESCRITO: Apartamento nº 406, com área privativa de 50,97m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 30-02-017-2199-01-030 Localização: Av. Etelvino Alves de Lima (R. Via Férrea), 260, AP. 406, BL 01, Cond. Res. Al. dos Pássaros, Inácio Barbosa, Aracaju-SE, CEP 49040-696 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 188.917,43 (cento e oitenta e oito mil novecentos e dezessete reais e quarenta e três centavos) Lance mínimo para arrematação em 2º leilão: R$ 167.254,97 (cento e sessenta e sete mil, duzentos e cinquenta e quatro reais e noventa e sete centavos)",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "37469",
-      "registry_office": "CARTÓRIO DO 1º OFÍCIO DE ARACAJU-SE",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27872",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12118_1.jpg"
-      ],
-      "latitude": -10.951062,
-      "longitude": -37.079804,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "12119",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12119",
-      "external_reference": null,
-      "city": "Nossa Senhora do Socorro",
-      "state": "SE",
-      "address": "Av. Prefeito Humberto dos Santos, 1650, AP. 202, BL 28, Cond. Entre Rios Mais Viver Cond. Clube, Conj. Fernando Collor, Fernando Collor, Nsa. Senhora do Socorro-SE, CEP 49155-050",
-      "asking_price": 148954.0,
-      "price_display": "R$ 148.954,00",
-      "sale_modality_hint": null,
-      "auction_date_raw": "23/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": 148954.0,
-      "second_auction_minimum_bid": 128202.65,
-      "description": "Nº DO BEM: 522912240 NOSSA SENHORA DO SOCORRO (SE) Descrição: IMÓVEL DE MATRÍCULA 25844 DO 1º OFÍCIO DA COMARCA DE N. SRA. SOCORRO DE NOSSA SENHORA DO SOCORRO-SE, ASSIM DESCRITO: Apartamento nº 202, com área privativa de 45,60m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 01.11.2661.028.202Localização: Av. Prefeito Humberto dos Santos, 1650, AP. 202, BL 28, Cond. Entre Rios Mais Viver Cond. Clube, Conj. Fernando Collor, Fernando Collor, Nsa. Senhora do Socorro-SE, CEP 49155-050 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 148.954,00 (cento e quarenta e oito mil novecentos e cinquenta e quatro reais) Lance mínimo para arrematação em 2º leilão: R$ 128.202,65 (cento e vinte e oito mil, duzentos e dois reais e sessenta e cinco centavos)",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "25844",
-      "registry_office": "1º OFÍCIO DA COMARCA DE N",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27873",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12119_1.jpg"
-      ],
-      "latitude": -10.848253,
-      "longitude": -37.066145,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "12120",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12120",
-      "external_reference": null,
-      "city": "Nossa Senhora do Socorro",
-      "state": "SE",
-      "address": "R. 3, 181, LT. 424B, QD O, Lot. Pq. São Benedito, Guajará, Nsa Senhora do Socorro-SE, CEP 49163-678",
-      "asking_price": 102444.96,
-      "price_display": "R$ 102.444,96",
-      "sale_modality_hint": null,
-      "auction_date_raw": "23/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": 102444.96,
-      "second_auction_minimum_bid": 87527.19,
-      "description": "Nº DO BEM: 531999053 NOSSA SENHORA DO SOCORRO (SE) Descrição: IMÓVEL DE MATRÍCULA 29162 DO 1º OFÍCIO DE NOSSA SENHORA DO SOCORRO-SE, ASSIM DESCRITO: Casa, com área total construída de 62,68m² e respectivo terreno com área total de 132,50m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 03.02.0001.008.000 Localização: R. 3, 181, LT. 424B, QD O, Lot. Pq. São Benedito, Guajará, Nsa Senhora do Socorro-SE, CEP 49163-678 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 102.444,96 (cento e dois mil quatrocentos e quarenta e quatro reais e noventa e seis centavos) Lance mínimo para arrematação em 2º leilão: R$ 87.527,19 (oitenta e sete mil, quinhentos e vinte e sete reais e dezenove centavos)",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "29162",
-      "registry_office": "1º OFÍCIO DE NOSSA SENHORA DO SOCORRO-SE",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27874",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12120_1.jpg"
-      ],
-      "latitude": -10.912964,
-      "longitude": -37.024441,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "12121",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12121",
-      "external_reference": null,
-      "city": "Nossa Senhora do Socorro",
-      "state": "SE",
-      "address": "R. 6, 123-A, LT 123-A, QD F, Lot. Pq. São Benedito - Complexo Jd. Guajará, Nsa Senhora do Socorro-SE, CEP 49163-687",
-      "asking_price": 106659.23,
-      "price_display": "R$ 106.659,23",
-      "sale_modality_hint": null,
-      "auction_date_raw": "23/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": 106659.23,
-      "second_auction_minimum_bid": 123231.47,
-      "description": "Nº DO BEM: 524210524 NOSSA SENHORA DO SOCORRO (SE) Descrição: IMÓVEL DE MATRÍCULA 24799 DO 1º OFÍCIO DE NOSSA SENHORA DO SOCORRO-SE, ASSIM DESCRITO: Casa, com área total construída de 53,63m² e respectivo terreno com área total de 133,50m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 03.02.0001.001.001 Localização: R. 6, 123-A, LT 123-A, QD F, Lot. Pq. São Benedito - Complexo Jd. Guajará, Nsa Senhora do Socorro-SE, CEP 49163-687 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 106.659,23 (cento e seis mil seiscentos e cinquenta e nove reais e vinte e três centavos) Lance mínimo para arrematação em 2º leilão: R$ 123.231,47 (cento e vinte e três mil, duzentos e trinta e um reais e quarenta e sete centavos)",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "24799",
-      "registry_office": "1º OFÍCIO DE NOSSA SENHORA DO SOCORRO-SE",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27875",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12121_1.jpg"
-      ],
-      "latitude": -10.854848,
-      "longitude": -37.125717,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "12152",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12152",
-      "external_reference": "101307",
-      "city": "Nossa Senhora do Socorro",
-      "state": "SE",
-      "address": "Rua G, 37, Lote 365/366-B, Loteamento Parque Santa Rita, Complexo Jardim",
-      "asking_price": 69000.0,
-      "price_display": "R$ 69.000,00",
-      "sale_modality_hint": "proposta",
-      "auction_date_raw": null,
-      "first_auction_minimum_bid": null,
-      "second_auction_minimum_bid": null,
-      "description": "ID101307 NOSSA SENHORA DO SOCORRO (SE) Descrição legal: Imóvel Urbano: Residência com área construída de 61,45 m², em terreno de 133,75 m², situada na Rua G, 37, Lote 365/366-B, Loteamento Parque Santa Rita, Complexo Jardim, Município de Nossa Senhora do Socorro-SE. Melhor descrita na Matrícula 24881 do Cartório da 1ª Circunscrição Imobiliária de Nossa Senhora do Socorro-SE a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "24881",
-      "registry_office": "Cartório da 1ª Circunscrição Imobiliária de Nossa Senhora do Socorro-SE",
-      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/15153",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12152_1.png"
-      ],
-      "latitude": null,
-      "longitude": null,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "12238",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12238",
-      "external_reference": "0266",
-      "city": "Aracaju",
-      "state": "SE",
-      "address": "Avenida 31 de Março, entre o prolongamento da Av. São João Batista e a Rua Governador Manoel Dantas, Bairro Castelo Branco",
-      "asking_price": null,
-      "price_display": "Aceita BB?",
-      "sale_modality_hint": "aceita_bb",
-      "auction_date_raw": "13/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": null,
-      "second_auction_minimum_bid": null,
-      "description": "ID0266 ARACAJU (SE) Descrição legal: Imóvel Urbano Residencial, Terreno situado na Avenida 31 de Março, entre o prolongamento da Av. São João Batista e a Rua Governador Manoel Dantas, Bairro Castelo Branco, Município de Aracaju - SE. Melhor descrito na matrícula 3033 da 1ª Circunscrição do Registro de Imóveis de Aracaju - SE. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente; b) No terreno foi construído um galpão, somente a cobertura, sem fechamento, que abriga uma garagem de ônibus, e o arrematante se declara informado do fato.",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "3033",
-      "registry_office": "1ª Circunscrição do Registro de Imóveis de Aracaju - SE",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27968",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12238_1.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12238_2.jpeg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12238_3.jpg"
-      ],
-      "latitude": -10.928778,
-      "longitude": -37.081016,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "12239",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12239",
-      "external_reference": "97848",
-      "city": "Capela",
-      "state": "SE",
-      "address": "Rua Projetada A, Lote 33, Quadra A, Bairro Aeroporto, Capela - SE",
-      "asking_price": null,
-      "price_display": "Aceita BB?",
-      "sale_modality_hint": "aceita_bb",
-      "auction_date_raw": "13/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": null,
-      "second_auction_minimum_bid": null,
-      "description": "ID97848 CAPELA (SE) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Projetada A, Lote 33, Quadra A, Bairro Aeroporto, Capela - SE. Melhor descrito na matrícula 12048 do Cartório do 2º Ofício da Comarca de Capela - SE. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "12048",
-      "registry_office": "Cartório do 2º Ofício da Comarca de Capela - SE",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27969",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12239_1.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12239_2.jpeg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12239_3.jpg"
-      ],
-      "latitude": -10.510737,
-      "longitude": -37.043514,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "12240",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12240",
-      "external_reference": "97899",
-      "city": "Capela",
-      "state": "SE",
-      "address": "Rua Projetada, nº 36, Quadra A, Lote 05, Bairro Sobradinho, Capela - SE",
-      "asking_price": null,
-      "price_display": "Aceita BB?",
-      "sale_modality_hint": "aceita_bb",
-      "auction_date_raw": "13/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": null,
-      "second_auction_minimum_bid": null,
-      "description": "ID97899 CAPELA (SE) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Projetada, nº 36, Quadra A, Lote 05, Bairro Sobradinho, Capela - SE. Melhor descrito na matrícula 10167 do Cartório do 2º Ofício da Comarca de Capela - SE. a) O imóvel teve seu estado de conservação alterado, e o arrematante se declara informado do fato, devendo verificar as condições gerais do imóvel. Eventuais procedimentos e despesas para a regularização da pendência e a retificação do registro público junto ao cartório ficarão por conta do adquirente.",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": null,
-      "registry_number": "10167",
-      "registry_office": "Cartório do 2º Ofício da Comarca de Capela - SE",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27970",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12240_1.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12240_2.jpeg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12240_3.jpg"
-      ],
-      "latitude": -15.6573342,
-      "longitude": -47.8004946,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "12241",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12241",
-      "external_reference": "97576",
-      "city": "Nossa Senhora do Socorro",
-      "state": "SE",
-      "address": "Rua 06 De Março, nº 159, Lote 07, Quadra 63, Jardim Rosa de Maio",
-      "asking_price": null,
-      "price_display": "Aceita BB?",
-      "sale_modality_hint": "aceita_bb",
-      "auction_date_raw": "13/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": null,
-      "second_auction_minimum_bid": null,
-      "description": "ID97576 NOSSA SENHORA DO SOCORRO (SE) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua 06 De Março, nº 159, Lote 07, Quadra 63, Jardim Rosa de Maio, Município de Nossa Senhora do Socorro - SE. Melhor descrito na matrícula 21860 do CRI de Nossa Senhora do Socorro - SE. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "21860",
-      "registry_office": "CRI de Nossa Senhora do Socorro - SE",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27971",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12241_1.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12241_2.jpeg"
-      ],
-      "latitude": -10.8912872,
-      "longitude": -37.1515302,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "12242",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12242",
-      "external_reference": "97627",
-      "city": "Nossa Senhora do Socorro",
-      "state": "SE",
-      "address": "Rua 04 de Fevereiro, nº 40, Lote 05-A, Quadra 27, Jardim Rosa de Maio",
-      "asking_price": null,
-      "price_display": "Aceita BB?",
-      "sale_modality_hint": "aceita_bb",
-      "auction_date_raw": "13/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": null,
-      "second_auction_minimum_bid": null,
-      "description": "ID97627 NOSSA SENHORA DO SOCORRO (SE) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua 04 de Fevereiro, nº 40, Lote 05-A, Quadra 27, Jardim Rosa de Maio, Município de Nossa Senhora do Socorro - SE. Melhor descrito na matrícula 23201 do CRI de Nossa Senhora do Socorro - SE. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "23201",
-      "registry_office": "CRI de Nossa Senhora do Socorro - SE",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27972",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12242_1.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12242_2.jpeg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12242_3.jpg"
-      ],
-      "latitude": -10.8912872,
-      "longitude": -37.1515302,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "12243",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12243",
-      "external_reference": "97649",
-      "city": "Nossa Senhora do Socorro",
-      "state": "SE",
-      "address": "Rua Perimetral Centro, nº 1026, Lote 16-B1, Quadra 27, Loteamento Jardim Rosa de Maio",
-      "asking_price": null,
-      "price_display": "Aceita BB?",
-      "sale_modality_hint": "aceita_bb",
-      "auction_date_raw": "13/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": null,
-      "second_auction_minimum_bid": null,
-      "description": "ID97649 NOSSA SENHORA DO SOCORRO (SE) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Perimetral Centro, nº 1026, Lote 16-B1, Quadra 27, Loteamento Jardim Rosa de Maio, Município de Nossa Senhora do Socorro - SE. Melhor descrito na matrícula 23572 do CRI de Nossa Senhora do Socorro - SE. a) O imóvel teve seu estado de conservação alterado, e o arrematante se declara informado do fato, devendo verificar as condições gerais do imóvel. Eventuais procedimentos e despesas para a regularização da pendência e a retificação do registro público junto ao cartório ficarão por conta do adquirente.",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": null,
-      "registry_number": "23572",
-      "registry_office": "CRI de Nossa Senhora do Socorro - SE",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27973",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12243_1.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12243_2.jpeg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12243_3.jpg"
-      ],
-      "latitude": -10.890813,
-      "longitude": -37.15798,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "3766",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/3766",
-      "external_reference": "97904",
-      "city": "Capela",
-      "state": "SE",
-      "address": "Rua Projetada, nº 104, Quadra A, Lote 15, Bairro Sobradinho",
-      "asking_price": 18080.0,
-      "price_display": "R$ 18.080,00",
-      "sale_modality_hint": "proposta",
-      "auction_date_raw": null,
-      "first_auction_minimum_bid": null,
-      "second_auction_minimum_bid": null,
-      "description": "ID97904 CAPELA (SE) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Projetada, nº 104, Quadra A, Lote 15, Bairro Sobradinho, município de Capela - SE. Melhor descrito na Matrícula 10177 do Cartório do 2º Ofício da Comarca de Capela - SE. a) O imóvel teve seu estado de conservação alterado, encontra-se sem o telhado, sem esquadrias e sem portas de acesso, e o arrematante se declara informado do fato. Eventuais procedimentos e despesas para regularização da pendência correrão por conta do adquirente.",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": null,
-      "registry_number": "10177",
-      "registry_office": "Cartório do 2º Ofício da Comarca de Capela - SE",
-      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=21799",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/3766_1.jpg"
-      ],
-      "latitude": null,
-      "longitude": null,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
       "source_external_id": "3767",
       "source_url": "https://www.seuimovelbb.com.br/imovel/id/3767",
       "external_reference": "97920",
@@ -767,6 +492,76 @@
       ],
       "latitude": null,
       "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "9880",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/9880",
+      "external_reference": "100623",
+      "city": "Senhora do Socorro",
+      "state": "SE",
+      "address": "Rua 15, 538 - A - Guajará",
+      "asking_price": 37500.0,
+      "price_display": "R$ 37.500,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID100623 NOSSA SENHORA DO SOCORRO(SE) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua 15, 538 - A - Guajará, Município de NOSSA SENHORA DO SOCORRO - SE. Melhor descrito na matrícula 23957 do 1ª Circunscrição Imobiliária do Registro Geral Nossa Senhora do Socorro-SE. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "23957",
+      "registry_office": "1ª Circunscrição Imobiliária do Registro Geral Nossa Senhora do Socorro-SE",
+      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=25761",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/9880_1.jpg"
+      ],
+      "latitude": -10.853206,
+      "longitude": -37.07572,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "10605",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/10605",
+      "external_reference": "92566",
+      "city": "Nossa Senhora do Socorro",
+      "state": "SE",
+      "address": null,
+      "asking_price": 39050.0,
+      "price_display": "R$ 39.050,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID92566 NOSSA SENHORA DO SOCORRO (SE)Imóvel residencial e respectiva área desmembrada localizada na quadra 59, Loteamento Jardim Rosa de Maio, com área total de 135,00m², melhor descrito e caracterizado na matrícula 23117 da 1ª Circunscrição Imobiliária de Nossa Senhora do Socorro/SE. Status da Ocupação: Ocupado. Endereço: Rua 04 de Março, nº 119, Área C, Quadra 59 - Bairro Jardim Rosa de Maio - Nossa Senhora do Socorro/SE. Considerações Importantes: O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "23117",
+      "registry_office": "1ª Circunscrição Imobiliária de Nossa Senhora do Socorro/SE",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/207",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/10605_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10605_2.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10605_3.jpg"
+      ],
+      "latitude": -10.8531544,
+      "longitude": -37.1270097,
       "documents": {
         "edital_url": null,
         "matricula_url": null
@@ -810,6 +605,40 @@
     },
     {
       "source_type": "bb",
+      "source_external_id": "10526",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/10526",
+      "external_reference": "100125",
+      "city": "Capela",
+      "state": "SE",
+      "address": "Rua Projetada A, nº 05, Lote 02, Quadra A, Bairro São Cristovão",
+      "asking_price": 50000.0,
+      "price_display": "R$ 50.000,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID100125 CAPELA (SE) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Projetada A, nº 05, Lote 02, Quadra A, Bairro São Cristovão, Município de CAPELA - SE. Melhor descrito na matrícula 12370 do 2º Ofício de Registro de Imóveis de Capela - SE. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "12370",
+      "registry_office": "2º Ofício de Registro de Imóveis de Capela - SE",
+      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=26365",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/10526_1.jpg"
+      ],
+      "latitude": -11.009159,
+      "longitude": -37.10732,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
       "source_external_id": "3769",
       "source_url": "https://www.seuimovelbb.com.br/imovel/id/3769",
       "external_reference": "98816",
@@ -845,35 +674,32 @@
     },
     {
       "source_type": "bb",
-      "source_external_id": "7116",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/7116",
-      "external_reference": "73969",
+      "source_external_id": "12152",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12152",
+      "external_reference": "101307",
       "city": "Nossa Senhora do Socorro",
       "state": "SE",
-      "address": null,
-      "asking_price": 17100.0,
-      "price_display": "R$ 17.100,00",
+      "address": "Rua G, 37, Lote 365/366-B, Loteamento Parque Santa Rita, Complexo Jardim",
+      "asking_price": 69000.0,
+      "price_display": "R$ 69.000,00",
       "sale_modality_hint": "proposta",
       "auction_date_raw": null,
       "first_auction_minimum_bid": null,
       "second_auction_minimum_bid": null,
-      "description": "ID73969 Imóvel residencial e respectiva área desmembrada localizada na quadra 17, no LOTEAMENTO JARDIM VILA NEY, com área total de 125,00m², melhor descrito e caracterizado na matrícula 24031 do 1º Ofício da Comarca de Nossa Senhora do Socorro/SE. Status da Ocupação: Ocupado. Endereço: Rua B, 176, Quadra 17, Lote 43A - Jardim Vila Ney - Nossa Senhora do Socorro/SE. Considerações Importantes: O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "description": "ID101307 NOSSA SENHORA DO SOCORRO (SE) Descrição legal: Imóvel Urbano: Residência com área construída de 61,45 m², em terreno de 133,75 m², situada na Rua G, 37, Lote 365/366-B, Loteamento Parque Santa Rita, Complexo Jardim, Município de Nossa Senhora do Socorro-SE. Melhor descrita na Matrícula 24881 do Cartório da 1ª Circunscrição Imobiliária de Nossa Senhora do Socorro-SE a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
       "observations": [
         "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
         "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
       ],
       "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "24031",
-      "registry_office": "1º Ofício da Comarca de Nossa Senhora do Socorro/SE",
-      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/124",
+      "registry_number": "24881",
+      "registry_office": "Cartório da 1ª Circunscrição Imobiliária de Nossa Senhora do Socorro-SE",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/15153",
       "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/7116_1.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/7116_2.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/7116_3.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/7116_4.jpg"
+        "https://www.seuimovelbb.com.br/imagem/imovel/12152_1.png"
       ],
-      "latitude": -10.8478959,
-      "longitude": -37.0559534,
+      "latitude": null,
+      "longitude": null,
       "documents": {
         "edital_url": null,
         "matricula_url": null
@@ -951,29 +777,63 @@
     },
     {
       "source_type": "bb",
-      "source_external_id": "8710",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/8710",
-      "external_reference": "99725",
+      "source_external_id": "12120",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12120",
+      "external_reference": null,
       "city": "Nossa Senhora do Socorro",
       "state": "SE",
-      "address": "Rua 14 de Janeiro, nº 10, Quadra 02, Lote 07-A, Loteamento Jardim Rosa de Maio",
-      "asking_price": 18850.0,
-      "price_display": "R$ 18.850,00",
-      "sale_modality_hint": "proposta",
-      "auction_date_raw": null,
-      "first_auction_minimum_bid": null,
-      "second_auction_minimum_bid": null,
-      "description": "ID99725 NOSSA SENHORA DO SOCORRO (SE) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua 14 de Janeiro, nº 10, Quadra 02, Lote 07-A, Loteamento Jardim Rosa de Maio, Município de Nossa Senhora do Socorro - SE. Melhor descrito na matrícula nº 29525 da 1ª Circunscrição Imobiliária de Nossa Senhora do Socorro - SE. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "address": "R. 3, 181, LT. 424B, QD O, Lot. Pq. São Benedito, Guajará, Nsa Senhora do Socorro-SE, CEP 49163-678",
+      "asking_price": 102444.96,
+      "price_display": "R$ 102.444,96",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 102444.96,
+      "second_auction_minimum_bid": 87527.19,
+      "description": "Nº DO BEM: 531999053 NOSSA SENHORA DO SOCORRO (SE) Descrição: IMÓVEL DE MATRÍCULA 29162 DO 1º OFÍCIO DE NOSSA SENHORA DO SOCORRO-SE, ASSIM DESCRITO: Casa, com área total construída de 62,68m² e respectivo terreno com área total de 132,50m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 03.02.0001.008.000 Localização: R. 3, 181, LT. 424B, QD O, Lot. Pq. São Benedito, Guajará, Nsa Senhora do Socorro-SE, CEP 49163-678 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 102.444,96 (cento e dois mil quatrocentos e quarenta e quatro reais e noventa e seis centavos) Lance mínimo para arrematação em 2º leilão: R$ 87.527,19 (oitenta e sete mil, quinhentos e vinte e sete reais e dezenove centavos)",
       "observations": [
         "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
         "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
       ],
       "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "29525",
-      "registry_office": "1ª Circunscrição Imobiliária de Nossa Senhora do Socorro - SE",
-      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=25432",
+      "registry_number": "29162",
+      "registry_office": "1º OFÍCIO DE NOSSA SENHORA DO SOCORRO-SE",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27874",
       "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/8710_1.jpg"
+        "https://www.seuimovelbb.com.br/imagem/imovel/12120_1.jpg"
+      ],
+      "latitude": -10.912964,
+      "longitude": -37.024441,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12121",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12121",
+      "external_reference": null,
+      "city": "Nossa Senhora do Socorro",
+      "state": "SE",
+      "address": "R. 6, 123-A, LT 123-A, QD F, Lot. Pq. São Benedito - Complexo Jd. Guajará, Nsa Senhora do Socorro-SE, CEP 49163-687",
+      "asking_price": 106659.23,
+      "price_display": "R$ 106.659,23",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 106659.23,
+      "second_auction_minimum_bid": 123231.47,
+      "description": "Nº DO BEM: 524210524 NOSSA SENHORA DO SOCORRO (SE) Descrição: IMÓVEL DE MATRÍCULA 24799 DO 1º OFÍCIO DE NOSSA SENHORA DO SOCORRO-SE, ASSIM DESCRITO: Casa, com área total construída de 53,63m² e respectivo terreno com área total de 133,50m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 03.02.0001.001.001 Localização: R. 6, 123-A, LT 123-A, QD F, Lot. Pq. São Benedito - Complexo Jd. Guajará, Nsa Senhora do Socorro-SE, CEP 49163-687 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 106.659,23 (cento e seis mil seiscentos e cinquenta e nove reais e vinte e três centavos) Lance mínimo para arrematação em 2º leilão: R$ 123.231,47 (cento e vinte e três mil, duzentos e trinta e um reais e quarenta e sete centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "24799",
+      "registry_office": "1º OFÍCIO DE NOSSA SENHORA DO SOCORRO-SE",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27875",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12121_1.jpg"
       ],
       "latitude": -10.854848,
       "longitude": -37.125717,
@@ -985,32 +845,100 @@
     },
     {
       "source_type": "bb",
-      "source_external_id": "9880",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/9880",
-      "external_reference": "100623",
-      "city": "Senhora do Socorro",
+      "source_external_id": "12119",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12119",
+      "external_reference": null,
+      "city": "Nossa Senhora do Socorro",
       "state": "SE",
-      "address": "Rua 15, 538 - A - Guajará",
-      "asking_price": 37500.0,
-      "price_display": "R$ 37.500,00",
-      "sale_modality_hint": "proposta",
-      "auction_date_raw": null,
-      "first_auction_minimum_bid": null,
-      "second_auction_minimum_bid": null,
-      "description": "ID100623 NOSSA SENHORA DO SOCORRO(SE) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua 15, 538 - A - Guajará, Município de NOSSA SENHORA DO SOCORRO - SE. Melhor descrito na matrícula 23957 do 1ª Circunscrição Imobiliária do Registro Geral Nossa Senhora do Socorro-SE. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "address": "Av. Prefeito Humberto dos Santos, 1650, AP. 202, BL 28, Cond. Entre Rios Mais Viver Cond. Clube, Conj. Fernando Collor, Fernando Collor, Nsa. Senhora do Socorro-SE, CEP 49155-050",
+      "asking_price": 148954.0,
+      "price_display": "R$ 148.954,00",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 148954.0,
+      "second_auction_minimum_bid": 128202.65,
+      "description": "Nº DO BEM: 522912240 NOSSA SENHORA DO SOCORRO (SE) Descrição: IMÓVEL DE MATRÍCULA 25844 DO 1º OFÍCIO DA COMARCA DE N. SRA. SOCORRO DE NOSSA SENHORA DO SOCORRO-SE, ASSIM DESCRITO: Apartamento nº 202, com área privativa de 45,60m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 01.11.2661.028.202Localização: Av. Prefeito Humberto dos Santos, 1650, AP. 202, BL 28, Cond. Entre Rios Mais Viver Cond. Clube, Conj. Fernando Collor, Fernando Collor, Nsa. Senhora do Socorro-SE, CEP 49155-050 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 148.954,00 (cento e quarenta e oito mil novecentos e cinquenta e quatro reais) Lance mínimo para arrematação em 2º leilão: R$ 128.202,65 (cento e vinte e oito mil, duzentos e dois reais e sessenta e cinco centavos)",
       "observations": [
         "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
         "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
       ],
       "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "23957",
-      "registry_office": "1ª Circunscrição Imobiliária do Registro Geral Nossa Senhora do Socorro-SE",
-      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=25761",
+      "registry_number": "25844",
+      "registry_office": "1º OFÍCIO DA COMARCA DE N",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27873",
       "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/9880_1.jpg"
+        "https://www.seuimovelbb.com.br/imagem/imovel/12119_1.jpg"
       ],
-      "latitude": -10.853206,
-      "longitude": -37.07572,
+      "latitude": -10.848253,
+      "longitude": -37.066145,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12117",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12117",
+      "external_reference": null,
+      "city": "Aracaju",
+      "state": "SE",
+      "address": "Av. Etelvino Alves de Lima, 85, AP. 104, T 01, Cond. Res. Al. de Aracaju, Inácio Barbosa, Aracaju-SE, CEP 49040-696",
+      "asking_price": 170911.2,
+      "price_display": "R$ 170.911,20",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 170911.2,
+      "second_auction_minimum_bid": 189421.02,
+      "description": "Nº DO BEM: 513531823 ARACAJU (SE) Descrição: IMÓVEL DE MATRÍCULA 36951 DO 1º OFÍCIO DE ARACAJU-SE, ASSIM DESCRITO: Apartamento nº 104, com área privativa de 47,22m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 30-02-017-1654-01-004 Localização: Av. Etelvino Alves de Lima, 85, AP. 104, T 01, Cond. Res. Al. de Aracaju, Inácio Barbosa, Aracaju-SE, CEP 49040-696 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 170.911,20 (cento e setenta mil novecentos e onze reais e vinte centavos) Lance mínimo para arrematação em 2º leilão: R$ 189.421,02 (cento e oitenta e nove mil, quatrocentos e vinte e um reais e dois centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "36951",
+      "registry_office": "1º OFÍCIO DE ARACAJU-SE",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27871",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12117_1.jpg"
+      ],
+      "latitude": -10.951062,
+      "longitude": -37.079804,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12118",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12118",
+      "external_reference": null,
+      "city": "Aracaju",
+      "state": "SE",
+      "address": "Av. Etelvino Alves de Lima (R. Via Férrea), 260, AP. 406, BL 01, Cond. Res. Al. dos Pássaros, Inácio Barbosa, Aracaju-SE, CEP 49040-696",
+      "asking_price": 188917.43,
+      "price_display": "R$ 188.917,43",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 188917.43,
+      "second_auction_minimum_bid": 167254.97,
+      "description": "Nº DO BEM: 515209068 ARACAJU (SE) Descrição: IMÓVEL DE MATRÍCULA 37469 DO CARTÓRIO DO 1º OFÍCIO DE ARACAJU-SE, ASSIM DESCRITO: Apartamento nº 406, com área privativa de 50,97m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 30-02-017-2199-01-030 Localização: Av. Etelvino Alves de Lima (R. Via Férrea), 260, AP. 406, BL 01, Cond. Res. Al. dos Pássaros, Inácio Barbosa, Aracaju-SE, CEP 49040-696 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 188.917,43 (cento e oitenta e oito mil novecentos e dezessete reais e quarenta e três centavos) Lance mínimo para arrematação em 2º leilão: R$ 167.254,97 (cento e sessenta e sete mil, duzentos e cinquenta e quatro reais e noventa e sete centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "37469",
+      "registry_office": "CARTÓRIO DO 1º OFÍCIO DE ARACAJU-SE",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27872",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12118_1.jpg"
+      ],
+      "latitude": -10.951062,
+      "longitude": -37.079804,
       "documents": {
         "edital_url": null,
         "matricula_url": null

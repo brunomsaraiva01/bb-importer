@@ -2,101 +2,29 @@
   "imoveis": [
     {
       "source_type": "bb",
-      "source_external_id": "10492",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/10492",
-      "external_reference": "101526",
-      "city": "Garanhuns",
+      "source_external_id": "11378",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11378",
+      "external_reference": "101174",
+      "city": "São José do Belmonte",
       "state": "PE",
-      "address": "Rua Getulio Zoby Junior, nº 285, Dom Thiago Postma",
-      "asking_price": 69000.0,
-      "price_display": "R$ 69.000,00",
+      "address": null,
+      "asking_price": 31760.0,
+      "price_display": "R$ 31.760,00",
       "sale_modality_hint": "proposta",
       "auction_date_raw": null,
       "first_auction_minimum_bid": null,
       "second_auction_minimum_bid": null,
-      "description": "ID101526 GARANHUNS (PE) Descrição legal: Imóvel Urbano Residencial, Apartamento nº 208, Bloco B, situado na Rua Getulio Zoby Junior, nº 285, Dom Thiago Postma, Município de GARANHUNS - PE. Melhor descrito na matrícula 23693 do Cartório do 1º Ofício do Registro de Imóveis de Garanhuns - PE. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente; b) A titularidade do Condomínio encontra-se atualmente em nome de terceiros, cabendo ao arrematante a obrigação de promover, após a arrematação, a devida atualização cadastral e a transferência da titularidade para o seu nome junto ao condomínio, arcando integralmente com todas as providências, custos e eventuais despesas necessárias à regularização. Os valores de condomínio eventualmente devidos serão tratados conforme o disposto no item 16.7 deste Edital; c) Existe AÇÃO DE INDENIZAÇÃO n° 00030667120238172640 no TJ-PE e o arrematante declara-se informado do fato e ciente de que a responsabilidade do BANCO por evicção está disciplinada neste Edital, conforme item 4.11 e seus subitens; d) O levantamento das despesas de Condomínio e IPTU deverão ser realizadas pelo arrematante e encaminhadas ao Banco do Brasil S/A para que seja realizado o pagamento. Não será realizado o reembolso em nenhuma hipótese caso o comprador pague os débitos.",
+      "description": "ID101174 SÃO JOSÉ DO BELMONTE(PE) Descrição legal: Imóvel Urbano: Residência com área construída de 74,75 m², dentro de um terreno com área de 100 m², situada na Rua Manoel Rodrigues Carvalho, nº 137-B, lote 8, quadra J, Loteamento Areia Branca III, bairro Cacimba Nova, no município de São José do Belmonte - PE. Melhor descrita na matrícula nº 6.457 do Cartório Único dos Serviços Notoriais e Registrais de São José do Belmonte - PE. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
       "observations": [
         "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
         "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
       ],
       "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "23693",
-      "registry_office": "Cartório do 1º Ofício do Registro de Imóveis de Garanhuns - PE",
-      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=26331",
+      "registry_number": "6.457",
+      "registry_office": "Cartório Único dos Serviços Notoriais e Registrais de São José do Belmonte - PE",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/14938",
       "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/10492_1.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/10492_2.jpg"
-      ],
-      "latitude": -8.877123,
-      "longitude": -36.494406,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "11343",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11343",
-      "external_reference": "101321",
-      "city": "Jaboatão dos Guararapes",
-      "state": "PE",
-      "address": "Via Local II, nº 297, bairro Santana, no município de Jaboatão dos Guararapes - PE",
-      "asking_price": 87360.0,
-      "price_display": "R$ 87.360,00",
-      "sale_modality_hint": "proposta",
-      "auction_date_raw": null,
-      "first_auction_minimum_bid": null,
-      "second_auction_minimum_bid": null,
-      "description": "ID101321 JABOATÃO DOS GUARARAPES (PE)Descrição legal: Imóvel urbano: apartamento 203, com área privativa de 49,33 m2, com uma vaga de estacionamento, localizado no bloco 06 do Condomínio Residencial Villa das Palmeiras, situada na Via Local II, nº 297, bairro Santana, no município de Jaboatão dos Guararapes - PE. Melhor descrito na matrícula 6.003 do Cartório da 2ª Serventia Registral de Jaboatão dos Guararapes - PE. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "6.003",
-      "registry_office": "Cartório da 2ª Serventia Registral de Jaboatão dos Guararapes - PE",
-      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/14901",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/11343_1.png",
-        "https://www.seuimovelbb.com.br/imagem/imovel/11343_2.png",
-        "https://www.seuimovelbb.com.br/imagem/imovel/11343_3.png",
-        "https://www.seuimovelbb.com.br/imagem/imovel/11343_4.png"
-      ],
-      "latitude": null,
-      "longitude": null,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "11374",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11374",
-      "external_reference": "100156",
-      "city": "Igarassu",
-      "state": "PE",
-      "address": "Rua Cavalgada, Quadra 14, Lote nº 02, Loteamento Encanto Igarassu",
-      "asking_price": 77500.0,
-      "price_display": "R$ 77.500,00",
-      "sale_modality_hint": "proposta",
-      "auction_date_raw": null,
-      "first_auction_minimum_bid": null,
-      "second_auction_minimum_bid": null,
-      "description": "ID100156 IGARASSU (PE)Descrição legal: Imóvel Urbano: Apartamento nº 101, com área privativa de 51,60m², localizado no pavimento térreo do Conjunto Residencial Prefeito Jurandir Bezerra Lins, situado na Rua Cavalgada, Quadra 14, Lote nº 02, Loteamento Encanto Igarassu, município de Igarassu - PE. Melhor descrito na matrícula nº 15959 do Cartório do Único Ofício de Igarassu - PE. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "15959",
-      "registry_office": "Cartório do Único Ofício de Igarassu - PE",
-      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/14933",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/11374_1.png"
+        "https://www.seuimovelbb.com.br/imagem/imovel/11378_1.png"
       ],
       "latitude": null,
       "longitude": null,
@@ -142,63 +70,29 @@
     },
     {
       "source_type": "bb",
-      "source_external_id": "11376",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11376",
-      "external_reference": "100989",
-      "city": "Jaboatão Dos Guararapes",
+      "source_external_id": "12301",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12301",
+      "external_reference": "101756",
+      "city": "Agrestina",
       "state": "PE",
-      "address": "Via Local II, nº 294, Bairro de Santana",
-      "asking_price": 94220.0,
-      "price_display": "R$ 94.220,00",
+      "address": "Rua Severino Carlos da Silva, nº 14",
+      "asking_price": 55000.0,
+      "price_display": "R$ 55.000,00",
       "sale_modality_hint": "proposta",
       "auction_date_raw": null,
       "first_auction_minimum_bid": null,
       "second_auction_minimum_bid": null,
-      "description": "ID100989 JABOATÃO DOS GUARARAPES (PE)Descrição legal: Imóvel Urbano: Apartamento nº 204, com área privativa de 43,63m² e vaga de garagem nº 017 com área de 9,90m², localizado no Condomínio Residencial Villa das Palmeiras, situada na Via Local II, nº 294, Bairro de Santana, município de Jaboatão dos Guararapes - PE. Melhor descrito na matrícula nº 6165 da 2ª Serventia Registral de Jaboatão dos Guararapes - PE. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "description": "ID101756 AGRESTINA (PE) Descrição legal: Imóvel Urbano: Residência edificada em terreno, situada na Rua Severino Carlos da Silva, nº 14, Município de Agrestina-PE. Melhor descrita na matrícula nº 9051 do 1º Ofício de Registro de Imóveis de Agrestina-PE a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
       "observations": [
         "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
         "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
       ],
       "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "6165",
-      "registry_office": "2ª Serventia Registral de Jaboatão dos Guararapes - PE",
-      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/14934",
+      "registry_number": "9051",
+      "registry_office": "1º Ofício de Registro de Imóveis de Agrestina-PE",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/15113",
       "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/11376_1.png"
-      ],
-      "latitude": null,
-      "longitude": null,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "11378",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11378",
-      "external_reference": "101174",
-      "city": "São José do Belmonte",
-      "state": "PE",
-      "address": null,
-      "asking_price": 31760.0,
-      "price_display": "R$ 31.760,00",
-      "sale_modality_hint": "proposta",
-      "auction_date_raw": null,
-      "first_auction_minimum_bid": null,
-      "second_auction_minimum_bid": null,
-      "description": "ID101174 SÃO JOSÉ DO BELMONTE(PE) Descrição legal: Imóvel Urbano: Residência com área construída de 74,75 m², dentro de um terreno com área de 100 m², situada na Rua Manoel Rodrigues Carvalho, nº 137-B, lote 8, quadra J, Loteamento Areia Branca III, bairro Cacimba Nova, no município de São José do Belmonte - PE. Melhor descrita na matrícula nº 6.457 do Cartório Único dos Serviços Notoriais e Registrais de São José do Belmonte - PE. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "6.457",
-      "registry_office": "Cartório Único dos Serviços Notoriais e Registrais de São José do Belmonte - PE",
-      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/14938",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/11378_1.png"
+        "https://www.seuimovelbb.com.br/imagem/imovel/12301_1.jpg"
       ],
       "latitude": null,
       "longitude": null,
@@ -244,176 +138,6 @@
     },
     {
       "source_type": "bb",
-      "source_external_id": "12023",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12023",
-      "external_reference": null,
-      "city": "Caruaru",
-      "state": "PE",
-      "address": "Av. Portugal, 1290, AP. 806, BL 3, Conj. Res. Jd. dos Ipês, Universitário, Caruaru-PE, CEP 55016-400",
-      "asking_price": 162467.14,
-      "price_display": "R$ 162.467,14",
-      "sale_modality_hint": null,
-      "auction_date_raw": "23/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": 162467.14,
-      "second_auction_minimum_bid": 303324.16,
-      "description": "Nº DO BEM: 518811273 CARUARU (PE) Descrição: IMÓVEL DE MATRÍCULA 51776 DO 1º CARTÓRIO DE REGISTRO GERAL DE IMÓVEIS DE CARUARU-PE, ASSIM DESCRITO: Apartamento nº 806, com área útil privativa de 48,00m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 37008304132800000222 Localização: Av. Portugal, 1290, AP. 806, BL 3, Conj. Res. Jd. dos Ipês, Universitário, Caruaru-PE, CEP 55016-400 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 162.467,14 (cento e sessenta e dois mil quatrocentos e sessenta e sete reais e quatorze centavos) Lance mínimo para arrematação em 2º leilão: R$ 303.324,16 (trezentos e três mil, trezentos e vinte e quatro reais e dezesseis centavos)",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "51776",
-      "registry_office": "1º CARTÓRIO DE REGISTRO GERAL DE IMÓVEIS DE CARUARU-PE",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27777",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12023_1.jpg"
-      ],
-      "latitude": -8.267243,
-      "longitude": -35.964314,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "12024",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12024",
-      "external_reference": null,
-      "city": "Igarassu",
-      "state": "PE",
-      "address": "R. Ibarde Ribeiro de Albuquerque Lima, 07, Sítio dos Marcos, Igarassu-PE, CEP 53615-600",
-      "asking_price": 131835.6,
-      "price_display": "R$ 131.835,60",
-      "sale_modality_hint": null,
-      "auction_date_raw": "23/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": 131835.6,
-      "second_auction_minimum_bid": 142727.28,
-      "description": "Nº DO BEM: 526217871 IGARASSU (PE) Descrição: IMÓVEL DE MATRÍCULA 15978 DO OFÍCIO ÚNICO DE IGARASSU-PE, ASSIM DESCRITO: Casa Residencial, com área construída de 61,99m² e respectivo terreno com área total de 130,80m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 1407528401005799936 Localização: R. Ibarde Ribeiro de Albuquerque Lima, 07, Sítio dos Marcos, Igarassu-PE, CEP 53615-600 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 131.835,60 (cento e trinta e um mil oitocentos e trinta e cinco reais e sessenta centavos) Lance mínimo para arrematação em 2º leilão: R$ 142.727,28 (cento e quarenta e dois mil, setecentos e vinte e sete reais e vinte e oito centavos)",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "15978",
-      "registry_office": "OFÍCIO ÚNICO DE IGARASSU-PE",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27778",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12024_1.jpg"
-      ],
-      "latitude": -8.294618,
-      "longitude": -36.03311,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "12025",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12025",
-      "external_reference": null,
-      "city": "Igarassu",
-      "state": "PE",
-      "address": "R. Amalequitas (Lot Residencial Santa Paula), 05, 04-G, Agamenon Magalhães, Santa Maria, Igarassu-PE, CEP 53640-725",
-      "asking_price": 130331.4,
-      "price_display": "R$ 130.331,40",
-      "sale_modality_hint": null,
-      "auction_date_raw": "23/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": 130331.4,
-      "second_auction_minimum_bid": 126740.22,
-      "description": "Nº DO BEM: 521862070 IGARASSU (PE) Descrição: IMÓVEL DE MATRÍCULA 14506 DO CARTÓRIO PE - OFÍCIO ÚNICO DE IGARASSU-PE, ASSIM DESCRITO: Casa residencial nº 04-G, com área construída de 53,20m² e respectivo terreno com área total de 128,00m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 1505519401003399936 Localização: R. Amalequitas (Lot Residencial Santa Paula), 05, 04-G, Agamenon Magalhães, Santa Maria, Igarassu-PE, CEP 53640-725 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 130.331,40 (cento e trinta mil trezentos e trinta e um reais e quarenta centavos) Lance mínimo para arrematação em 2º leilão: R$ 126.740,22 (cento e vinte e seis mil, setecentos e quarenta reais e vinte e dois centavos)",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "14506",
-      "registry_office": "CARTÓRIO PE - OFÍCIO ÚNICO DE IGARASSU-PE",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27779",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12025_1.jpg"
-      ],
-      "latitude": -9.983657,
-      "longitude": -67.843944,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "12026",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12026",
-      "external_reference": null,
-      "city": "Jaboatão dos Guararapes",
-      "state": "PE",
-      "address": "R. Cárceres, s/n, AP. 401, BL 09, Res. Renascença Candeias, Candeias, Jaboatão dos Guararapes-PE, CEP 54430-170",
-      "asking_price": 160000.0,
-      "price_display": "R$ 160.000,00",
-      "sale_modality_hint": null,
-      "auction_date_raw": "23/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": 160000.0,
-      "second_auction_minimum_bid": 123314.73,
-      "description": "Nº DO BEM: 515979423 JABOATÃO GUARARAPES (PE) Descrição: IMÓVEL DE MATRÍCULA 64307 DO SERVIÇO REGISTRAL PE - CARTÓRIO EDUARDO MALTA DE JABOATÃO DOS GUARARAPES-PE, ASSIM DESCRITO: Apartamento nº 401, com área privativa de 44,51m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 1310500201034800128 Localização: R. Cárceres, s/n, AP. 401, BL 09, Res. Renascença Candeias, Candeias, Jaboatão dos Guararapes-PE, CEP 54430-170 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 160.000,00 (cento e sessenta mil reais) Lance mínimo para arrematação em 2º leilão: R$ 123.314,73 (cento e vinte e três mil, trezentos e quatorze reais e setenta e três centavos)",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "64307",
-      "registry_office": "SERVIÇO REGISTRAL PE - CARTÓRIO EDUARDO MALTA DE JABOATÃO DOS GUARARAPES-PE",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27780",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12026_1.jpg"
-      ],
-      "latitude": -8.1925,
-      "longitude": -34.931656,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "12027",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12027",
-      "external_reference": null,
-      "city": "Jaboatão dos Guararapes",
-      "state": "PE",
-      "address": "Via Local II (Lot Reserva VI Natal), 297, AP. 108, BL 05, Cond. Res. Villa das Palmeiras, Santana, Jaboatão dos Guararapes-PE, CEP 54160-449",
-      "asking_price": 190000.0,
-      "price_display": "R$ 190.000,00",
-      "sale_modality_hint": null,
-      "auction_date_raw": "23/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": 190000.0,
-      "second_auction_minimum_bid": 152984.78,
-      "description": "Nº DO BEM: 518518253 JABOATÃO DOS GUARARAPES (PE) Descrição: IMÓVEL DE MATRÍCULA 12397 DA 2ª SERVENTIA REGISTRAL DE JABOATÃO DOS GUARARAPES-PE, ASSIM DESCRITO: Apartamento nº 108, com área real privativa coberta padrão de 43,65m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 2.2570.062.05.0500.0176.6 Localização: Via Local II (Lot Reserva VI Natal), 297, AP. 108, BL 05, Cond. Res. Villa das Palmeiras, Santana, Jaboatão dos Guararapes-PE, CEP 54160-449 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 190.000,00 (cento e noventa mil reais) Lance mínimo para arrematação em 2º leilão: R$ 152.984,78 (cento e cinquenta e dois mil, novecentos e oitenta e quatro reais e setenta e oito centavos)",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "12397",
-      "registry_office": "2ª SERVENTIA REGISTRAL DE JABOATÃO DOS GUARARAPES-PE",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27781",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12027_1.jpg"
-      ],
-      "latitude": -8.182801,
-      "longitude": -34.942261,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
       "source_external_id": "12028",
       "source_url": "https://www.seuimovelbb.com.br/imovel/id/12028",
       "external_reference": null,
@@ -448,32 +172,33 @@
     },
     {
       "source_type": "bb",
-      "source_external_id": "12029",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12029",
-      "external_reference": null,
-      "city": "Paulista",
+      "source_external_id": "10492",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/10492",
+      "external_reference": "101526",
+      "city": "Garanhuns",
       "state": "PE",
-      "address": "R. Campo de Pouso, AP. 101, BL E, T 9, Res. Campo de Aviação - Cond. 14 Bis, Maranguape I, Paulista-PE, CEP 53441-625",
-      "asking_price": 165000.0,
-      "price_display": "R$ 165.000,00",
-      "sale_modality_hint": null,
-      "auction_date_raw": "23/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": 165000.0,
-      "second_auction_minimum_bid": 132406.69,
-      "description": "Nº DO BEM: 524483434 Descrição: IMÓVEL DE MATRÍCULA 63038 DO 1º SERVIÇO NOTARIAL E REGISTRAL DE PAULISTA-PE, ASSIM DESCRITO: Apartamento nº 101, com área privativa de 41,67m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 142404450204900000 Localização: R. Campo de Pouso, AP. 101, BL E, T 9, Res. Campo de Aviação - Cond. 14 Bis, Maranguape I, Paulista-PE, CEP 53441-625 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 165.000,00 (cento e sessenta e cinco mil reais) Lance mínimo para arrematação em 2º leilão: R$ 132.406,69 (cento e trinta e dois mil, quatrocentos e seis reais e sessenta e nove centavos)",
+      "address": "Rua Getulio Zoby Junior, nº 285, Dom Thiago Postma",
+      "asking_price": 69000.0,
+      "price_display": "R$ 69.000,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID101526 GARANHUNS (PE) Descrição legal: Imóvel Urbano Residencial, Apartamento nº 208, Bloco B, situado na Rua Getulio Zoby Junior, nº 285, Dom Thiago Postma, Município de GARANHUNS - PE. Melhor descrito na matrícula 23693 do Cartório do 1º Ofício do Registro de Imóveis de Garanhuns - PE. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente; b) A titularidade do Condomínio encontra-se atualmente em nome de terceiros, cabendo ao arrematante a obrigação de promover, após a arrematação, a devida atualização cadastral e a transferência da titularidade para o seu nome junto ao condomínio, arcando integralmente com todas as providências, custos e eventuais despesas necessárias à regularização. Os valores de condomínio eventualmente devidos serão tratados conforme o disposto no item 16.7 deste Edital; c) Existe AÇÃO DE INDENIZAÇÃO n° 00030667120238172640 no TJ-PE e o arrematante declara-se informado do fato e ciente de que a responsabilidade do BANCO por evicção está disciplinada neste Edital, conforme item 4.11 e seus subitens; d) O levantamento das despesas de Condomínio e IPTU deverão ser realizadas pelo arrematante e encaminhadas ao Banco do Brasil S/A para que seja realizado o pagamento. Não será realizado o reembolso em nenhuma hipótese caso o comprador pague os débitos.",
       "observations": [
         "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
         "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
       ],
       "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "63038",
-      "registry_office": "1º SERVIÇO NOTARIAL E REGISTRAL DE PAULISTA-PE",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27783",
+      "registry_number": "23693",
+      "registry_office": "Cartório do 1º Ofício do Registro de Imóveis de Garanhuns - PE",
+      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=26331",
       "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12029_1.jpg"
+        "https://www.seuimovelbb.com.br/imagem/imovel/10492_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10492_2.jpg"
       ],
-      "latitude": -7.945693,
-      "longitude": -34.856021,
+      "latitude": -8.877123,
+      "longitude": -36.494406,
       "documents": {
         "edital_url": null,
         "matricula_url": null
@@ -482,32 +207,32 @@
     },
     {
       "source_type": "bb",
-      "source_external_id": "12030",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12030",
-      "external_reference": null,
-      "city": "Recife",
+      "source_external_id": "11374",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11374",
+      "external_reference": "100156",
+      "city": "Igarassu",
       "state": "PE",
-      "address": "R. Cônego Romeu, 186-B, BL A, Conj. Res. Jd. Boa Viagem, Boa Viagem, Recife-PE, CEP 51030-340",
-      "asking_price": 656654.59,
-      "price_display": "R$ 656.654,59",
-      "sale_modality_hint": null,
-      "auction_date_raw": "23/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": 656654.59,
-      "second_auction_minimum_bid": 547988.58,
-      "description": "Nº DO BEM: 544423852 RECIFE (PE) Descrição: IMÓVEL DE MATRÍCULA 50549 DO 1º REGISTRO DE IMÓVEIS DE RECIFE-PE, ASSIM DESCRITO: Casa nº 186-B, com área útil de 100,00m² e terreno de uso privativo com área global de 63,80m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 618451900301270002-2 Localização: R. Cônego Romeu, 186-B, BL A, Conj. Res. Jd. Boa Viagem, Boa Viagem, Recife-PE, CEP 51030-340 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 656.654,59 (seiscentos e cinquenta e seis mil seiscentos e cinquenta e quatro reais e cinquenta e nove centavos) Lance mínimo para arrematação em 2º leilão: R$ 547.988,58 (quinhentos e quarenta e sete mil, novecentos e oitenta e oito reais e cinquenta e oito centavos)",
+      "address": "Rua Cavalgada, Quadra 14, Lote nº 02, Loteamento Encanto Igarassu",
+      "asking_price": 77500.0,
+      "price_display": "R$ 77.500,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID100156 IGARASSU (PE)Descrição legal: Imóvel Urbano: Apartamento nº 101, com área privativa de 51,60m², localizado no pavimento térreo do Conjunto Residencial Prefeito Jurandir Bezerra Lins, situado na Rua Cavalgada, Quadra 14, Lote nº 02, Loteamento Encanto Igarassu, município de Igarassu - PE. Melhor descrito na matrícula nº 15959 do Cartório do Único Ofício de Igarassu - PE. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
       "observations": [
         "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
         "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
       ],
       "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "50549",
-      "registry_office": "1º REGISTRO DE IMÓVEIS DE RECIFE-PE",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27784",
+      "registry_number": "15959",
+      "registry_office": "Cartório do Único Ofício de Igarassu - PE",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/14933",
       "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12030_1.jpg"
+        "https://www.seuimovelbb.com.br/imagem/imovel/11374_1.png"
       ],
-      "latitude": -8.138074,
-      "longitude": -34.906116,
+      "latitude": null,
+      "longitude": null,
       "documents": {
         "edital_url": null,
         "matricula_url": null
@@ -516,32 +241,69 @@
     },
     {
       "source_type": "bb",
-      "source_external_id": "12031",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12031",
-      "external_reference": null,
-      "city": "Recife",
+      "source_external_id": "11343",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11343",
+      "external_reference": "101321",
+      "city": "Jaboatão dos Guararapes",
       "state": "PE",
-      "address": "Av. Padre Ibiapina, 420, AP. 404, BL 3, Cond. Monte Ville, Tejipió, Recife-PE, CEP 50920-515",
-      "asking_price": 230000.0,
-      "price_display": "R$ 230.000,00",
-      "sale_modality_hint": null,
-      "auction_date_raw": "23/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": 230000.0,
-      "second_auction_minimum_bid": 293466.53,
-      "description": "Nº DO BEM: 534309411 RECIFE (PE) Descrição: IMÓVEL DE MATRÍCULA 4369 DO 7º REGISTRO DE IMÓVEIS DE RECIFE-PE, ASSIM DESCRITO: Apartamento nº 404, com área de uso privativo de 45,58m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 521050651410330166-3 Localização: Av. Padre Ibiapina, 420, AP. 404, BL 3, Cond. Monte Ville, Tejipió, Recife-PE, CEP 50920-515 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 230.000,00 (duzentos e trinta mil reais) Lance mínimo para arrematação em 2º leilão: R$ 293.466,53 (duzentos e noventa e três mil, quatrocentos e sessenta e seis reais e cinquenta e três centavos)",
+      "address": "Via Local II, nº 297, bairro Santana, no município de Jaboatão dos Guararapes - PE",
+      "asking_price": 87360.0,
+      "price_display": "R$ 87.360,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID101321 JABOATÃO DOS GUARARAPES (PE)Descrição legal: Imóvel urbano: apartamento 203, com área privativa de 49,33 m2, com uma vaga de estacionamento, localizado no bloco 06 do Condomínio Residencial Villa das Palmeiras, situada na Via Local II, nº 297, bairro Santana, no município de Jaboatão dos Guararapes - PE. Melhor descrito na matrícula 6.003 do Cartório da 2ª Serventia Registral de Jaboatão dos Guararapes - PE. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
       "observations": [
         "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
         "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
       ],
       "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "4369",
-      "registry_office": "7º REGISTRO DE IMÓVEIS DE RECIFE-PE",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27785",
+      "registry_number": "6.003",
+      "registry_office": "Cartório da 2ª Serventia Registral de Jaboatão dos Guararapes - PE",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/14901",
       "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12031_1.jpg"
+        "https://www.seuimovelbb.com.br/imagem/imovel/11343_1.png",
+        "https://www.seuimovelbb.com.br/imagem/imovel/11343_2.png",
+        "https://www.seuimovelbb.com.br/imagem/imovel/11343_3.png",
+        "https://www.seuimovelbb.com.br/imagem/imovel/11343_4.png"
       ],
-      "latitude": -8.087568,
-      "longitude": -34.955509,
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11376",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11376",
+      "external_reference": "100989",
+      "city": "Jaboatão Dos Guararapes",
+      "state": "PE",
+      "address": "Via Local II, nº 294, Bairro de Santana",
+      "asking_price": 94220.0,
+      "price_display": "R$ 94.220,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID100989 JABOATÃO DOS GUARARAPES (PE)Descrição legal: Imóvel Urbano: Apartamento nº 204, com área privativa de 43,63m² e vaga de garagem nº 017 com área de 9,90m², localizado no Condomínio Residencial Villa das Palmeiras, situada na Via Local II, nº 294, Bairro de Santana, município de Jaboatão dos Guararapes - PE. Melhor descrito na matrícula nº 6165 da 2ª Serventia Registral de Jaboatão dos Guararapes - PE. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "6165",
+      "registry_office": "2ª Serventia Registral de Jaboatão dos Guararapes - PE",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/14934",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11376_1.png"
+      ],
+      "latitude": null,
+      "longitude": null,
       "documents": {
         "edital_url": null,
         "matricula_url": null
@@ -584,33 +346,305 @@
     },
     {
       "source_type": "bb",
-      "source_external_id": "12209",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12209",
-      "external_reference": "0899",
-      "city": "Belém do São Francisco",
+      "source_external_id": "9858",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/9858",
+      "external_reference": "101030",
+      "city": "Paulista",
       "state": "PE",
-      "address": "Rua João XXIII, s/n",
-      "asking_price": null,
-      "price_display": "Aceita BB?",
-      "sale_modality_hint": "aceita_bb",
-      "auction_date_raw": "13/10/2026 a partir das 10h00",
+      "address": "Rua Amazonita, Nº 134, Casa 103 - N S Da Conceição",
+      "asking_price": 117000.0,
+      "price_display": "R$ 117.000,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
       "first_auction_minimum_bid": null,
       "second_auction_minimum_bid": null,
-      "description": "ID0899 BELÉM DO SÃO FRANCISCO (PE) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua João XXIII, s/n, Município de Belém do São Francisco - PE. Melhor descrito na matrícula 3943, do Cartório Único de Belém de São Francisco - PE. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "description": "ID101030 PAULISTA(PE) Descrição legal: Imóvel Urbano Residencial, Casa nº 103, com vaga de garagem situada na Rua Amazonita, Nº 134, Casa 103 - N S Da Conceição, Município de PAULISTA - PE. Melhor descrito na matrícula 54526 do 1º Serviço Notarial e Registral de Paulista-PE. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente. b) A titularidade do IPTU está em nome de terceiros e as providências e eventuais despesas para regularização do imóvel correrão por conta do adquirente.",
       "observations": [
         "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
         "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
       ],
       "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "3943",
-      "registry_office": null,
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27939",
+      "registry_number": "54526",
+      "registry_office": "1º Serviço Notarial e Registral de Paulista-PE",
+      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=25730",
       "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12209_1.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12209_2.jpeg"
+        "https://www.seuimovelbb.com.br/imagem/imovel/9858_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/9858_2.jpg"
       ],
-      "latitude": -8.755471,
-      "longitude": -38.96278,
+      "latitude": -7.884082,
+      "longitude": -34.832055,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12025",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12025",
+      "external_reference": null,
+      "city": "Igarassu",
+      "state": "PE",
+      "address": "R. Amalequitas (Lot Residencial Santa Paula), 05, 04-G, Agamenon Magalhães, Santa Maria, Igarassu-PE, CEP 53640-725",
+      "asking_price": 130331.4,
+      "price_display": "R$ 130.331,40",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 130331.4,
+      "second_auction_minimum_bid": 126740.22,
+      "description": "Nº DO BEM: 521862070 IGARASSU (PE) Descrição: IMÓVEL DE MATRÍCULA 14506 DO CARTÓRIO PE - OFÍCIO ÚNICO DE IGARASSU-PE, ASSIM DESCRITO: Casa residencial nº 04-G, com área construída de 53,20m² e respectivo terreno com área total de 128,00m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 1505519401003399936 Localização: R. Amalequitas (Lot Residencial Santa Paula), 05, 04-G, Agamenon Magalhães, Santa Maria, Igarassu-PE, CEP 53640-725 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 130.331,40 (cento e trinta mil trezentos e trinta e um reais e quarenta centavos) Lance mínimo para arrematação em 2º leilão: R$ 126.740,22 (cento e vinte e seis mil, setecentos e quarenta reais e vinte e dois centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "14506",
+      "registry_office": "CARTÓRIO PE - OFÍCIO ÚNICO DE IGARASSU-PE",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27779",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12025_1.jpg"
+      ],
+      "latitude": -9.983657,
+      "longitude": -67.843944,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12024",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12024",
+      "external_reference": null,
+      "city": "Igarassu",
+      "state": "PE",
+      "address": "R. Ibarde Ribeiro de Albuquerque Lima, 07, Sítio dos Marcos, Igarassu-PE, CEP 53615-600",
+      "asking_price": 131835.6,
+      "price_display": "R$ 131.835,60",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 131835.6,
+      "second_auction_minimum_bid": 142727.28,
+      "description": "Nº DO BEM: 526217871 IGARASSU (PE) Descrição: IMÓVEL DE MATRÍCULA 15978 DO OFÍCIO ÚNICO DE IGARASSU-PE, ASSIM DESCRITO: Casa Residencial, com área construída de 61,99m² e respectivo terreno com área total de 130,80m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 1407528401005799936 Localização: R. Ibarde Ribeiro de Albuquerque Lima, 07, Sítio dos Marcos, Igarassu-PE, CEP 53615-600 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 131.835,60 (cento e trinta e um mil oitocentos e trinta e cinco reais e sessenta centavos) Lance mínimo para arrematação em 2º leilão: R$ 142.727,28 (cento e quarenta e dois mil, setecentos e vinte e sete reais e vinte e oito centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "15978",
+      "registry_office": "OFÍCIO ÚNICO DE IGARASSU-PE",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27778",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12024_1.jpg"
+      ],
+      "latitude": -8.294618,
+      "longitude": -36.03311,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12026",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12026",
+      "external_reference": null,
+      "city": "Jaboatão dos Guararapes",
+      "state": "PE",
+      "address": "R. Cárceres, s/n, AP. 401, BL 09, Res. Renascença Candeias, Candeias, Jaboatão dos Guararapes-PE, CEP 54430-170",
+      "asking_price": 160000.0,
+      "price_display": "R$ 160.000,00",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 160000.0,
+      "second_auction_minimum_bid": 123314.73,
+      "description": "Nº DO BEM: 515979423 JABOATÃO GUARARAPES (PE) Descrição: IMÓVEL DE MATRÍCULA 64307 DO SERVIÇO REGISTRAL PE - CARTÓRIO EDUARDO MALTA DE JABOATÃO DOS GUARARAPES-PE, ASSIM DESCRITO: Apartamento nº 401, com área privativa de 44,51m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 1310500201034800128 Localização: R. Cárceres, s/n, AP. 401, BL 09, Res. Renascença Candeias, Candeias, Jaboatão dos Guararapes-PE, CEP 54430-170 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 160.000,00 (cento e sessenta mil reais) Lance mínimo para arrematação em 2º leilão: R$ 123.314,73 (cento e vinte e três mil, trezentos e quatorze reais e setenta e três centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "64307",
+      "registry_office": "SERVIÇO REGISTRAL PE - CARTÓRIO EDUARDO MALTA DE JABOATÃO DOS GUARARAPES-PE",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27780",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12026_1.jpg"
+      ],
+      "latitude": -8.1925,
+      "longitude": -34.931656,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12023",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12023",
+      "external_reference": null,
+      "city": "Caruaru",
+      "state": "PE",
+      "address": "Av. Portugal, 1290, AP. 806, BL 3, Conj. Res. Jd. dos Ipês, Universitário, Caruaru-PE, CEP 55016-400",
+      "asking_price": 162467.14,
+      "price_display": "R$ 162.467,14",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 162467.14,
+      "second_auction_minimum_bid": 303324.16,
+      "description": "Nº DO BEM: 518811273 CARUARU (PE) Descrição: IMÓVEL DE MATRÍCULA 51776 DO 1º CARTÓRIO DE REGISTRO GERAL DE IMÓVEIS DE CARUARU-PE, ASSIM DESCRITO: Apartamento nº 806, com área útil privativa de 48,00m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 37008304132800000222 Localização: Av. Portugal, 1290, AP. 806, BL 3, Conj. Res. Jd. dos Ipês, Universitário, Caruaru-PE, CEP 55016-400 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 162.467,14 (cento e sessenta e dois mil quatrocentos e sessenta e sete reais e quatorze centavos) Lance mínimo para arrematação em 2º leilão: R$ 303.324,16 (trezentos e três mil, trezentos e vinte e quatro reais e dezesseis centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "51776",
+      "registry_office": "1º CARTÓRIO DE REGISTRO GERAL DE IMÓVEIS DE CARUARU-PE",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27777",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12023_1.jpg"
+      ],
+      "latitude": -8.267243,
+      "longitude": -35.964314,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12029",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12029",
+      "external_reference": null,
+      "city": "Paulista",
+      "state": "PE",
+      "address": "R. Campo de Pouso, AP. 101, BL E, T 9, Res. Campo de Aviação - Cond. 14 Bis, Maranguape I, Paulista-PE, CEP 53441-625",
+      "asking_price": 165000.0,
+      "price_display": "R$ 165.000,00",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 165000.0,
+      "second_auction_minimum_bid": 132406.69,
+      "description": "Nº DO BEM: 524483434 Descrição: IMÓVEL DE MATRÍCULA 63038 DO 1º SERVIÇO NOTARIAL E REGISTRAL DE PAULISTA-PE, ASSIM DESCRITO: Apartamento nº 101, com área privativa de 41,67m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 142404450204900000 Localização: R. Campo de Pouso, AP. 101, BL E, T 9, Res. Campo de Aviação - Cond. 14 Bis, Maranguape I, Paulista-PE, CEP 53441-625 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 165.000,00 (cento e sessenta e cinco mil reais) Lance mínimo para arrematação em 2º leilão: R$ 132.406,69 (cento e trinta e dois mil, quatrocentos e seis reais e sessenta e nove centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "63038",
+      "registry_office": "1º SERVIÇO NOTARIAL E REGISTRAL DE PAULISTA-PE",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27783",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12029_1.jpg"
+      ],
+      "latitude": -7.945693,
+      "longitude": -34.856021,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12027",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12027",
+      "external_reference": null,
+      "city": "Jaboatão dos Guararapes",
+      "state": "PE",
+      "address": "Via Local II (Lot Reserva VI Natal), 297, AP. 108, BL 05, Cond. Res. Villa das Palmeiras, Santana, Jaboatão dos Guararapes-PE, CEP 54160-449",
+      "asking_price": 190000.0,
+      "price_display": "R$ 190.000,00",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 190000.0,
+      "second_auction_minimum_bid": 152984.78,
+      "description": "Nº DO BEM: 518518253 JABOATÃO DOS GUARARAPES (PE) Descrição: IMÓVEL DE MATRÍCULA 12397 DA 2ª SERVENTIA REGISTRAL DE JABOATÃO DOS GUARARAPES-PE, ASSIM DESCRITO: Apartamento nº 108, com área real privativa coberta padrão de 43,65m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 2.2570.062.05.0500.0176.6 Localização: Via Local II (Lot Reserva VI Natal), 297, AP. 108, BL 05, Cond. Res. Villa das Palmeiras, Santana, Jaboatão dos Guararapes-PE, CEP 54160-449 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 190.000,00 (cento e noventa mil reais) Lance mínimo para arrematação em 2º leilão: R$ 152.984,78 (cento e cinquenta e dois mil, novecentos e oitenta e quatro reais e setenta e oito centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "12397",
+      "registry_office": "2ª SERVENTIA REGISTRAL DE JABOATÃO DOS GUARARAPES-PE",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27781",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12027_1.jpg"
+      ],
+      "latitude": -8.182801,
+      "longitude": -34.942261,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12031",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12031",
+      "external_reference": null,
+      "city": "Recife",
+      "state": "PE",
+      "address": "Av. Padre Ibiapina, 420, AP. 404, BL 3, Cond. Monte Ville, Tejipió, Recife-PE, CEP 50920-515",
+      "asking_price": 230000.0,
+      "price_display": "R$ 230.000,00",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 230000.0,
+      "second_auction_minimum_bid": 293466.53,
+      "description": "Nº DO BEM: 534309411 RECIFE (PE) Descrição: IMÓVEL DE MATRÍCULA 4369 DO 7º REGISTRO DE IMÓVEIS DE RECIFE-PE, ASSIM DESCRITO: Apartamento nº 404, com área de uso privativo de 45,58m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 521050651410330166-3 Localização: Av. Padre Ibiapina, 420, AP. 404, BL 3, Cond. Monte Ville, Tejipió, Recife-PE, CEP 50920-515 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 230.000,00 (duzentos e trinta mil reais) Lance mínimo para arrematação em 2º leilão: R$ 293.466,53 (duzentos e noventa e três mil, quatrocentos e sessenta e seis reais e cinquenta e três centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "4369",
+      "registry_office": "7º REGISTRO DE IMÓVEIS DE RECIFE-PE",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27785",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12031_1.jpg"
+      ],
+      "latitude": -8.087568,
+      "longitude": -34.955509,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12030",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12030",
+      "external_reference": null,
+      "city": "Recife",
+      "state": "PE",
+      "address": "R. Cônego Romeu, 186-B, BL A, Conj. Res. Jd. Boa Viagem, Boa Viagem, Recife-PE, CEP 51030-340",
+      "asking_price": 656654.59,
+      "price_display": "R$ 656.654,59",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 656654.59,
+      "second_auction_minimum_bid": 547988.58,
+      "description": "Nº DO BEM: 544423852 RECIFE (PE) Descrição: IMÓVEL DE MATRÍCULA 50549 DO 1º REGISTRO DE IMÓVEIS DE RECIFE-PE, ASSIM DESCRITO: Casa nº 186-B, com área útil de 100,00m² e terreno de uso privativo com área global de 63,80m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 618451900301270002-2 Localização: R. Cônego Romeu, 186-B, BL A, Conj. Res. Jd. Boa Viagem, Boa Viagem, Recife-PE, CEP 51030-340 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 656.654,59 (seiscentos e cinquenta e seis mil seiscentos e cinquenta e quatro reais e cinquenta e nove centavos) Lance mínimo para arrematação em 2º leilão: R$ 547.988,58 (quinhentos e quarenta e sete mil, novecentos e oitenta e oito reais e cinquenta e oito centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "50549",
+      "registry_office": "1º REGISTRO DE IMÓVEIS DE RECIFE-PE",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27784",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12030_1.jpg"
+      ],
+      "latitude": -8.138074,
+      "longitude": -34.906116,
       "documents": {
         "edital_url": null,
         "matricula_url": null
@@ -646,75 +680,6 @@
       ],
       "latitude": -8.091686,
       "longitude": -39.578645,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "12301",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12301",
-      "external_reference": "101756",
-      "city": "Agrestina",
-      "state": "PE",
-      "address": "Rua Severino Carlos da Silva, nº 14",
-      "asking_price": 55000.0,
-      "price_display": "R$ 55.000,00",
-      "sale_modality_hint": "proposta",
-      "auction_date_raw": null,
-      "first_auction_minimum_bid": null,
-      "second_auction_minimum_bid": null,
-      "description": "ID101756 AGRESTINA (PE) Descrição legal: Imóvel Urbano: Residência edificada em terreno, situada na Rua Severino Carlos da Silva, nº 14, Município de Agrestina-PE. Melhor descrita na matrícula nº 9051 do 1º Ofício de Registro de Imóveis de Agrestina-PE a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "9051",
-      "registry_office": "1º Ofício de Registro de Imóveis de Agrestina-PE",
-      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/15113",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12301_1.jpg"
-      ],
-      "latitude": null,
-      "longitude": null,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "9858",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/9858",
-      "external_reference": "101030",
-      "city": "Paulista",
-      "state": "PE",
-      "address": "Rua Amazonita, Nº 134, Casa 103 - N S Da Conceição",
-      "asking_price": 117000.0,
-      "price_display": "R$ 117.000,00",
-      "sale_modality_hint": "proposta",
-      "auction_date_raw": null,
-      "first_auction_minimum_bid": null,
-      "second_auction_minimum_bid": null,
-      "description": "ID101030 PAULISTA(PE) Descrição legal: Imóvel Urbano Residencial, Casa nº 103, com vaga de garagem situada na Rua Amazonita, Nº 134, Casa 103 - N S Da Conceição, Município de PAULISTA - PE. Melhor descrito na matrícula 54526 do 1º Serviço Notarial e Registral de Paulista-PE. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente. b) A titularidade do IPTU está em nome de terceiros e as providências e eventuais despesas para regularização do imóvel correrão por conta do adquirente.",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "54526",
-      "registry_office": "1º Serviço Notarial e Registral de Paulista-PE",
-      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=25730",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/9858_1.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/9858_2.jpg"
-      ],
-      "latitude": -7.884082,
-      "longitude": -34.832055,
       "documents": {
         "edital_url": null,
         "matricula_url": null

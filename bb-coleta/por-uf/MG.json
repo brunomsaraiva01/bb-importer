@@ -2,30 +2,66 @@
   "imoveis": [
     {
       "source_type": "bb",
-      "source_external_id": "10887",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/10887",
-      "external_reference": "100135",
-      "city": "Sete Lagoas",
+      "source_external_id": "12321",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12321",
+      "external_reference": "94837",
+      "city": "Conceição da Aparecida",
       "state": "MG",
-      "address": "Avenida Prefeito Alberto Moura 21500 Sala 603 - Distrito Industrial",
-      "asking_price": 187110.0,
-      "price_display": "R$ 187.110,00",
-      "sale_modality_hint": "proposta",
+      "address": "Rua Licurgo Alves Ferreira, nº 39, Jardim das Oliveiras",
+      "asking_price": null,
+      "price_display": "Aceita BB?",
+      "sale_modality_hint": "aceita_bb",
       "auction_date_raw": null,
       "first_auction_minimum_bid": null,
       "second_auction_minimum_bid": null,
-      "description": "ID100135 SETE LAGOAS(MG) Descrição legal: Imóvel Urbano Residencial, Apartamento 603 situada na Avenida Prefeito Alberto Moura 21500 Sala 603 - Distrito Industrial, Município de Sete lagoas/MG. Melhor descrito na matrícula 39801 do 2º Ofício do Registro de Imóveis de Sete Lagoas/MG. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente; b) A titularidade do condomínio está em nome de terceiros e as providências e eventuais despesas para regularização do imóvel correrão por conta do adquirente. c) A titularidade do IPTU está em nome de terceiros e as providências e eventuais despesas para regularização do imóvel correrão por conta do adquirente.",
+      "description": "ID94837 CONCEIÇÃO DA APARECIDA (MG) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Licurgo Alves Ferreira, nº 39, Jardim das Oliveiras, Município de Conceição da Aparecida - MG. Melhor descrito na matrícula 14606 do Registro de Imóveis de Rio Claro - MG. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente; b) Existe AÇÃO CAUTELAR n° 50010243320198100000 no TJ-MG e o arrematante declara-se informado do fato e ciente de que a responsabilidade do BANCO por evicção está disciplinada neste Edital, conforme item 4.11 e seus subitens.",
       "observations": [
         "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
         "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
       ],
       "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "39801",
-      "registry_office": "2º Ofício do Registro de Imóveis de Sete Lagoas/MG",
-      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/14767",
+      "registry_number": "14606",
+      "registry_office": "Registro de Imóveis de Rio Claro - MG",
+      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=27918",
       "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/10887_1.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/10887_2.jpg"
+        "https://www.seuimovelbb.com.br/imagem/imovel/12321_1.jfif",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12321_2.jfif",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12321_3.jfif",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12321_4.jfif"
+      ],
+      "latitude": -21.090869,
+      "longitude": -46.204483,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12282",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12282",
+      "external_reference": "102013",
+      "city": "São Francisco",
+      "state": "MG",
+      "address": "Avenida Perimetral, nº 1257, Bairro São Luiz",
+      "asking_price": 55000.0,
+      "price_display": "R$ 55.000,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID102013 SÃO FRANCISCO (MG) Descrição legal: Imóvel Urbano: Residência edificada em terreno, situada na Avenida Perimetral, nº 1257, Bairro São Luiz, Município de São Francisco-MG. Melhor descrita na matrícula nº 21368 do Registro de Imóveis de São Francisco-MG a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "21368",
+      "registry_office": "Registro de Imóveis de São Francisco-MG",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/15089",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12282_1.jpg"
       ],
       "latitude": null,
       "longitude": null,
@@ -71,32 +107,32 @@
     },
     {
       "source_type": "bb",
-      "source_external_id": "11966",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11966",
-      "external_reference": null,
-      "city": "Buritis",
+      "source_external_id": "12281",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12281",
+      "external_reference": "103035",
+      "city": "Engenheiro Navarro",
       "state": "MG",
-      "address": "Av. Urucuia, 728, Centro, Buritis-MG, CEP 38660-000",
-      "asking_price": 133670.35,
-      "price_display": "R$ 133.670,35",
-      "sale_modality_hint": null,
-      "auction_date_raw": "23/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": 133670.35,
-      "second_auction_minimum_bid": 163177.98,
-      "description": "Nº DO BEM: 527840025 BURITIS (MG) Descrição: IMÓVEL DE MATRÍCULA 12.094 DO OFÍCIO DE REGISTRO DE IMÓVEIS DE BURITIS-MG, ASSIM DESCRITO: Casa nº 728, com área de construção de 63,35m² e respectivo terreno com área total de 150,00m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 5010000100001760256 Localização: Av. Urucuia, 728, Centro, Buritis-MG, CEP 38660-000 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 133.670,35 (cento e trinta e três mil seiscentos e setenta reais e trinta e cinco centavos) Lance mínimo para arrematação em 2º leilão: R$ 163.177,98 (cento e sessenta e três mil, cento e setenta e sete reais e noventa e oito centavos)",
+      "address": "Rua Araxá, nº 102, Bairro Senhor do Bonfim",
+      "asking_price": 65000.0,
+      "price_display": "R$ 65.000,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID103035 ENGENHEIRO NAVARRO (MG) Descrição legal: Imóvel Urbano: Terreno com edificação, situado na Rua Araxá, nº 102, Bairro Senhor do Bonfim, Município de Engenheiro Navarro-MG. Melhor descrito na matrícula nº 13149 do Registro de Imóveis de Bocaiúva-MG a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
       "observations": [
         "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
         "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
       ],
       "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "12.094",
-      "registry_office": "OFÍCIO DE REGISTRO DE IMÓVEIS DE BURITIS-MG",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27720",
+      "registry_number": "13149",
+      "registry_office": "Registro de Imóveis de Bocaiúva-MG",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/15083",
       "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/11966_1.jpg"
+        "https://www.seuimovelbb.com.br/imagem/imovel/12281_1.jpg"
       ],
-      "latitude": -15.624287,
-      "longitude": -46.418728,
+      "latitude": null,
+      "longitude": null,
       "documents": {
         "edital_url": null,
         "matricula_url": null
@@ -105,32 +141,67 @@
     },
     {
       "source_type": "bb",
-      "source_external_id": "11967",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11967",
+      "source_external_id": "11984",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11984",
       "external_reference": null,
-      "city": "Cachoeira Dourada",
+      "city": "Visconde do Rio Branco",
       "state": "MG",
-      "address": "R. 25 de Junho, 113, Centro, Cachoeira Dourada-MG, CEP 38370-000",
-      "asking_price": 815404.94,
-      "price_display": "R$ 815.404,94",
+      "address": "R. Jeová Ribeiro de Almeida, 192, Res. Jardins, Visconde do Rio Branco-MG, CEP 36520-000",
+      "asking_price": 112283.1,
+      "price_display": "R$ 112.283,10",
       "sale_modality_hint": null,
       "auction_date_raw": "23/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": 815404.94,
-      "second_auction_minimum_bid": 659802.62,
-      "description": "Nº DO BEM: 542780944 CAPINÓPOLIS (MG) Descrição: IMÓVEL DE MATRÍCULA 8.878 DO OFICIAL DO REGISTRO DE IMÓVEIS DE CAPINÓPOLIS-MG, ASSIM DESCRITO: Prédio Residencial nº 113, com área de construção de 160,00m² e respectivo terreno com área total de 300,00m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 000719-002 Localização: R. 25 de Junho, 113, Centro, Cachoeira Dourada-MG, CEP 38370-000 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Obs.3: Consta AÇÃO JUDICIAL conforme Av. 08 da matrícula, referente ao processo nº 5001776-83.2024.8.13.0126. Nos termos do § 11 do artigo 27 da Lei nº 9.514/97, os direitos reais de garantia ou constrições, tais como penhoras, arrestos, bloqueios e indisponibilidades de qualquer natureza incidentes sobre o direito real de aquisição do fiduciante, não impedem a consolidação da propriedade em nome do credor fiduciário nem a venda do imóvel para realização da garantia. Lance mínimo para arrematação em 1º leilão: R$ 815.404,94 (oitocentos e quinze mil quatrocentos e quatro reais e noventa e quatro centavos) Lance mínimo para arrematação em 2º leilão: R$ 659.802,62 (seiscentos e cinquenta e nove mil, oitocentos e dois reais e sessenta e dois centavos)",
+      "first_auction_minimum_bid": 112283.1,
+      "second_auction_minimum_bid": 110385.69,
+      "description": "Nº DO BEM: 529066883 VISCONDE DO RIO BRANCO (MG) Descrição: IMÓVEL DE MATRÍCULA 26.380 DO CARTÓRIO DE REGISTRO DE IMÓVEIS DE VISCONDE DO RIO BRANCO-MG, ASSIM DESCRITO: Casa, com área construída de 51,99m² e respectivo terreno com área total de 147,42m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 01 02 219 000070 001 Localização: R. Jeová Ribeiro de Almeida, 192, Res. Jardins, Visconde do Rio Branco-MG, CEP 36520-000 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 112.283,10 (cento e doze mil duzentos e oitenta e três reais e dez centavos) Lance mínimo para arrematação em 2º leilão: R$ 110.385,69 (cento e dez mil, trezentos e oitenta e cinco reais e sessenta e nove centavos)",
       "observations": [
         "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
         "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
       ],
       "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "8.878",
-      "registry_office": "OFICIAL DO REGISTRO DE IMÓVEIS DE CAPINÓPOLIS-MG",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27721",
+      "registry_number": "26.380",
+      "registry_office": "CARTÓRIO DE REGISTRO DE IMÓVEIS DE VISCONDE DO RIO BRANCO-MG",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27738",
       "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/11967_1.jpg"
+        "https://www.seuimovelbb.com.br/imagem/imovel/11984_1.jpg"
       ],
-      "latitude": -26.500338,
-      "longitude": -49.086837,
+      "latitude": -21.00054,
+      "longitude": -42.826054,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "9845",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/9845",
+      "external_reference": "100795",
+      "city": "Viçosa",
+      "state": "MG",
+      "address": "Rua Carlos Augusto Gouveia, 550 Apto 201 Bloco I - Pref Moacirua Andrade",
+      "asking_price": 115800.0,
+      "price_display": "R$ 115.800,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID100795 VIÇOSA(MG) Descrição legal: Imóvel Urbano Residencial, Apartamento n° 201 situada na Rua Carlos Augusto Gouveia, 550 Apto 201 Bloco I - Pref Moacirua Andrade, Município de VIÇOSA - MG. Melhor descrito na matrícula 41087 do Registro de Imóveis de Viçosa-MG. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente. b) A titularidade do condomínio está em nome de terceiros e as providências e eventuais despesas para regularização do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "41087",
+      "registry_office": "Registro de Imóveis de Viçosa-MG",
+      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=25709",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/9845_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/9845_2.jpg"
+      ],
+      "latitude": -20.729732,
+      "longitude": -42.878913,
       "documents": {
         "edital_url": null,
         "matricula_url": null
@@ -173,6 +244,40 @@
     },
     {
       "source_type": "bb",
+      "source_external_id": "11966",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11966",
+      "external_reference": null,
+      "city": "Buritis",
+      "state": "MG",
+      "address": "Av. Urucuia, 728, Centro, Buritis-MG, CEP 38660-000",
+      "asking_price": 133670.35,
+      "price_display": "R$ 133.670,35",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 133670.35,
+      "second_auction_minimum_bid": 163177.98,
+      "description": "Nº DO BEM: 527840025 BURITIS (MG) Descrição: IMÓVEL DE MATRÍCULA 12.094 DO OFÍCIO DE REGISTRO DE IMÓVEIS DE BURITIS-MG, ASSIM DESCRITO: Casa nº 728, com área de construção de 63,35m² e respectivo terreno com área total de 150,00m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 5010000100001760256 Localização: Av. Urucuia, 728, Centro, Buritis-MG, CEP 38660-000 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 133.670,35 (cento e trinta e três mil seiscentos e setenta reais e trinta e cinco centavos) Lance mínimo para arrematação em 2º leilão: R$ 163.177,98 (cento e sessenta e três mil, cento e setenta e sete reais e noventa e oito centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "12.094",
+      "registry_office": "OFÍCIO DE REGISTRO DE IMÓVEIS DE BURITIS-MG",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27720",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11966_1.jpg"
+      ],
+      "latitude": -15.624287,
+      "longitude": -46.418728,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
       "source_external_id": "11969",
       "source_url": "https://www.seuimovelbb.com.br/imovel/id/11969",
       "external_reference": null,
@@ -207,40 +312,6 @@
     },
     {
       "source_type": "bb",
-      "source_external_id": "11970",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11970",
-      "external_reference": null,
-      "city": "Governador Valadares",
-      "state": "MG",
-      "address": "Av. Bromélias, 36, Cond. Obra 33, Vale do Sol, Governador Valadares-MG, CEP 35042-780",
-      "asking_price": 235502.35,
-      "price_display": "R$ 235.502,35",
-      "sale_modality_hint": null,
-      "auction_date_raw": "23/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": 235502.35,
-      "second_auction_minimum_bid": 181964.04,
-      "description": "Nº DO BEM: 530337011 GOVERNADOR VALADARES (MG) Descrição: IMÓVEL DE MATRÍCULA 58.927 DO 1º REGISTRO DE IMÓVEIS DE GOVERNADOR VALADARES-MG, ASSIM DESCRITO: Casa Residencial, com área privativa principal coberta padrão de 64,16m² e respectivo terreno com área total de 360,00m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 152800110002 Localização: Av. Bromélias, 36, Cond. Obra 33, Vale do Sol, Governador Valadares-MG, CEP 35042-780 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 235.502,35 (duzentos e trinta e cinco mil quinhentos e dois reais e trinta e cinco centavos) Lance mínimo para arrematação em 2º leilão: R$ 181.964,04 (cento e oitenta e um mil, novecentos e sessenta e quatro reais e quatro centavos)",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "58.927",
-      "registry_office": "1º REGISTRO DE IMÓVEIS DE GOVERNADOR VALADARES-MG",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27724",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/11970_1.jpg"
-      ],
-      "latitude": -18.910162,
-      "longitude": -41.954807,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
       "source_external_id": "11971",
       "source_url": "https://www.seuimovelbb.com.br/imovel/id/11971",
       "external_reference": null,
@@ -264,6 +335,40 @@
       "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27725",
       "images": [
         "https://www.seuimovelbb.com.br/imagem/imovel/11971_1.jpg"
+      ],
+      "latitude": -16.729821,
+      "longitude": -43.834349,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11974",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11974",
+      "external_reference": null,
+      "city": "Montes Claros",
+      "state": "MG",
+      "address": "Av. Belvedere, 110, AP. 404, BL 10, Cond. Pq. Monte Fiore, Belvedere, Montes Claros-MG, CEP 39406-230",
+      "asking_price": 150000.0,
+      "price_display": "R$ 150.000,00",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 150000.0,
+      "second_auction_minimum_bid": 138565.87,
+      "description": "Nº DO BEM: 511854255 MONTES CLAROS (MG) Descrição: IMÓVEL DE MATRÍCULA 53.036 DO OFICIO DO 2º REGISTRO DE IMÓVEIS DE MONTES CLAROS-MG, ASSIM DESCRITO: Apartamento nº 404, com área privativa de 45,22m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 19744920 Localização: Av. Belvedere, 110, AP. 404, BL 10, Cond. Pq. Monte Fiore, Belvedere, Montes Claros-MG, CEP 39406-230 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 150.000,00 (cento e cinquenta mil reais) Lance mínimo para arrematação em 2º leilão: R$ 138.565,87 (cento e trinta e oito mil, quinhentos e sessenta e cinco reais e oitenta e sete centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "53.036",
+      "registry_office": "OFICIO DO 2º REGISTRO DE IMÓVEIS DE MONTES CLAROS-MG",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27728",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11974_1.jpg"
       ],
       "latitude": -16.729821,
       "longitude": -43.834349,
@@ -309,142 +414,6 @@
     },
     {
       "source_type": "bb",
-      "source_external_id": "11973",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11973",
-      "external_reference": null,
-      "city": "Montes Claros",
-      "state": "MG",
-      "address": "R. do Flamengo, 1074, Maracanã, Montes Claros-MG, CEP 39403-069",
-      "asking_price": 176444.86,
-      "price_display": "R$ 176.444,86",
-      "sale_modality_hint": null,
-      "auction_date_raw": "23/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": 176444.86,
-      "second_auction_minimum_bid": 122894.04,
-      "description": "Nº DO BEM: 525677249 MONTES CLAROS (MG) Descrição: IMÓVEL DE MATRÍCULA 41.594 DO OFÍCIO DO 1º REGISTRO DE IMÓVEIS DE MONTES CLAROS-MG, ASSIM DESCRITO: Casa nº 1.074, com área construída de 67,41m² e respectivo terreno com área total de 150,00m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 1230490130000 Localização: R. do Flamengo, 1074, Maracanã, Montes Claros-MG, CEP 39403-069 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 176.444,86 (cento e setenta e seis mil quatrocentos e quarenta e quatro reais e oitenta e seis centavos) Lance mínimo para arrematação em 2º leilão: R$ 122.894,04 (cento e vinte e dois mil, oitocentos e noventa e quatro reais e quatro centavos)",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "41.594",
-      "registry_office": "OFÍCIO DO 1º REGISTRO DE IMÓVEIS DE MONTES CLAROS-MG",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27727",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/11973_1.jpg"
-      ],
-      "latitude": -16.761812,
-      "longitude": -43.872116,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "11974",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11974",
-      "external_reference": null,
-      "city": "Montes Claros",
-      "state": "MG",
-      "address": "Av. Belvedere, 110, AP. 404, BL 10, Cond. Pq. Monte Fiore, Belvedere, Montes Claros-MG, CEP 39406-230",
-      "asking_price": 150000.0,
-      "price_display": "R$ 150.000,00",
-      "sale_modality_hint": null,
-      "auction_date_raw": "23/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": 150000.0,
-      "second_auction_minimum_bid": 138565.87,
-      "description": "Nº DO BEM: 511854255 MONTES CLAROS (MG) Descrição: IMÓVEL DE MATRÍCULA 53.036 DO OFICIO DO 2º REGISTRO DE IMÓVEIS DE MONTES CLAROS-MG, ASSIM DESCRITO: Apartamento nº 404, com área privativa de 45,22m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 19744920 Localização: Av. Belvedere, 110, AP. 404, BL 10, Cond. Pq. Monte Fiore, Belvedere, Montes Claros-MG, CEP 39406-230 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 150.000,00 (cento e cinquenta mil reais) Lance mínimo para arrematação em 2º leilão: R$ 138.565,87 (cento e trinta e oito mil, quinhentos e sessenta e cinco reais e oitenta e sete centavos)",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "53.036",
-      "registry_office": "OFICIO DO 2º REGISTRO DE IMÓVEIS DE MONTES CLAROS-MG",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27728",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/11974_1.jpg"
-      ],
-      "latitude": -16.729821,
-      "longitude": -43.834349,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "11975",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11975",
-      "external_reference": null,
-      "city": "Patos de Minas",
-      "state": "MG",
-      "address": "R. José Maria da Silva, 99, Morada da Serra, Patos de Minas-MG, CEP 38705-824",
-      "asking_price": 181791.68,
-      "price_display": "R$ 181.791,68",
-      "sale_modality_hint": null,
-      "auction_date_raw": "23/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": 181791.68,
-      "second_auction_minimum_bid": 165813.73,
-      "description": "Nº DO BEM: 531313645 PATOS DE MINAS (MG) Descrição: IMÓVEL DE MATRÍCULA 15.196 DO 3º OFÍCIO DE REGISTRO DE IMÓVEIS DE PATOS DE MINAS-MG, ASSIM DESCRITO: Prédio residencial, com área total edificada de 53,77m² e terreno com área total de 220,00m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 570010321000000 Localização: R. José Maria da Silva, 99, Morada da Serra, Patos de Minas-MG, CEP 38705-824 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 181.791,68 (cento e oitenta e um mil setecentos e noventa e um reais e sessenta e oito centavos) Lance mínimo para arrematação em 2º leilão: R$ 165.813,73 (cento e sessenta e cinco mil, oitocentos e treze reais e setenta e três centavos)",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "15.196",
-      "registry_office": "3º OFÍCIO DE REGISTRO DE IMÓVEIS DE PATOS DE MINAS-MG",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27729",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/11975_1.jpg"
-      ],
-      "latitude": -18.598579,
-      "longitude": -46.471272,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "11976",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11976",
-      "external_reference": null,
-      "city": "Patos de Minas",
-      "state": "MG",
-      "address": "R. Jari, 204, Jd. Esperança, Patos de Minas-MG, CEP 38703-734",
-      "asking_price": 204218.58,
-      "price_display": "R$ 204.218,58",
-      "sale_modality_hint": null,
-      "auction_date_raw": "23/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": 204218.58,
-      "second_auction_minimum_bid": 143284.56,
-      "description": "Nº DO BEM: 514480107 PATOS DE MINAS (MG) Descrição: IMÓVEL DE MATRÍCULA 18.284 DO 2º OFÍCIO DE REGISTRO DE IMÓVEIS DE PATOS DE MINAS-MG, ASSIM DESCRITO: Casa, com área construída de 131,49m² e terreno com área total de 200,00m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 400350070000000 Localização: R. Jari, 204, Jd. Esperança, Patos de Minas-MG, CEP 38703-734 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 204.218,58 (duzentos e quatro mil duzentos e dezoito reais e cinquenta e oito centavos) Lance mínimo para arrematação em 2º leilão: R$ 143.284,56 (cento e quarenta e três mil, duzentos e oitenta e quatro reais e cinquenta e seis centavos)",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "18.284",
-      "registry_office": "2º OFÍCIO DE REGISTRO DE IMÓVEIS DE PATOS DE MINAS-MG",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27730",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/11976_1.jpg"
-      ],
-      "latitude": -18.574781,
-      "longitude": -46.48365,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
       "source_external_id": "11977",
       "source_url": "https://www.seuimovelbb.com.br/imovel/id/11977",
       "external_reference": null,
@@ -471,176 +440,6 @@
       ],
       "latitude": -18.969817,
       "longitude": -48.273123,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "11978",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11978",
-      "external_reference": null,
-      "city": "Uberlândia",
-      "state": "MG",
-      "address": "Av. Imbaúba, 2.200, AP. 302, BL 03, Cond. Res. Pq. Uruguaiana, Chác Tubalina e Quartel, Uberlândia-MG, CEP 38413-316",
-      "asking_price": 158287.14,
-      "price_display": "R$ 158.287,14",
-      "sale_modality_hint": null,
-      "auction_date_raw": "23/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": 158287.14,
-      "second_auction_minimum_bid": 155484.4,
-      "description": "Nº DO BEM: 516129721 UBERLÂNDIA (MG) Descrição: IMÓVEL DE MATRÍCULA 103.204 DO 2º OFÍCIO DE REGISTRO DE IMÓVEIS DE UBERLÂNDIA-MG, ASSIM DESCRITO: Apartamento nº 302, com área privativa coberta de 43,615m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 40301100100030000 Localização: Av. Imbaúba, 2.200, AP. 302, BL 03, Cond. Res. Pq. Uruguaiana, Chác Tubalina e Quartel, Uberlândia-MG, CEP 38413-316 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 158.287,14 (cento e cinquenta e oito mil duzentos e oitenta e sete reais e quatorze centavos) Lance mínimo para arrematação em 2º leilão: R$ 155.484,40 (cento e cinquenta e cinco mil, quatrocentos e oitenta e quatro reais e quarenta centavos)",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "103.204",
-      "registry_office": "2º OFÍCIO DE REGISTRO DE IMÓVEIS DE UBERLÂNDIA-MG",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27732",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/11978_1.jpg"
-      ],
-      "latitude": -18.926949,
-      "longitude": -48.30677,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "11979",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11979",
-      "external_reference": null,
-      "city": "Uberlândia",
-      "state": "MG",
-      "address": "Av. Quilombo dos Palmares, 2008, Marta Helena, Uberlândia-MG, CEP 38402-286",
-      "asking_price": 395664.24,
-      "price_display": "R$ 395.664,24",
-      "sale_modality_hint": null,
-      "auction_date_raw": "23/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": 395664.24,
-      "second_auction_minimum_bid": 360318.04,
-      "description": "Nº DO BEM: 533733363 UBERLÂNDIA (MG) Descrição: IMÓVEL DE MATRÍCULA 15.854 DO 2º OFÍCIO DE REGISTRO DE IMÓVEIS DE UBERLÂNDIA-MG, ASSIM DESCRITO: Casa, com área construída de 150,54m² e respectivo terreno com área total de 330,00m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 20103120800050000 Localização: Av. Quilombo dos Palmares, 2008, Marta Helena, Uberlândia-MG, CEP 38402-286 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 395.664,24 (trezentos e noventa e cinco mil seiscentos e sessenta e quatro reais e vinte e quatro centavos) Lance mínimo para arrematação em 2º leilão: R$ 360.318,04 (trezentos e sessenta mil, trezentos e dezoito reais e quatro centavos)",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "15.854",
-      "registry_office": "2º OFÍCIO DE REGISTRO DE IMÓVEIS DE UBERLÂNDIA-MG",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27733",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/11979_1.jpg"
-      ],
-      "latitude": -18.878105,
-      "longitude": -48.263992,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "11980",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11980",
-      "external_reference": null,
-      "city": "Uberlândia",
-      "state": "MG",
-      "address": "Av. Imbaúba, 1180, AP. 101, BL 14, Res. Pq. Union, Chác Tubalina e Quartel, Uberlândia-MG, CEP 38413-316",
-      "asking_price": 159409.75,
-      "price_display": "R$ 159.409,75",
-      "sale_modality_hint": null,
-      "auction_date_raw": "23/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": 159409.75,
-      "second_auction_minimum_bid": 174691.65,
-      "description": "Nº DO BEM: 516349478 UBERLÂNDIA (MG) Descrição: IMÓVEL DE MATRÍCULA 103.097 DO 2º OFÍCIO DE REGISTRO DE IMÓVEIS DE UBERLÂNDIA-MG, ASSIM DESCRITO: Apartamento nº 101, com área privativa coberta de 43,94m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 00.04.0301.08.02.0006.0256 Localização: Av. Imbaúba, 1180, AP. 101, BL 14, Res. Pq. Union, Chác Tubalina e Quartel, Uberlândia-MG, CEP 38413-316 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 159.409,75 (cento e cinquenta e nove mil quatrocentos e nove reais e setenta e cinco centavos) Lance mínimo para arrematação em 2º leilão: R$ 174.691,65 (cento e setenta e quatro mil, seiscentos e noventa e um reais e sessenta e cinco centavos)",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "103.097",
-      "registry_office": "2º OFÍCIO DE REGISTRO DE IMÓVEIS DE UBERLÂNDIA-MG",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27734",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/11980_1.jpg"
-      ],
-      "latitude": -18.928155,
-      "longitude": -48.315572,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "11981",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11981",
-      "external_reference": null,
-      "city": "Vespasiano",
-      "state": "MG",
-      "address": "R. Murici, 320, AP. 103, BL 06, Cond. Res. Encanto Verde, Gávea, Vespasiano-MG, CEP 33202-690",
-      "asking_price": 158287.14,
-      "price_display": "R$ 158.287,14",
-      "sale_modality_hint": null,
-      "auction_date_raw": "23/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": 158287.14,
-      "second_auction_minimum_bid": 164410.38,
-      "description": "Nº DO BEM: 516253484 VESPASIANO (MG) Descrição: IMÓVEL DE MATRÍCULA 20.010 DO CARTÓRIO DE REGISTRO DE IMÓVEIS DE VESPASIANO-MG, ASSIM DESCRITO: Apartamento nº 103, com área privativa total de 50,73m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 10602140005083 Localização: R. Murici, 320, AP. 103, BL 06, Cond. Res. Encanto Verde, Gávea, Vespasiano-MG, CEP 33202-690 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 158.287,14 (cento e cinquenta e oito mil duzentos e oitenta e sete reais e quatorze centavos) Lance mínimo para arrematação em 2º leilão: R$ 164.410,38 (cento e sessenta e quatro mil, quatrocentos e dez reais e trinta e oito centavos)",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "20.010",
-      "registry_office": "CARTÓRIO DE REGISTRO DE IMÓVEIS DE VESPASIANO-MG",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27735",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/11981_1.jpg"
-      ],
-      "latitude": -19.804913,
-      "longitude": -43.893154,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "11982",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11982",
-      "external_reference": null,
-      "city": "Vespasiano",
-      "state": "MG",
-      "address": "R. Araticum, 750, AP. 401, BL 12, Cond. Res. Riacho Verde, Gávea, Vespasiano-MG, CEP 33202-686",
-      "asking_price": 159795.79,
-      "price_display": "R$ 159.795,79",
-      "sale_modality_hint": null,
-      "auction_date_raw": "23/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": 159795.79,
-      "second_auction_minimum_bid": 157929.63,
-      "description": "Nº DO BEM: 514804809 VESPASIANO (MG) Descrição: IMÓVEL DE MATRÍCULA 21931 DO CARTÓRIO DE REGISTRO DE IMÓVEIS DE VESPASIANO-MG, ASSIM DESCRITO: Apartamento nº 401, com área privativa principal de 43,48m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 10602300005189 Localização: R. Araticum, 750, AP. 401, BL 12, Cond. Res. Riacho Verde, Gávea, Vespasiano-MG, CEP 33202-686 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 159.795,79 (cento e cinquenta e nove mil setecentos e noventa e cinco reais e setenta e nove centavos) Lance mínimo para arrematação em 2º leilão: R$ 157.929,63 (cento e cinquenta e sete mil, novecentos e vinte e nove reais e sessenta e três centavos)",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "21931",
-      "registry_office": "CARTÓRIO DE REGISTRO DE IMÓVEIS DE VESPASIANO-MG",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27736",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/11982_1.jpg"
-      ],
-      "latitude": -19.768196,
-      "longitude": -43.945246,
       "documents": {
         "edital_url": null,
         "matricula_url": null
@@ -683,32 +482,32 @@
     },
     {
       "source_type": "bb",
-      "source_external_id": "11984",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11984",
+      "source_external_id": "11978",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11978",
       "external_reference": null,
-      "city": "Visconde do Rio Branco",
+      "city": "Uberlândia",
       "state": "MG",
-      "address": "R. Jeová Ribeiro de Almeida, 192, Res. Jardins, Visconde do Rio Branco-MG, CEP 36520-000",
-      "asking_price": 112283.1,
-      "price_display": "R$ 112.283,10",
+      "address": "Av. Imbaúba, 2.200, AP. 302, BL 03, Cond. Res. Pq. Uruguaiana, Chác Tubalina e Quartel, Uberlândia-MG, CEP 38413-316",
+      "asking_price": 158287.14,
+      "price_display": "R$ 158.287,14",
       "sale_modality_hint": null,
       "auction_date_raw": "23/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": 112283.1,
-      "second_auction_minimum_bid": 110385.69,
-      "description": "Nº DO BEM: 529066883 VISCONDE DO RIO BRANCO (MG) Descrição: IMÓVEL DE MATRÍCULA 26.380 DO CARTÓRIO DE REGISTRO DE IMÓVEIS DE VISCONDE DO RIO BRANCO-MG, ASSIM DESCRITO: Casa, com área construída de 51,99m² e respectivo terreno com área total de 147,42m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 01 02 219 000070 001 Localização: R. Jeová Ribeiro de Almeida, 192, Res. Jardins, Visconde do Rio Branco-MG, CEP 36520-000 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 112.283,10 (cento e doze mil duzentos e oitenta e três reais e dez centavos) Lance mínimo para arrematação em 2º leilão: R$ 110.385,69 (cento e dez mil, trezentos e oitenta e cinco reais e sessenta e nove centavos)",
+      "first_auction_minimum_bid": 158287.14,
+      "second_auction_minimum_bid": 155484.4,
+      "description": "Nº DO BEM: 516129721 UBERLÂNDIA (MG) Descrição: IMÓVEL DE MATRÍCULA 103.204 DO 2º OFÍCIO DE REGISTRO DE IMÓVEIS DE UBERLÂNDIA-MG, ASSIM DESCRITO: Apartamento nº 302, com área privativa coberta de 43,615m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 40301100100030000 Localização: Av. Imbaúba, 2.200, AP. 302, BL 03, Cond. Res. Pq. Uruguaiana, Chác Tubalina e Quartel, Uberlândia-MG, CEP 38413-316 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 158.287,14 (cento e cinquenta e oito mil duzentos e oitenta e sete reais e quatorze centavos) Lance mínimo para arrematação em 2º leilão: R$ 155.484,40 (cento e cinquenta e cinco mil, quatrocentos e oitenta e quatro reais e quarenta centavos)",
       "observations": [
         "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
         "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
       ],
       "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "26.380",
-      "registry_office": "CARTÓRIO DE REGISTRO DE IMÓVEIS DE VISCONDE DO RIO BRANCO-MG",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27738",
+      "registry_number": "103.204",
+      "registry_office": "2º OFÍCIO DE REGISTRO DE IMÓVEIS DE UBERLÂNDIA-MG",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27732",
       "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/11984_1.jpg"
+        "https://www.seuimovelbb.com.br/imagem/imovel/11978_1.jpg"
       ],
-      "latitude": -21.00054,
-      "longitude": -42.826054,
+      "latitude": -18.926949,
+      "longitude": -48.30677,
       "documents": {
         "edital_url": null,
         "matricula_url": null
@@ -717,35 +516,339 @@
     },
     {
       "source_type": "bb",
-      "source_external_id": "12188",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12188",
-      "external_reference": "94837",
-      "city": "Conceição da Aparecida",
+      "source_external_id": "11981",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11981",
+      "external_reference": null,
+      "city": "Vespasiano",
       "state": "MG",
-      "address": "Rua Licurgo Alves Ferreira, nº 39, Jardim das Oliveiras",
-      "asking_price": null,
-      "price_display": "Aceita BB?",
-      "sale_modality_hint": "aceita_bb",
-      "auction_date_raw": "13/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": null,
-      "second_auction_minimum_bid": null,
-      "description": "ID94837 CONCEIÇÃO DA APARECIDA (MG) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Licurgo Alves Ferreira, nº 39, Jardim das Oliveiras, Município de Conceição da Aparecida - MG. Melhor descrito na matrícula 14606 do Registro de Imóveis de Rio Claro - MG. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente; b) Existe AÇÃO CAUTELAR n° 50010243320198100000 no TJ-MG e o arrematante declara-se informado do fato e ciente de que a responsabilidade do BANCO por evicção está disciplinada neste Edital, conforme item 4.11 e seus subitens.",
+      "address": "R. Murici, 320, AP. 103, BL 06, Cond. Res. Encanto Verde, Gávea, Vespasiano-MG, CEP 33202-690",
+      "asking_price": 158287.14,
+      "price_display": "R$ 158.287,14",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 158287.14,
+      "second_auction_minimum_bid": 164410.38,
+      "description": "Nº DO BEM: 516253484 VESPASIANO (MG) Descrição: IMÓVEL DE MATRÍCULA 20.010 DO CARTÓRIO DE REGISTRO DE IMÓVEIS DE VESPASIANO-MG, ASSIM DESCRITO: Apartamento nº 103, com área privativa total de 50,73m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 10602140005083 Localização: R. Murici, 320, AP. 103, BL 06, Cond. Res. Encanto Verde, Gávea, Vespasiano-MG, CEP 33202-690 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 158.287,14 (cento e cinquenta e oito mil duzentos e oitenta e sete reais e quatorze centavos) Lance mínimo para arrematação em 2º leilão: R$ 164.410,38 (cento e sessenta e quatro mil, quatrocentos e dez reais e trinta e oito centavos)",
       "observations": [
         "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
         "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
       ],
       "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "14606",
-      "registry_office": "Registro de Imóveis de Rio Claro - MG",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27918",
+      "registry_number": "20.010",
+      "registry_office": "CARTÓRIO DE REGISTRO DE IMÓVEIS DE VESPASIANO-MG",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27735",
       "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12188_1.jfif",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12188_2.jfif",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12188_3.jfif",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12188_4.jfif"
+        "https://www.seuimovelbb.com.br/imagem/imovel/11981_1.jpg"
       ],
-      "latitude": -21.090869,
-      "longitude": -46.204483,
+      "latitude": -19.804913,
+      "longitude": -43.893154,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11980",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11980",
+      "external_reference": null,
+      "city": "Uberlândia",
+      "state": "MG",
+      "address": "Av. Imbaúba, 1180, AP. 101, BL 14, Res. Pq. Union, Chác Tubalina e Quartel, Uberlândia-MG, CEP 38413-316",
+      "asking_price": 159409.75,
+      "price_display": "R$ 159.409,75",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 159409.75,
+      "second_auction_minimum_bid": 174691.65,
+      "description": "Nº DO BEM: 516349478 UBERLÂNDIA (MG) Descrição: IMÓVEL DE MATRÍCULA 103.097 DO 2º OFÍCIO DE REGISTRO DE IMÓVEIS DE UBERLÂNDIA-MG, ASSIM DESCRITO: Apartamento nº 101, com área privativa coberta de 43,94m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 00.04.0301.08.02.0006.0256 Localização: Av. Imbaúba, 1180, AP. 101, BL 14, Res. Pq. Union, Chác Tubalina e Quartel, Uberlândia-MG, CEP 38413-316 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 159.409,75 (cento e cinquenta e nove mil quatrocentos e nove reais e setenta e cinco centavos) Lance mínimo para arrematação em 2º leilão: R$ 174.691,65 (cento e setenta e quatro mil, seiscentos e noventa e um reais e sessenta e cinco centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "103.097",
+      "registry_office": "2º OFÍCIO DE REGISTRO DE IMÓVEIS DE UBERLÂNDIA-MG",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27734",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11980_1.jpg"
+      ],
+      "latitude": -18.928155,
+      "longitude": -48.315572,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11982",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11982",
+      "external_reference": null,
+      "city": "Vespasiano",
+      "state": "MG",
+      "address": "R. Araticum, 750, AP. 401, BL 12, Cond. Res. Riacho Verde, Gávea, Vespasiano-MG, CEP 33202-686",
+      "asking_price": 159795.79,
+      "price_display": "R$ 159.795,79",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 159795.79,
+      "second_auction_minimum_bid": 157929.63,
+      "description": "Nº DO BEM: 514804809 VESPASIANO (MG) Descrição: IMÓVEL DE MATRÍCULA 21931 DO CARTÓRIO DE REGISTRO DE IMÓVEIS DE VESPASIANO-MG, ASSIM DESCRITO: Apartamento nº 401, com área privativa principal de 43,48m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 10602300005189 Localização: R. Araticum, 750, AP. 401, BL 12, Cond. Res. Riacho Verde, Gávea, Vespasiano-MG, CEP 33202-686 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 159.795,79 (cento e cinquenta e nove mil setecentos e noventa e cinco reais e setenta e nove centavos) Lance mínimo para arrematação em 2º leilão: R$ 157.929,63 (cento e cinquenta e sete mil, novecentos e vinte e nove reais e sessenta e três centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "21931",
+      "registry_office": "CARTÓRIO DE REGISTRO DE IMÓVEIS DE VESPASIANO-MG",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27736",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11982_1.jpg"
+      ],
+      "latitude": -19.768196,
+      "longitude": -43.945246,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11973",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11973",
+      "external_reference": null,
+      "city": "Montes Claros",
+      "state": "MG",
+      "address": "R. do Flamengo, 1074, Maracanã, Montes Claros-MG, CEP 39403-069",
+      "asking_price": 176444.86,
+      "price_display": "R$ 176.444,86",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 176444.86,
+      "second_auction_minimum_bid": 122894.04,
+      "description": "Nº DO BEM: 525677249 MONTES CLAROS (MG) Descrição: IMÓVEL DE MATRÍCULA 41.594 DO OFÍCIO DO 1º REGISTRO DE IMÓVEIS DE MONTES CLAROS-MG, ASSIM DESCRITO: Casa nº 1.074, com área construída de 67,41m² e respectivo terreno com área total de 150,00m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 1230490130000 Localização: R. do Flamengo, 1074, Maracanã, Montes Claros-MG, CEP 39403-069 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 176.444,86 (cento e setenta e seis mil quatrocentos e quarenta e quatro reais e oitenta e seis centavos) Lance mínimo para arrematação em 2º leilão: R$ 122.894,04 (cento e vinte e dois mil, oitocentos e noventa e quatro reais e quatro centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "41.594",
+      "registry_office": "OFÍCIO DO 1º REGISTRO DE IMÓVEIS DE MONTES CLAROS-MG",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27727",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11973_1.jpg"
+      ],
+      "latitude": -16.761812,
+      "longitude": -43.872116,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11975",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11975",
+      "external_reference": null,
+      "city": "Patos de Minas",
+      "state": "MG",
+      "address": "R. José Maria da Silva, 99, Morada da Serra, Patos de Minas-MG, CEP 38705-824",
+      "asking_price": 181791.68,
+      "price_display": "R$ 181.791,68",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 181791.68,
+      "second_auction_minimum_bid": 165813.73,
+      "description": "Nº DO BEM: 531313645 PATOS DE MINAS (MG) Descrição: IMÓVEL DE MATRÍCULA 15.196 DO 3º OFÍCIO DE REGISTRO DE IMÓVEIS DE PATOS DE MINAS-MG, ASSIM DESCRITO: Prédio residencial, com área total edificada de 53,77m² e terreno com área total de 220,00m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 570010321000000 Localização: R. José Maria da Silva, 99, Morada da Serra, Patos de Minas-MG, CEP 38705-824 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 181.791,68 (cento e oitenta e um mil setecentos e noventa e um reais e sessenta e oito centavos) Lance mínimo para arrematação em 2º leilão: R$ 165.813,73 (cento e sessenta e cinco mil, oitocentos e treze reais e setenta e três centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "15.196",
+      "registry_office": "3º OFÍCIO DE REGISTRO DE IMÓVEIS DE PATOS DE MINAS-MG",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27729",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11975_1.jpg"
+      ],
+      "latitude": -18.598579,
+      "longitude": -46.471272,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "10887",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/10887",
+      "external_reference": "100135",
+      "city": "Sete Lagoas",
+      "state": "MG",
+      "address": "Avenida Prefeito Alberto Moura 21500 Sala 603 - Distrito Industrial",
+      "asking_price": 187110.0,
+      "price_display": "R$ 187.110,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID100135 SETE LAGOAS(MG) Descrição legal: Imóvel Urbano Residencial, Apartamento 603 situada na Avenida Prefeito Alberto Moura 21500 Sala 603 - Distrito Industrial, Município de Sete lagoas/MG. Melhor descrito na matrícula 39801 do 2º Ofício do Registro de Imóveis de Sete Lagoas/MG. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente; b) A titularidade do condomínio está em nome de terceiros e as providências e eventuais despesas para regularização do imóvel correrão por conta do adquirente. c) A titularidade do IPTU está em nome de terceiros e as providências e eventuais despesas para regularização do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "39801",
+      "registry_office": "2º Ofício do Registro de Imóveis de Sete Lagoas/MG",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/14767",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/10887_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10887_2.jpg"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11976",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11976",
+      "external_reference": null,
+      "city": "Patos de Minas",
+      "state": "MG",
+      "address": "R. Jari, 204, Jd. Esperança, Patos de Minas-MG, CEP 38703-734",
+      "asking_price": 204218.58,
+      "price_display": "R$ 204.218,58",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 204218.58,
+      "second_auction_minimum_bid": 143284.56,
+      "description": "Nº DO BEM: 514480107 PATOS DE MINAS (MG) Descrição: IMÓVEL DE MATRÍCULA 18.284 DO 2º OFÍCIO DE REGISTRO DE IMÓVEIS DE PATOS DE MINAS-MG, ASSIM DESCRITO: Casa, com área construída de 131,49m² e terreno com área total de 200,00m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 400350070000000 Localização: R. Jari, 204, Jd. Esperança, Patos de Minas-MG, CEP 38703-734 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 204.218,58 (duzentos e quatro mil duzentos e dezoito reais e cinquenta e oito centavos) Lance mínimo para arrematação em 2º leilão: R$ 143.284,56 (cento e quarenta e três mil, duzentos e oitenta e quatro reais e cinquenta e seis centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "18.284",
+      "registry_office": "2º OFÍCIO DE REGISTRO DE IMÓVEIS DE PATOS DE MINAS-MG",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27730",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11976_1.jpg"
+      ],
+      "latitude": -18.574781,
+      "longitude": -46.48365,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11970",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11970",
+      "external_reference": null,
+      "city": "Governador Valadares",
+      "state": "MG",
+      "address": "Av. Bromélias, 36, Cond. Obra 33, Vale do Sol, Governador Valadares-MG, CEP 35042-780",
+      "asking_price": 235502.35,
+      "price_display": "R$ 235.502,35",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 235502.35,
+      "second_auction_minimum_bid": 181964.04,
+      "description": "Nº DO BEM: 530337011 GOVERNADOR VALADARES (MG) Descrição: IMÓVEL DE MATRÍCULA 58.927 DO 1º REGISTRO DE IMÓVEIS DE GOVERNADOR VALADARES-MG, ASSIM DESCRITO: Casa Residencial, com área privativa principal coberta padrão de 64,16m² e respectivo terreno com área total de 360,00m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 152800110002 Localização: Av. Bromélias, 36, Cond. Obra 33, Vale do Sol, Governador Valadares-MG, CEP 35042-780 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 235.502,35 (duzentos e trinta e cinco mil quinhentos e dois reais e trinta e cinco centavos) Lance mínimo para arrematação em 2º leilão: R$ 181.964,04 (cento e oitenta e um mil, novecentos e sessenta e quatro reais e quatro centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "58.927",
+      "registry_office": "1º REGISTRO DE IMÓVEIS DE GOVERNADOR VALADARES-MG",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27724",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11970_1.jpg"
+      ],
+      "latitude": -18.910162,
+      "longitude": -41.954807,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11979",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11979",
+      "external_reference": null,
+      "city": "Uberlândia",
+      "state": "MG",
+      "address": "Av. Quilombo dos Palmares, 2008, Marta Helena, Uberlândia-MG, CEP 38402-286",
+      "asking_price": 395664.24,
+      "price_display": "R$ 395.664,24",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 395664.24,
+      "second_auction_minimum_bid": 360318.04,
+      "description": "Nº DO BEM: 533733363 UBERLÂNDIA (MG) Descrição: IMÓVEL DE MATRÍCULA 15.854 DO 2º OFÍCIO DE REGISTRO DE IMÓVEIS DE UBERLÂNDIA-MG, ASSIM DESCRITO: Casa, com área construída de 150,54m² e respectivo terreno com área total de 330,00m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 20103120800050000 Localização: Av. Quilombo dos Palmares, 2008, Marta Helena, Uberlândia-MG, CEP 38402-286 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 395.664,24 (trezentos e noventa e cinco mil seiscentos e sessenta e quatro reais e vinte e quatro centavos) Lance mínimo para arrematação em 2º leilão: R$ 360.318,04 (trezentos e sessenta mil, trezentos e dezoito reais e quatro centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "15.854",
+      "registry_office": "2º OFÍCIO DE REGISTRO DE IMÓVEIS DE UBERLÂNDIA-MG",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27733",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11979_1.jpg"
+      ],
+      "latitude": -18.878105,
+      "longitude": -48.263992,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11967",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11967",
+      "external_reference": null,
+      "city": "Cachoeira Dourada",
+      "state": "MG",
+      "address": "R. 25 de Junho, 113, Centro, Cachoeira Dourada-MG, CEP 38370-000",
+      "asking_price": 815404.94,
+      "price_display": "R$ 815.404,94",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 815404.94,
+      "second_auction_minimum_bid": 659802.62,
+      "description": "Nº DO BEM: 542780944 CAPINÓPOLIS (MG) Descrição: IMÓVEL DE MATRÍCULA 8.878 DO OFICIAL DO REGISTRO DE IMÓVEIS DE CAPINÓPOLIS-MG, ASSIM DESCRITO: Prédio Residencial nº 113, com área de construção de 160,00m² e respectivo terreno com área total de 300,00m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 000719-002 Localização: R. 25 de Junho, 113, Centro, Cachoeira Dourada-MG, CEP 38370-000 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Obs.3: Consta AÇÃO JUDICIAL conforme Av. 08 da matrícula, referente ao processo nº 5001776-83.2024.8.13.0126. Nos termos do § 11 do artigo 27 da Lei nº 9.514/97, os direitos reais de garantia ou constrições, tais como penhoras, arrestos, bloqueios e indisponibilidades de qualquer natureza incidentes sobre o direito real de aquisição do fiduciante, não impedem a consolidação da propriedade em nome do credor fiduciário nem a venda do imóvel para realização da garantia. Lance mínimo para arrematação em 1º leilão: R$ 815.404,94 (oitocentos e quinze mil quatrocentos e quatro reais e noventa e quatro centavos) Lance mínimo para arrematação em 2º leilão: R$ 659.802,62 (seiscentos e cinquenta e nove mil, oitocentos e dois reais e sessenta e dois centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "8.878",
+      "registry_office": "OFICIAL DO REGISTRO DE IMÓVEIS DE CAPINÓPOLIS-MG",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27721",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11967_1.jpg"
+      ],
+      "latitude": -26.500338,
+      "longitude": -49.086837,
       "documents": {
         "edital_url": null,
         "matricula_url": null
@@ -816,109 +919,6 @@
       ],
       "latitude": -19.538133,
       "longitude": -42.647384,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "12281",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12281",
-      "external_reference": "103035",
-      "city": "Engenheiro Navarro",
-      "state": "MG",
-      "address": "Rua Araxá, nº 102, Bairro Senhor do Bonfim",
-      "asking_price": 65000.0,
-      "price_display": "R$ 65.000,00",
-      "sale_modality_hint": "proposta",
-      "auction_date_raw": null,
-      "first_auction_minimum_bid": null,
-      "second_auction_minimum_bid": null,
-      "description": "ID103035 ENGENHEIRO NAVARRO (MG) Descrição legal: Imóvel Urbano: Terreno com edificação, situado na Rua Araxá, nº 102, Bairro Senhor do Bonfim, Município de Engenheiro Navarro-MG. Melhor descrito na matrícula nº 13149 do Registro de Imóveis de Bocaiúva-MG a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "13149",
-      "registry_office": "Registro de Imóveis de Bocaiúva-MG",
-      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/15083",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12281_1.jpg"
-      ],
-      "latitude": null,
-      "longitude": null,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "12282",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12282",
-      "external_reference": "102013",
-      "city": "São Francisco",
-      "state": "MG",
-      "address": "Avenida Perimetral, nº 1257, Bairro São Luiz",
-      "asking_price": 55000.0,
-      "price_display": "R$ 55.000,00",
-      "sale_modality_hint": "proposta",
-      "auction_date_raw": null,
-      "first_auction_minimum_bid": null,
-      "second_auction_minimum_bid": null,
-      "description": "ID102013 SÃO FRANCISCO (MG) Descrição legal: Imóvel Urbano: Residência edificada em terreno, situada na Avenida Perimetral, nº 1257, Bairro São Luiz, Município de São Francisco-MG. Melhor descrita na matrícula nº 21368 do Registro de Imóveis de São Francisco-MG a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "21368",
-      "registry_office": "Registro de Imóveis de São Francisco-MG",
-      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/15089",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12282_1.jpg"
-      ],
-      "latitude": null,
-      "longitude": null,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "9845",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/9845",
-      "external_reference": "100795",
-      "city": "Viçosa",
-      "state": "MG",
-      "address": "Rua Carlos Augusto Gouveia, 550 Apto 201 Bloco I - Pref Moacirua Andrade",
-      "asking_price": 115800.0,
-      "price_display": "R$ 115.800,00",
-      "sale_modality_hint": "proposta",
-      "auction_date_raw": null,
-      "first_auction_minimum_bid": null,
-      "second_auction_minimum_bid": null,
-      "description": "ID100795 VIÇOSA(MG) Descrição legal: Imóvel Urbano Residencial, Apartamento n° 201 situada na Rua Carlos Augusto Gouveia, 550 Apto 201 Bloco I - Pref Moacirua Andrade, Município de VIÇOSA - MG. Melhor descrito na matrícula 41087 do Registro de Imóveis de Viçosa-MG. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente. b) A titularidade do condomínio está em nome de terceiros e as providências e eventuais despesas para regularização do imóvel correrão por conta do adquirente.",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "41087",
-      "registry_office": "Registro de Imóveis de Viçosa-MG",
-      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=25709",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/9845_1.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/9845_2.jpg"
-      ],
-      "latitude": -20.729732,
-      "longitude": -42.878913,
       "documents": {
         "edital_url": null,
         "matricula_url": null

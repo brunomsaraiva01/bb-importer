@@ -2,69 +2,33 @@
   "imoveis": [
     {
       "source_type": "bb",
-      "source_external_id": "10825",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/10825",
-      "external_reference": "74382",
-      "city": "Cáceres",
+      "source_external_id": "9847",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/9847",
+      "external_reference": "100902",
+      "city": "Porto dos Gaúchos",
       "state": "MT",
-      "address": "Rua Coronel José Dulce, 234, Centro",
-      "asking_price": 4166866.0,
-      "price_display": "R$ 4.166.866,00",
+      "address": "Rua Itauba 53 Lt14 Qd206 - Jardim Amazônia Ii",
+      "asking_price": 130800.0,
+      "price_display": "R$ 130.800,00",
       "sale_modality_hint": "proposta",
       "auction_date_raw": null,
       "first_auction_minimum_bid": null,
       "second_auction_minimum_bid": null,
-      "description": "ID74382 CÁCERES (MT) Descrição legal : Imóvel Urbano: Prédio Comercial, situado na Rua Coronel José Dulce, 234, Centro, Município de Cáceres (MT). Melhor descrito na Transcrição 11026 do 1º Ofício do CRI de Cáceres (MT). a) Trata-se de Agência do Banco do Brasil S/A realocada para um novo endereço. Permanece no interior do imóvel alguns mobiliários, os quais serão retirados e a sua desocupação total se dará no prazo de até 90 (noventa) dias após a data do Leilão, e o adquirente se declara informado do fato. b) O imóvel possui Transcrição a qual obrigatoriamente deverá ser transformada em matrícula para Registro da venda no Cartório de Registro de Imóveis e os procedimentos, despesas e toda documentação necessárias solicitada pelo Cartório para a regularização da pendência ficarão por conta do adquirente; c) Caberá ao arrematante, às suas custas e após a compra, quaisquer providências por eventual necessidade de desembaraço e regularização documental do imóvel arrematado, como regularização da área no registro de imóvel, no cadastro na Prefeitura e a encontrada no local, entre outros. d) Todas as custas e emolumentos necessários para a confecção da Escritura e transferência no Registro de Imóveis ficarão por conta do adquirente",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": null,
-      "registry_number": null,
-      "registry_office": null,
-      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=26372",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/10825_1.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/10825_2.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/10825_3.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/10825_4.jpg"
-      ],
-      "latitude": -16.065913,
-      "longitude": -57.687237,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "11956",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11956",
-      "external_reference": null,
-      "city": "Água Boa",
-      "state": "MT",
-      "address": "Rua 2 PL, 15, LT 02, QD 08, Portal do Lago, Vila Nova, Água Boa - MT, CEP 78635-000",
-      "asking_price": 517742.14,
-      "price_display": "R$ 517.742,14",
-      "sale_modality_hint": null,
-      "auction_date_raw": "23/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": 517742.14,
-      "second_auction_minimum_bid": 428860.22,
-      "description": "Nº DO BEM: 541857198 ÁGUA BOA (MT) Descrição: IMÓVEL DE MATRÍCULA 11.316 DO 1º SERVIÇO REGISTAL DE IMÓVEL DE ÁGUA BOA-MT, ASSIM DESCRITO: Casa, com área construída de 53,88m² e respectivo terreno com a área de 310,40m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 001.25.8.PL2.1 Localização: Rua 2 PL, 15, LT 02, QD 08, Portal do Lago, Vila Nova, Água Boa - MT, CEP 78635-000 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 517.742,14 (quinhentos e dezessete mil setecentos e quarenta e dois reais e quatorze centavos) Lance mínimo para arrematação em 2º leilão: R$ 428.860,22 (quatrocentos e vinte e oito mil, oitocentos e sessenta reais e vinte e dois centavos)",
+      "description": "ID100902 PORTO DOS GAÚCHOS(MT) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Itauba 53 Lt14 Qd206 - Jardim Amazônia Ii, Município de PORTO DOS GAÚCHOS - MT. Melhor descrito na matrícula 12426 do 1º Ofício Registral e Notarial de Porto dos Gaúchos-MT. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
       "observations": [
         "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
         "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
       ],
       "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "11.316",
-      "registry_office": "1º SERVIÇO REGISTAL DE IMÓVEL DE ÁGUA BOA-MT",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27710",
+      "registry_number": "12426",
+      "registry_office": "1º Ofício Registral e Notarial de Porto dos Gaúchos-MT",
+      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=25711",
       "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/11956_1.jpg"
+        "https://www.seuimovelbb.com.br/imagem/imovel/9847_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/9847_2.jpg"
       ],
-      "latitude": -14.060364,
-      "longitude": -52.154784,
+      "latitude": -11.540975,
+      "longitude": -57.406717,
       "documents": {
         "edital_url": null,
         "matricula_url": null
@@ -184,6 +148,40 @@
     },
     {
       "source_type": "bb",
+      "source_external_id": "11956",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11956",
+      "external_reference": null,
+      "city": "Água Boa",
+      "state": "MT",
+      "address": "Rua 2 PL, 15, LT 02, QD 08, Portal do Lago, Vila Nova, Água Boa - MT, CEP 78635-000",
+      "asking_price": 517742.14,
+      "price_display": "R$ 517.742,14",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 517742.14,
+      "second_auction_minimum_bid": 428860.22,
+      "description": "Nº DO BEM: 541857198 ÁGUA BOA (MT) Descrição: IMÓVEL DE MATRÍCULA 11.316 DO 1º SERVIÇO REGISTAL DE IMÓVEL DE ÁGUA BOA-MT, ASSIM DESCRITO: Casa, com área construída de 53,88m² e respectivo terreno com a área de 310,40m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 001.25.8.PL2.1 Localização: Rua 2 PL, 15, LT 02, QD 08, Portal do Lago, Vila Nova, Água Boa - MT, CEP 78635-000 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 517.742,14 (quinhentos e dezessete mil setecentos e quarenta e dois reais e quatorze centavos) Lance mínimo para arrematação em 2º leilão: R$ 428.860,22 (quatrocentos e vinte e oito mil, oitocentos e sessenta reais e vinte e dois centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "11.316",
+      "registry_office": "1º SERVIÇO REGISTAL DE IMÓVEL DE ÁGUA BOA-MT",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27710",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11956_1.jpg"
+      ],
+      "latitude": -14.060364,
+      "longitude": -52.154784,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
       "source_external_id": "12126",
       "source_url": "https://www.seuimovelbb.com.br/imovel/id/12126",
       "external_reference": "156",
@@ -221,33 +219,35 @@
     },
     {
       "source_type": "bb",
-      "source_external_id": "9847",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/9847",
-      "external_reference": "100902",
-      "city": "Porto dos Gaúchos",
+      "source_external_id": "10825",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/10825",
+      "external_reference": "74382",
+      "city": "Cáceres",
       "state": "MT",
-      "address": "Rua Itauba 53 Lt14 Qd206 - Jardim Amazônia Ii",
-      "asking_price": 130800.0,
-      "price_display": "R$ 130.800,00",
+      "address": "Rua Coronel José Dulce, 234, Centro",
+      "asking_price": 4166866.0,
+      "price_display": "R$ 4.166.866,00",
       "sale_modality_hint": "proposta",
       "auction_date_raw": null,
       "first_auction_minimum_bid": null,
       "second_auction_minimum_bid": null,
-      "description": "ID100902 PORTO DOS GAÚCHOS(MT) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Itauba 53 Lt14 Qd206 - Jardim Amazônia Ii, Município de PORTO DOS GAÚCHOS - MT. Melhor descrito na matrícula 12426 do 1º Ofício Registral e Notarial de Porto dos Gaúchos-MT. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "description": "ID74382 CÁCERES (MT) Descrição legal : Imóvel Urbano: Prédio Comercial, situado na Rua Coronel José Dulce, 234, Centro, Município de Cáceres (MT). Melhor descrito na Transcrição 11026 do 1º Ofício do CRI de Cáceres (MT). a) Trata-se de Agência do Banco do Brasil S/A realocada para um novo endereço. Permanece no interior do imóvel alguns mobiliários, os quais serão retirados e a sua desocupação total se dará no prazo de até 90 (noventa) dias após a data do Leilão, e o adquirente se declara informado do fato. b) O imóvel possui Transcrição a qual obrigatoriamente deverá ser transformada em matrícula para Registro da venda no Cartório de Registro de Imóveis e os procedimentos, despesas e toda documentação necessárias solicitada pelo Cartório para a regularização da pendência ficarão por conta do adquirente; c) Caberá ao arrematante, às suas custas e após a compra, quaisquer providências por eventual necessidade de desembaraço e regularização documental do imóvel arrematado, como regularização da área no registro de imóvel, no cadastro na Prefeitura e a encontrada no local, entre outros. d) Todas as custas e emolumentos necessários para a confecção da Escritura e transferência no Registro de Imóveis ficarão por conta do adquirente",
       "observations": [
         "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
         "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
       ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "12426",
-      "registry_office": "1º Ofício Registral e Notarial de Porto dos Gaúchos-MT",
-      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=25711",
+      "occupancy_status": null,
+      "registry_number": null,
+      "registry_office": null,
+      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=26372",
       "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/9847_1.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/9847_2.jpg"
+        "https://www.seuimovelbb.com.br/imagem/imovel/10825_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10825_2.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10825_3.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10825_4.jpg"
       ],
-      "latitude": -11.540975,
-      "longitude": -57.406717,
+      "latitude": -16.065913,
+      "longitude": -57.687237,
       "documents": {
         "edital_url": null,
         "matricula_url": null

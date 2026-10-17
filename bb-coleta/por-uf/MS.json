@@ -104,66 +104,32 @@
     },
     {
       "source_type": "bb",
-      "source_external_id": "11961",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11961",
+      "source_external_id": "11965",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11965",
       "external_reference": null,
-      "city": "Campo Grande",
+      "city": "Ponta Porã",
       "state": "MS",
-      "address": "R. Francisco Amaral Militão, 882, Casa 02, Cond. Adepe 27, Jd. Monumento, Campo Grande-MS, CEP 79071-240",
-      "asking_price": 216051.68,
-      "price_display": "R$ 216.051,68",
+      "address": "R. Pitombeiras, 680, Res. Jd. Res. Ponta Pora II, Ponta Porã II, Ponta Porã-MS, CEP 79902-696",
+      "asking_price": 128752.89,
+      "price_display": "R$ 128.752,89",
       "sale_modality_hint": null,
       "auction_date_raw": "23/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": 216051.68,
-      "second_auction_minimum_bid": 330564.28,
-      "description": "Nº DO BEM: 524364321 CAMPO GRANDE (MS) Descrição: IMÓVEL DE MATRÍCULA 128.546 DA 2ª CIRCUNSCRIÇÃO DE REGISTRO DE IMÓVEIS DE CAMPO GRANDE-MS, ASSIM DESCRITO: Casa 02, com área privativa coberta de 99,29m² e respectivo terreno com área total de 179,28m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 08980180280 Localização: R. Francisco Amaral Militão, 882, Casa 02, Cond. Adepe 27, Jd. Monumento, Campo Grande-MS, CEP 79071-240 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 216.051,68 (duzentos e dezesseis mil e cinquenta e um reais e sessenta e oito centavos) Lance mínimo para arrematação em 2º leilão: R$ 330.564,28 (trezentos e trinta mil, quinhentos e sessenta e quatro reais e vinte e oito centavos)",
+      "first_auction_minimum_bid": 128752.89,
+      "second_auction_minimum_bid": 134066.45,
+      "description": "Nº DO BEM: 518632279 PONTA PORÃ (MS) Descrição: IMÓVEL DE MATRÍCULA 51.842 DO REGISTRO DE IMÓVEIS DE PONTA PORÃ-MS, ASSIM DESCRITO: Residência, com área total de 59,28m² e respectivo terreno com área total de 150,00m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 02.31.012.001.01 Localização: R. Pitombeiras, 680, Res. Jd. Res. Ponta Pora II, Ponta Porã II, Ponta Porã-MS, CEP 79902-696 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 128.752,89 (cento e vinte e oito mil setecentos e cinquenta e dois reais e oitenta e nove centavos) Lance mínimo para arrematação em 2º leilão: R$ 134.066,45 Cento e trinta e quatro mil, sessenta e seis reais e quarenta e cinco centavos",
       "observations": [
         "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
         "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
       ],
       "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "128.546",
-      "registry_office": "2ª CIRCUNSCRIÇÃO DE REGISTRO DE IMÓVEIS DE CAMPO GRANDE-MS",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27715",
+      "registry_number": "51.842",
+      "registry_office": "REGISTRO DE IMÓVEIS DE PONTA PORÃ-MS",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27719",
       "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/11961_1.jpg"
+        "https://www.seuimovelbb.com.br/imagem/imovel/11965_1.jpg"
       ],
-      "latitude": -20.531565,
-      "longitude": -54.599277,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "11962",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11962",
-      "external_reference": null,
-      "city": "Campo Grande",
-      "state": "MS",
-      "address": "R. Severino Pinheiro, 108, Casa 02, Cond. Res. Lae 15, Jd. Tijuca, Campo Grande-MS, CEP 79094-061",
-      "asking_price": 139811.95,
-      "price_display": "R$ 139.811,95",
-      "sale_modality_hint": null,
-      "auction_date_raw": "23/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": 139811.95,
-      "second_auction_minimum_bid": 178076.73,
-      "description": "Nº DO BEM: 519395709 CAMPO GRANDE (MS) Descrição: IMÓVEL DE MATRÍCULA 117.616 DA 2ª CIRCUNSCRIÇÃO DE REGISTRO DE IMÓVEIS DE CAMPO GRANDE-MS, ASSIM DESCRITO: Casa 02, com área privativa coberta de 47,80m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 07650060312 Localização: R. Severino Pinheiro, 108, Casa 02, Cond. Res. Lae 15, Jd. Tijuca, Campo Grande-MS, CEP 79094-061 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 139.811,95 (cento e trinta e nove mil oitocentos e onze reais e noventa e cinco centavos) Lance mínimo para arrematação em 2º leilão: R$ 178.076,73 (cento e setenta e oito mil, setenta e seis reais e setenta e três centavos)",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "117.616",
-      "registry_office": "2ª CIRCUNSCRIÇÃO DE REGISTRO DE IMÓVEIS DE CAMPO GRANDE-MS",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27716",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/11962_1.jpg"
-      ],
-      "latitude": -20.511434,
-      "longitude": -54.661492,
+      "latitude": -22.538576,
+      "longitude": -55.727238,
       "documents": {
         "edital_url": null,
         "matricula_url": null
@@ -206,32 +172,32 @@
     },
     {
       "source_type": "bb",
-      "source_external_id": "11964",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11964",
+      "source_external_id": "11962",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11962",
       "external_reference": null,
-      "city": "Naviraí",
+      "city": "Campo Grande",
       "state": "MS",
-      "address": "Al. dos Pinheiros, 134, Lot. Royal Park Residence, Royal Park, Naviraí-MS, CEP 79951-370",
-      "asking_price": 626460.18,
-      "price_display": "R$ 626.460,18",
+      "address": "R. Severino Pinheiro, 108, Casa 02, Cond. Res. Lae 15, Jd. Tijuca, Campo Grande-MS, CEP 79094-061",
+      "asking_price": 139811.95,
+      "price_display": "R$ 139.811,95",
       "sale_modality_hint": null,
       "auction_date_raw": "23/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": 626460.18,
-      "second_auction_minimum_bid": 389305.38,
-      "description": "Nº DO BEM: 540482298 NAVIRAÍ (MS) Descrição: IMÓVEL DE MATRÍCULA 23.283 DO CARTÓRIO DE REGISTRO DE IMÓVEIS DE NAVIRAÍ-MS, ASSIM DESCRITO: Casa, com área construída de 118,49m² e respectivo terreno com área total de 450,00m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 17899 Localização: Al. dos Pinheiros, 134, Lot. Royal Park Residence, Royal Park, Naviraí-MS, CEP 79951-370 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 626.460,18 (seiscentos e vinte e seis mil quatrocentos e sessenta reais e dezoito centavos) Lance mínimo para arrematação em 2º leilão: R$ 389.305,38 (trezentos e oitenta e nove mil, trezentos e cinco reais e trinta e oito centavos)",
+      "first_auction_minimum_bid": 139811.95,
+      "second_auction_minimum_bid": 178076.73,
+      "description": "Nº DO BEM: 519395709 CAMPO GRANDE (MS) Descrição: IMÓVEL DE MATRÍCULA 117.616 DA 2ª CIRCUNSCRIÇÃO DE REGISTRO DE IMÓVEIS DE CAMPO GRANDE-MS, ASSIM DESCRITO: Casa 02, com área privativa coberta de 47,80m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 07650060312 Localização: R. Severino Pinheiro, 108, Casa 02, Cond. Res. Lae 15, Jd. Tijuca, Campo Grande-MS, CEP 79094-061 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 139.811,95 (cento e trinta e nove mil oitocentos e onze reais e noventa e cinco centavos) Lance mínimo para arrematação em 2º leilão: R$ 178.076,73 (cento e setenta e oito mil, setenta e seis reais e setenta e três centavos)",
       "observations": [
         "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
         "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
       ],
       "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "23.283",
-      "registry_office": "CARTÓRIO DE REGISTRO DE IMÓVEIS DE NAVIRAÍ-MS",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27718",
+      "registry_number": "117.616",
+      "registry_office": "2ª CIRCUNSCRIÇÃO DE REGISTRO DE IMÓVEIS DE CAMPO GRANDE-MS",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27716",
       "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/11964_1.jpg"
+        "https://www.seuimovelbb.com.br/imagem/imovel/11962_1.jpg"
       ],
-      "latitude": -23.057573,
-      "longitude": -54.179651,
+      "latitude": -20.511434,
+      "longitude": -54.661492,
       "documents": {
         "edital_url": null,
         "matricula_url": null
@@ -240,32 +206,66 @@
     },
     {
       "source_type": "bb",
-      "source_external_id": "11965",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11965",
-      "external_reference": null,
-      "city": "Ponta Porã",
+      "source_external_id": "9846",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/9846",
+      "external_reference": "100949",
+      "city": "Iguatemi",
       "state": "MS",
-      "address": "R. Pitombeiras, 680, Res. Jd. Res. Ponta Pora II, Ponta Porã II, Ponta Porã-MS, CEP 79902-696",
-      "asking_price": 128752.89,
-      "price_display": "R$ 128.752,89",
-      "sale_modality_hint": null,
-      "auction_date_raw": "23/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": 128752.89,
-      "second_auction_minimum_bid": 134066.45,
-      "description": "Nº DO BEM: 518632279 PONTA PORÃ (MS) Descrição: IMÓVEL DE MATRÍCULA 51.842 DO REGISTRO DE IMÓVEIS DE PONTA PORÃ-MS, ASSIM DESCRITO: Residência, com área total de 59,28m² e respectivo terreno com área total de 150,00m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 02.31.012.001.01 Localização: R. Pitombeiras, 680, Res. Jd. Res. Ponta Pora II, Ponta Porã II, Ponta Porã-MS, CEP 79902-696 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 128.752,89 (cento e vinte e oito mil setecentos e cinquenta e dois reais e oitenta e nove centavos) Lance mínimo para arrematação em 2º leilão: R$ 134.066,45 Cento e trinta e quatro mil, sessenta e seis reais e quarenta e cinco centavos",
+      "address": "Avenida Jardelino Jose Moreira 910 - Centro",
+      "asking_price": 141000.0,
+      "price_display": "R$ 141.000,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID100949 IGUATEMI(MS) Descrição legal: Imóvel Urbano Residencial, Casa situada na Avenida Jardelino Jose Moreira 910 - Centro, Município de IGUATEMI - MS. Melhor descrito na matrícula 1821 do 1º Ofício de Registro Público de Iguatemi-MS. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
       "observations": [
         "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
         "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
       ],
       "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "51.842",
-      "registry_office": "REGISTRO DE IMÓVEIS DE PONTA PORÃ-MS",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27719",
+      "registry_number": "1821",
+      "registry_office": "1º Ofício de Registro Público de Iguatemi-MS",
+      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=25710",
       "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/11965_1.jpg"
+        "https://www.seuimovelbb.com.br/imagem/imovel/9846_1.jpg"
       ],
-      "latitude": -22.538576,
-      "longitude": -55.727238,
+      "latitude": -23.683808,
+      "longitude": -54.559577,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11961",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11961",
+      "external_reference": null,
+      "city": "Campo Grande",
+      "state": "MS",
+      "address": "R. Francisco Amaral Militão, 882, Casa 02, Cond. Adepe 27, Jd. Monumento, Campo Grande-MS, CEP 79071-240",
+      "asking_price": 216051.68,
+      "price_display": "R$ 216.051,68",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 216051.68,
+      "second_auction_minimum_bid": 330564.28,
+      "description": "Nº DO BEM: 524364321 CAMPO GRANDE (MS) Descrição: IMÓVEL DE MATRÍCULA 128.546 DA 2ª CIRCUNSCRIÇÃO DE REGISTRO DE IMÓVEIS DE CAMPO GRANDE-MS, ASSIM DESCRITO: Casa 02, com área privativa coberta de 99,29m² e respectivo terreno com área total de 179,28m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 08980180280 Localização: R. Francisco Amaral Militão, 882, Casa 02, Cond. Adepe 27, Jd. Monumento, Campo Grande-MS, CEP 79071-240 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 216.051,68 (duzentos e dezesseis mil e cinquenta e um reais e sessenta e oito centavos) Lance mínimo para arrematação em 2º leilão: R$ 330.564,28 (trezentos e trinta mil, quinhentos e sessenta e quatro reais e vinte e oito centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "128.546",
+      "registry_office": "2ª CIRCUNSCRIÇÃO DE REGISTRO DE IMÓVEIS DE CAMPO GRANDE-MS",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27715",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11961_1.jpg"
+      ],
+      "latitude": -20.531565,
+      "longitude": -54.599277,
       "documents": {
         "edital_url": null,
         "matricula_url": null
@@ -311,68 +311,32 @@
     },
     {
       "source_type": "bb",
-      "source_external_id": "12186",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12186",
-      "external_reference": "0337",
-      "city": "Campo Grande",
+      "source_external_id": "11964",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11964",
+      "external_reference": null,
+      "city": "Naviraí",
       "state": "MS",
-      "address": "Rua 50, Loteamento Novo Campo Grande",
-      "asking_price": null,
-      "price_display": "Aceita BB?",
-      "sale_modality_hint": "aceita_bb",
-      "auction_date_raw": "13/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": null,
-      "second_auction_minimum_bid": null,
-      "description": "ID0337 CAMPO GRANDE (MS) Descrição legal: Imóvel Urbano Residencial, Lote nº 22, Quadra nº 43, Bloco nº 02, situado na Rua 50, Loteamento Novo Campo Grande, Município de Campo Grande - MS. Melhor descrito na matrícula 5849 da 2ª Circunscrição de Registro de Imóveis de Campo Grande - MS. a) O imóvel teve seu estado de conservação alterado, tendo em vista que a edificação existente foi demolida, e o arrematante se declara informado do fato, devendo verificar as condições gerais do imóvel. Eventuais procedimentos e despesas para a regularização da pendência e a retificação do registro público junto ao cartório ficarão por conta do adquirente; b) Existe AÇÃO REIVINDICATÓRIA n° 01126628420068120001 no TJ-MS e o arrematante declara-se informado do fato e ciente de que a responsabilidade do BANCO por evicção está disciplinada neste Edital, conforme item 4.11 e seus subitens.",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": null,
-      "registry_number": "5849",
-      "registry_office": "2ª Circunscrição de Registro de Imóveis de Campo Grande - MS",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27916",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12186_1.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12186_2.jpeg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12186_3.jpg"
-      ],
-      "latitude": -20.530416,
-      "longitude": -54.67087,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "9846",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/9846",
-      "external_reference": "100949",
-      "city": "Iguatemi",
-      "state": "MS",
-      "address": "Avenida Jardelino Jose Moreira 910 - Centro",
-      "asking_price": 141000.0,
-      "price_display": "R$ 141.000,00",
-      "sale_modality_hint": "proposta",
-      "auction_date_raw": null,
-      "first_auction_minimum_bid": null,
-      "second_auction_minimum_bid": null,
-      "description": "ID100949 IGUATEMI(MS) Descrição legal: Imóvel Urbano Residencial, Casa situada na Avenida Jardelino Jose Moreira 910 - Centro, Município de IGUATEMI - MS. Melhor descrito na matrícula 1821 do 1º Ofício de Registro Público de Iguatemi-MS. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "address": "Al. dos Pinheiros, 134, Lot. Royal Park Residence, Royal Park, Naviraí-MS, CEP 79951-370",
+      "asking_price": 626460.18,
+      "price_display": "R$ 626.460,18",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 626460.18,
+      "second_auction_minimum_bid": 389305.38,
+      "description": "Nº DO BEM: 540482298 NAVIRAÍ (MS) Descrição: IMÓVEL DE MATRÍCULA 23.283 DO CARTÓRIO DE REGISTRO DE IMÓVEIS DE NAVIRAÍ-MS, ASSIM DESCRITO: Casa, com área construída de 118,49m² e respectivo terreno com área total de 450,00m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 17899 Localização: Al. dos Pinheiros, 134, Lot. Royal Park Residence, Royal Park, Naviraí-MS, CEP 79951-370 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 626.460,18 (seiscentos e vinte e seis mil quatrocentos e sessenta reais e dezoito centavos) Lance mínimo para arrematação em 2º leilão: R$ 389.305,38 (trezentos e oitenta e nove mil, trezentos e cinco reais e trinta e oito centavos)",
       "observations": [
         "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
         "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
       ],
       "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "1821",
-      "registry_office": "1º Ofício de Registro Público de Iguatemi-MS",
-      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=25710",
+      "registry_number": "23.283",
+      "registry_office": "CARTÓRIO DE REGISTRO DE IMÓVEIS DE NAVIRAÍ-MS",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27718",
       "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/9846_1.jpg"
+        "https://www.seuimovelbb.com.br/imagem/imovel/11964_1.jpg"
       ],
-      "latitude": -23.683808,
-      "longitude": -54.559577,
+      "latitude": -23.057573,
+      "longitude": -54.179651,
       "documents": {
         "edital_url": null,
         "matricula_url": null

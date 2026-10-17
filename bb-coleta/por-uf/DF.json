@@ -2,35 +2,137 @@
   "imoveis": [
     {
       "source_type": "bb",
-      "source_external_id": "10824",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/10824",
-      "external_reference": "75536",
+      "source_external_id": "11871",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11871",
+      "external_reference": null,
       "city": "Brasília",
       "state": "DF",
-      "address": "C 12, Bloco I, Lote 01, Setor Central, Taguatinga, Brasília (DF)",
-      "asking_price": 6026004.0,
-      "price_display": "R$ 6.026.004,00",
-      "sale_modality_hint": "proposta",
-      "auction_date_raw": null,
-      "first_auction_minimum_bid": null,
-      "second_auction_minimum_bid": null,
-      "description": "ID75536 BRASILIA (DF) Descrição legal : Imóvel Urbano: Prédio Comercial, situado na C 12, Bloco I, Lote 01, Setor Central, Taguatinga, Brasília (DF). Melhor descrito na Transcrição 5115 e Matrícula 8771 do CRI de Taguatinga (DF). a) Caberá ao arrematante, às suas custas e após a compra, quaisquer providências por eventual necessidade de desembaraço e regularização documental do imóvel arrematado, como regularização da área no registro de imóvel, no cadastro na Prefeitura e a encontrada no local, entre outros. b) O imóvel é composto pelos pavimentos Subsolo, Térreo, 2º Pavimento e 3º Pavimento, todos vinculados à Transcrição nº 5115. O 3º pavimento possui matrícula individualizada (Matrícula nº 8771), permanecendo os demais vinculados exclusivamente à referida transcrição. Não será tratada a venda do 4º pavimento pois não pertence ao Banco do Brasil. c) Todas as custas e emolumentos necessários para a confecção da Escritura e transferência no Registro de Imóveis ficarão por conta do adquirente. d) O imóvel possui Transcrição a qual obrigatoriamente deverá ser transformada em matrícula para Registro da venda no Cartório de Registro de Imóveis e os procedimentos, despesas e toda documentação necessárias solicitada pelo Cartório para a regularização da pendência ficarão por conta do adquirente; e) O Banco do Brasil S/A terá um prazo de 90 dias para entregar e desocupar o imóvel. A desocupação total se dará no prazo de até 90 (noventa) dias após a data do Leilão, e o adquirente se declara informado do fato.",
+      "address": "QS 19 Conjunto 1, LT 01, AP 202, BL D, Riacho Fundo II, Brasília-DF, CEP 71884-684",
+      "asking_price": 102719.72,
+      "price_display": "R$ 102.719,72",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 102719.72,
+      "second_auction_minimum_bid": 60055.82,
+      "description": "Nº DO BEM: 516634587 DISTRITO FEDERAL (DF) Descrição: IMÓVEL DE MATRÍCULA 88.919 DO 4º OFÍCIO DE REGISTRO DE IMÓVEIS DO DISTRITO FEDERAL, ASSIM DESCRITO: Apartamento nº 202, com área privativa de divisão não proporcional de 50,00m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 52649245 Localização: QS 19 Conjunto 1, LT 01, AP 202, BL D, Riacho Fundo II, Brasília-DF, CEP 71884-684 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 102.719,72 (cento e dois mil setecentos e dezenove reais e setenta e dois centavos) Lance mínimo para arrematação em 2º leilão: R$ 60.055,82 (sessenta mil, cinquenta e cinco reais e oitenta e dois centavos)",
       "observations": [
         "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
         "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
       ],
-      "occupancy_status": null,
-      "registry_number": "8771",
-      "registry_office": "CRI de Taguatinga (DF)",
-      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=26371",
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "88.919",
+      "registry_office": "4º OFÍCIO DE REGISTRO DE IMÓVEIS DO DISTRITO FEDERAL",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27625",
       "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/10824_1.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/10824_2.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/10824_3.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/10824_4.jfif"
+        "https://www.seuimovelbb.com.br/imagem/imovel/11871_1.jfif",
+        "https://www.seuimovelbb.com.br/imagem/imovel/11871_2.jfif"
       ],
-      "latitude": -15.796119,
-      "longitude": -47.888252,
+      "latitude": -15.617393,
+      "longitude": -47.637959,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11869",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11869",
+      "external_reference": null,
+      "city": "Brasília",
+      "state": "DF",
+      "address": "QS 25 Conjunto 3, LT 01, AP 202, BL C, Riacho Fundo II, Brasília-DF, CEP 71884-776",
+      "asking_price": 129078.59,
+      "price_display": "R$ 129.078,59",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 129078.59,
+      "second_auction_minimum_bid": 84270.73,
+      "description": "Nº DO BEM: 521068121 DISTRITO FEDERAL (DF) Descrição: IMÓVEL DE MATRÍCULA 89.575 DO 4º OFÍCIO DE REGISTRO DE IMÓVEIS DO DISTRITO FEDERAL-DF, ASSIM DESCRITO: Apartamento nº 202, com área privativa de divisão não proporcional de 60,95m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 52654524 Localização: QS 25 Conjunto 3, LT 01, AP 202, BL C, Riacho Fundo II, Brasília-DF, CEP 71884-776 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 129.078,59 (cento e vinte e nove mil e setenta e oito reais e cinquenta e nove centavos) Lance mínimo para arrematação em 2º leilão: R$ 84.270,73 (oitenta e quatro mil, duzentos e setenta reais e setenta e três centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "89.575",
+      "registry_office": "4º OFÍCIO DE REGISTRO DE IMÓVEIS DO DISTRITO FEDERAL-DF",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27623",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11869_1.jfif"
+      ],
+      "latitude": -15.647326,
+      "longitude": -47.758831,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11872",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11872",
+      "external_reference": null,
+      "city": "Brasília",
+      "state": "DF",
+      "address": "QS-27 Conjunto 4, LT 01, AP 201, BL F, Riacho Fundo II, Brasília-DF, CEP 71884-810",
+      "asking_price": 130086.31,
+      "price_display": "R$ 130.086,31",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 130086.31,
+      "second_auction_minimum_bid": 260953.84,
+      "description": "Nº DO BEM: 516680272 DISTRITO FEDERAL (DF) Descrição: IMÓVEL DE MATRÍCULA 89.366 DO 4º OFÍCIO DE REGISTRO DE IMÓVEIS DO DISTRITO FEDERAL, ASSIM DESCRITO: Apartamento nº 201, com área privativa de divisão não proporcional de 50,00m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 52659178 Localização: QS-27 Conjunto 4, LT 01, AP 201, BL F, Riacho Fundo II, Brasília-DF, CEP 71884-810 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Obs.3: Consta PENHORA conforme Av. 11 da matrícula, referente ao processo nº 0707200-28.2022.8.07.0017. Nos termos do § 11 do artigo 27 da Lei nº 9.514/97, os direitos reais de garantia ou constrições, tais como penhoras, arrestos, bloqueios e indisponibilidades de qualquer natureza incidentes sobre o direito real de aquisição do fiduciante, não impedem a consolidação da propriedade em nome do credor fiduciário nem a venda do imóvel para realização da garantia. Lance mínimo para arrematação em 1º leilão: R$ 130.086,31 (cento e trinta mil e oitenta e seis reais e trinta e um centavos) Lance mínimo para arrematação em 2º leilão: R$ 260.953,84 (duzentos e sessenta mil, novecentos e cinquenta e três reais e oitenta e quatro centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "89.366",
+      "registry_office": "4º OFÍCIO DE REGISTRO DE IMÓVEIS DO DISTRITO FEDERAL",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27626",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11872_1.jfif",
+        "https://www.seuimovelbb.com.br/imagem/imovel/11872_2.jfif"
+      ],
+      "latitude": -15.643273,
+      "longitude": -47.834171,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11870",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11870",
+      "external_reference": null,
+      "city": "Brasília",
+      "state": "DF",
+      "address": "Quadra QC 5 Conjunto 3, LT 02, AP 303, BL C, Riacho Fundo II, Brasília-DF, CEP 71882-203",
+      "asking_price": 131009.71,
+      "price_display": "R$ 131.009,71",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 131009.71,
+      "second_auction_minimum_bid": 84604.25,
+      "description": "Nº DO BEM: 513625892 DISTRITO FEDERAL (DF) Descrição: IMÓVEL DE MATRÍCULA 85.727 DO 4º OFÍCIO DE REGISTRO DE IMÓVEIS DO DISTRITO FEDERAL-DF, ASSIM DESCRITO: Apartamento nº 303, com área privativa de 60,95m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 52459624 Localização: Quadra QC 5 Conjunto 3, LT 02, AP 303, BL C, Riacho Fundo II, Brasília-DF, CEP 71882-203 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 131.009,71 (cento e trinta e um mil e nove reais e setenta e um centavos) Lance mínimo para arrematação em 2º leilão: R$ 84.604,25 (oitenta e quatro mil, seiscentos e quatro reais e vinte e cinco centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "85.727",
+      "registry_office": "4º OFÍCIO DE REGISTRO DE IMÓVEIS DO DISTRITO FEDERAL-DF",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27624",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11870_1.jfif",
+        "https://www.seuimovelbb.com.br/imagem/imovel/11870_2.jfif"
+      ],
+      "latitude": -15.848665,
+      "longitude": -47.952115,
       "documents": {
         "edital_url": null,
         "matricula_url": null
@@ -110,137 +212,35 @@
     },
     {
       "source_type": "bb",
-      "source_external_id": "11869",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11869",
-      "external_reference": null,
+      "source_external_id": "10824",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/10824",
+      "external_reference": "75536",
       "city": "Brasília",
       "state": "DF",
-      "address": "QS 25 Conjunto 3, LT 01, AP 202, BL C, Riacho Fundo II, Brasília-DF, CEP 71884-776",
-      "asking_price": 129078.59,
-      "price_display": "R$ 129.078,59",
-      "sale_modality_hint": null,
-      "auction_date_raw": "23/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": 129078.59,
-      "second_auction_minimum_bid": 84270.73,
-      "description": "Nº DO BEM: 521068121 DISTRITO FEDERAL (DF) Descrição: IMÓVEL DE MATRÍCULA 89.575 DO 4º OFÍCIO DE REGISTRO DE IMÓVEIS DO DISTRITO FEDERAL-DF, ASSIM DESCRITO: Apartamento nº 202, com área privativa de divisão não proporcional de 60,95m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 52654524 Localização: QS 25 Conjunto 3, LT 01, AP 202, BL C, Riacho Fundo II, Brasília-DF, CEP 71884-776 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 129.078,59 (cento e vinte e nove mil e setenta e oito reais e cinquenta e nove centavos) Lance mínimo para arrematação em 2º leilão: R$ 84.270,73 (oitenta e quatro mil, duzentos e setenta reais e setenta e três centavos)",
+      "address": "C 12, Bloco I, Lote 01, Setor Central, Taguatinga, Brasília (DF)",
+      "asking_price": 6026004.0,
+      "price_display": "R$ 6.026.004,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID75536 BRASILIA (DF) Descrição legal : Imóvel Urbano: Prédio Comercial, situado na C 12, Bloco I, Lote 01, Setor Central, Taguatinga, Brasília (DF). Melhor descrito na Transcrição 5115 e Matrícula 8771 do CRI de Taguatinga (DF). a) Caberá ao arrematante, às suas custas e após a compra, quaisquer providências por eventual necessidade de desembaraço e regularização documental do imóvel arrematado, como regularização da área no registro de imóvel, no cadastro na Prefeitura e a encontrada no local, entre outros. b) O imóvel é composto pelos pavimentos Subsolo, Térreo, 2º Pavimento e 3º Pavimento, todos vinculados à Transcrição nº 5115. O 3º pavimento possui matrícula individualizada (Matrícula nº 8771), permanecendo os demais vinculados exclusivamente à referida transcrição. Não será tratada a venda do 4º pavimento pois não pertence ao Banco do Brasil. c) Todas as custas e emolumentos necessários para a confecção da Escritura e transferência no Registro de Imóveis ficarão por conta do adquirente. d) O imóvel possui Transcrição a qual obrigatoriamente deverá ser transformada em matrícula para Registro da venda no Cartório de Registro de Imóveis e os procedimentos, despesas e toda documentação necessárias solicitada pelo Cartório para a regularização da pendência ficarão por conta do adquirente; e) O Banco do Brasil S/A terá um prazo de 90 dias para entregar e desocupar o imóvel. A desocupação total se dará no prazo de até 90 (noventa) dias após a data do Leilão, e o adquirente se declara informado do fato.",
       "observations": [
         "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
         "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
       ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "89.575",
-      "registry_office": "4º OFÍCIO DE REGISTRO DE IMÓVEIS DO DISTRITO FEDERAL-DF",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27623",
+      "occupancy_status": null,
+      "registry_number": "8771",
+      "registry_office": "CRI de Taguatinga (DF)",
+      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=26371",
       "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/11869_1.jfif"
+        "https://www.seuimovelbb.com.br/imagem/imovel/10824_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10824_2.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10824_3.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10824_4.jfif"
       ],
-      "latitude": -15.647326,
-      "longitude": -47.758831,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "11870",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11870",
-      "external_reference": null,
-      "city": "Brasília",
-      "state": "DF",
-      "address": "Quadra QC 5 Conjunto 3, LT 02, AP 303, BL C, Riacho Fundo II, Brasília-DF, CEP 71882-203",
-      "asking_price": 131009.71,
-      "price_display": "R$ 131.009,71",
-      "sale_modality_hint": null,
-      "auction_date_raw": "23/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": 131009.71,
-      "second_auction_minimum_bid": 84604.25,
-      "description": "Nº DO BEM: 513625892 DISTRITO FEDERAL (DF) Descrição: IMÓVEL DE MATRÍCULA 85.727 DO 4º OFÍCIO DE REGISTRO DE IMÓVEIS DO DISTRITO FEDERAL-DF, ASSIM DESCRITO: Apartamento nº 303, com área privativa de 60,95m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 52459624 Localização: Quadra QC 5 Conjunto 3, LT 02, AP 303, BL C, Riacho Fundo II, Brasília-DF, CEP 71882-203 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 131.009,71 (cento e trinta e um mil e nove reais e setenta e um centavos) Lance mínimo para arrematação em 2º leilão: R$ 84.604,25 (oitenta e quatro mil, seiscentos e quatro reais e vinte e cinco centavos)",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "85.727",
-      "registry_office": "4º OFÍCIO DE REGISTRO DE IMÓVEIS DO DISTRITO FEDERAL-DF",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27624",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/11870_1.jfif",
-        "https://www.seuimovelbb.com.br/imagem/imovel/11870_2.jfif"
-      ],
-      "latitude": -15.848665,
-      "longitude": -47.952115,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "11871",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11871",
-      "external_reference": null,
-      "city": "Brasília",
-      "state": "DF",
-      "address": "QS 19 Conjunto 1, LT 01, AP 202, BL D, Riacho Fundo II, Brasília-DF, CEP 71884-684",
-      "asking_price": 102719.72,
-      "price_display": "R$ 102.719,72",
-      "sale_modality_hint": null,
-      "auction_date_raw": "23/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": 102719.72,
-      "second_auction_minimum_bid": 60055.82,
-      "description": "Nº DO BEM: 516634587 DISTRITO FEDERAL (DF) Descrição: IMÓVEL DE MATRÍCULA 88.919 DO 4º OFÍCIO DE REGISTRO DE IMÓVEIS DO DISTRITO FEDERAL, ASSIM DESCRITO: Apartamento nº 202, com área privativa de divisão não proporcional de 50,00m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 52649245 Localização: QS 19 Conjunto 1, LT 01, AP 202, BL D, Riacho Fundo II, Brasília-DF, CEP 71884-684 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 102.719,72 (cento e dois mil setecentos e dezenove reais e setenta e dois centavos) Lance mínimo para arrematação em 2º leilão: R$ 60.055,82 (sessenta mil, cinquenta e cinco reais e oitenta e dois centavos)",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "88.919",
-      "registry_office": "4º OFÍCIO DE REGISTRO DE IMÓVEIS DO DISTRITO FEDERAL",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27625",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/11871_1.jfif",
-        "https://www.seuimovelbb.com.br/imagem/imovel/11871_2.jfif"
-      ],
-      "latitude": -15.617393,
-      "longitude": -47.637959,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "11872",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11872",
-      "external_reference": null,
-      "city": "Brasília",
-      "state": "DF",
-      "address": "QS-27 Conjunto 4, LT 01, AP 201, BL F, Riacho Fundo II, Brasília-DF, CEP 71884-810",
-      "asking_price": 130086.31,
-      "price_display": "R$ 130.086,31",
-      "sale_modality_hint": null,
-      "auction_date_raw": "23/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": 130086.31,
-      "second_auction_minimum_bid": 260953.84,
-      "description": "Nº DO BEM: 516680272 DISTRITO FEDERAL (DF) Descrição: IMÓVEL DE MATRÍCULA 89.366 DO 4º OFÍCIO DE REGISTRO DE IMÓVEIS DO DISTRITO FEDERAL, ASSIM DESCRITO: Apartamento nº 201, com área privativa de divisão não proporcional de 50,00m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 52659178 Localização: QS-27 Conjunto 4, LT 01, AP 201, BL F, Riacho Fundo II, Brasília-DF, CEP 71884-810 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Obs.3: Consta PENHORA conforme Av. 11 da matrícula, referente ao processo nº 0707200-28.2022.8.07.0017. Nos termos do § 11 do artigo 27 da Lei nº 9.514/97, os direitos reais de garantia ou constrições, tais como penhoras, arrestos, bloqueios e indisponibilidades de qualquer natureza incidentes sobre o direito real de aquisição do fiduciante, não impedem a consolidação da propriedade em nome do credor fiduciário nem a venda do imóvel para realização da garantia. Lance mínimo para arrematação em 1º leilão: R$ 130.086,31 (cento e trinta mil e oitenta e seis reais e trinta e um centavos) Lance mínimo para arrematação em 2º leilão: R$ 260.953,84 (duzentos e sessenta mil, novecentos e cinquenta e três reais e oitenta e quatro centavos)",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "89.366",
-      "registry_office": "4º OFÍCIO DE REGISTRO DE IMÓVEIS DO DISTRITO FEDERAL",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27626",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/11872_1.jfif",
-        "https://www.seuimovelbb.com.br/imagem/imovel/11872_2.jfif"
-      ],
-      "latitude": -15.643273,
-      "longitude": -47.834171,
+      "latitude": -15.796119,
+      "longitude": -47.888252,
       "documents": {
         "edital_url": null,
         "matricula_url": null

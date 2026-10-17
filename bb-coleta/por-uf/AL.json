@@ -36,6 +36,40 @@
     },
     {
       "source_type": "bb",
+      "source_external_id": "3709",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/3709",
+      "external_reference": "91952",
+      "city": "Teotônio Vilela",
+      "state": "AL",
+      "address": "Rua Tavares Bastos, n° 62, Loteamento Parque do Futuro III, Bairro São Jorge",
+      "asking_price": 57000.0,
+      "price_display": "R$ 57.000,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID91952 TEOTÔNIO VILELA (AL) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Tavares Bastos, n° 62, Loteamento Parque do Futuro III, Bairro São Jorge, município de Teotônio Vilela - AL. Melhor descrito na matrícula 4914 do Serviço de Notas e Registros do Único Ofício de Junqueiro - AL. a)O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente, conforme item 16.8 deste Edital;",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "4914",
+      "registry_office": "Serviço de Notas e Registros do Único Ofício de Junqueiro - AL",
+      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=21742",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/3709_1.jpg"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
       "source_external_id": "11738",
       "source_url": "https://www.seuimovelbb.com.br/imovel/id/11738",
       "external_reference": "102034",
@@ -104,32 +138,32 @@
     },
     {
       "source_type": "bb",
-      "source_external_id": "11824",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11824",
+      "source_external_id": "11826",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11826",
       "external_reference": null,
-      "city": "Anadia",
+      "city": "Arapiraca",
       "state": "AL",
-      "address": "Tv. Vereador Hermes F. Mata, R. C, s/n, LT 25, QD I, Lot. Bela Vista, Centro, Anadia-AL., CEP 57660-000",
-      "asking_price": 109273.17,
-      "price_display": "R$ 109.273,17",
+      "address": "R. Cecília Pereira de Macedo, 258, Boa Vista, Arapiraca-AL., CEP 57303-213",
+      "asking_price": 77458.34,
+      "price_display": "R$ 77.458,34",
       "sale_modality_hint": null,
       "auction_date_raw": "23/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": 109273.17,
-      "second_auction_minimum_bid": 78848.05,
-      "description": "Nº DO BEM: 523695759 ANADIA (AL) Descrição: IMÓVEL DE MATRÍCULA 2.867 DO CARTÓRIO DO 2º OFÍCIO DE ANADIA-AL, ASSIM DESCRITO: Casa, com área construída de 107,96m² e respectivo terreno com área total de 180,71m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 004857 Localização: Tv. Vereador Hermes F. Mata, R. C, s/n, LT 25, QD I, Lot. Bela Vista, Centro, Anadia-AL., CEP 57660-000 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 109.273,17 (cento e nove mil duzentos e setenta e três reais e dezessete centavos) Lance mínimo para arrematação em 2º leilão: R$ 78.848,05 (setenta e oito mil, oitocentos e quarenta e oito reais e cinco centavos)",
+      "first_auction_minimum_bid": 77458.34,
+      "second_auction_minimum_bid": 64922.11,
+      "description": "Nº DO BEM: 521598636 ARAPIRACA (AL) Descrição: IMÓVEL DE MATRÍCULA 72.241 DO CARTÓRIO DE REGISTRO DE IMÓVEIS DO 1º OFÍCIO DE ARAPIRACA-AL, ASSIM DESCRITO: Casa, com área total construída de 47,00m² e terreno com área de 126,00m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 000000000059190 Localização: R. Cecília Pereira de Macedo, 258, Boa Vista, Arapiraca-AL., CEP 57303-213 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 77.458,34 (setenta e sete mil quatrocentos e cinquenta e oito reais e trinta e quatro centavos) Lance mínimo para arrematação em 2º leilão: R$ 64.922,11 (sessenta e quatro mil, novecentos e vinte e dois reais e onze centavos)",
       "observations": [
         "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
         "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
       ],
       "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "2.867",
-      "registry_office": "CARTÓRIO DO 2º OFÍCIO DE ANADIA-AL",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27578",
+      "registry_number": "72.241",
+      "registry_office": "CARTÓRIO DE REGISTRO DE IMÓVEIS DO 1º OFÍCIO DE ARAPIRACA-AL",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27580",
       "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/11824_1.jpg"
+        "https://www.seuimovelbb.com.br/imagem/imovel/11826_1.jpg"
       ],
-      "latitude": -26.858482,
-      "longitude": -52.399804,
+      "latitude": -9.795286,
+      "longitude": -36.656471,
       "documents": {
         "edital_url": null,
         "matricula_url": null
@@ -172,40 +206,6 @@
     },
     {
       "source_type": "bb",
-      "source_external_id": "11826",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11826",
-      "external_reference": null,
-      "city": "Arapiraca",
-      "state": "AL",
-      "address": "R. Cecília Pereira de Macedo, 258, Boa Vista, Arapiraca-AL., CEP 57303-213",
-      "asking_price": 77458.34,
-      "price_display": "R$ 77.458,34",
-      "sale_modality_hint": null,
-      "auction_date_raw": "23/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": 77458.34,
-      "second_auction_minimum_bid": 64922.11,
-      "description": "Nº DO BEM: 521598636 ARAPIRACA (AL) Descrição: IMÓVEL DE MATRÍCULA 72.241 DO CARTÓRIO DE REGISTRO DE IMÓVEIS DO 1º OFÍCIO DE ARAPIRACA-AL, ASSIM DESCRITO: Casa, com área total construída de 47,00m² e terreno com área de 126,00m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 000000000059190 Localização: R. Cecília Pereira de Macedo, 258, Boa Vista, Arapiraca-AL., CEP 57303-213 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 77.458,34 (setenta e sete mil quatrocentos e cinquenta e oito reais e trinta e quatro centavos) Lance mínimo para arrematação em 2º leilão: R$ 64.922,11 (sessenta e quatro mil, novecentos e vinte e dois reais e onze centavos)",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "72.241",
-      "registry_office": "CARTÓRIO DE REGISTRO DE IMÓVEIS DO 1º OFÍCIO DE ARAPIRACA-AL",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27580",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/11826_1.jpg"
-      ],
-      "latitude": -9.795286,
-      "longitude": -36.656471,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
       "source_external_id": "11827",
       "source_url": "https://www.seuimovelbb.com.br/imovel/id/11827",
       "external_reference": null,
@@ -240,138 +240,32 @@
     },
     {
       "source_type": "bb",
-      "source_external_id": "12153",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12153",
-      "external_reference": "101636",
-      "city": "Teotônio Vilela",
+      "source_external_id": "11824",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11824",
+      "external_reference": null,
+      "city": "Anadia",
       "state": "AL",
-      "address": "Rua Manoel Pedro da Silva, nº 216, Centro",
-      "asking_price": 67000.0,
-      "price_display": "R$ 67.000,00",
-      "sale_modality_hint": "proposta",
-      "auction_date_raw": null,
-      "first_auction_minimum_bid": null,
-      "second_auction_minimum_bid": null,
-      "description": "ID101636 TEOTÔNIO VILELA (AL) Descrição legal: Imóvel Urbano: Residência edificada em terreno, situada na Rua Manoel Pedro da Silva, nº 216, Centro, Município de Teotônio Vilela-AL. Melhor descrita na matrícula nº 9618 do Serviço de Notas e Registros do Único Ofício de Junqueiro-AL a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "address": "Tv. Vereador Hermes F. Mata, R. C, s/n, LT 25, QD I, Lot. Bela Vista, Centro, Anadia-AL., CEP 57660-000",
+      "asking_price": 109273.17,
+      "price_display": "R$ 109.273,17",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 109273.17,
+      "second_auction_minimum_bid": 78848.05,
+      "description": "Nº DO BEM: 523695759 ANADIA (AL) Descrição: IMÓVEL DE MATRÍCULA 2.867 DO CARTÓRIO DO 2º OFÍCIO DE ANADIA-AL, ASSIM DESCRITO: Casa, com área construída de 107,96m² e respectivo terreno com área total de 180,71m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 004857 Localização: Tv. Vereador Hermes F. Mata, R. C, s/n, LT 25, QD I, Lot. Bela Vista, Centro, Anadia-AL., CEP 57660-000 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 109.273,17 (cento e nove mil duzentos e setenta e três reais e dezessete centavos) Lance mínimo para arrematação em 2º leilão: R$ 78.848,05 (setenta e oito mil, oitocentos e quarenta e oito reais e cinco centavos)",
       "observations": [
         "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
         "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
       ],
       "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "9618",
-      "registry_office": "Serviço de Notas e Registros do Único Ofício de Junqueiro-AL",
-      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/15042",
+      "registry_number": "2.867",
+      "registry_office": "CARTÓRIO DO 2º OFÍCIO DE ANADIA-AL",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27578",
       "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12153_1.jpg"
+        "https://www.seuimovelbb.com.br/imagem/imovel/11824_1.jpg"
       ],
-      "latitude": null,
-      "longitude": null,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "12169",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12169",
-      "external_reference": "0435",
-      "city": "Maceió",
-      "state": "AL",
-      "address": "Rua Doutor Adolfo Bezerra de Menezes, Quadra D, Lote 01, Loteamento Jardim Santa Ana, Serraria",
-      "asking_price": null,
-      "price_display": "Aceita BB?",
-      "sale_modality_hint": "aceita_bb",
-      "auction_date_raw": "13/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": null,
-      "second_auction_minimum_bid": null,
-      "description": "ID0435 MACEIÓ (AL) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Doutor Adolfo Bezerra de Menezes, Quadra D, Lote 01, Loteamento Jardim Santa Ana, Serraria, Município de Maceió - AL. Melhor descrito na matrícula 45566 do 1° Cartório de Registro Geral de Imóveis de Maceió - AL. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente; b) Existe AÇÃO DE EXECUÇÃO n° 00003185719978020001 no TJ-AL e o arrematante declara-se informado do fato e ciente de que a responsabilidade do BANCO por evicção está disciplinada neste Edital, conforme item 4.11 e seus subitens. c) Existe edificação não averbada na matrícula. Os procedimentos e despesas para a regularização da pendência ficarão por conta do adquirente.",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "45566",
-      "registry_office": "1° Cartório de Registro Geral de Imóveis de Maceió - AL",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27899",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12169_1.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12169_2.jpeg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12169_3.jpg"
-      ],
-      "latitude": -9.664062,
-      "longitude": -35.725944,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "12170",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12170",
-      "external_reference": "93034",
-      "city": "Teotônio Vilela",
-      "state": "AL",
-      "address": "Rua Professora Mirian Pimentel, nº 53, Quadra L, Lote 12, Loteamento Maracujá, Bairro São Miguel",
-      "asking_price": null,
-      "price_display": "Aceita BB?",
-      "sale_modality_hint": "aceita_bb",
-      "auction_date_raw": "13/10/2026 a partir das 10h00",
-      "first_auction_minimum_bid": null,
-      "second_auction_minimum_bid": null,
-      "description": "ID93034 TEOTÔNIO VILELA (AL) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Professora Mirian Pimentel, nº 53, Quadra L, Lote 12, Loteamento Maracujá, Bairro São Miguel, Município de Teotônio Vilela - AL . Melhor descrito na matrícula 10244 do Único Ofício de Junqueiro - AL. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente; b) A titularidade do IPTU encontra-se atualmente em nome de terceiros, cabendo ao arrematante a obrigação de promover, após a arrematação, a devida atualização cadastral e a transferência da titularidade para o seu nome junto ao órgão municipal competente, arcando integralmente com todas as providências, custos e eventuais despesas necessárias à regularização. Os valores de IPTU eventualmente devidos serão tratados conforme o disposto no item 16.7 deste Edital.",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "10244",
-      "registry_office": "Único Ofício de Junqueiro - AL",
-      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27900",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/12170_1.jpg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12170_2.jpeg",
-        "https://www.seuimovelbb.com.br/imagem/imovel/12170_3.jpg"
-      ],
-      "latitude": -9.9098383,
-      "longitude": -36.3539548,
-      "documents": {
-        "edital_url": null,
-        "matricula_url": null
-      },
-      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
-    },
-    {
-      "source_type": "bb",
-      "source_external_id": "3709",
-      "source_url": "https://www.seuimovelbb.com.br/imovel/id/3709",
-      "external_reference": "91952",
-      "city": "Teotônio Vilela",
-      "state": "AL",
-      "address": "Rua Tavares Bastos, n° 62, Loteamento Parque do Futuro III, Bairro São Jorge",
-      "asking_price": 57000.0,
-      "price_display": "R$ 57.000,00",
-      "sale_modality_hint": "proposta",
-      "auction_date_raw": null,
-      "first_auction_minimum_bid": null,
-      "second_auction_minimum_bid": null,
-      "description": "ID91952 TEOTÔNIO VILELA (AL) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Tavares Bastos, n° 62, Loteamento Parque do Futuro III, Bairro São Jorge, município de Teotônio Vilela - AL. Melhor descrito na matrícula 4914 do Serviço de Notas e Registros do Único Ofício de Junqueiro - AL. a)O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente, conforme item 16.8 deste Edital;",
-      "observations": [
-        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
-        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
-      ],
-      "occupancy_status": "ocupado_por_terceiros",
-      "registry_number": "4914",
-      "registry_office": "Serviço de Notas e Registros do Único Ofício de Junqueiro - AL",
-      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=21742",
-      "images": [
-        "https://www.seuimovelbb.com.br/imagem/imovel/3709_1.jpg"
-      ],
-      "latitude": null,
-      "longitude": null,
+      "latitude": -26.858482,
+      "longitude": -52.399804,
       "documents": {
         "edital_url": null,
         "matricula_url": null
