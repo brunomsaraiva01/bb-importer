@@ -36,6 +36,21 @@ echo "Pronto para publicar no GitHub."
 
 echo "Publicando catalogo validado..."
 
+# Preparar todos os novos arquivos antes de substituir os anteriores
+test -s bb-coleta-temporaria/auditoria.json
+test -n "$(find bb-coleta-temporaria/por-uf -name '*.json' -print -quit)"
+
+commit_anterior=$(git rev-parse HEAD)
+publicado=false
+
+restaurar() {
+  if [ "$publicado" = false ]; then
+    echo "Falha na publicacao. Recuperando versao anterior..."
+    git reset --hard "$commit_anterior"
+  fi
+}
+trap restaurar ERR
+
 mkdir -p bb-coleta/por-uf
 rm -f bb-coleta/por-uf/*.json
 cp bb-coleta-temporaria/por-uf/*.json bb-coleta/por-uf/
@@ -44,12 +59,19 @@ cp bb-catalogo-atualizado.json bb-catalogo-validacao.json
 
 date -u +"%Y-%m-%dT%H:%M:%S+00:00" > .bb-ultima-atualizacao.txt
 
-git add bb-catalogo-atualizado.json bb-catalogo-validacao.json
-git add -A bb-coleta/por-uf/
-git add .bb-ultima-atualizacao.txt
-git add -f bb-coleta/auditoria.json
+git add -A -- bb-coleta/por-uf/
+git add -- bb-catalogo-atualizado.json bb-catalogo-validacao.json
+git add -- .bb-ultima-atualizacao.txt
+git add -f -- bb-coleta/auditoria.json
+
+if git diff --cached --quiet; then
+  echo "Nenhuma alteracao para publicar."
+  exit 0
+fi
 
 git commit -m "Atualizacao manual do catalogo BB"
-git push origin main
+git push origin HEAD:main
+publicado=true
+trap - ERR
 
 echo "ATUALIZACAO BB CONCLUIDA COM SUCESSO!"
