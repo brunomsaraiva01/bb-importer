@@ -8,6 +8,7 @@ on:
 
 permissions:
   contents: write
+  actions: read
 
 concurrency:
   group: bb-catalog-update
@@ -41,16 +42,23 @@ jobs:
           import subprocess
           from datetime import datetime, timezone
 
+          output = os.environ["GITHUB_OUTPUT"]
+
           if os.environ["GITHUB_EVENT_NAME"] == "workflow_dispatch":
-              print("run=true", file=open(os.environ["GITHUB_OUTPUT"], "a"))
+              with open(output, "a") as f:
+                  print("run=true", file=f)
               raise SystemExit(0)
 
+          repo = os.environ["GITHUB_REPOSITORY"]
           result = subprocess.run(
-              ["gh", "api",
-               f"repos/{os.environ['GITHUB_REPOSITORY']}/actions/workflows/bb-update.yml/runs",
-               "-f", "status=completed",
-               "-f", "per_page=100"],
-              capture_output=True, text=True
+              [
+                  "gh", "api", "--method", "GET",
+                  f"repos/{repo}/actions/workflows/bb-update.yml/runs",
+                  "-f", "status=completed",
+                  "-f", "per_page=100"
+              ],
+              capture_output=True,
+              text=True
           )
 
           if result.returncode != 0:
@@ -58,35 +66,83 @@ jobs:
 
           data = json.loads(result.stdout)
           now = datetime.now(timezone.utc)
-          recent = []
+          successful = []
 
           for run in data.get("workflow_runs", []):
-              if run["event"] not in ("schedule", "workflow_dispatch"):
+              if run.get("event") not in ("schedule", "workflow_dispatch"):
                   continue
-              if run["conclusion"] != "success":
+              if run.get("conclusion") != "success":
                   continue
+
               finished = run.get("updated_at")
               if finished:
-                  dt = datetime.fromisoformat(finished.replace("Z", "+00:00"))
-                  recent.append(dt)
+                  dt = datetime.fromisoformat(
+                      finished.replace("Z", "+00:00")
+                  )
+                  successful.append(dt)
 
-          run_now = not recent or (now - max(recent)).total_seconds() >= 15 * 86400
-          with open(os.environ["GITHUB_OUTPUT"], "a") as output:
-              print(f"run={str(run_now).lower()}", file=output)
+          run_now = (
+              not successful
+              or (now - max(successful)).total_seconds() >= 15 * 86400
+          )
+
+          with open(output, "a") as f:
+              print(f"run={str(run_now).lower()}", file=f)
+
+          print(f"Executar coleta: {run_now}")
           PY
 
       - name: Coletar imoveis BB
         if: steps.intervalo.outputs.run == 'true'
         run: |
-          python bb_coletar_catalogo.py --limite 0 --pausa 2 --saida bb-coleta
+          python bb_coletar_catalogo.py \
+            --limite 0 \
+            --pausa 2 \
+            --saida bb-coleta
+
+      - name: Validar resultado
+        if: steps.intervalo.outputs.run == 'true'
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          folder = Path("bb-coleta/por-uf")
+          files = sorted(folder.glob("*.json"))
+
+          if len(files) < 20:
+              raise SystemExit(
+                  "Coleta incompleta: menos de 20 estados."
+              )
+
+          total = 0
+          for path in files:
+              data = json.loads(path.read_text(encoding="utf-8"))
+              properties = data.get("imoveis", [])
+              if not isinstance(properties, list):
+                  raise SystemExit(f"Formato invalido: {path}")
+              total += len(properties)
+
+          print(f"Estados: {len(files)}")
+          print(f"Imoveis: {total}")
+
+          if total < 700:
+              raise SystemExit(
+                  "Coleta abaixo do limite de seguranca."
+              )
+          PY
 
       - name: Publicar JSONs
         if: steps.intervalo.outputs.run == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add bb-coleta/por-uf/
+
           if ! git diff --cached --quiet; then
             git commit -m "Atualizar catalogo BB"
             git push
+          else
+            echo "Nenhuma alteracao nos JSONs."
           fi
