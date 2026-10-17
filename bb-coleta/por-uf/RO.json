@@ -1,0 +1,72 @@
+{
+  "imoveis": [
+    {
+      "source_type": "bb",
+      "source_external_id": "12086",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12086",
+      "external_reference": null,
+      "city": "Ji-Paraná",
+      "state": "RO",
+      "address": "R. Aldeia do Lago A, LT 09, QD 01, (Rod. Pastor Severo Antônio de Araújo, 3060), Res. Aldeia do Lago, Ji-Paraná-RO, CEP 76902-530",
+      "asking_price": 1283235.38,
+      "price_display": "R$ 1.283.235,38",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 1283235.38,
+      "second_auction_minimum_bid": 1215203.11,
+      "description": "Nº DO BEM: 532616494 JI-PARANÁ (RO) Descrição: IMÓVEL DE MATRÍCULA 33580 DO 1º OFÍCIO DE REGISTRO DE IMÓVEIS E ANEXOS DE JI-PARANÁ-RO, ASSIM DESCRITO: Casa, com área construída de 246,01m² e respectivo terreno com área total de 562,50m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 220000010000900 Localização: R. Aldeia do Lago A, LT 09, QD 01, (Rod. Pastor Severo Antônio de Araújo, 3060), Res. Aldeia do Lago, Ji-Paraná-RO, CEP 76902-530 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Obs.3: Constam na matrícula imobiliária averbações de Indisponibilidade (Avs. 8, 11 e 14) e Notícias de Ações Judiciais (Avs. 9, 10, 12, 13 e 15), cujos detalhes e números dos respectivos processos devem ser consultados diretamente na certidão de matrícula do imóvel. Nos termos do § 11 do artigo 27 da Lei nº 9.514/97, os direitos reais de garantia ou constrições, tais como penhoras, arrestos, bloqueios e indisponibilidades de qualquer natureza incidentes sobre o direito real de aquisição do fiduciante, não impedem a consolidação da propriedade em nome do credor fiduciário nem a venda do imóvel para realização da garantia. Lance mínimo para arrematação em 1º leilão: R$ 1.283.235,38 (um milhão duzentos e oitenta e três mil duzentos e trinta e cinco reais e trinta e oito centavos) Lance mínimo para arrematação em 2º leilão: R$ 1.215.203,11 (um milhão, duzentos e quinze mil, duzentos e três reais e onze centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "33580",
+      "registry_office": "1º OFÍCIO DE REGISTRO DE IMÓVEIS E ANEXOS DE JI-PARANÁ-RO",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27840",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12086_1.jpg"
+      ],
+      "latitude": 44.489827,
+      "longitude": 26.065977,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12261",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12261",
+      "external_reference": "81718",
+      "city": "Porto Velho",
+      "state": "RO",
+      "address": "RUA JOSE DE ALENCAR, 3115-CAIARI-PORTO VELHO - RO",
+      "asking_price": 1507708.0,
+      "price_display": "R$ 1.507.708,00",
+      "sale_modality_hint": null,
+      "auction_date_raw": "20/10/2026 a partir das 11h00",
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID81718 PORTO VELHO (RO) Descrição legal: Imóvel Urbano: Prédio Comercial, situado na RUA JOSE DE ALENCAR, 3115-CAIARI-PORTO VELHO - RO. Melhor descrito na Transcrição 406 do 1° CRI de PORTO VELHO - RO. a) Do imóvel adquirido na presente licitação será obrigatoriamente locado ao BANCO do Brasil S/A, sendo que o Banco do Brasil alugará integralmente o imóvel; b) Prazo da Locação: (por até 60 meses); c) O adquirente se submete às todos os itens previstas na Cláusula 3.2 do ANEXO 7 deste edital; d) Valor de locação inicialmente estabelecido será de R$ 12.061,00; e) Caberá ao arrematante, às suas custas e após a compra, quaisquer providências por eventual necessidade de desembaraço e regularização documental do imóvel arrematado, como regularização da área no registro de imóvel, no cadastro na Prefeitura e a encontrada no local, entre outros. f) Caberá ao arrematante a realização tempestiva de benfeitorias necessárias para reparo de infiltrações e problemas de drenagem. g) O arrematante declara estar ciente de que o imóvel possui áreas com acesso restrito, destinadas exclusivamente ao uso interno de funcionários do Banco do Brasil, sendo expressamente vedado o ingresso de terceiros. h) O arrematante se declara ciente de que está em curso a realização de obras na agência por conta do Banco. i) IMPORTANTE: Há projeto de relocalização da dependência instalada no imóvel. O Banco do Brasil poderá exercer o direito de rescisão antecipada do contrato de locação para mudar-se para um novo endereço, de forma unilateral e sem ônus, mediante aviso prévio de 30 (trinta) dias corridos, não sendo devida qualquer indenização ou multa ao adquirente. j) IMPORTANTE: Conforme consta na matrícula do imóvel, o bem encontra-se sujeito a aforamento perante o Município. A transferência dos direitos decorrentes do aforamento, bem como o pagamento de todas as despesas, taxas, emolumentos, tributos, laudêmio e demais encargos necessários à sua regularização e transferência, será de inteira responsabilidade do adquirente. k) O imóvel é FOREIRO e possui senhorio com direito de preferência na aquisição do bem, conforme item 4.5 deste Edital; l) O imóvel possui Transcrição a qual obrigatoriamente deverá ser transformada em matrícula para Registro da venda no Cartório de Registro de Imóveis e os procedimentos, despesas e toda documentação necessárias solicitada pelo Cartório Registro de Imóveis para a regularização da pendência ficarão por conta do adquirente;",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": null,
+      "registry_number": null,
+      "registry_office": null,
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27989",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12261_1.jpg"
+      ],
+      "latitude": -8.761646,
+      "longitude": -63.906101,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    }
+  ]
+}

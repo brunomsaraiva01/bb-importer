@@ -1,0 +1,38 @@
+{
+  "imoveis": [
+    {
+      "source_type": "bb",
+      "source_external_id": "11823",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11823",
+      "external_reference": null,
+      "city": "Rio Branco",
+      "state": "AC",
+      "address": "R. 25 de Dezembro, 181, Tancredo Neves, Rio Branco-AC, CEP 69921-806",
+      "asking_price": 187765.58,
+      "price_display": "R$ 187.765,58",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 187765.58,
+      "second_auction_minimum_bid": 337605.18,
+      "description": "Nº DO BEM: 522199424 RIO BRANCO (AC) Descrição: IMÓVEL DE MATRÍCULA 53.182 DO 1º OFÍCIO DO REGISTRO DE IMÓVEIS DE RIO BRANCO-AC, ASSIM DESCRITO: Unidade residencial unifamiliar, com área de 111,13m² e respectivo terreno com área total de 248,92m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 100500320484001 Localização: R. 25 de Dezembro, 181, Tancredo Neves, Rio Branco-AC, CEP 69921-806 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 187.765,58 (cento e oitenta e sete mil setecentos e sessenta e cinco reais e cinquenta e oito centavos) Lance mínimo para arrematação em 2º leilão: R$ 337.605,18 (trezentos e trinta e sete mil, seiscentos e cinco reais e dezoito centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "53.182",
+      "registry_office": "1º OFÍCIO DO REGISTRO DE IMÓVEIS DE RIO BRANCO-AC",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27577",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11823_1.jpg"
+      ],
+      "latitude": -9.930548,
+      "longitude": -67.834574,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    }
+  ]
+}

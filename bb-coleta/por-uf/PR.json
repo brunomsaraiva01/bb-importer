@@ -1,0 +1,531 @@
+{
+  "imoveis": [
+    {
+      "source_type": "bb",
+      "source_external_id": "11350",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11350",
+      "external_reference": "100834",
+      "city": "Cambará",
+      "state": "PR",
+      "address": "Rua Nicolau Viegas, nº 142",
+      "asking_price": 147700.0,
+      "price_display": "R$ 147.700,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID100834 CAMBARÁ (PR)Descrição legal: Imóvel Urbano: Residência com área de 59,27m², dentro de um terreno com área de 271,43m², localizada no Lote 01 da Quadra 14 do Loteamento Ignez Panichi Hamzé, situado na Rua Nicolau Viegas, nº 142, município de Cambará - PR. Melhor descrita na matrícula nº 7512 do Cartório de Registro de Imóveis de Cambará - PR. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "7512",
+      "registry_office": "Cartório de Registro de Imóveis de Cambará - PR",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/14908",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11350_1.png",
+        "https://www.seuimovelbb.com.br/imagem/imovel/11350_2.png"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12018",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12018",
+      "external_reference": null,
+      "city": "Arapongas",
+      "state": "PR",
+      "address": "R. Jaó do Sul, 280, Unidade Res. 02, Cond. Res. Laranjeira, Jd. Paulino Fedrigo, Arapongas-PR, CEP 86716-514",
+      "asking_price": 142011.38,
+      "price_display": "R$ 142.011,38",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 142011.38,
+      "second_auction_minimum_bid": 98320.03,
+      "description": "Nº DO BEM: 527617789 ARAPONGAS (PR) Descrição: IMÓVEL DE MATRÍCULA 40714 DO 2º SERVIÇO DE REGISTRO DE IMÓVEIS DE ARAPONGAS-PR, ASSIM DESCRITO: Unidade Residencial 02, com área construída de 51,82m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 10501610288001 Localização: R. Jaó do Sul, 280, Unidade Res. 02, Cond. Res. Laranjeira, Jd. Paulino Fedrigo, Arapongas-PR, CEP 86716-514 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 142.011,38 (cento e quarenta e dois mil e onze reais e trinta e oito centavos) Lance mínimo para arrematação em 2º leilão: R$ 98.320,03 (noventa e oito mil e trezentos e vinte reais e três centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "40714",
+      "registry_office": "2º SERVIÇO DE REGISTRO DE IMÓVEIS DE ARAPONGAS-PR",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27772",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12018_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12018_2.jpg"
+      ],
+      "latitude": -23.435833,
+      "longitude": -51.442711,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12019",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12019",
+      "external_reference": null,
+      "city": "Rolândia",
+      "state": "PR",
+      "address": "R. Oswald Nixdorf, 260, Conj. Hab. Santiago, Rolândia-PR, CEP 86606-286",
+      "asking_price": 155342.03,
+      "price_display": "R$ 155.342,03",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 155342.03,
+      "second_auction_minimum_bid": 142590.85,
+      "description": "Nº DO BEM: 520886723 ROLÂNDIA (PR) Descrição: IMÓVEL DE MATRÍCULA 34331 DO SERVIÇO REGISTRAL DE IMÓVEIS DE ROLÂNDIA-PR, ASSIM DESCRITO: Casa, com área construída de 69,89m² e respectivo terreno com área total de 125,13m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 1018060375001-0 Localização: R. Oswald Nixdorf, 260, Conj. Hab. Santiago, Rolândia-PR, CEP 86606-286 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 155.342,03 (cento e cinquenta e cinco mil trezentos e quarenta e dois reais e três centavos) Lance mínimo para arrematação em 2º leilão: R$ 142.590,85 (cento e quarenta e dois mil, quinhentos e noventa reais e oitenta e cinco centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "34331",
+      "registry_office": "SERVIÇO REGISTRAL DE IMÓVEIS DE ROLÂNDIA-PR",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27773",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12019_1.jpg"
+      ],
+      "latitude": -23.342049,
+      "longitude": -51.395962,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12020",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12020",
+      "external_reference": null,
+      "city": "São José dos Pinhais",
+      "state": "PR",
+      "address": "R. Antonio Kuss, 80, AP. 21, BL 03, Cond. Res. \"VALÊNCIA\", Santo Antônio, São José dos Pinhais-PR, CEP 83020-652",
+      "asking_price": 149710.79,
+      "price_display": "R$ 149.710,79",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 149710.79,
+      "second_auction_minimum_bid": 152052.0,
+      "description": "Nº DO BEM: 529080260 SÃO JOSÉ DOS PINHAIS (PR) Descrição: IMÓVEL DE MATRÍCULA 64397 DO 2º OFÍCIO DE REGISTRO DE IMÓVEIS DE SÃO JOSÉ DOS PINHAIS-PR, ASSIM DESCRITO: Apartamento nº 21, com área construída privativa de 42,69m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 1025900170037 Localização: R. Antonio Kuss, 80, AP. 21, BL 03, Cond. Res. \"VALÊNCIA\", Santo Antônio, São José dos Pinhais-PR, CEP 83020-652 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 149.710,79 (cento e quarenta e nove mil setecentos e dez reais e setenta e nove centavos) Lance mínimo para arrematação em 2º leilão: R$ 152.052,00 (cento e cinquenta e dois mil e cinquenta e dois reais)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "64397",
+      "registry_office": "2º OFÍCIO DE REGISTRO DE IMÓVEIS DE SÃO JOSÉ DOS PINHAIS-PR",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27774",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12020_1.jpg"
+      ],
+      "latitude": -25.563449,
+      "longitude": -49.200552,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12021",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12021",
+      "external_reference": null,
+      "city": "São Pedro do Ivaí",
+      "state": "PR",
+      "address": "R. Leocádio Ascêncio, 203, Res. Santa Rita de Cássia, São Pedro do Ivaí-PR, CEP 86945-000",
+      "asking_price": 117629.91,
+      "price_display": "R$ 117.629,91",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 117629.91,
+      "second_auction_minimum_bid": 84444.48,
+      "description": "Nº DO BEM: 530552720 SÃO PEDRO DO IVAÍ (PR) Descrição: IMÓVEL DE MATRÍCULA 14576 DO SERVIÇO REGISTRAL IMOBILIÁRIO DE SÃO PEDRO DO IVAÍ-PR, ASSIM DESCRITO: Casa, com área de 69,99m² e respectivo terreno com área total de 132,00m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 3124500 Localização: R. Leocádio Ascêncio, 203, Res. Santa Rita de Cássia, São Pedro do Ivaí-PR, CEP 86945-000 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 117.629,91 (cento e dezessete mil seiscentos e vinte e nove reais e noventa e um centavos) Lance mínimo para arrematação em 2º leilão: R$ 84.444,48 (oitenta e quatro mil, quatrocentos e quarenta e quatro reais e quarenta e oito centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "14576",
+      "registry_office": "SERVIÇO REGISTRAL IMOBILIÁRIO DE SÃO PEDRO DO IVAÍ-PR",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27775",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12021_1.jpg"
+      ],
+      "latitude": -23.872307,
+      "longitude": -51.85342,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12022",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12022",
+      "external_reference": null,
+      "city": "São Sebastião Da Amoreira",
+      "state": "PR",
+      "address": "R. Dr. Alceu Ferreira Lopes, 418, Jd. Boa Vista II, São Sebastião da Amoreira-PR, CEP 86240-000",
+      "asking_price": 191186.44,
+      "price_display": "R$ 191.186,44",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 191186.44,
+      "second_auction_minimum_bid": 507963.88,
+      "description": "Nº DO BEM: 514627233 SÃO SEBASTIÃO DA AMOREIRA (PR) Descrição: IMÓVEL DE MATRÍCULA 4349 DO 2º OFÍCIO DE REGISTRO DE IMÓVEIS DE SÃO SEBASTIÃO DA AMOREIRA-PR, ASSIM DESCRITO: Casa, com área construída de 155,17m² e terreno com área total de 351,60m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 0020001009-6000024-0000 Localização: R. Dr. Alceu Ferreira Lopes, 418, Jd. Boa Vista II, São Sebastião da Amoreira-PR, CEP 86240-000 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 191.186,44 (cento e noventa e um mil cento e oitenta e seis reais e quarenta e quatro centavos) Lance mínimo para arrematação em 2º leilão: R$ 507.963,88 (quinhentos e sete mil, novecentos e sessenta e três reais e oitenta e oito centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "4349",
+      "registry_office": "2º OFÍCIO DE REGISTRO DE IMÓVEIS DE SÃO SEBASTIÃO DA AMOREIRA-PR",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27776",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12022_1.jpg"
+      ],
+      "latitude": -23.466289,
+      "longitude": -50.760429,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12208",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12208",
+      "external_reference": "1199",
+      "city": "União da Vitória",
+      "state": "PR",
+      "address": "Avenida Bento Munhoz da Rocha Neto, nº 204, Bairro Navegante",
+      "asking_price": null,
+      "price_display": "Aceita BB?",
+      "sale_modality_hint": "aceita_bb",
+      "auction_date_raw": "13/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID1199 UNIÃO DA VITÓRIA (PR) Descrição legal: Imóvel Urbano Residencial, Casa situada na Avenida Bento Munhoz da Rocha Neto, nº 204, Bairro Navegante, Município de União da Vitória - PR. Melhor descrito na matrícula 3777 do 2º Serviço de Registro de Imóveis de União da Vitória - PR. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "3777",
+      "registry_office": "2º Serviço de Registro de Imóveis de União da Vitória - PR",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27938",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12208_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12208_2.jpeg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12208_3.jpg"
+      ],
+      "latitude": -26.221439,
+      "longitude": -51.086868,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12252",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12252",
+      "external_reference": "74884",
+      "city": "Catanduvas",
+      "state": "PR",
+      "address": "AVENIDA PARANA,330 - CENTRO - CATANDUVAS - PR",
+      "asking_price": 1970000.0,
+      "price_display": "R$ 1.970.000,00",
+      "sale_modality_hint": null,
+      "auction_date_raw": "20/10/2026 a partir das 11h00",
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID74884 CATANDUVAS (PR) Descrição legal: Imóvel Urbano: Prédio Comercial, situado na AVENIDA PARANA,330 - CENTRO - CATANDUVAS - PR. Melhor descrito na Matrícula 8.992 do CRI de CATANDUVAS - PR. a) Do imóvel adquirido na presente licitação será obrigatoriamente locado ao BANCO do Brasil S/A, sendo que o Banco do Brasil alugará integralmente o imóvel; b) Prazo da Locação: (por até 60 meses); c) O adquirente se submete às todos os itens previstas na Cláusula 3.2 do ANEXO 7 deste edital; d) Valor de locação inicialmente estabelecido será de R$ 12.805,00; e) Caberá ao arrematante, às suas custas e após a compra, quaisquer providências por eventual necessidade de desembaraço e regularização documental do imóvel arrematado, como regularização da área no registro de imóvel, no cadastro na Prefeitura e a encontrada no local, entre outros. f) O arrematante declara estar ciente de que o imóvel possui áreas com acesso restrito, destinadas exclusivamente ao uso interno de funcionários do Banco do Brasil, sendo expressamente vedado o ingresso de terceiros. g) O arrematante se declara ciente de que está em curso a realização de obras na agência por conta do Banco.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": null,
+      "registry_number": "8.992",
+      "registry_office": "CRI de CATANDUVAS - PR",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27980",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12252_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12252_2.jpg"
+      ],
+      "latitude": -25.20116,
+      "longitude": -53.153542,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12253",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12253",
+      "external_reference": "87332",
+      "city": "Colombo",
+      "state": "PR",
+      "address": "RUA QUINZE DE NOVEMBRO, 279 - CENTRO - COLOMBO - PR",
+      "asking_price": 2220350.0,
+      "price_display": "R$ 2.220.350,00",
+      "sale_modality_hint": null,
+      "auction_date_raw": "20/10/2026 a partir das 11h00",
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID87332 COLOMBO (PR) Descrição legal: Imóvel Urbano: Prédio Comercial, situado na RUA QUINZE DE NOVEMBRO, 279 - CENTRO - COLOMBO - PR. Melhor descrito na Matrícula 35.334 do CRI de COLOMBO - PR. a) Do imóvel adquirido na presente licitação será obrigatoriamente locado ao BANCO do Brasil S/A, sendo que o Banco do Brasil alugará integralmente o imóvel; b) Prazo da Locação: (por até 60 meses); c) O adquirente se submete às todos os itens previstas na Cláusula 3.2 do ANEXO 7 deste edital; d) Valor de locação inicialmente estabelecido será de R$ 14.432,00; e) Caberá ao arrematante, às suas custas e após a compra, quaisquer providências por eventual necessidade de desembaraço e regularização documental do imóvel arrematado, como regularização da área no registro de imóvel, no cadastro na Prefeitura e a encontrada no local, entre outros. f) Caberá ao arrematante a realização tempestiva de benfeitorias necessárias para reparos no telhado. g) O arrematante declara estar ciente de que o imóvel possui áreas com acesso restrito, destinadas exclusivamente ao uso interno de funcionários do Banco do Brasil, sendo expressamente vedado o ingresso de terceiros. h) O arrematante se declara ciente de que está em curso a realização de obras na agência por conta do Banco.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": null,
+      "registry_number": "35.334",
+      "registry_office": "CRI de COLOMBO - PR",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27981",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12253_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12253_2.jpg"
+      ],
+      "latitude": -25.136232,
+      "longitude": -50.136464,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12254",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12254",
+      "external_reference": "77639",
+      "city": "Curitiba",
+      "state": "PR",
+      "address": "Alameda Doutor Muricy, 875, Centro, Curitiba (PR)",
+      "asking_price": 8032580.0,
+      "price_display": "R$ 8.032.580,00",
+      "sale_modality_hint": null,
+      "auction_date_raw": "20/10/2026 a partir das 11h00",
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID77639 CURITIBA (PR) - Praça Tiradentes Descrição legal: Imóvel Urbano: Prédio Comercial situado na Alameda Doutor Muricy, 875, Centro, Curitiba (PR). Melhor descrito na Matrículas 9035 do 1° CRI de Curitiba - PR. a) Do imóvel adquirido na presente licitação será obrigatoriamente locado ao BANCO do Brasil S/A, sendo que o Banco do Brasil alugará integralmente o imóvel; b) Prazo da Locação: (por até 60 meses); c) O adquirente se submete às todos os itens previstas na Cláusula 3.2 do ANEXO 7 deste edital; d) Valor de locação inicialmente estabelecido será de R$ 64.260,00; e) Caberá ao arrematante, às suas custas e após a compra, quaisquer providências por eventual necessidade de desembaraço e regularização documental do imóvel arrematado, como a regularização da área encontrada no local, na matrícula e no cadastro na Prefeitura, entre outros. f) Caso seja necessário caberá ao arrematante às suas custas a obtenção do AVCB (auto de vistoria do corpo de bombeiros), bem como todas as custas e emolumentos necessários para a obtenção do documento são de responsabilidade do arrematante. g) O arrematante se declara ciente de que está em curso a realização de obras na agência.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": null,
+      "registry_number": null,
+      "registry_office": null,
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27982",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12254_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12254_2.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12254_3.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12254_4.jpg"
+      ],
+      "latitude": -25.429928,
+      "longitude": -49.27354,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12255",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12255",
+      "external_reference": "74824",
+      "city": "Tapejara",
+      "state": "PR",
+      "address": "Avenida Antônio S. Villela, 525, Centro, Tapejara - PR",
+      "asking_price": 2260000.0,
+      "price_display": "R$ 2.260.000,00",
+      "sale_modality_hint": null,
+      "auction_date_raw": "20/10/2026 a partir das 11h00",
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID74824 TAPEJARA (PR) Descrição legal: Imóvel Urbano: Prédio Comercial, situado na Avenida Antônio S. Villela, 525, Centro, Tapejara - PR. Melhor descrito nas Matrícula 4211 do 1° CRI de Cruzeiro do Oeste ? PR. a) Do imóvel adquirido na presente licitação será obrigatoriamente locado ao BANCO do Brasil S/A, sendo que o Banco do Brasil alugará integralmente o imóvel; b) Prazo da Locação: (por até 60 meses); c) O adquirente se submete às todos os itens previstas na Cláusula 3.2 do ANEXO 7 deste edital; d) Valor de locação inicialmente estabelecido será de R$ 14.690,00; e) Caberá ao arrematante, às suas custas e após a compra, quaisquer providências por eventual necessidade de desembaraço e regularização documental do imóvel arrematado, como abertura de matrícula, regularização da área encontrada na matrícula e no cadastro na Prefeitura, entre outros. f) O arrematante se declara ciente de que está em curso a realização de obras na agência. g) Será locado o imóvel todo, inclusive a área de estacionamento.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": null,
+      "registry_number": "4211",
+      "registry_office": "1° CRI de Cruzeiro do Oeste ? PR",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27983",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12255_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12255_2.jpg"
+      ],
+      "latitude": -23.733153,
+      "longitude": -52.867324,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12303",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12303",
+      "external_reference": "100241",
+      "city": "Amaporã",
+      "state": "PR",
+      "address": "Rua Projetada, nº 09, Jardim Cafezal",
+      "asking_price": 69000.0,
+      "price_display": "R$ 69.000,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID100241 AMAPORÃ (PR) Descrição legal: Imóvel Urbano: Residência edificada em terreno, situada na Rua Projetada, nº 09, Jardim Cafezal, Município de Amaporã-PR. Melhor descrita na matrícula nº 34453 do 1º Ofício de Registro de Imóveis de Paranavaí-PR a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "34453",
+      "registry_office": "1º Ofício de Registro de Imóveis de Paranavaí-PR",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/15119",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12303_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12303_2.jpg"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "7024",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/7024",
+      "external_reference": "99241",
+      "city": "União da Vitória",
+      "state": "PR",
+      "address": "Rua Jair Antonio Zanoni, nº 300, Quadra A, bairro Nossa Senhora das Graças",
+      "asking_price": 136780.0,
+      "price_display": "R$ 136.780,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID99241 Descrição legal: Imóvel Urbano Residencial, Casa situada à Rua Jair Antonio Zanoni, nº 300, Quadra A, bairro Nossa Senhora das Graças, município de União da Vitória - PR. Melhor descrito na matrícula 6023 do 2º Serviço de Registro de Imóveis de União da Vitória. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "6023",
+      "registry_office": "2º Serviço de Registro de Imóveis de União da Vitória",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/570",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/7024_1.png"
+      ],
+      "latitude": -26.1936777,
+      "longitude": -51.0423249,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "7922",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/7922",
+      "external_reference": "99501",
+      "city": "Capitão Leonidas Marques",
+      "state": "PR",
+      "address": null,
+      "asking_price": 143350.0,
+      "price_display": "R$ 143.350,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID99501 Descrição legal: Imóvel Urbano: Parte ideal de 50% do terreno comercial localizado à Av. Bandeirantes, 194, lote 06, quadra 05, no distrito de Alto Alegre do Iguaçu, município de Capitão Leônidas Marques PR. Melhor descrito na matrícula 2989 do Registro de Imóveis da Comarca de Capitão Leônidas Marques PR. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente; b) A área construída não está averbada na matrícula do imóvel. Eventuais procedimentos e despesas para a regularização da pendência ficarão por conta do adquirente; c) Imóvel possui coproprietário com direito de preferência na aquisição do bem; d) O imóvel está em área de alto indício de contaminação e ALTO",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "2989",
+      "registry_office": "Registro de Imóveis da Comarca de Capitão Leônidas Marques PR",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/571",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/7922_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/7922_2.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/7922_3.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/7922_4.jpg"
+      ],
+      "latitude": -25.4811352,
+      "longitude": -53.4830883,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "9860",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/9860",
+      "external_reference": "100926",
+      "city": "Japira",
+      "state": "PR",
+      "address": "Avenida Alexandre Leite Dos Santos, 85_Lt 15 Qd 27 - Centro",
+      "asking_price": 204700.0,
+      "price_display": "R$ 204.700,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID100926 JAPIRA(PR) Descrição legal: Imóvel Urbano Residencial, Casa situada na Avenida Alexandre Leite Dos Santos, 85_Lt 15 Qd 27 - Centro, Município de JAPIRA - PR. Melhor descrito na matrícula 13275 do Registro de Imóveis de Ibaiti-PR. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente. b) A titularidade do IPTU está em nome de terceiros e as providências e eventuais despesas para regularização do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "13275",
+      "registry_office": "Registro de Imóveis de Ibaiti-PR",
+      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=25736",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/9860_1.jfif",
+        "https://www.seuimovelbb.com.br/imagem/imovel/9860_2.jfif",
+        "https://www.seuimovelbb.com.br/imagem/imovel/9860_3.jfif",
+        "https://www.seuimovelbb.com.br/imagem/imovel/9860_4.jfif"
+      ],
+      "latitude": -23.81096,
+      "longitude": -50.139589,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    }
+  ]
+}

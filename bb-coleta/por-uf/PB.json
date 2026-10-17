@@ -1,0 +1,2880 @@
+{
+  "imoveis": [
+    {
+      "source_type": "bb",
+      "source_external_id": "10466",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/10466",
+      "external_reference": "72678",
+      "city": "Salgado de São Felix",
+      "state": "PB",
+      "address": "Rua Francelina Paz de Araújo, nº 26, Centro",
+      "asking_price": 342375.0,
+      "price_display": "R$ 342.375,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID72678 SALGADO DE SÃO FELIX (PB) Descrição legal: Imóvel Urbano: Prédio comercial situado na Rua Francelina Paz de Araújo, nº 26, Centro, município de Salgado de São Félix - PB. Melhor descrito na matrícula 2414 do 01º Ofício de Registro de Imóveis de Itabaiana - PB. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente, conforme item 16.8 deste Edital; b) Existe divergência da área do imóvel constante na matrícula e no cadastro do imóvel na Prefeitura Municipal. Eventuais procedimentos e despesas para a regularização da pendência ficarão por conta do adquirente. c) O imóvel teve seu estado de conservação alterado, as entradas estão lacradas com alvenaria, as janelas foram furtadas, permanecendo só as grades de proteção das mesmas, todas as fiações também foram furtadas, e o arrematante se declara informado do fato.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "2414",
+      "registry_office": "01º Ofício de Registro de Imóveis de Itabaiana - PB",
+      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=26305",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/10466_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10466_2.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10466_3.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10466_4.jpg"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "10488",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/10488",
+      "external_reference": "101478",
+      "city": "Conde",
+      "state": "PB",
+      "address": "Condomínio Residencial Rayara Gabryelle, nº 529, Quadra 104, Lote 19/20, Cidade das Crianças",
+      "asking_price": 68000.81,
+      "price_display": "R$ 68.000,81",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID101478 CONDE (PB) Descrição legal: Imóvel Urbano Residencial, Casa nº 03, situada no Condomínio Residencial Rayara Gabryelle, nº 529, Quadra 104, Lote 19/20, Cidade das Crianças, Município de CONDE - PB. Melhor descrito na matrícula 999 do Cartório Único do Conde - PB. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente; b) A titularidade do Condomínio encontra-se atualmente em nome de terceiros, cabendo ao arrematante a obrigação de promover, após a arrematação, a devida atualização cadastral e a transferência da titularidade para o seu nome junto ao condomínio, arcando integralmente com todas as providências, custos e eventuais despesas necessárias à regularização. Os valores de condomínio eventualmente devidos serão tratados conforme o disposto no item 16.7 deste Edital.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "999",
+      "registry_office": "Cartório Único do Conde - PB",
+      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=26327",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/10488_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10488_2.jpg"
+      ],
+      "latitude": -7.179818,
+      "longitude": -34.811857,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "10626",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/10626",
+      "external_reference": "94343",
+      "city": "Santa Rita",
+      "state": "PB",
+      "address": "Rua Projetada, nº 70, Lote 35, Quadra 10, Loteamento Prive Aeroporto",
+      "asking_price": 43700.0,
+      "price_display": "R$ 43.700,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID94343 SANTA RITA (PB) Descrição legal: Imóvel Urbano Residencial, Casa A, situada na Rua Projetada, nº 70, Lote 35, Quadra 10, Loteamento Prive Aeroporto, Município Santa Rita - PB. Melhor descrito na matrícula nº 49025 do Cartório do Registro de Imóveis de Santa Rita - PB. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "49025",
+      "registry_office": "Cartório do Registro de Imóveis de Santa Rita - PB",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/14731",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/10626_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10626_2.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10626_3.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10626_4.jpg"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "10627",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/10627",
+      "external_reference": "95120",
+      "city": "Itabaiana",
+      "state": "PB",
+      "address": "Rua Projetada III, Bairro Justino Cabral de Melo",
+      "asking_price": 22716.08,
+      "price_display": "R$ 22.716,08",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID95120 ITABAIANA (PB) Descrição legal: Imóvel Urbano Residencial, Casa nº 02, situada na Rua Projetada III, Bairro Justino Cabral de Melo, Município de Itabaiana - PB. Melhor descrito na matrícula nº 9652 do Cartório do Primeiro Ofício de Itabaiana - PB. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "9652",
+      "registry_office": "Cartório do Primeiro Ofício de Itabaiana - PB",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/14728",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/10627_1.jpg"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "10628",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/10628",
+      "external_reference": "95663",
+      "city": "SANTA RITA",
+      "state": "PB",
+      "address": "Rua Projetada, nº 139, Loteamento Prive Aeroporto",
+      "asking_price": 33373.85,
+      "price_display": "R$ 33.373,85",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID95663 SANTA RITA (PB) Descrição legal: Imóvel Urbano Residencial, Casa nº 04, situada na Rua Projetada, nº 139, Loteamento Prive Aeroporto, Município Santa Rita - PB. Melhor descrito na matrícula nº 47237 do Cartório do Registro de Imóveis de Santa Rita - PB. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente; b) Existe AÇÃO DE INDENIZAÇÃO n° 08085229220258150331 no TJ-PB e o comprador declara-se informado do fato e ciente de que a responsabilidade do BANCO por evicção.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "47237",
+      "registry_office": "Cartório do Registro de Imóveis de Santa Rita - PB",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/14732",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/10628_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10628_2.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10628_3.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10628_4.jpg"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "10629",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/10629",
+      "external_reference": "96244",
+      "city": "Santa Rita",
+      "state": "PB",
+      "address": "Rua Projetada, nº 159, Lote 15, Quadra 07, Loteamento Prive Aeroporto",
+      "asking_price": 39024.44,
+      "price_display": "R$ 39.024,44",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID96244 SANTA RITA (PB) Descrição legal: Imóvel Urbano Residencial, Casa nº 04, do Condomínio Residencial Multifamiliar, situada na Rua Projetada, nº 159, Lote 15, Quadra 07, Loteamento Prive Aeroporto, Município Santa Rita - PB. Melhor descrito na matrícula nº 47245 do Cartório do Registro de Imóveis de Santa Rita - PB. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "47245",
+      "registry_office": "Cartório do Registro de Imóveis de Santa Rita - PB",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/14733",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/10629_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10629_2.jpg"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "10630",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/10630",
+      "external_reference": "96302",
+      "city": "Juazeirinho",
+      "state": "PB",
+      "address": "Rua Zumira Maria de Souza, s/n, Quadra 125, Lote 312, Conjunto Frei Damião",
+      "asking_price": 28246.27,
+      "price_display": "R$ 28.246,27",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID96302 JUAZEIRINHO (PB) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Zumira Maria de Souza, s/n, Quadra 125, Lote 312, Conjunto Frei Damião, Município de Juazeirinho - PB. Melhor descrito na matrícula nº 2017 do Cartório de Registro de Imóveis de Juazeirinho - PB. a) O imóvel encontra-se ocupado por terceiros e aCRI de s providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente; b) A titularidade do IPTU está em nome de terceiros; eventuais procedimentos e despesas para a regularização da pendência ficarão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "2017",
+      "registry_office": "Cartório de Registro de Imóveis de Juazeirinho - PB",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/14730",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/10630_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10630_2.jpg"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "10631",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/10631",
+      "external_reference": "96968",
+      "city": "Santa Rita",
+      "state": "PB",
+      "address": "Rua Projetada, nº 107, Lote 07, Quadra 07, Loteamento Prive Aeroporto",
+      "asking_price": 38933.07,
+      "price_display": "R$ 38.933,07",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID96968 SANTA RITA (PB) Descrição legal: Imóvel Urbano Residencial, Casa \"C\", do Condomínio Residencial Multifamiliar, situada na Rua Projetada, nº 107, Lote 07, Quadra 07, Loteamento Prive Aeroporto, Município Santa Rita - PB. Melhor descrito na matrícula nº 45605 do Cartório do Registro de Imóveis de Santa Rita - PB. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "45605",
+      "registry_office": "Cartório do Registro de Imóveis de Santa Rita - PB",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/14734",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/10631_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10631_2.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10631_3.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10631_4.jpg"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "10632",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/10632",
+      "external_reference": "97047",
+      "city": "Santa Rita",
+      "state": "PB",
+      "address": "Rua Projetada, nº 438-C, Loteamento Vale de Santa Rita I",
+      "asking_price": 46335.43,
+      "price_display": "R$ 46.335,43",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID97047 SANTA RITA (PB) Descrição legal: Imóvel Urbano Residencial, Casa nº 16, do Condomínio Residencial Multifamiliar, situada na Rua Projetada, nº 438-C, Loteamento Vale de Santa Rita I, Município Santa Rita - PB. Melhor descrito na matrícula nº 45686 do Cartório do Registro de Imóveis de Santa Rita - PB. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "45686",
+      "registry_office": "Cartório do Registro de Imóveis de Santa Rita - PB",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/14735",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/10632_1.jpg"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "10633",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/10633",
+      "external_reference": "97137",
+      "city": "Santa Rita",
+      "state": "PB",
+      "address": "Rua Projetada, nº 751, Lote 53, Quadra 15, Loteamento Vale de Santa Rita I",
+      "asking_price": 39802.64,
+      "price_display": "R$ 39.802,64",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID97137 SANTA RITA (PB) Descrição legal: Imóvel Urbano Residencial, Casa nº 102, do Condomínio Residencial Multifamiliar, situada na Rua Projetada, nº 751, Lote 53, Quadra 15, Loteamento Vale de Santa Rita I, Município Santa Rita - PB. Melhor descrito na matrícula nº 46783 do Cartório do Registro de Imóveis de Santa Rita - PB. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "46783",
+      "registry_office": "Cartório do Registro de Imóveis de Santa Rita - PB",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/14736",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/10633_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10633_2.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10633_3.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10633_4.jpg"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "10634",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/10634",
+      "external_reference": "97204",
+      "city": "Santa Rita",
+      "state": "PB",
+      "address": "Rua Projetada, nº 107, Lote 07, Quadra 07, Loteamento Prive Aeroporto",
+      "asking_price": 37160.49,
+      "price_display": "R$ 37.160,49",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID97204 SANTA RITA (PB) Descrição legal: Imóvel Urbano Residencial, Casa D, do Condomínio Residencial Multifamiliar, situada na Rua Projetada, nº 107, Lote 07, Quadra 07, Loteamento Prive Aeroporto, Município Santa Rita - PB. Melhor descrito na matrícula nº 45606 do Cartório do Registro de Imóveis de Santa Rita - PB. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "45606",
+      "registry_office": "Cartório do Registro de Imóveis de Santa Rita - PB",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/14737",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/10634_1.jpg"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "10815",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/10815",
+      "external_reference": "95528",
+      "city": "Itabaiana",
+      "state": "PB",
+      "address": "Rua Projetada III, Bairro Justino Cabral de Melo",
+      "asking_price": 28913.96,
+      "price_display": "R$ 28.913,96",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID95528 ITABAIANA (PB) Descrição legal: Imóvel Urbano Residencial, Casa nº 26 situada na Rua Projetada III, Bairro Justino Cabral de Melo, Município de Itabaiana/PB. Melhor descrito na matrícula nº 9658 do Cartório do Primeiro Ofício de Itabaiana/PB. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "9658",
+      "registry_office": "Cartório do Primeiro Ofício de Itabaiana/PB",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/14749",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/10815_1.jpg"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "10816",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/10816",
+      "external_reference": "93176",
+      "city": "Brejo do Cruz",
+      "state": "PB",
+      "address": "Rua Manoel dos Santos Filho, nº 20, Bairro Miguel Batista",
+      "asking_price": 33900.0,
+      "price_display": "R$ 33.900,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID93176 BELÉM DO BREJO DO CRUZ (PB) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Manoel dos Santos Filho, nº 20, Bairro Miguel Batista, Município de Belém do Brejo do Cruz - PB. Melhor descrito na Matrícula nº 8325 do Registro de Imóveis de Brejo do Cruz - PB. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.b) A titularidade do IPTU encontra-se atualmente em nome de terceiros, cabendo ao arrematante a obrigação de promover, após a arrematação, a devida atualização cadastral e a transferência da titularidade para o seu nome junto ao órgão municipal competente, arcando integralmente com todas as providências, custos e eventuais despesas necessárias à regularização.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "8325",
+      "registry_office": "Registro de Imóveis de Brejo do Cruz - PB",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/14750",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/10816_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10816_2.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10816_3.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10816_4.jpg"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "10907",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/10907",
+      "external_reference": "101045",
+      "city": "Cuité",
+      "state": "PB",
+      "address": "Rua Projetada I 486 Lt 8a Qd 11 - Das Gracas",
+      "asking_price": 41500.0,
+      "price_display": "R$ 41.500,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID101045 CUITÉ(PB) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Projetada I 486 Lt 8a Qd 11 - Das Gracas, Município de CUITÉ - PB. Melhor descrito na matrícula 5361 do 1º Serviço de Notas e de Registro de Imóveis de Cuité-PB. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "5361",
+      "registry_office": "1º Serviço de Notas e de Registro de Imóveis de Cuité-PB",
+      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=25715",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/10907_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10907_2.jpg"
+      ],
+      "latitude": -6.695252,
+      "longitude": -34.936732,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11197",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11197",
+      "external_reference": "99623",
+      "city": "CAMPINA GRANDE",
+      "state": "PB",
+      "address": "Rua Onofre João de Lira, nº 200, Bairro Três Irmãs",
+      "asking_price": 58300.0,
+      "price_display": "R$ 58.300,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID99623 CAMPINA GRANDE (PB) Descrição legal: Imóvel Urbano: Residência nº 001, com área privativa de 44,10m² e vaga de garagem descoberta, localizada no Condomínio Residencial Green Ville, situada na Rua Onofre João de Lira, nº 200, Bairro Três Irmãs, município de Campina Grande - PB. Melhor descrita na matrícula nº 114956 do Único Ofício de Registro de Imóveis de Campina Grande - PB. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "114956",
+      "registry_office": "Único Ofício de Registro de Imóveis de Campina Grande - PB",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/14845",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11197_1.png"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11252",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11252",
+      "external_reference": "99516",
+      "city": "Pocinhos",
+      "state": "PB",
+      "address": "Rua Geracimo Inacio, nº 19, Bairro Antonio Rodrigues",
+      "asking_price": 59990.0,
+      "price_display": "R$ 59.990,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID99516 POCINHOS (PB) Descrição legal: Imóvel Urbano: Residência com área construída de 78,06m², dentro de um terreno com área de 130,00m², situada na Rua Geracimo Inacio, nº 19, Bairro Antonio Rodrigues, município de Pocinhos - PB. Melhor descrita na matrícula nº 6611 do Cartório do Único Ofício de Pocinhos - PB. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "6611",
+      "registry_office": "Cartório do Único Ofício de Pocinhos - PB",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/14844",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11252_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/11252_2.jpg"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11255",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11255",
+      "external_reference": "100983",
+      "city": "JOÃO PESSOA",
+      "state": "PB",
+      "address": "Rua José de Arimatéia da Silva, nº 380, Bairro Paratibe",
+      "asking_price": 72500.0,
+      "price_display": "R$ 72.500,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID100983 JOÃO PESSOA (PB) Descrição legal: Imóvel Urbano: Apartamento nº 101, com área privativa de 42,87m², com 1 (uma) vaga de garagem com área de 12,00m², localizado no térreo do Prédio Residencial Multifamiliar, situado na Rua José de Arimatéia da Silva, nº 380, Bairro Paratibe, município de João Pessoa - PB. Melhor descrito na matrícula nº 163019 do Cartório do 1º Ofício de Registro Imobiliário da Zona Sul de João Pessoa - PB. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "163019",
+      "registry_office": "Cartório do 1º Ofício de Registro Imobiliário da Zona Sul de João Pessoa - PB",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/14842",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11255_1.png",
+        "https://www.seuimovelbb.com.br/imagem/imovel/11255_2.png"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11341",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11341",
+      "external_reference": "99909",
+      "city": "Belém do Brejo do Cruz",
+      "state": "PB",
+      "address": "Rua Maria Dantas da Cunha, nº 220, Lote 05 da Quadra F, Bairro Francisco Lacerda da Cunha",
+      "asking_price": 27850.0,
+      "price_display": "R$ 27.850,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID99909 BELÉM DO BREJO DO CRUZ (PB)Descrição legal: Imóvel Urbano: Residência com área construída de 84,70m², dentro de um terreno com área de 200,00m², situada na Rua Maria Dantas da Cunha, nº 220, Lote 05 da Quadra F, Bairro Francisco Lacerda da Cunha, município de Belém do Brejo do Cruz - PB. Melhor descrita na matrícula nº 8323 do Cartório de Registro de Imóveis de Brejo do Cruz - PB. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "8323",
+      "registry_office": "Cartório de Registro de Imóveis de Brejo do Cruz - PB",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/14890",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11341_1.png",
+        "https://www.seuimovelbb.com.br/imagem/imovel/11341_2.png"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11372",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11372",
+      "external_reference": "99945",
+      "city": "Belém do Brejo do Cruz",
+      "state": "PB",
+      "address": "Rua Maria Dantas da Cunha, nº 160, Bairro Francisco Lacerda da Cunha",
+      "asking_price": 39790.0,
+      "price_display": "R$ 39.790,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID99945 BELÉM DO BREJO DO CRUZ (PB)Descrição legal: Imóvel Urbano: Residência com área construída de 84,02m², dentro de um terreno com área de 200,00m², situada na Rua Maria Dantas da Cunha, nº 160, Bairro Francisco Lacerda da Cunha, município de Belém do Brejo do Cruz - PB. Melhor descrita na matrícula nº 7613 do Cartório de Registro de Imóveis de Brejo do Cruz - PB. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "7613",
+      "registry_office": "Cartório de Registro de Imóveis de Brejo do Cruz - PB",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/14931",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11372_1.png"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11711",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11711",
+      "external_reference": "101462",
+      "city": "João Pessoa",
+      "state": "PB",
+      "address": null,
+      "asking_price": 98000.0,
+      "price_display": "R$ 98.000,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID101462 JOÃO PESSOA (PB) Descrição legal: Descrição legal: Imóvel Urbano: Apartamento nº 303, com área privativa de 49,81m² e vaga de garagem descoberta, localizado no Residencial Adauto de Souza Lima, Rua Dorise Souza Viana, nº 96, Bairro Gramame, Município de João Pessoa - PB. Melhor descrito na matrícula 152070 do 1º Ofício de Registro Imobiliário da Zona Sul de João Pessoa - PB. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "152070",
+      "registry_office": "1º Ofício de Registro Imobiliário da Zona Sul de João Pessoa - PB",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/15011",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11711_1.png"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11723",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11723",
+      "external_reference": "101494",
+      "city": "São José do Brejo do Cruz",
+      "state": "PB",
+      "address": "Rua Torquato Teixeira de Lira, nº 40",
+      "asking_price": 72000.0,
+      "price_display": "R$ 72.000,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID101494 SÃO JOSÉ DO BREJO DO CRUZ (PB) Descrição legal: Descrição legal: Imóvel Urbano: Residência com área construída de 99,19m² em terreno de 228,60m², situada na Rua Torquato Teixeira de Lira, nº 40, Município de São José de Brejo do Cruz - PB. Melhor descrita na matrícula 4727 do Cartório Rodrigues, Registro de Imóveis de Brejo do Cruz - PB. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "4727",
+      "registry_office": "Cartório Rodrigues, Registro de Imóveis de Brejo do Cruz - PB",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/15017",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11723_1.png"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11988",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11988",
+      "external_reference": null,
+      "city": "Belém do Brejo do Cruz",
+      "state": "PB",
+      "address": "R. Severino dos Santos, 84, Manoel Forte Maia, Belém de Brejo do Cruz-PB, CEP 58890-000",
+      "asking_price": 98898.35,
+      "price_display": "R$ 98.898,35",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 98898.35,
+      "second_auction_minimum_bid": 220724.93,
+      "description": "Nº DO BEM: 522821011 BREJO DO CRUZ (PB) Descrição: IMÓVEL DE MATRÍCULA 9.916 DO CARTÓRIO RODRIGUES DE BREJO DO CRUZ-PB, ASSIM DESCRITO: Casa, com área construída de 84,00m² e respectivo terreno com área total de 129,50m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 01.02.094.0025.0000.0001 Localização: R. Severino dos Santos, 84, Manoel Forte Maia, Belém de Brejo do Cruz-PB, CEP 58890-000 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 98.898,35 (noventa e oito mil oitocentos e noventa e oito reais e trinta e cinco centavos) Lance mínimo para arrematação em 2º leilão: R$ 220.724,93 (duzentos e vinte mil, setecentos e vinte e quatro reais e noventa e três centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "9.916",
+      "registry_office": "CARTÓRIO RODRIGUES DE BREJO DO CRUZ-PB",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27742",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11988_1.jpg"
+      ],
+      "latitude": -6.188116,
+      "longitude": -37.536465,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11989",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11989",
+      "external_reference": null,
+      "city": "Belém do Brejo do Cruz",
+      "state": "PB",
+      "address": "R. Projetada B, 13, Miguel Batista, Belém de Brejo do Cruz-PB, CEP 58890-000",
+      "asking_price": 97952.36,
+      "price_display": "R$ 97.952,36",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 97952.36,
+      "second_auction_minimum_bid": 180993.16,
+      "description": "Nº DO BEM: 519288773 BREJO DO CRUZ (PB) Descrição: IMÓVEL DE MATRÍCULA 9.343 DO CARTÓRIO RODRIGUES - REGISTRO GERAL DE IMÓVEIS DE BREJO DO CRUZ-PB, ASSIM DESCRITO: Casa, com área construída de 84,50m² e respectivo terreno com área total de 187,50m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 01.02.100.0030.0000.0001 Localização: R. Projetada B, 13, Miguel Batista, Belém de Brejo do Cruz-PB, CEP 58890-000 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 97.952,36 (noventa e sete mil novecentos e cinquenta e dois reais e trinta e seis centavos) Lance mínimo para arrematação em 2º leilão: R$ 180.993,16 (cento e oitenta mil, novecentos e noventa e três reais e dezesseis centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "9.343",
+      "registry_office": "CARTÓRIO RODRIGUES - REGISTRO GERAL DE IMÓVEIS DE BREJO DO CRUZ-PB",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27743",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11989_1.jpg"
+      ],
+      "latitude": -6.185818,
+      "longitude": -37.538261,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11990",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11990",
+      "external_reference": null,
+      "city": "Brejo do Cruz",
+      "state": "PB",
+      "address": "R. Paraíba, 251, Estados, Brejo do Cruz-PB, CEP 58890-000",
+      "asking_price": 96730.88,
+      "price_display": "R$ 96.730,88",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 96730.88,
+      "second_auction_minimum_bid": 92334.4,
+      "description": "Nº DO BEM: 525139571 BREJO DO CRUZ (PB) Descrição: IMÓVEL DE MATRÍCULA 10.328 DO CARTÓRIO RODRIGUES DE BREJO DO CRUZ-PB, ASSIM DESCRITO: Casa, com área construída de 88,00m² e respectivo terreno com área total de 168,00m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 01.07.023.0170.000.000 Localização: R. Paraíba, 251, Estados, Brejo do Cruz-PB, CEP 58890-000 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 96.730,88 (noventa e seis mil setecentos e trinta reais e oitenta e oito centavos) Lance mínimo para arrematação em 2º leilão: R$ 92.334,40 (noventa e dois mil, trezentos e trinta e quatro reais e quarenta centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "10.328",
+      "registry_office": "CARTÓRIO RODRIGUES DE BREJO DO CRUZ-PB",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27744",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11990_1.jpg"
+      ],
+      "latitude": -6.336415,
+      "longitude": -37.502445,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11991",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11991",
+      "external_reference": null,
+      "city": "Campina Grande",
+      "state": "PB",
+      "address": "Av. Belo Horizonte, 848, Unidade Hab. Casa 01, Cond. Res. Barthira Almeida Nunes 1, Três Irmãs, Campina Grande-PB, CEP 58423-100",
+      "asking_price": 133670.39,
+      "price_display": "R$ 133.670,39",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 133670.39,
+      "second_auction_minimum_bid": 156690.4,
+      "description": "Nº DO BEM: 526579491 CAMPINA GRANDE (PB) Descrição: IMÓVEL DE MATRÍCULA 114.495 DO 1º REGISTRO DE IMÓVEIS DE CAMPINA GRANDE-PB, ASSIM DESCRITO: Casa nº 01, com área privativa coberta de 54,43m² e respectivo terreno com área total de 105,47m², com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 1.1401.405.02.0065.0001 Localização: Av. Belo Horizonte, 848, Unidade Hab. Casa 01, Cond. Res. Barthira Almeida Nunes 1, Três Irmãs, Campina Grande-PB, CEP 58423-100 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 133.670,39 (cento e trinta e três mil seiscentos e setenta reais e trinta e nove centavos) Lance mínimo para arrematação em 2º leilão: R$ 156.690,40 (cento e cinquenta e seis mil, seiscentos e noventa reais e quarenta centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "114.495",
+      "registry_office": "1º REGISTRO DE IMÓVEIS DE CAMPINA GRANDE-PB",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27745",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11991_1.jpg"
+      ],
+      "latitude": -7.251031,
+      "longitude": -35.923624,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11992",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11992",
+      "external_reference": null,
+      "city": "João Pessoa",
+      "state": "PB",
+      "address": "R. Abelardo Targino da Fonseca, 1331, AP. 104, BL G, Res. Jardins Deville, Cuiá, João Pessoa-PB, CEP 58077-038",
+      "asking_price": 162432.0,
+      "price_display": "R$ 162.432,00",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 162432.0,
+      "second_auction_minimum_bid": 155100.95,
+      "description": "Nº DO BEM: 522797682 JOÃO PESSOA (PB) Descrição: IMÓVEL DE MATRÍCULA 160.978 DO SERVIÇO NOTARIAL DO 1º OFÍCIO E REGISTRAL IMOBILIÁRIO DA ZONA SUL DE JOÃO PESSOA-PB, ASSIM DESCRITO: Apartamento 104, com área real privativa de 51,00m², com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 384302 Localização: R. Abelardo Targino da Fonseca, 1331, AP. 104, BL G, Res. Jardins Deville, Cuiá, João Pessoa-PB, CEP 58077-038 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 162.432,00 (cento e sessenta e dois mil quatrocentos e trinta e dois reais) Lance mínimo para arrematação em 2º leilão: R$ 155.100,95 (cento e cinquenta e cinco mil e cem reais e noventa e cinco centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "160.978",
+      "registry_office": "SERVIÇO NOTARIAL DO 1º OFÍCIO E REGISTRAL IMOBILIÁRIO DA ZONA SUL DE JOÃO PESSOA-PB",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27746",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11992_1.jpg"
+      ],
+      "latitude": -7.187952,
+      "longitude": -34.869171,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11993",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11993",
+      "external_reference": null,
+      "city": "João Pessoa",
+      "state": "PB",
+      "address": "R. Estudante Haroldo Medeiros Venancio, 99, AP. 101, Planalto Boa Esperança, João Pessoa-PB, CEP 58065-511",
+      "asking_price": 141376.44,
+      "price_display": "R$ 141.376,44",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 141376.44,
+      "second_auction_minimum_bid": 132807.8,
+      "description": "Nº DO BEM: 521866708 JOÃO PESSOA (PB) Descrição: IMÓVEL DE MATRÍCULA 153.761 DO SERVIÇO NOTARIAL DO 1º OFÍCIO E REGISTRAL IMOBILIÁRIO DA ZONA SUL DE JOÃO PESSOA-PB, ASSIM DESCRITO: Apartamento nº 101, com área privativa de 46,10m², com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 5507903010000001 Localização: R. Estudante Haroldo Medeiros Venancio, 99, AP. 101, Planalto Boa Esperança, João Pessoa-PB, CEP 58065-511 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 141.376,44 (cento e quarenta e um mil trezentos e setenta e seis reais e quarenta e quatro centavos) Lance mínimo para arrematação em 2º leilão: R$ 132.807,80 (cento e trinta e dois mil, oitocentos e sete reais e oitenta centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "153.761",
+      "registry_office": "SERVIÇO NOTARIAL DO 1º OFÍCIO E REGISTRAL IMOBILIÁRIO DA ZONA SUL DE JOÃO PESSOA-PB",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27747",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11993_1.jpg"
+      ],
+      "latitude": -7.193211,
+      "longitude": -34.866394,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11994",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11994",
+      "external_reference": null,
+      "city": "João Pessoa",
+      "state": "PB",
+      "address": "R. Clovis Marques de Santana, 400, AP. 202, Res. Ana Flávia, Gramame, João Pessoa-PB, CEP 58067-063",
+      "asking_price": 122124.84,
+      "price_display": "R$ 122.124,84",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 122124.84,
+      "second_auction_minimum_bid": 205861.96,
+      "description": "Nº DO BEM: 522194953 JOÃO PESSOA (PB) Descrição: IMÓVEL DE MATRÍCULA 162.595 DO SERVIÇO NOTARIAL DO 1º OFÍCIO E REGISTRAL IMOBILIÁRIO DA ZONA SUL DE JOÃO PESSOA-PB, ASSIM DESCRITO: Apartamento nº 202, com área real privativa de 43,50m², com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 0381691 Localização: R. Clovis Marques de Santana, 400, AP. 202, Res. Ana Flávia, Gramame, João Pessoa-PB, CEP 58067-063 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 122.124,84 (cento e vinte e dois mil cento e vinte e quatro reais e oitenta e quatro centavos) Lance mínimo para arrematação em 2º leilão: R$ 205.861,96 (duzentos e cinco mil, oitocentos e sessenta e um reais e noventa e seis centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "162.595",
+      "registry_office": "SERVIÇO NOTARIAL DO 1º OFÍCIO E REGISTRAL IMOBILIÁRIO DA ZONA SUL DE JOÃO PESSOA-PB",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27748",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11994_1.jpg"
+      ],
+      "latitude": -7.214068,
+      "longitude": -34.844795,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11995",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11995",
+      "external_reference": null,
+      "city": "João Pessoa",
+      "state": "PB",
+      "address": "R. Mauricio de Araújo Gama Filho, 201, AP. 503, BL J, Ed. Pq. Jd. do Mar, Portal do Sol, João Pessoa-PB, CEP 58046-710",
+      "asking_price": 168798.37,
+      "price_display": "R$ 168.798,37",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 168798.37,
+      "second_auction_minimum_bid": 312242.1,
+      "description": "Nº DO BEM: 514781727 JOÃO PESSOA (PB) Descrição: IMÓVEL DE MATRÍCULA 113.457 DO 6º SERVIÇO NOTARIAL E 2º REGISTRAL DE JOÃO PESSOA-PB, ASSIM DESCRITO: Apartamento nº 503, com área real total privativa de 47,62m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 409753 Localização: R. Mauricio de Araújo Gama Filho, 201, AP. 503, BL J, Ed. Pq. Jd. do Mar, Portal do Sol, João Pessoa-PB, CEP 58046-710 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 168.798,37 (cento e sessenta e oito mil setecentos e noventa e oito reais e trinta e sete centavos) Lance mínimo para arrematação em 2º leilão: R$ 312.242,10 (trezentos e doze mil, duzentos e quarenta e dois reais e dez centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "113.457",
+      "registry_office": "6º SERVIÇO NOTARIAL E 2º REGISTRAL DE JOÃO PESSOA-PB",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27749",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11995_1.jfif",
+        "https://www.seuimovelbb.com.br/imagem/imovel/11995_2.jfif",
+        "https://www.seuimovelbb.com.br/imagem/imovel/11995_3.jfif",
+        "https://www.seuimovelbb.com.br/imagem/imovel/11995_4.jfif"
+      ],
+      "latitude": -7.156879,
+      "longitude": -34.821993,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11996",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11996",
+      "external_reference": null,
+      "city": "João Pessoa",
+      "state": "PB",
+      "address": "R. Ana Espínola Navarro, 400, AP. 407, BL A01, Cond. Res. Reserva Jd. América, Ernani Sátiro, João Pessoa-PB, CEP 58080-020",
+      "asking_price": 131380.0,
+      "price_display": "R$ 131.380,00",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 131380.0,
+      "second_auction_minimum_bid": 142486.29,
+      "description": "Nº DO BEM: 516897871 JOÃO PESSOA (PB) Descrição: IMÓVEL DE MATRÍCULA 153.297 DO SERVIÇO NOTARIAL DO 1º OFÍCIO E REGISTRAL IMOBILIÁRIO DA ZONA SUL DE JOÃO PESSOA-PB, ASSIM DESCRITO: Apartamento nº 407, com área real total privativa de 44,30m², com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 36.191.0930.0000.0031 Localização: R. Ana Espínola Navarro, 400, AP. 407, BL A01, Cond. Res. Reserva Jd. América, Ernani Sátiro, João Pessoa-PB, CEP 58080-020 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 131.380,00 (cento e trinta e um mil trezentos e oitenta reais) Lance mínimo para arrematação em 2º leilão: R$ 142.486,29 (cento e quarenta e dois mil, quatrocentos e oitenta e seis reais e vinte e nove centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "153.297",
+      "registry_office": "SERVIÇO NOTARIAL DO 1º OFÍCIO E REGISTRAL IMOBILIÁRIO DA ZONA SUL DE JOÃO PESSOA-PB",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27750",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11996_1.jpg"
+      ],
+      "latitude": -7.173608,
+      "longitude": -34.895149,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11997",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11997",
+      "external_reference": null,
+      "city": "João Pessoa",
+      "state": "PB",
+      "address": "R. Ana Espínola Navarro, 400, AP. 208, BL A20, Sub condomínio A, Cond. Res. Reserva Jd. América, Ernani Sátiro, João Pessoa-PB, CEP 58080-020",
+      "asking_price": 130961.57,
+      "price_display": "R$ 130.961,57",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 130961.57,
+      "second_auction_minimum_bid": 106401.87,
+      "description": "Nº DO BEM: 511952807 JOÃO PESSOA (PB) Descrição: IMÓVEL DE MATRÍCULA 140.070 DO SERVIÇO NOTARIAL DO 1º OFÍCIO E REGISTRAL IMOBILIÁRIO DA ZONA SUL DE JOÃO PESSOA-PB, ASSIM DESCRITO: Apartamento nº 208, com área real total privativa de 46,54m², com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 36.191.0930.0000.0762 Localização: R. Ana Espínola Navarro, 400, AP. 208, BL A20, Sub condomínio A, Cond. Res. Reserva Jd. América, Ernani Sátiro, João Pessoa-PB, CEP 58080-020 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 130.961,57 (cento e trinta mil novecentos e sessenta e um reais e cinquenta e sete centavos) Lance mínimo para arrematação em 2º leilão: R$ 106.401,87 (cento e seis mil, quatrocentos e um reais e oitenta e sete centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "140.070",
+      "registry_office": "SERVIÇO NOTARIAL DO 1º OFÍCIO E REGISTRAL IMOBILIÁRIO DA ZONA SUL DE JOÃO PESSOA-PB",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27751",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11997_1.jpg"
+      ],
+      "latitude": -7.172708,
+      "longitude": -34.895395,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11998",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11998",
+      "external_reference": null,
+      "city": "João Pessoa",
+      "state": "PB",
+      "address": "R. Prof. Cristina Di Lorenzo Marsicano, 115, AP. 202, BL C, Res. Portal Da Villa, Planalto Boa Esperança, João Pessoa-PB, CEP 58065-162",
+      "asking_price": 155990.0,
+      "price_display": "R$ 155.990,00",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 155990.0,
+      "second_auction_minimum_bid": 161169.78,
+      "description": "Nº DO BEM: 519119086 JOÃO PESSOA (PB) Descrição: IMÓVEL DE MATRÍCULA 149.630 DO SERVIÇO NOTARIAL DO 1º OFÍCIO E REGISTRAL IMOBILIÁRIO DA ZONA SUL DE JOÃO PESSOA-PB, ASSIM DESCRITO: Apartamento nº 202, com área real privativa de 52,93m², com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 55.004.0279.0000.0074 Localização: R. Prof. Cristina Di Lorenzo Marsicano, 115, AP. 202, BL C, Res. Portal Da Villa, Planalto Boa Esperança, João Pessoa-PB, CEP 58065-162 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 155.990,00 (cento e cinquenta e cinco mil novecentos e noventa reais) Lance mínimo para arrematação em 2º leilão: R$ 161.169,78 (cento e sessenta e um mil, cento e sessenta e nove reais e setenta e oito centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "149.630",
+      "registry_office": "SERVIÇO NOTARIAL DO 1º OFÍCIO E REGISTRAL IMOBILIÁRIO DA ZONA SUL DE JOÃO PESSOA-PB",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27752",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11998_1.jpg"
+      ],
+      "latitude": -7.193978,
+      "longitude": -34.858414,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11999",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11999",
+      "external_reference": null,
+      "city": "João Pessoa",
+      "state": "PB",
+      "address": "R. Saffa Said Abel da Cunha, 21, AP. 103, Ed. Res. Segóvia, Tambauzinho, João Pessoa-PB, CEP 58042-220",
+      "asking_price": 331359.0,
+      "price_display": "R$ 331.359,00",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 331359.0,
+      "second_auction_minimum_bid": 140695.33,
+      "description": "Nº DO BEM: 526087700 JOÃO PESSOA (PB) Descrição: IMÓVEL DE MATRÍCULA 124.428 DO 6º SERVIÇO NOTARIAL E 2º REGISTRAL DE IMÓVEIS (ZONA NORTE) DE JOÃO PESSOA-PB, ASSIM DESCRITO: Apartamento nº 103, com área real privativa de 60,96m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 400116 Localização: R. Saffa Said Abel da Cunha, 21, AP. 103, Ed. Res. Segóvia, Tambauzinho, João Pessoa-PB, CEP 58042-220 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 331.359,00 (trezentos e trinta e um mil trezentos e cinquenta e nove reais) Lance mínimo para arrematação em 2º leilão: R$ 140.695,33 (cento e quarenta mil, seiscentos e noventa e cinco reais e trinta e três centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "124.428",
+      "registry_office": "6º SERVIÇO NOTARIAL E 2º REGISTRAL DE IMÓVEIS (ZONA NORTE) DE JOÃO PESSOA-PB",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27753",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11999_1.jpg"
+      ],
+      "latitude": -7.123612,
+      "longitude": -34.850328,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12000",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12000",
+      "external_reference": null,
+      "city": "João Pessoa",
+      "state": "PB",
+      "address": "R. Ana Espínola Navarro, 400, AP. 409, BL A10, Subcondomínio A, Cond. Res. Reserva Jd. América, Ernani Sátiro, João Pessoa-PB, CEP 58080-020",
+      "asking_price": 131380.0,
+      "price_display": "R$ 131.380,00",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 131380.0,
+      "second_auction_minimum_bid": 135084.86,
+      "description": "Nº DO BEM: 515683538 JOÃO PESSOA (PB) Descrição: IMÓVEL DE MATRÍCULA 152.024 DO SERVIÇO NOTARIAL DO 1º OFÍCIO E REGISTRAL IMOBILIÁRIO DA ZONA SUL DE JOÃO PESSOA-PB, ASSIM DESCRITO: Apartamento nº 409, com área real total privativa de 44,30m², com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 398834 Localização: R. Ana Espínola Navarro, 400, AP. 409, BL A10, Subcondomínio A, Cond. Res. Reserva Jd. América, Ernani Sátiro, João Pessoa-PB, CEP 58080-020 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 131.380,00 (cento e trinta e um mil trezentos e oitenta reais) Lance mínimo para arrematação em 2º leilão: R$ 135.084,86 (cento e trinta e cinco mil, oitenta e quatro reais e oitenta e seis centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "152.024",
+      "registry_office": "SERVIÇO NOTARIAL DO 1º OFÍCIO E REGISTRAL IMOBILIÁRIO DA ZONA SUL DE JOÃO PESSOA-PB",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27754",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12000_1.jpg"
+      ],
+      "latitude": -7.172708,
+      "longitude": -34.895395,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12001",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12001",
+      "external_reference": null,
+      "city": "João Pessoa",
+      "state": "PB",
+      "address": "R. Inácio Albino Neto, 240, AP. 101, BL 05, Cond. Res. Morumbi Privé, Gramame, João Pessoa-PB, CEP 58068-200",
+      "asking_price": 130468.79,
+      "price_display": "R$ 130.468,79",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 130468.79,
+      "second_auction_minimum_bid": 114229.66,
+      "description": "Nº DO BEM: 520120850 JOÃO PESSOA (PB) Descrição: IMÓVEL DE MATRÍCULA 155.918 DO SERVIÇO NOTARIAL DO 1º OFÍCIO E REGISTRAL IMOBILIÁRIO DA ZONA SUL DE JOÃO PESSOA-PB, ASSIM DESCRITO: Apartamento nº 101, com área real privativa de 45,09m², com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 377400 Localização: R. Inácio Albino Neto, 240, AP. 101, BL 05, Cond. Res. Morumbi Privé, Gramame, João Pessoa-PB, CEP 58068-200 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 130.468,79 (cento e trinta mil quatrocentos e sessenta e oito reais e setenta e nove centavos) Lance mínimo para arrematação em 2º leilão: R$ 114.229,66 (cento e quatorze mil, duzentos e vinte e nove reais e sessenta e seis centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "155.918",
+      "registry_office": "SERVIÇO NOTARIAL DO 1º OFÍCIO E REGISTRAL IMOBILIÁRIO DA ZONA SUL DE JOÃO PESSOA-PB",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27755",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12001_1.jfif",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12001_2.jfif",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12001_3.jfif",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12001_4.jfif"
+      ],
+      "latitude": -7.192942,
+      "longitude": -34.869591,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12002",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12002",
+      "external_reference": null,
+      "city": "João Pessoa",
+      "state": "PB",
+      "address": "R. Celestina Irineu dos Santos, 172, AP. 102, Res. Mirante Imperial, João Paulo II, João Pessoa-PB, CEP 58076-650",
+      "asking_price": 125159.34,
+      "price_display": "R$ 125.159,34",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 125159.34,
+      "second_auction_minimum_bid": 104275.17,
+      "description": "Nº DO BEM: 519246522 JOÃO PESSOA (PB) Descrição: IMÓVEL DE MATRÍCULA 152.511 DO SERVIÇO NOTARIAL DO 1º OFÍCIO E REGISTRAL IMOBILIÁRIO DA ZONA SUL DE JOÃO PESSOA-PB, ASSIM DESCRITO: Apartamento nº 102, com área real privativa de 43,90m², com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 372388 Localização: R. Celestina Irineu dos Santos, 172, AP. 102, Res. Mirante Imperial, João Paulo II, João Pessoa-PB, CEP 58076-650 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 125.159,34 (cento e vinte e cinco mil cento e cinquenta e nove reais e trinta e quatro centavos) Lance mínimo para arrematação em 2º leilão: R$ 104.275,17 (cento e quatro mil, duzentos e setenta e cinco reais e dezessete centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "152.511",
+      "registry_office": "SERVIÇO NOTARIAL DO 1º OFÍCIO E REGISTRAL IMOBILIÁRIO DA ZONA SUL DE JOÃO PESSOA-PB",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27756",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12002_1.jpg"
+      ],
+      "latitude": -7.171103,
+      "longitude": -34.883152,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12003",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12003",
+      "external_reference": null,
+      "city": "João Pessoa",
+      "state": "PB",
+      "address": "R. Dos Cristais, 51, Casa 49, Cond. Res. Bifamiliar, Indústrias, João Pessoa-PB, CEP 58083-033",
+      "asking_price": 164416.5,
+      "price_display": "R$ 164.416,50",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 164416.5,
+      "second_auction_minimum_bid": 110336.49,
+      "description": "Nº DO BEM: 513284652 JOÃO PESSOA (PB) Descrição: IMÓVEL DE MATRÍCULA 140.677 DO SERVIÇO NOTARIAL DO 1º OFÍCIO E REGISTRAL IMOBILIÁRIO DA ZONA SUL DE JOÃO PESSOA-PB, ASSIM DESCRITO: Casa nº 49 Térreo, com área privativa real de 57,80m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 3411403050000001 Localização: R. Dos Cristais, 51, Casa 49, Cond. Res. Bifamiliar, Indústrias, João Pessoa-PB, CEP 58083-033 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 164.416,50 (cento e sessenta e quatro mil quatrocentos e dezesseis reais e cinquenta centavos) Lance mínimo para arrematação em 2º leilão: R$ 110.336,49 (cento e dez mil, trezentos e trinta e seis reais e quarenta e nove centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "140.677",
+      "registry_office": "SERVIÇO NOTARIAL DO 1º OFÍCIO E REGISTRAL IMOBILIÁRIO DA ZONA SUL DE JOÃO PESSOA-PB",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27757",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12003_1.jpg"
+      ],
+      "latitude": -7.173908,
+      "longitude": -34.916338,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12004",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12004",
+      "external_reference": null,
+      "city": "João Pessoa",
+      "state": "PB",
+      "address": "R. Inácio Albino Neto, 240, AP. 202, BL 06, Cond. Res. Morumbi Privê, Gramame, João Pessoa-PB, CEP 58068-200",
+      "asking_price": 128862.23,
+      "price_display": "R$ 128.862,23",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 128862.23,
+      "second_auction_minimum_bid": 129082.12,
+      "description": "Nº DO BEM: 521103728 JOÃO PESSOA (PB) Descrição: IMÓVEL DE MATRÍCULA 160.043 DO SERVIÇO NOTARIAL DO 1º OFÍCIO E REGISTRAL IMOBILIÁRIO DA ZONA SUL DE JOÃO PESSOA-PB, ASSIM DESCRITO: Apartamento nº 202, com área real privativa de 44,63m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 0381447 Localização: R. Inácio Albino Neto, 240, AP. 202, BL 06, Cond. Res. Morumbi Privê, Gramame, João Pessoa-PB, CEP 58068-200 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 128.862,23 (cento e vinte e oito mil oitocentos e sessenta e dois reais e vinte e três centavos) Lance mínimo para arrematação em 2º leilão: R$ 129.082,12 (cento e vinte e nove mil, oitenta e dois reais e doze centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "160.043",
+      "registry_office": "SERVIÇO NOTARIAL DO 1º OFÍCIO E REGISTRAL IMOBILIÁRIO DA ZONA SUL DE JOÃO PESSOA-PB",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27758",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12004_1.jfif",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12004_2.jfif",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12004_3.jfif",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12004_4.jfif"
+      ],
+      "latitude": -7.192942,
+      "longitude": -34.869591,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12005",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12005",
+      "external_reference": null,
+      "city": "João Pessoa",
+      "state": "PB",
+      "address": "R. Severina Crispim Veras, 307, AP. 106, Res. Montreal, Planalto Boa Esperança, João Pessoa-PB, CEP 58065-075",
+      "asking_price": 140919.24,
+      "price_display": "R$ 140.919,24",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 140919.24,
+      "second_auction_minimum_bid": 141109.54,
+      "description": "Nº DO BEM: 523449278 JOÃO PESSOA (PB) Descrição: IMÓVEL DE MATRÍCULA 165.664 DO SERVIÇO NOTARIAL DO 1º OFÍCIO E REGISTRAL IMOBILIÁRIO DA ZONA SUL DE JOÃO PESSOA-PB, ASSIM DESCRITO: Apartamento nº 106, com área real privativa de 48,59m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 55008020800000006 Localização: R. Severina Crispim Veras, 307, AP. 106, Res. Montreal, Planalto Boa Esperança, João Pessoa-PB, CEP 58065-075 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 140.919,24 (cento e quarenta mil novecentos e dezenove reais e vinte e quatro centavos) Lance mínimo para arrematação em 2º leilão: R$ 141.109,54 (cento e quarenta e um mil, cento e nove reais e cinquenta e quatro centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "165.664",
+      "registry_office": "SERVIÇO NOTARIAL DO 1º OFÍCIO E REGISTRAL IMOBILIÁRIO DA ZONA SUL DE JOÃO PESSOA-PB",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27759",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12005_1.jpg"
+      ],
+      "latitude": -7.196237,
+      "longitude": -34.862232,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12006",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12006",
+      "external_reference": null,
+      "city": "João Pessoa",
+      "state": "PB",
+      "address": "R. Maurício de Araújo Gama Filho, 201, AP. 403, BL N, Ed. Pq. Jd. do Mar, Portal do Sol, João Pessoa-PB, CEP 58046-710",
+      "asking_price": 172908.0,
+      "price_display": "R$ 172.908,00",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 172908.0,
+      "second_auction_minimum_bid": 270762.25,
+      "description": "Nº DO BEM: 523861745 JOÃO PESSOA (PB) Descrição: IMÓVEL DE MATRÍCULA 112.517 DO 6º SERVIÇO NOTARIAL 2º REGISTRAL DE IMÓVEIS DE JOÃO PESSOA-PB, ASSIM DESCRITO: Apartamento nº 403, com área real total privativa de 45,06m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 397909 Localização: R. Maurício de Araújo Gama Filho, 201, AP. 403, BL N, Ed. Pq. Jd. do Mar, Portal do Sol, João Pessoa-PB, CEP 58046-710 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 172.908,00 (cento e setenta e dois mil novecentos e oito reais) Lance mínimo para arrematação em 2º leilão: R$ 270.762,25 (duzentos e setenta mil, setecentos e sessenta e dois reais e vinte e cinco centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "112.517",
+      "registry_office": "6º SERVIÇO NOTARIAL 2º REGISTRAL DE IMÓVEIS DE JOÃO PESSOA-PB",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27760",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12006_1.jfif",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12006_2.jfif",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12006_3.jfif",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12006_4.jfif"
+      ],
+      "latitude": -7.156879,
+      "longitude": -34.821993,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12007",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12007",
+      "external_reference": null,
+      "city": "João Pessoa",
+      "state": "PB",
+      "address": "R. Alfredo Pereira de Almeida, 113, AP. 202, Gramame, João Pessoa-PB, CEP 58067-253",
+      "asking_price": 211048.0,
+      "price_display": "R$ 211.048,00",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 211048.0,
+      "second_auction_minimum_bid": 93749.09,
+      "description": "Nº DO BEM: 512528459 JOÃO PESSOA (PB) Descrição: IMÓVEL DE MATRÍCULA 137.884 DO SERVIÇO NOTARIAL DO 1º OFÍCIO E REGISTRAL IMOBILIÁRIO DA ZONA SUL DE JOÃO PESSOA-PB, ASSIM DESCRITO: Apartamento nº 202, com área privativa real de 41,05m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 351178 Localização: R. Alfredo Pereira de Almeida, 113, AP. 202, Gramame, João Pessoa-PB, CEP 58067-253 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 211.048,00 (duzentos e onze mil e quarenta e oito reais) Lance mínimo para arrematação em 2º leilão: R$ 93.749,09 (noventa e três mil, setecentos e quarenta e nove reais e nove centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "137.884",
+      "registry_office": "SERVIÇO NOTARIAL DO 1º OFÍCIO E REGISTRAL IMOBILIÁRIO DA ZONA SUL DE JOÃO PESSOA-PB",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27761",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12007_1.jpg"
+      ],
+      "latitude": -7.224819,
+      "longitude": -34.845029,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12008",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12008",
+      "external_reference": null,
+      "city": "João Pessoa",
+      "state": "PB",
+      "address": "R. Inácio Albino Neto, 240, AP. 103, BL 08, Cond. Res. Morumbi Privê, Gramame, João Pessoa-PB, CEP 58068-200",
+      "asking_price": 129666.73,
+      "price_display": "R$ 129.666,73",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 129666.73,
+      "second_auction_minimum_bid": 117294.6,
+      "description": "Nº DO BEM: 522854623 JOÃO PESSOA (PB) Descrição: IMÓVEL DE MATRÍCULA 163.098 DO SERVIÇO NOTARIAL DO 1º OFÍCIO E REGISTRAL IMOBILIÁRIO DA ZONA SUL DE JOÃO PESSOA-PB, ASSIM DESCRITO: Apartamento nº 103, com área real privativa de 44,63m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 57271097800000095 Localização: R. Inácio Albino Neto, 240, AP. 103, BL 08, Cond. Res. Morumbi Privê, Gramame, João Pessoa-PB, CEP 58068-200 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 129.666,73 (cento e vinte e nove mil seiscentos e sessenta e seis reais e setenta e três centavos) Lance mínimo para arrematação em 2º leilão: R$ 117.294,60 (cento e dezessete mil, duzentos e noventa e quatro reais e sessenta centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "163.098",
+      "registry_office": "SERVIÇO NOTARIAL DO 1º OFÍCIO E REGISTRAL IMOBILIÁRIO DA ZONA SUL DE JOÃO PESSOA-PB",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27762",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12008_1.jfif",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12008_2.jfif",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12008_3.jfif",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12008_4.jfif"
+      ],
+      "latitude": -7.192942,
+      "longitude": -34.869591,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12009",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12009",
+      "external_reference": null,
+      "city": "João Pessoa",
+      "state": "PB",
+      "address": "R. Inácio Albino Neto, 240, AP. 104, BL 05, Cond. Res. Morumbi Privé, Gramame, João Pessoa-PB, CEP 58068-200",
+      "asking_price": 130468.79,
+      "price_display": "R$ 130.468,79",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 130468.79,
+      "second_auction_minimum_bid": 130764.47,
+      "description": "Nº DO BEM: 520299419 JOÃO PESSOA (PB) Descrição: IMÓVEL DE MATRÍCULA 155.921 DO SERVIÇO NOTARIAL DO 1º OFÍCIO E REGISTRAL IMOBILIÁRIO DA ZONA SUL DE JOÃO PESSOA-PB, ASSIM DESCRITO: Apartamento nº 104, com área real privativa de 45,09m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 57.271.0978.0000.0100 Localização: R. Inácio Albino Neto, 240, AP. 104, BL 05, Cond. Res. Morumbi Privé, Gramame, João Pessoa-PB, CEP 58068-200 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 130.468,79 (cento e trinta mil quatrocentos e sessenta e oito reais e setenta e nove centavos) Lance mínimo para arrematação em 2º leilão: R$ 130.764,47 (cento e trinta mil, setecentos e sessenta e quatro reais e quarenta e sete centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "155.921",
+      "registry_office": "SERVIÇO NOTARIAL DO 1º OFÍCIO E REGISTRAL IMOBILIÁRIO DA ZONA SUL DE JOÃO PESSOA-PB",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27763",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12009_1.jfif",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12009_2.jfif",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12009_3.jfif",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12009_4.jfif"
+      ],
+      "latitude": -7.192942,
+      "longitude": -34.869591,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12010",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12010",
+      "external_reference": null,
+      "city": "João Pessoa",
+      "state": "PB",
+      "address": "R. Funcionário Público Paulo Antonio Bastos Portela, 710, AP. 301, Gramame, João Pessoa-PB, CEP 58067-242",
+      "asking_price": 156423.72,
+      "price_display": "R$ 156.423,72",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 156423.72,
+      "second_auction_minimum_bid": 130072.12,
+      "description": "Nº DO BEM: 522627775 JOÃO PESSOA (PB) Descrição: IMÓVEL DE MATRÍCULA 163.918 DO SERVIÇO NOTARIAL DO 1º OFÍCIO E REGISTRAL IMOBILIÁRIO DA ZONA SUL DE JOÃO PESSOA-PB, ASSIM DESCRITO: Apartamento nº 301, com área privativa real de 74,11m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 5606504720000009 Localização: R. Funcionário Público Paulo Antonio Bastos Portela, 710, AP. 301, Gramame, João Pessoa-PB, CEP 58067-242 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 156.423,72 (cento e cinquenta e seis mil quatrocentos e vinte e três reais e setenta e dois centavos) Lance mínimo para arrematação em 2º leilão: R$ 130.072,12 (cento e trinta mil, setenta e dois reais e doze centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "163.918",
+      "registry_office": "SERVIÇO NOTARIAL DO 1º OFÍCIO E REGISTRAL IMOBILIÁRIO DA ZONA SUL DE JOÃO PESSOA-PB",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27764",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12010_1.jpg"
+      ],
+      "latitude": -7.214187,
+      "longitude": -34.850567,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12011",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12011",
+      "external_reference": null,
+      "city": "Juru",
+      "state": "PB",
+      "address": "R. Padre Cícero, 52, São Sebastião, Juru-PB, CEP 58750-000",
+      "asking_price": 621491.26,
+      "price_display": "R$ 621.491,26",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 621491.26,
+      "second_auction_minimum_bid": 267477.24,
+      "description": "Nº DO BEM: 534335479 ÁGUA BRANCA DE JURU (PB) Descrição: IMÓVEL DE MATRÍCULA 3.707 DO OFÍCIO DE REGISTRO DE IMÓVEIS DA COMARCA DE ÁGUA BRANCA DE JURU-PB, ASSIM DESCRITO: Casa, com área construída de 387,00m² e respectivo terreno com área total de 135,00m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 01.01.144.0008.000 Localização: R. Padre Cícero, 52, São Sebastião, Juru-PB, CEP 58750-000 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 621.491,26 (seiscentos e vinte e um mil quatrocentos e noventa e um reais e vinte e seis centavos) Lance mínimo para arrematação em 2º leilão: R$ 267.477,24 (duzentos e sessenta e sete mil, quatrocentos e setenta e sete reais e vinte e quatro centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "3.707",
+      "registry_office": "OFÍCIO DE REGISTRO DE IMÓVEIS DA COMARCA DE ÁGUA BRANCA DE JURU-PB",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27765",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12011_1.jpg"
+      ],
+      "latitude": -7.537416,
+      "longitude": -37.818934,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12012",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12012",
+      "external_reference": null,
+      "city": "Pocinhos",
+      "state": "PB",
+      "address": "R. Jose Luiza da Costa, 663, Jd. Etelvina, Pocinhos-PB, CEP 58150-000",
+      "asking_price": 101381.28,
+      "price_display": "R$ 101.381,28",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 101381.28,
+      "second_auction_minimum_bid": 85331.34,
+      "description": "Nº DO BEM: 514580795 POCINHOS (PB) Descrição: IMÓVEL DE MATRÍCULA 5.680 DO CARTÓRIO DO ÚNICO OFÍCIO DE POCINHOS-PB, ASSIM DESCRITO: Casa, com área coberta de 80,88m² e respectivo terreno com área total de 152,85m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 002906 Localização: R. Jose Luiza da Costa, 663, Jd. Etelvina, Pocinhos-PB, CEP 58150-000 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 101.381,28 (cento e um mil trezentos e oitenta e um reais e vinte e oito centavos) Lance mínimo para arrematação em 2º leilão: R$ 85.331,34 (oitenta e cinco mil, trezentos e trinta e um reais e trinta e quatro centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "5.680",
+      "registry_office": "CARTÓRIO DO ÚNICO OFÍCIO DE POCINHOS-PB",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27766",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12012_1.jpg"
+      ],
+      "latitude": -7.071199,
+      "longitude": -36.059086,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12013",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12013",
+      "external_reference": null,
+      "city": "Pocinhos",
+      "state": "PB",
+      "address": "R. Projetada 127, (Rua Geraldo Felipe de Maria), 118, LT 10, QD G, Antonio Rodrigues Neto, Pocinhos-PB, CEP 58150-000",
+      "asking_price": 97720.16,
+      "price_display": "R$ 97.720,16",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 97720.16,
+      "second_auction_minimum_bid": 125155.58,
+      "description": "Nº DO BEM: 526747724 POCINHOS (PB) Descrição: IMÓVEL DE MATRÍCULA 6.914 DO CARTÓRIO DO ÚNICO OFÍCIO DE POCINHOS-PB, ASSIM DESCRITO: Casa, com área construída de 70,00m² e respectivo terreno com área total de 200,00m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 1121270118001 Localização: R. Projetada 127, (Rua Geraldo Felipe de Maria), 118, LT 10, QD G, Antonio Rodrigues Neto, Pocinhos-PB, CEP 58150-000 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 97.720,16 (noventa e sete mil setecentos e vinte reais e dezesseis centavos) Lance mínimo para arrematação em 2º leilão: R$ 125.155,58 (cento e vinte e cinco mil, cento e cinquenta e cinco reais e cinquenta e oito centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "6.914",
+      "registry_office": "CARTÓRIO DO ÚNICO OFÍCIO DE POCINHOS-PB",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27767",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12013_1.jpg"
+      ],
+      "latitude": -7.070099,
+      "longitude": -36.203786,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12014",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12014",
+      "external_reference": null,
+      "city": "Santa Rita",
+      "state": "PB",
+      "address": "R. Projetada, 138-B, QD. 06, LT A2, Lot. Portal do Tibiri II, Santa Rita-PB. Cep: 58300-000",
+      "asking_price": 132757.47,
+      "price_display": "R$ 132.757,47",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 132757.47,
+      "second_auction_minimum_bid": 133559.76,
+      "description": "Nº DO BEM: 522852060 SANTA RITA (PB) Descrição: IMÓVEL DE MATRÍCULA 42.641 DO REGISTRO DE IMÓVEIS DE SANTA RITA-PB, ASSIM DESCRITO: Casa, com área construída de 69,50m² e respectivo terreno com área total de 130,00m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 0607002680000000 Localização: R. Projetada, 138-B, QD. 06, LT A2, Lot. Portal do Tibiri II, Santa Rita-PB. Cep: 58300-000 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 132.757,47 (cento e trinta e dois mil setecentos e cinquenta e sete reais e quarenta e sete centavos) Lance mínimo para arrematação em 2º leilão: R$ 133.559,76 (cento e trinta e três mil, quinhentos e cinquenta e nove reais e setenta e seis centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "42.641",
+      "registry_office": "REGISTRO DE IMÓVEIS DE SANTA RITA-PB",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27768",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12014_1.jpg"
+      ],
+      "latitude": -7.102607,
+      "longitude": -34.863148,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12016",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12016",
+      "external_reference": null,
+      "city": "Santa Rita",
+      "state": "PB",
+      "address": "R. Rodolfo Bastos da Silva, 262-B, Portal do Tibiri II, Santa Rita-PB CEP: 58300-000",
+      "asking_price": 134738.83,
+      "price_display": "R$ 134.738,83",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 134738.83,
+      "second_auction_minimum_bid": 169944.59,
+      "description": "Nº DO BEM: 523294707 SANTA RITA (PB) Descrição: IMÓVEL DE MATRÍCULA 46.746 DO REGISTRO DE IMÓVEIS DE SANTA RITA-PB, ASSIM DESCRITO: Casa, com área construída de 69,53m² e respectivo terreno com área total de 150,00m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 0606504710000000 Localização: R. Rodolfo Bastos da Silva, 262-B, Portal do Tibiri II, Santa Rita-PB CEP: 58300-000 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 134.738,83 (cento e trinta e quatro mil setecentos e trinta e oito reais e oitenta e três centavos) Lance mínimo para arrematação em 2º leilão: R$ 169.944,59 (cento e sessenta e nove mil, novecentos e quarenta e quatro reais e cinquenta e nove centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "46.746",
+      "registry_office": "REGISTRO DE IMÓVEIS DE SANTA RITA-PB",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27770",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12016_1.jpg"
+      ],
+      "latitude": -7.157012,
+      "longitude": -34.953362,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12017",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12017",
+      "external_reference": null,
+      "city": "Santa Rita",
+      "state": "PB",
+      "address": "R. Euzebio Enedino da Costa, 37-A, LT.37-A, QD 10 B, Tibiri, Santa Rita-PB, CEP 58303-081",
+      "asking_price": 133670.35,
+      "price_display": "R$ 133.670,35",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 133670.35,
+      "second_auction_minimum_bid": 177201.69,
+      "description": "Nº DO BEM: 530730991 SANTA RITA (PB) Descrição: IMÓVEL DE MATRÍCULA 38.439 DO REGISTRO DE IMÓVEIS DA CIDADE DE SANTA RITA-PB, ASSIM DESCRITO: Casa, com área construída de 66,47m² e respectivo terreno com área total de 125,00m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 0709002370000000 Localização: R. Euzebio Enedino da Costa, 37-A, LT.37-A, QD 10 B, Tibiri, Santa Rita-PB, CEP 58303-081 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 133.670,35 (cento e trinta e três mil seiscentos e setenta reais e trinta e cinco centavos) Lance mínimo para arrematação em 2º leilão: R$ 177.201,69 (cento e setenta e sete mil, duzentos e um reais e sessenta e nove centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "38.439",
+      "registry_office": "REGISTRO DE IMÓVEIS DA CIDADE DE SANTA RITA-PB",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27771",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12017_1.jpg"
+      ],
+      "latitude": -7.12868,
+      "longitude": -34.944607,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12137",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12137",
+      "external_reference": "103069",
+      "city": "João Pessoa",
+      "state": "PB",
+      "address": "Rua Inácio Albino Neto, 240, Condomínio Residencial Morumbi Privê, Gramame",
+      "asking_price": 73000.0,
+      "price_display": "R$ 73.000,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID103069 JOÃO PESSOA (PB) Descrição legal: Imóvel Urbano: Apartamento 301, Bloco 10, com área privativa de 45,09 m², situado na Rua Inácio Albino Neto, 240, Condomínio Residencial Morumbi Privê, Gramame, Município de João Pessoa-PB. Melhor descrito na Matrícula 165968 do Serviço Notarial do 1º Ofício e Registral Imobiliário de João Pessoa-PB a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "165968",
+      "registry_office": "Serviço Notarial do 1º Ofício e Registral Imobiliário de João Pessoa-PB",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/15107",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12137_1.png"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12191",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12191",
+      "external_reference": "97860",
+      "city": "Belém do Brejo do Cruz",
+      "state": "PB",
+      "address": "Rua João Silva Magalhães, nº 134, Bairro Manoel Forte Maia",
+      "asking_price": null,
+      "price_display": "Aceita BB?",
+      "sale_modality_hint": "aceita_bb",
+      "auction_date_raw": "13/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID97860 BELÉM DO BREJO DO CRUZ (PB) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua João Silva Magalhães, nº 134, Bairro Manoel Forte Maia, Município de Belém do Brejo do Cruz - PB. Melhor descrito na matrícula 9568 do Cartório de Registro de Imóveis de Brejo do Cruz - PB. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "9568",
+      "registry_office": "Cartório de Registro de Imóveis de Brejo do Cruz - PB",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27921",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12191_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12191_2.jpeg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12191_3.jpg"
+      ],
+      "latitude": -6.188116,
+      "longitude": -37.536465,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12192",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12192",
+      "external_reference": "97890",
+      "city": "Belém do Brejo do Cruz",
+      "state": "PB",
+      "address": "Rua João O. Magalhães, nº 335, Bairro Manoel Forte Maia",
+      "asking_price": null,
+      "price_display": "Aceita BB?",
+      "sale_modality_hint": "aceita_bb",
+      "auction_date_raw": "13/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID97890 BELÉM DO BREJO DO CRUZ (PB) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua João O. Magalhães, nº 335, Bairro Manoel Forte Maia, Município de Belém do Brejo do Cruz - PB. Melhor descrito na matrícula 9602 do Cartório de Registro de Imóveis de Brejo do Cruz - PB. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "9602",
+      "registry_office": "Cartório de Registro de Imóveis de Brejo do Cruz - PB",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27922",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12192_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12192_2.jpeg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12192_3.jpg"
+      ],
+      "latitude": -6.188116,
+      "longitude": -37.536465,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12193",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12193",
+      "external_reference": "97891",
+      "city": "Belém do Brejo do Cruz",
+      "state": "PB",
+      "address": "Rua Manoel Antônio dos Santos, s/n, Bairro Miguel Batista",
+      "asking_price": null,
+      "price_display": "Aceita BB?",
+      "sale_modality_hint": "aceita_bb",
+      "auction_date_raw": "13/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID97891 BELÉM DO BREJO DO CRUZ (PB) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Manoel Antônio dos Santos, s/n, Bairro Miguel Batista, Município de Belém do Brejo do Cruz - PB. Melhor descrito na matrícula 9694 do Cartório de Registro de Imóveis de Brejo do Cruz - PB. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "9694",
+      "registry_office": "Cartório de Registro de Imóveis de Brejo do Cruz - PB",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27923",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12193_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12193_2.jpeg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12193_3.jpg"
+      ],
+      "latitude": -6.185508,
+      "longitude": -37.539465,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12194",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12194",
+      "external_reference": "97897",
+      "city": "Belém do Brejo do Cruz",
+      "state": "PB",
+      "address": "Rua Francisco de Oliveira Franco, nº 445, Bairro Francisco Lacerda da Cunha",
+      "asking_price": null,
+      "price_display": "Aceita BB?",
+      "sale_modality_hint": "aceita_bb",
+      "auction_date_raw": "13/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID97897 BELÉM DO BREJO DO CRUZ (PB) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Francisco de Oliveira Franco, nº 445, Bairro Francisco Lacerda da Cunha, Município de Belém do Brejo do Cruz - PB. Melhor descrito na matrícula 9726 do Cartório de Registro de Imóveis de Brejo do Cruz - PB. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "9726",
+      "registry_office": "Cartório de Registro de Imóveis de Brejo do Cruz - PB",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27924",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12194_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12194_2.jpeg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12194_3.jpg"
+      ],
+      "latitude": -6.190539,
+      "longitude": -37.529358,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12195",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12195",
+      "external_reference": "93102",
+      "city": "Belém do Brejo do Cruz",
+      "state": "PB",
+      "address": "Rua João Venâncio Linhares, nº 291, Bairro Manoel Forte Maia",
+      "asking_price": null,
+      "price_display": "Aceita BB?",
+      "sale_modality_hint": "aceita_bb",
+      "auction_date_raw": "13/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID93102 BELÉM DO BREJO DO CRUZ (PB) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua João Venâncio Linhares, nº 291, Bairro Manoel Forte Maia, município de Belém do Brejo do Cruz - PB. Melhor descrito na Matrícula 9596 do Cartório de Registro de Imóveis de Brejo do Cruz - PB. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente; b) A titularidade do IPTU encontra-se atualmente em nome de terceiros, cabendo ao arrematante a obrigação de promover, após a arrematação, a devida atualização cadastral e a transferência da titularidade para o seu nome junto ao órgão municipal competente, arcando integralmente com todas as providências, custos e eventuais despesas necessárias à regularização. Os valores de IPTU eventualmente devidos serão tratados conforme o disposto no item 16.7 deste Edital.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "9596",
+      "registry_office": "Cartório de Registro de Imóveis de Brejo do Cruz - PB",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27925",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12195_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12195_2.jpeg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12195_3.jpg"
+      ],
+      "latitude": -6.186073,
+      "longitude": -37.530191,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12196",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12196",
+      "external_reference": "96928",
+      "city": "Belém do Brejo do Cruz",
+      "state": "PB",
+      "address": "Rua João Venâncio Linhares, nº 162, Lote 196, Bairro Manoel Forte Maia",
+      "asking_price": null,
+      "price_display": "Aceita BB?",
+      "sale_modality_hint": "aceita_bb",
+      "auction_date_raw": "13/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID96928 BELÉM DO BREJO DO CRUZ (PB) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua João Venâncio Linhares, nº 162, Lote 196, Bairro Manoel Forte Maia, Município de Belém do Brejo do Cruz - PB. Melhor descrito na matrícula 8830 do Cartório de Registro de Imóveis de Brejo do Cruz - PB. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente; b) A titularidade do IPTU encontra-se atualmente em nome de terceiros, cabendo ao arrematante a obrigação de promover, após a arrematação, a devida atualização cadastral e a transferência da titularidade para o seu nome junto ao órgão municipal competente, arcando integralmente com todas as providências, custos e eventuais despesas necessárias à regularização. Os valores de IPTU eventualmente devidos serão tratados conforme o disposto no item 16.7 deste Edital.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "8830",
+      "registry_office": "Cartório de Registro de Imóveis de Brejo do Cruz - PB",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27926",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12196_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12196_2.jpeg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12196_3.jpg"
+      ],
+      "latitude": -6.190436,
+      "longitude": -37.529579,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12197",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12197",
+      "external_reference": "97057",
+      "city": "Belém do Brejo do Cruz",
+      "state": "PB",
+      "address": "Rua José Francisco Ferreira, nº 205, Bairro Francisco Lacerda da Cunha",
+      "asking_price": null,
+      "price_display": "Aceita BB?",
+      "sale_modality_hint": "aceita_bb",
+      "auction_date_raw": "13/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID97057 BELÉM DO BREJO DO CRUZ (PB) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua José Francisco Ferreira, nº 205, Bairro Francisco Lacerda da Cunha, Município de Belém do Brejo do Cruz - PB. Melhor descrito na matrícula 8839 do Cartório de Registro de Imóveis de Brejo do Cruz - PB. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "8839",
+      "registry_office": "Cartório de Registro de Imóveis de Brejo do Cruz - PB",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27927",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12197_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12197_2.jpeg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12197_3.jpg"
+      ],
+      "latitude": -6.191907,
+      "longitude": -37.53326,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12198",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12198",
+      "external_reference": "96961",
+      "city": "Belém do Brejo do Cruz",
+      "state": "PB",
+      "address": "Rua José Dutra de Morais, nº 996, Centro",
+      "asking_price": null,
+      "price_display": "Aceita BB?",
+      "sale_modality_hint": "aceita_bb",
+      "auction_date_raw": "13/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID96961 BREJO DO CRUZ (PB) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua José Dutra de Morais, nº 996, Centro, Município de Brejo do Cruz - PB. Melhor descrito na matrícula 10489 do Cartório de Registro de Imóveis de Brejo do Cruz - PB. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "10489",
+      "registry_office": "Cartório de Registro de Imóveis de Brejo do Cruz - PB",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27928",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12198_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12198_2.jpeg"
+      ],
+      "latitude": -6.347243,
+      "longitude": -37.505605,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12199",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12199",
+      "external_reference": "96963",
+      "city": "Belém do Brejo do Cruz",
+      "state": "PB",
+      "address": "Rua José Elói de Oliveira, nº 1195, Centro",
+      "asking_price": null,
+      "price_display": "Aceita BB?",
+      "sale_modality_hint": "aceita_bb",
+      "auction_date_raw": "13/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID96963 BREJO DO CRUZ (PB) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua José Elói de Oliveira, nº 1195, Centro, Município de Brejo do Cruz - PB. Melhor descrito na matrícula 10308 do Registro de Imóveis de Brejo do Cruz - PB. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "10308",
+      "registry_office": "Registro de Imóveis de Brejo do Cruz - PB",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27929",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12199_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12199_2.jpeg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12199_3.jpg"
+      ],
+      "latitude": -6.349259,
+      "longitude": -37.501173,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12200",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12200",
+      "external_reference": "97145",
+      "city": "Belém do Brejo do Cruz",
+      "state": "PB",
+      "address": "Rua José Elói de Oliveira, nº 1165, Centro",
+      "asking_price": null,
+      "price_display": "Aceita BB?",
+      "sale_modality_hint": "aceita_bb",
+      "auction_date_raw": "13/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID97145 BREJO DO CRUZ (PB) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua José Elói de Oliveira, nº 1165, Centro, Município de Brejo Do Cruz - PB. Melhor descrito na matrícula 10267 do Cartório de Registro de Imóveis de Brejo do Cruz - PB. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "10267",
+      "registry_office": "Cartório de Registro de Imóveis de Brejo do Cruz - PB",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27930",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12200_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12200_2.jpeg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12200_3.jpg"
+      ],
+      "latitude": -6.349259,
+      "longitude": -37.501173,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12201",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12201",
+      "external_reference": "97218",
+      "city": "Belém do Brejo do Cruz",
+      "state": "PB",
+      "address": "Rua Maria Maia de Oliveira, nº 477, Centro",
+      "asking_price": null,
+      "price_display": "Aceita BB?",
+      "sale_modality_hint": "aceita_bb",
+      "auction_date_raw": "13/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID97218 BREJO DO CRUZ (PB) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Maria Maia de Oliveira, nº 477, Centro, Município de Brejo do Cruz - PB. Melhor descrito na matrícula 9884 do Registro de Imóveis de Brejo do Cruz - PB. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "9884",
+      "registry_office": "Registro de Imóveis de Brejo do Cruz - PB",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27931",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12201_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12201_2.jpeg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12201_3.jpg"
+      ],
+      "latitude": -6.347401,
+      "longitude": -37.508247,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12202",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12202",
+      "external_reference": "97343",
+      "city": "Cuité",
+      "state": "PB",
+      "address": "Rua Projetada I, nº 646, Lote 07-B, Quadra 12, Das Graças",
+      "asking_price": null,
+      "price_display": "Aceita BB?",
+      "sale_modality_hint": "aceita_bb",
+      "auction_date_raw": "13/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID97343 CUITÉ (PB) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Projetada I, nº 646, Lote 07-B, Quadra 12, Das Graças, Município de Cuité - PB. Melhor descrito na matrícula 5370 do 1º Serviço de Notas e Registro de Imóveis de Cuité - PB. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente. b) Constatou-se que, à época do registro imobiliário, a via pública onde se localiza o imóvel ainda não possuía denominação oficial, sendo identificada como Rua Projetada I. Entretanto, verificou-se que a referida via passou a denominar-se Rua Professor Benedito Furtado Silva Coelho, conforme disposto na Lei Municipal nº 1.002/2014, de 11/11/2014. Ademais, em consulta realizada junto à Prefeitura Municipal, constatou-se que a numeração predial anteriormente atribuída ao imóvel foi suprimida, não havendo, até a presente data, indicação de numeração oficial vigente. Caberá ao arrematante adotar as providências necessárias junto aos órgãos competentes para atualização cadastral e eventual regularização da identificação do imóvel.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "5370",
+      "registry_office": "1º Serviço de Notas e Registro de Imóveis de Cuité - PB",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27932",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12202_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12202_2.jpeg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12202_3.jpg"
+      ],
+      "latitude": -7.253186,
+      "longitude": -35.937656,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12203",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12203",
+      "external_reference": "97542",
+      "city": "Santa Rita",
+      "state": "PB",
+      "address": "Rua Projetada, nº 551, Quadra 15, Lote 39, Vale De Santa Rita I",
+      "asking_price": null,
+      "price_display": "Aceita BB?",
+      "sale_modality_hint": "aceita_bb",
+      "auction_date_raw": "13/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID97542 SANTA RITA (PB) Descrição legal: Imóvel Urbano Residencial, Casa nº 104, situada na Rua Projetada, nº 551, Quadra 15, Lote 39, Vale De Santa Rita I, Município de Santa Rita - PB. Melhor descrito na matrícula 46697 do CRI de Santa Rita - PB. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "46697",
+      "registry_office": "CRI de Santa Rita - PB",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27933",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12203_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12203_2.jpeg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12203_3.jpg"
+      ],
+      "latitude": -7.145608,
+      "longitude": -34.810149,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12204",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12204",
+      "external_reference": "97898",
+      "city": "Santa Rita",
+      "state": "PB",
+      "address": "Rua Vicente Régis do Nascimento, nº 30, Loteamento Sol Nascente",
+      "asking_price": null,
+      "price_display": "Aceita BB?",
+      "sale_modality_hint": "aceita_bb",
+      "auction_date_raw": "13/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID97898 SANTA RITA (PB) Descrição legal: Imóvel Urbano Residencial, Casa nº 101, situada na Rua Vicente Régis do Nascimento, nº 30, Loteamento Sol Nascente, Município de Santa Rita - PB. Melhor descrito na matrícula 45364 do Registro de Imóveis de Santa Rita - PB. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "45364",
+      "registry_office": "Registro de Imóveis de Santa Rita - PB",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27934",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12204_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12204_2.jpeg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12204_3.jpg"
+      ],
+      "latitude": -7.158108,
+      "longitude": -34.97215,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12205",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12205",
+      "external_reference": "97646",
+      "city": "Santa Rita",
+      "state": "PB",
+      "address": "Rua Projetada, nº 180-A, Quadra 11, Lote 55-A, Loteamento Vale de Santa Rita I",
+      "asking_price": null,
+      "price_display": "Aceita BB?",
+      "sale_modality_hint": "aceita_bb",
+      "auction_date_raw": "13/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID97646 SANTA RITA (PB) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Projetada, nº 180-A, Quadra 11, Lote 55-A, Loteamento Vale de Santa Rita I, Município de Santa Rita - PB. Melhor descrito na matrícula 45913 do Registro de Imóveis de Santa Rita - PB a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "45913",
+      "registry_office": "Registro de Imóveis de Santa Rita - PB",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27935",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12205_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12205_2.jpeg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12205_3.jpg"
+      ],
+      "latitude": -1.038308,
+      "longitude": -46.770683,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12206",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12206",
+      "external_reference": "97838",
+      "city": "Santa Rita",
+      "state": "PB",
+      "address": "Rua Projetada, nº 129, Lote 09 da Quadra 07, Loteamento Prive Aeroporto",
+      "asking_price": null,
+      "price_display": "Aceita BB?",
+      "sale_modality_hint": "aceita_bb",
+      "auction_date_raw": "13/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID97838 SANTA RITA (PB) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Projetada, nº 129, Lote 09 da Quadra 07, Loteamento Prive Aeroporto, Município de Santa Rita - PB. Melhor descrito na matrícula 45609 do Registro de Imóveis de Santa Rita - PB. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "45609",
+      "registry_office": "Registro de Imóveis de Santa Rita - PB",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27936",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12206_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12206_2.jpeg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12206_3.jpg"
+      ],
+      "latitude": -7.16493,
+      "longitude": -34.953894,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12207",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12207",
+      "external_reference": "97846",
+      "city": "Santa Rita",
+      "state": "PB",
+      "address": "Rua Projetada, nº 141, Lote 25 da Quadra 12, Loteamento Privê Aeroporto",
+      "asking_price": null,
+      "price_display": "Aceita BB?",
+      "sale_modality_hint": "aceita_bb",
+      "auction_date_raw": "13/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID97846 SANTA RITA (PB) Descrição legal: Imóvel Urbano Residencial, Casa C, situada na Rua Projetada, nº 141, Lote 25 da Quadra 12, Loteamento Privê Aeroporto, Município de Santa Rita - PB. Melhor descrito na matrícula 47043 do Registro de Imóveis de Santa Rita - PB. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "47043",
+      "registry_office": "Registro de Imóveis de Santa Rita - PB",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27937",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12207_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12207_2.jpeg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12207_3.jpg"
+      ],
+      "latitude": -7.161146,
+      "longitude": -34.950655,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12268",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12268",
+      "external_reference": "76093",
+      "city": "São Bento",
+      "state": "PB",
+      "address": "AVENIDA SÃO SEBASTIÃO, 735 - CENTRO - SÃO BENTO - PB",
+      "asking_price": 2730000.0,
+      "price_display": "R$ 2.730.000,00",
+      "sale_modality_hint": null,
+      "auction_date_raw": "20/10/2026 a partir das 11h00",
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID76093 SÃO BENTO (PB) Descrição legal: Imóvel Urbano: Prédio Comercial, situado na AVENIDA SÃO SEBASTIÃO, 735 - CENTRO - SÃO BENTO - PB. Melhor descrito na Matrícula 1273 do CRI de Brejo do Cruz-PB. a) Do imóvel adquirido na presente licitação serão obrigatoriamente locados ao BANCO do Brasil S/A, por meio de Contrato de Locação (Anexo 8), a área a ser locada para o Banco corresponde área ocupada pelo Banco do Brasil. Área total em uso pelo BB 548,32 m2 no Pavimento Térreo mais o estacionamento; IMPORTANTE - Ressalta-se que a área da cisterna e do sistema de bombeamento de água, localizada no estacionamento e responsável pelo abastecimento da caixa d`água que atende à agência, permanecerá de uso exclusivo do Banco, integrando a área locada, não podendo ser destinada a qualquer outra finalidade, devendo ser garantido seu acesso, operação e manutenção. b) O adquirente se submete às todos os itens previstas na Cláusula 3.1 do ANEXO 7 deste edital; c) A venda do imóvel será realizada de forma integral, acompanhada da celebração simultânea de contrato de locação parcial. O Banco permanecerá como locatário das áreas atualmente em uso, conforme especificado no item a; d) Prazo da Locação: (por até 60 meses); e) Valor de locação inicialmente estabelecido será de R$ 17.150,00; f) Caberá ao arrematante o desmembramento físico da área ociosa com a reconfiguração dos acessos ao pavimento superior, com isolamento total da escada interna atualmente utilizada para esse fim e utilização da escada localizada na fachada principal como acesso exclusivo ao pavimento superior. Será necessário também a individualização da água, energia e ar condicionado, bem como a constituição de condomínio. g) Caberá ao arrematante, às suas custas e após a compra, quaisquer providências por eventual necessidade de desembaraço e regularização documental do imóvel arrematado, como a regularização da área encontrada na matrícula, no cadastro na Prefeitura e a efetivamente verificada no local, entre outros. h) Caberá ao arrematante a obtenção do AVCB (auto de vistoria do corpo de bombeiros), bem como todas as custas e emolumentos necessários para a obtenção do documento são de responsabilidade do arrematante.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": null,
+      "registry_number": "1273",
+      "registry_office": "CRI de Brejo do Cruz-PB",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27996",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12268_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12268_2.jpg"
+      ],
+      "latitude": -6.49479,
+      "longitude": -37.4487,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12292",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12292",
+      "external_reference": "101654",
+      "city": "Campina Grande",
+      "state": "PB",
+      "address": "Rua Bruxelas, nº 207, Lote 18 da Quadra T, Loteamento Fazenda Paquetá, Bairro Cuités",
+      "asking_price": 71000.0,
+      "price_display": "R$ 71.000,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID101654 CAMPINA GRANDE (PB) Descrição legal: Imóvel Urbano: Residência edificada em terreno, situada na Rua Bruxelas, nº 207, Lote 18 da Quadra T, Loteamento Fazenda Paquetá, Bairro Cuités, Município de Campina Grande-PB. Melhor descrita na matrícula nº 75287 do Único Ofício de Registro de Imóveis de Campina Grande-PB a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "75287",
+      "registry_office": "Único Ofício de Registro de Imóveis de Campina Grande-PB",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/15094",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12292_1.jpg"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12293",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12293",
+      "external_reference": "101250",
+      "city": "João Pessoa",
+      "state": "PB",
+      "address": "Rua Josinaldo Belo da Silva, nº 352, Bairro Paratibe",
+      "asking_price": 71000.0,
+      "price_display": "R$ 71.000,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID101250 JOÃO PESSOA (PB) Descrição legal: Imóvel Urbano: Apartamento nº 201, Prédio Residencial Lucas Lima, situado na Rua Josinaldo Belo da Silva, nº 352, Bairro Paratibe, Município de João Pessoa-PB. Melhor descrito na matrícula nº 160450 do 1º Ofício de Registro Imobiliário da Zona Sul de João Pessoa-PB a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "160450",
+      "registry_office": "1º Ofício de Registro Imobiliário da Zona Sul de João Pessoa-PB",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/15098",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12293_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12293_2.jpg"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12294",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12294",
+      "external_reference": "100753",
+      "city": "Cuité",
+      "state": "PB",
+      "address": "Rua Martins Francisco de Souto, nº 305, Bairro José Torquato",
+      "asking_price": 81000.0,
+      "price_display": "R$ 81.000,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID100753 CUITÉ (PB) Descrição legal: Imóvel Urbano: Terreno com edificação, situado na Rua Martins Francisco de Souto, nº 305, Bairro José Torquato, Município de Cuité-PB. Melhor descrito na matrícula nº 3900 do Serviço de Notas e Registro de Imóveis de Cuité-PB a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "3900",
+      "registry_office": "Serviço de Notas e Registro de Imóveis de Cuité-PB",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/15097",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12294_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12294_2.jpg"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12295",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12295",
+      "external_reference": "101393",
+      "city": "Patos",
+      "state": "PB",
+      "address": "Rua José Francisco da Silva, nº 188, Bairro Sete Casas",
+      "asking_price": 70000.0,
+      "price_display": "R$ 70.000,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID101393 PATOS (PB) Descrição legal: Imóvel Urbano: Residência edificada em terreno, situada na Rua José Francisco da Silva, nº 188, Bairro Sete Casas, Município de Patos-PB. Melhor descrita na matrícula nº 50460 do Cartório do 1º Ofício de Patos-PB a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "50460",
+      "registry_office": "Cartório do 1º Ofício de Patos-PB",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/15108",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12295_1.jpg"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12296",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12296",
+      "external_reference": "96501",
+      "city": "Belém do Brejo do Cruz",
+      "state": "PB",
+      "address": "Rua Teodomiro Venâncio Linhares, nº 412, Bairro Manoel Forte Maia",
+      "asking_price": 59000.0,
+      "price_display": "R$ 59.000,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID96501 BELÉM DO BREJO DO CRUZ (PB) Descrição legal: Imóvel Urbano: Terreno com casa, situado na Rua Teodomiro Venâncio Linhares, nº 412, Bairro Manoel Forte Maia, Município de Belém do Brejo do Cruz-PB. Melhor descrito na matrícula nº 9446 do Registro de Imóveis de Brejo do Cruz-PB a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "9446",
+      "registry_office": "Registro de Imóveis de Brejo do Cruz-PB",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/15093",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12296_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12296_2.jpg"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12297",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12297",
+      "external_reference": "101491",
+      "city": "João Pessoa",
+      "state": "PB",
+      "address": "Rua Janete Belo da Silva, nº 81, Bairro Paratibe",
+      "asking_price": 62000.0,
+      "price_display": "R$ 62.000,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID101491 JOÃO PESSOA (PB) Descrição legal: Imóvel Urbano: Casa nº 79 do Condomínio Residencial Bifamiliar, com vaga de garagem, situada na Rua Janete Belo da Silva, nº 81, Bairro Paratibe, Município de João Pessoa-PB. Melhor descrita na matrícula nº 163813 do 1º Ofício de Registro de Imóveis da Zona Sul de João Pessoa-PB a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "163813",
+      "registry_office": "1º Ofício de Registro de Imóveis da Zona Sul de João Pessoa-PB",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/15101",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12297_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12297_2.jpg"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12298",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12298",
+      "external_reference": "100757",
+      "city": "João Pessoa",
+      "state": "PB",
+      "address": "Rua Inácio Albino Neto, nº 240, Bairro Gramame",
+      "asking_price": 62000.0,
+      "price_display": "R$ 62.000,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID100757 JOÃO PESSOA (PB) Descrição legal: Imóvel Urbano: Apartamento nº 207, Bloco 11 do Condomínio Residencial Morumbi Privé, situado na Rua Inácio Albino Neto, nº 240, Bairro Gramame, Município de João Pessoa-PB. Melhor descrito na matrícula nº 168070 do 1º Tabelionato de Registro Imobiliário da Zona Sul de João Pessoa-PB a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "168070",
+      "registry_office": "1º Tabelionato de Registro Imobiliário da Zona Sul de João Pessoa-PB",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/15102",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12298_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12298_2.jpg"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "7006",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/7006",
+      "external_reference": "73983",
+      "city": "Belém do Brejo do Cruz",
+      "state": "PB",
+      "address": null,
+      "asking_price": 35750.0,
+      "price_display": "R$ 35.750,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID73983 Casa e respectivo terreno urbano com área total de 140,00m², melhor descrito e caracterizado na matrícula 9914 do Cartório de Registro de Imóveis de Brejo do Cruz/PB. Status da Ocupação: Ocupado. Endereço: Rua Maria Dantas da Cunha, 216 - Francisco Lacerda da Cunha - Belém do Brejo do Cruz/PB. Imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "9914",
+      "registry_office": "Cartório de Registro de Imóveis de Brejo do Cruz/PB",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/99",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/7006_1.jpg"
+      ],
+      "latitude": -6.1897819,
+      "longitude": -37.5284527,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "7007",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/7007",
+      "external_reference": "90529",
+      "city": "Belém do Brejo do Cruz",
+      "state": "PB",
+      "address": null,
+      "asking_price": 31950.0,
+      "price_display": "R$ 31.950,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID90529 Casa e respectivo terreno urbano com área total de 124,82m², melhor descrito e caracterizado na matrícula 9749 do Ofício de Notas, Registro de Imóveis, Títulos e Documentos e Pessoas Jurídicas de Brejo do Cruz/PB. Status da Ocupação: Ocupado.Endereço: Rua Francisco de Oliveira Franco, 204 - Francisco Lacerda da Cunha -Belém do Brejo do Cruz/PB.O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "9749",
+      "registry_office": "Ofício de Notas, Registro de Imóveis, Títulos e Documentos e Pessoas Jurídicas de Brejo do Cruz/PB",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/102",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/7007_1.jpg"
+      ],
+      "latitude": -6.1879813,
+      "longitude": -37.5364356,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "7015",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/7015",
+      "external_reference": "97829",
+      "city": "Catolé do Rocha",
+      "state": "PB",
+      "address": "Rua Maria das Dores s/n, Lote 04, Quadra 35, Loteamento São Paulo III",
+      "asking_price": 51480.0,
+      "price_display": "R$ 51.480,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID97829 Descrição legal: Imóvel Urbano Residencial, Casa situada à Rua Maria das Dores s/n, Lote 04, Quadra 35, Loteamento São Paulo III, município de Catolé do Rocha - PB. Melhor descrito na matrícula 17699 do Cartório do 1º Ofício de Catolé do Rocha - PB. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "17699",
+      "registry_office": "Cartório do 1º Ofício de Catolé do Rocha - PB",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/561",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/7015_1.jpg"
+      ],
+      "latitude": -6.3478413,
+      "longitude": -37.7459981,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "7923",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/7923",
+      "external_reference": "96221",
+      "city": "Santa Rita",
+      "state": "PB",
+      "address": null,
+      "asking_price": 34610.0,
+      "price_display": "R$ 34.610,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID96221 Imóvel identificado como sendo uma área desmembrada, Casa B, da Quadra 0, Rua Projetada s/nº Loteamento Nice, Lote nº 26-B, Quadra T, melhor descrita e caracterizada na matrícula de n° 29390, Santa Rita/PBStatus da Ocupação: OcupadoEndereço: Rua Projetada s/nº Loteamento Nice, Lote nº 26-B, Quadra T, Santa Rita ? ParaíbaConsiderações importantes: O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": null,
+      "registry_office": null,
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/508",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/7923_1.jpg"
+      ],
+      "latitude": -7.1457427,
+      "longitude": -34.9629916,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "9853",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/9853",
+      "external_reference": "100980",
+      "city": "João Pessoa",
+      "state": "PB",
+      "address": "Rua Maria Florinda Pires 17 Casa 15 - Jardim Veneza",
+      "asking_price": 105000.0,
+      "price_display": "R$ 105.000,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID100980 JOÃO PESSOA(PB) Descrição legal: Imóvel Urbano Residencial, Casa nº 15 situada na Rua Maria Florinda Pires 17 Casa 15 - Jardim Veneza, Município de JOÃO PESSOA - PB. Melhor descrito na matrícula 176899 do Serviço Notarial do 1º Ofício Registral Imobiliario de Joao Pessoa-PB. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "176899",
+      "registry_office": "Serviço Notarial do 1º Ofício Registral Imobiliario de Joao Pessoa-PB",
+      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=25722",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/9853_1.jfif",
+        "https://www.seuimovelbb.com.br/imagem/imovel/9853_2.jfif",
+        "https://www.seuimovelbb.com.br/imagem/imovel/9853_3.jfif",
+        "https://www.seuimovelbb.com.br/imagem/imovel/9853_4.jfif"
+      ],
+      "latitude": -7.166708,
+      "longitude": -34.912394,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "9856",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/9856",
+      "external_reference": "101013",
+      "city": "João Pessoa",
+      "state": "PB",
+      "address": "Rua Jornalista Natanael Alves 86 Ap 101 Térreo - Mucumagro",
+      "asking_price": 75000.0,
+      "price_display": "R$ 75.000,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID101013 JOÃO PESSOA(PB) Descrição legal: Imóvel Urbano Residencial, Apartamento nº 101, com vaga de garagem situada na Rua Jornalista Natanael Alves 86 Ap 101 Térreo - Mucumagro, Município de JOÃO PESSOA - PB. Melhor descrito na matrícula 163077 do Serviço Notarial do 1º Ofício Registral Imobiliário de Joao Pessoa-PB. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente. b) A titularidade do condomínio está em nome de terceiros e as providências e eventuais despesas para regularização do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "163077",
+      "registry_office": "Serviço Notarial do 1º Ofício Registral Imobiliário de Joao Pessoa-PB",
+      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=25725",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/9856_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/9856_2.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/9856_3.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/9856_4.jpg"
+      ],
+      "latitude": -7.219682,
+      "longitude": -34.832,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    }
+  ]
+}

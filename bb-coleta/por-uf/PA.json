@@ -1,0 +1,524 @@
+{
+  "imoveis": [
+    {
+      "source_type": "bb",
+      "source_external_id": "10487",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/10487",
+      "external_reference": "101079",
+      "city": "Baião",
+      "state": "PA",
+      "address": "Rua Grande da Brasília, nº 52, Bairro Brasília",
+      "asking_price": 165565.72,
+      "price_display": "R$ 165.565,72",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID101079 BAIÃO (PA) Descrição legal: Imóvel Urbano Residencial, Prédio de 02 (dois) pavimentos, situado na Rua Grande da Brasília, nº 52, Bairro Brasília, Município de BAIÃO - PA. Melhor descrito na matrícula 1200 do Cartório do Único Oficio de Baião - PA. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente; b) A titularidade do IPTU encontra-se atualmente em nome de terceiros, cabendo ao arrematante a obrigação de promover, após a arrematação, a devida atualização cadastral e a transferência da titularidade para o seu nome junto ao órgão municipal competente, arcando integralmente com todas as providências, custos e eventuais despesas necessárias à regularização. Os valores de IPTU eventualmente devidos serão tratados conforme o disposto no item 16.7 deste Edital.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "1200",
+      "registry_office": "Cartório do Único Oficio de Baião - PA",
+      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=26326",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/10487_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10487_2.jpg"
+      ],
+      "latitude": -2.791828,
+      "longitude": -49.671963,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "10595",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/10595",
+      "external_reference": "1275",
+      "city": "Dom Eliseu",
+      "state": "PA",
+      "address": "Rua Goncalves Dias, Lote 13, Quadra 80, Centro",
+      "asking_price": 405000.0,
+      "price_display": "R$ 405.000,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID1275 DOM ELISEU (PA)Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Goncalves Dias, Lote 13, Quadra 80, Centro, Município de Dom Eliseu - PA. Melhor descrito na matrícula 635 do Cartório do Único Ofício de Dom Eliseu - PA.a) Existe edificação não averbada na matrícula. Os procedimentos e despesas para a regularização da pendência ficarão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": null,
+      "registry_number": "635",
+      "registry_office": "Cartório do Único Ofício de Dom Eliseu - PA",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/14617",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/10595_1.jpg"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "10596",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/10596",
+      "external_reference": "95626",
+      "city": "Santa Bárbara do Pará",
+      "state": "PA",
+      "address": null,
+      "asking_price": 33449.52,
+      "price_display": "R$ 33.449,52",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID95626 SANTA BARBARA DO PARÁ/PAResidência de alvenaria, localizada na Rua Projetada A, Quadra 3, Lote 2, na cidade de Santa Bárbara do Pará - PA, melhor descrita e caracterizada na matrícula de nº 2.876, do CRI de Benevides/PA.Status da Ocupação: OcupadoConsiderações importantes: O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": null,
+      "registry_office": null,
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/499",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/10596_1.jpg"
+      ],
+      "latitude": -1.2493075,
+      "longitude": -48.2766859,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11677",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11677",
+      "external_reference": "101254",
+      "city": "Aurora do Pará",
+      "state": "PA",
+      "address": "Rua Coité, nº 506, Bairro Novo",
+      "asking_price": 33000.0,
+      "price_display": "R$ 33.000,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID101254 AURORA DO PARÁ (PA) Descrição legal: Descrição legal: Imóvel Urbano: Residência com área construída de 54,78m² em terreno de 75,00m², situada na Rua Coité, nº 506, Bairro Novo, Município de Aurora do Pará - PA. Melhor descrita na matrícula 666 do Cartório do Único Ofício de Aurora do Pará - PA. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "666",
+      "registry_office": "Cartório do Único Ofício de Aurora do Pará - PA",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/15003",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11677_1.png",
+        "https://www.seuimovelbb.com.br/imagem/imovel/11677_2.png"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11985",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11985",
+      "external_reference": null,
+      "city": "Belém",
+      "state": "PA",
+      "address": "Tv. Quatorze de Abril, 1091, Fátima, Belém-PA, CEP 66060-460",
+      "asking_price": 162467.14,
+      "price_display": "R$ 162.467,14",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 162467.14,
+      "second_auction_minimum_bid": 396677.5,
+      "description": "Nº DO BEM: 525359213 BELÉM (PA) Descrição: IMÓVEL DE MATRÍCULA 312.648 DO 2º OFÍCIO DE BELÉM-PA, ASSIM DESCRITO: Casa, com terreno medindo 4,05ms de frente por 14,00ms de fundos, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 013/34883/62/16/0641/000/000-08 Localização: Tv. Quatorze de Abril, 1091, Fátima, Belém-PA, CEP 66060-460 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Obs.3: Consta INDISPONIBILIDADE conforme Av. 2 da matrícula, referente ao processo nº 0004978-11.2018.2.00.0814; e INDISPONIBILIDADE, conforme Av. 3 da matrícula, referente ao processo nº 0000585-03.2022.5.08.0012; e PENHORA, conforme Av. 4 da matrícula, referente ao processo nº 0000604-94.2022.5.08.0016. Nos termos do § 11 do artigo 27 da Lei nº 9.514/97, os direitos reais de garantia ou constrições, tais como penhoras, arrestos, bloqueios e indisponibilidades de qualquer natureza incidentes sobre o direito real de aquisição do fiduciante, não impedem a consolidação da propriedade em nome do credor fiduciário nem a venda do imóvel para realização da garantia. Lance mínimo para arrematação em 1º leilão: R$ 162.467,14 (cento e sessenta e dois mil quatrocentos e sessenta e sete reais e quatorze centavos) Lance mínimo para arrematação em 2º leilão: R$ 396.677,50 (trezentos e noventa e seis mil, seiscentos e setenta e sete reais e cinquenta centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "312.648",
+      "registry_office": "2º OFÍCIO DE BELÉM-PA",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27739",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11985_1.jpg"
+      ],
+      "latitude": -1.449448,
+      "longitude": -48.472492,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11986",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11986",
+      "external_reference": null,
+      "city": "Castanhal",
+      "state": "PA",
+      "address": "R. Azaleia, 09, Res. Jd. das Flores, Heliolândia, Castanhal-PA, CEP 68745-732",
+      "asking_price": 84646.78,
+      "price_display": "R$ 84.646,78",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 84646.78,
+      "second_auction_minimum_bid": 82326.65,
+      "description": "Nº DO BEM: 520433990 CASTANHAL (PA) Descrição: IMÓVEL DE MATRÍCULA 25.084 DO 1º OFÍCIO DE NOTAS E REGISTRO DE IMÓVEIS DE CASTANHAL-PA, ASSIM DESCRITO: Casa nº 09, com área construída de 52,46m² e terreno com área total de 200,00m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 102215700900001 Localização: R. Azaleia, 09, Res. Jd. das Flores, Heliolândia, Castanhal-PA, CEP 68745-732 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 84.646,78 (oitenta e quatro mil seiscentos e quarenta e seis reais e setenta e oito centavos) Lance mínimo para arrematação em 2º leilão: R$ 82.326,65 (oitenta e dois mil, trezentos e vinte e seis reais e sessenta e cinco centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "25.084",
+      "registry_office": "1º OFÍCIO DE NOTAS E REGISTRO DE IMÓVEIS DE CASTANHAL-PA",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27740",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11986_1.jpg"
+      ],
+      "latitude": -26.545998,
+      "longitude": -56.99672,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11987",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11987",
+      "external_reference": null,
+      "city": "Marituba",
+      "state": "PA",
+      "address": "Passagem Sol Nascente, 618, Pato Macho, Ananindeua-PA, CEP 67033-280",
+      "asking_price": 3047684.02,
+      "price_display": "R$ 3.047.684,02",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 3047684.02,
+      "second_auction_minimum_bid": 2381459.04,
+      "description": "Nº DO BEM: 534493689 MARITUBA DE ANANINDEUA (PA) Descrição: IMÓVEL DE MATRÍCULA 207 DO CARTÓRIO DO 2º OFÍCIO DE REGISTRO DE IMÓVEIS DE MARITUBA DE ANANINDEUA-PA, ASSIM DESCRITO: Casa, com área construída de 277,86m² e terreno com área de 3.150,00m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 1130110086001 Localização: Passagem Sol Nascente, 618, Pato Macho, Ananindeua-PA, CEP 67033-280 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 3.047.684,02 (três milhões quarenta e sete mil seiscentos e oitenta e quatro reais e dois centavos) Lance mínimo para arrematação em 2º leilão: R$ 2.381.459,04 (dois milhões, trezentos e oitenta e um mil, quatrocentos e cinquenta e nove reais e quatro centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "207",
+      "registry_office": "CARTÓRIO DO 2º OFÍCIO DE REGISTRO DE IMÓVEIS DE MARITUBA DE ANANINDEUA-PA",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27741",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11987_1.jpg"
+      ],
+      "latitude": -1.371297,
+      "longitude": -48.363937,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12015",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12015",
+      "external_reference": null,
+      "city": "Santa Rita",
+      "state": "PA",
+      "address": "R. do Mutirão (R. Projetada), 12, Casa 54, LT PR-07, QD 18, Lot. Vale de Distrito de Várzea Nova, Santa Rita-PB, CEP 58300-800",
+      "asking_price": 107478.76,
+      "price_display": "R$ 107.478,76",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 107478.76,
+      "second_auction_minimum_bid": 123908.48,
+      "description": "Nº DO BEM: 525487902 SANTA RITA (PB) Descrição: IMÓVEL DE MATRÍCULA 48.875 DO REGISTRO DE IMÓVEIS DA CIDADE DE SANTA RITA-PB, ASSIM DESCRITO: Casa 54, com área real privativa de 62,00m² e respectivo terreno com área total de 151,50m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 0801801130000054 Localização: R. do Mutirão (R. Projetada), 12, Casa 54, LT PR-07, QD 18, Lot. Vale de Distrito de Várzea Nova, Santa Rita-PB, CEP 58300-800 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 107.478,76 (cento e sete mil quatrocentos e setenta e oito reais e setenta e seis centavos) Lance mínimo para arrematação em 2º leilão: R$ 123.908,48 (cento e vinte e três mil, novecentos e oito reais e quarenta e oito centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "48.875",
+      "registry_office": "REGISTRO DE IMÓVEIS DA CIDADE DE SANTA RITA-PB",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27769",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12015_1.jpg"
+      ],
+      "latitude": -7.122999,
+      "longitude": -34.97939,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12189",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12189",
+      "external_reference": "96328",
+      "city": "Curuçá",
+      "state": "PA",
+      "address": "Rua Maria da Glória, Lote 02, Bairro Rodoviário",
+      "asking_price": null,
+      "price_display": "Aceita BB?",
+      "sale_modality_hint": "aceita_bb",
+      "auction_date_raw": "13/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID96328 CURUÇÁ (PA) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Maria da Glória, Lote 02, Bairro Rodoviário, Município de Curuçá - PA. Melhor descrito na matrícula 1079 do Cartório do Único Ofício de Curuçá - PA. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "1079",
+      "registry_office": "Cartório do Único Ofício de Curuçá - PA",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27919",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12189_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12189_2.jpeg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12189_3.jpg"
+      ],
+      "latitude": -0.7351834,
+      "longitude": -47.8590677,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12190",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12190",
+      "external_reference": "97445",
+      "city": "Ipixuna do Pará",
+      "state": "PA",
+      "address": "Travessa Padre José de Anchieta, s/nº, Setor 05, Quadra 08, Lote 230-casa A, Bairro Vila Nova",
+      "asking_price": null,
+      "price_display": "Aceita BB?",
+      "sale_modality_hint": "aceita_bb",
+      "auction_date_raw": "13/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID97445 IPIXUNA DO PARÁ (PA) Descrição legal: Imóvel Urbano Residencial, Casa A situada na Travessa Padre José de Anchieta, s/nº, Setor 05, Quadra 08, Lote 230-casa A, Bairro Vila Nova, Município de Ipixuna do Pará - PA. Melhor descrito na matrícula 5855 do Cartório do Único Ofício de São Domingos do Capim - PA. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente; b) A titularidade do IPTU encontra-se atualmente em nome de terceiros, cabendo ao arrematante a obrigação de promover, após a arrematação, a devida atualização cadastral e a transferência da titularidade para o seu nome junto ao órgão municipal competente, arcando integralmente com todas as providências, custos e eventuais despesas necessárias à regularização. Os valores de IPTU eventualmente devidos serão tratados conforme o disposto no item 16.7 deste Edital.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "5855",
+      "registry_office": "Cartório do Único Ofício de São Domingos do Capim - PA",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27920",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12190_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12190_2.jpeg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12190_3.jpg"
+      ],
+      "latitude": -2.558181,
+      "longitude": -47.494864,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12267",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12267",
+      "external_reference": "75417",
+      "city": "Belém",
+      "state": "PA",
+      "address": null,
+      "asking_price": 5843398.0,
+      "price_display": "R$ 5.843.398,00",
+      "sale_modality_hint": null,
+      "auction_date_raw": "20/10/2026 a partir das 11h00",
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID75417 BELÉM (PA) Descrição legal: Imóvel Urbano: Prédio Comercial situado Rua Deodoro de Mendonça, 398, Belém (PA). Melhor descrito na Matrícula 392141 2° do CRI de Belém (PA). a) Do imóvel adquirido na presente licitação serão obrigatoriamente locados ao BANCO do Brasil S/A, por meio de Contrato de Locação (Anexo 8), a área a ser locada para o Banco corresponde área ocupada pelo Banco do Brasil. Área total em uso pelo BB 678 m², Subdividida em : Pavimento Térreo com área de 678 m². b) O adquirente se submete às todos os itens previstas na Cláusula 3.1 do ANEXO 7 deste edital; c) A venda do imóvel será realizada de forma integral, acompanhada da celebração simultânea de contrato de locação parcial. O Banco permanecerá como locatário das áreas atualmente em uso, conforme especificado no item a; d) Prazo da Locação: (por até 60 meses); e) Valor de locação inicialmente estabelecido será de R$ 28.500,00; f) Caberá ao arrematante ás suas custas o desmembramento físico da área ociosa com isolamento total em alvenaria do acesso interno e abertura de acesso externo independente, a individualização da água e energia, e, a constituição de condomínio. g) Caberá ao arrematante, às suas custas e após a compra, quaisquer providências por eventual necessidade de desembaraço e regularização documental do imóvel arrematado, como a averbação da área da edificação na matrícula do imóvel e no cadastro na Prefeitura, entre outros. h) Caberá ao arrematante a atualização do AVCB (auto de vistoria do corpo de bombeiros), bem como todas as custas e emolumentos necessários para a obtenção do documento são de responsabilidade do arrematante. i) Caberá ao arrematante todas as custas e providencias para a segregação da água e da energia elétrica, e, a constituição de condomínio.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": null,
+      "registry_number": "392141",
+      "registry_office": null,
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27995",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12267_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12267_2.jpg"
+      ],
+      "latitude": -1.451385,
+      "longitude": -48.467075,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "2329",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/2329",
+      "external_reference": "99170",
+      "city": "Castanhal",
+      "state": "PA",
+      "address": null,
+      "asking_price": 36753.66,
+      "price_display": "R$ 36.753,66",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID99170CASTANHAL (PA) Casa Residencial loteamento Costa do Atlântico\", melhor descrito na matrícula 25049 do CRI de Castanhal -PA. Status da Ocupação: Ocupado. Considerações Importantes: O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "25049",
+      "registry_office": "CRI de Castanhal -PA",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/354",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/2329_1.jpg"
+      ],
+      "latitude": -1.2935408,
+      "longitude": -47.9245897,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "7085",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/7085",
+      "external_reference": "91092",
+      "city": "Ipixuna do Pará",
+      "state": "PA",
+      "address": null,
+      "asking_price": 25980.0,
+      "price_display": "R$ 25.980,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID91092IPIXUNA DO PARÁ (PA) Construção residencial e respectivo terreno urbano quadra 05, S-05, lote 06, melhor descrito e caracterizado na matrícula 5764 do Cartório do Ofício Único de São Domingos do Capim e Ipixuna do Pará/PA. Status da Ocupação: Ocupado. O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "5764",
+      "registry_office": "Cartório do Ofício Único de São Domingos do Capim e Ipixuna do Pará/PA",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/168",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/7085_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/7085_2.jpg"
+      ],
+      "latitude": -4.9166036,
+      "longitude": -49.0826237,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "7087",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/7087",
+      "external_reference": "93195",
+      "city": "Santa Bárbara do Pará",
+      "state": "PA",
+      "address": null,
+      "asking_price": 18700.0,
+      "price_display": "R$ 18.700,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID93195 SANTA BÁRBARA DO PARÁ (PA)Residência e respectivo lote nº 06 (seis) da quadra 03 (três), integrante do loteamento denominado RESIDENCIAL DO TOM, com área de 128,00m², melhor descrito e caracterizado na matrícula 2880 do Cartório de Registro de Imóveis do Ofício Único de Benevides/PA. Status da Ocupação: Ocupado. O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "2880",
+      "registry_office": "Cartório de Registro de Imóveis do Ofício Único de Benevides/PA",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/235",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/7087_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/7087_2.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/7087_3.jpg"
+      ],
+      "latitude": -1.2493075,
+      "longitude": -48.2766859,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "7091",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/7091",
+      "external_reference": "99169",
+      "city": "Castanhal",
+      "state": "PA",
+      "address": null,
+      "asking_price": 26205.08,
+      "price_display": "R$ 26.205,08",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID99169 CASTANHAL (PA)Casa Residencial, melhor descrito na matrícula 27978 do CRI de Castanhal -PA. Status da Ocupação: Ocupado.Considerações Importantes: O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "27978",
+      "registry_office": "CRI de Castanhal -PA",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/352",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/7091_1.jpg"
+      ],
+      "latitude": -1.2823448,
+      "longitude": -47.9341889,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    }
+  ]
+}

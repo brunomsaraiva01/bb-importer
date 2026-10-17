@@ -1,0 +1,829 @@
+{
+  "imoveis": [
+    {
+      "source_type": "bb",
+      "source_external_id": "10593",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/10593",
+      "external_reference": "91083",
+      "city": "Monção",
+      "state": "MA",
+      "address": null,
+      "asking_price": 19260.0,
+      "price_display": "R$ 19.260,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID91083 MONCAO (MA)Casa com garagem, 01 (uma) sala, 02 (dois) quartos, 01 (uma) copa cozinha e 01 (um) banheiro rotativo, totalizando uma área construída de 70,00m² e respectivo lote de terra com área de 150,75m², melhor descrito e caracterizado na matrícula 2392 do Tabelionato do Ofício Único da Comarca de Monção/MA. Status da Ocupação: Ocupado. Endereço: Rua Projetada 01, nº. 05 - Bairro Centro - Monção/MA. Considerações Importantes: O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "2392",
+      "registry_office": "Tabelionato do Ofício Único da Comarca de Monção/MA",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/153",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/10593_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10593_2.jpg"
+      ],
+      "latitude": -5.5233594,
+      "longitude": -47.4907295,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "10594",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/10594",
+      "external_reference": "91273",
+      "city": "Monção",
+      "state": "MA",
+      "address": null,
+      "asking_price": 20310.0,
+      "price_display": "R$ 20.310,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID91273 MONCAO (MA)Casa com as seguintes dependências: garagem, varanda, 01 (uma) sala, 02 (dois) quartos, 01 (uma) copa cozinha e 01 (um) banheiro rotativo, totalizando uma área construída de 70,00m² e respectivo lote de terra de número 02 da quadra 02 com área de 300,10m², melhor descrito e caracterizado na matrícula 2190 do Tabelionato do Ofício Único da Comarca de Monção/MA. Status da Ocupação: Ocupado. Endereço: Rua Tufilândia, S/N, Quadra 02, Lote 02 - Bairro Loteamento Nova Monção - Monção/MA. Considerações Importantes: O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "2190",
+      "registry_office": "Tabelionato do Ofício Único da Comarca de Monção/MA",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/155",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/10594_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10594_2.jpg"
+      ],
+      "latitude": -3.6753,
+      "longitude": -45.6302872,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "10642",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/10642",
+      "external_reference": "90737",
+      "city": "Monção",
+      "state": "MA",
+      "address": null,
+      "asking_price": 19300.0,
+      "price_display": "R$ 19.300,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID90737 MONÇÃO (MA)Casa residencial, construção esta de alvenaria de tijolo, rebocada e pintada, forra de gesso, teto de madeira serrada, piso em cerâmica, portas de madeira, trabalhadas e janelas de vidros, com as seguintes dependências: garagem 01 (uma) sala, 02 (dois) quartos, 01 (uma) copa cozinha e 01 (um) banheiro rotativo, com área construída de 70,00m² e respectivo lote de número 05, com área de 243,00m², melhor descrito e caracterizado na matricula 2441 do Tabelionato do Oficio Único da Comarca de Monção/MA.a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "2441",
+      "registry_office": "Tabelionato do Oficio Único da Comarca de Monção/MA",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/53",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/10642_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10642_2.jpg"
+      ],
+      "latitude": -3.4892408,
+      "longitude": -45.2506993,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11135",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11135",
+      "external_reference": "100656",
+      "city": "Maracaçumé",
+      "state": "MA",
+      "address": "Rua 13 de Maio 81 - Mangueira",
+      "asking_price": 92160.0,
+      "price_display": "R$ 92.160,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID100656 MARACAÇUMÉ(MA) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua 13 de Maio 81 - Mangueira, Município de Maracaçumé/MA. Melhor descrito na matrícula 1727 do Serviço do Cartório de Maracaçumé/MA. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "1727",
+      "registry_office": "Serviço do Cartório de Maracaçumé/MA",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/14797",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11135_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/11135_2.jpg"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11238",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11238",
+      "external_reference": "100022",
+      "city": "Paraibano",
+      "state": "MA",
+      "address": "Rua Irma Gema, nº 142, Centro",
+      "asking_price": 51000.0,
+      "price_display": "R$ 51.000,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID100022PARAIBANO (MA)Imóvel Urbano: Residência com área construída de 60,00m², dentro de um terreno com área de 138,00m², situada na Rua Irma Gema, nº 142, Centro, município de Paraibano - MA. Melhor descrita na matrícula nº 1366 do Cartório do 1º Ofício Extrajudicial de Paraibano - MA. Status da Ocupação: Ocupado. O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente. Imóvel foreiro",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "1366",
+      "registry_office": "Cartório do 1º Ofício Extrajudicial de Paraibano - MA",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/14831",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11238_1.png"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11241",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11241",
+      "external_reference": "99795",
+      "city": "Capinzal do Norte",
+      "state": "MA",
+      "address": "Travessa 03, Lote nº 45 da Quadra nº 03, do Loteamento Zona Norte",
+      "asking_price": 46035.0,
+      "price_display": "R$ 46.035,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID99795 CAPINZAL DO NORTE (MA)Imóvel Urbano: Residência com área construída de 53,80m², dentro de um terreno com área de 160,00m², situada na Travessa 03, Lote nº 45 da Quadra nº 03, do Loteamento Zona Norte, município de Capinzal do Norte - MA. Melhor descrita na matrícula nº 307, da Serventia Extrajudicial de Ofício de Capinzal do Norte - MA. Status da Ocupação: Ocupado. O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "307",
+      "registry_office": null,
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/14834",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11241_1.png"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11243",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11243",
+      "external_reference": "100597",
+      "city": "Governador Archer",
+      "state": "MA",
+      "address": "Travessa Tiradentes, 02, Centro",
+      "asking_price": 29450.0,
+      "price_display": "R$ 29.450,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID100597 GOVERNADOR ARCHER (MA)Imóvel Urbano: Residência com área construída de 70,00m², dentro de um terreno com área de 300,00m², situada na Travessa Tiradentes, 02, Centro, município de Governador Archer/MA. Melhor descrito na matrícula n² 1981 do Cartório do Ofício Único de Governador Archer/MA. O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": null,
+      "registry_office": null,
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/14836",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11243_1.png",
+        "https://www.seuimovelbb.com.br/imagem/imovel/11243_2.png"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11244",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11244",
+      "external_reference": "99968",
+      "city": "Presidente Sarney",
+      "state": "MA",
+      "address": "Rua do Hospital, Lote 08, Boa Esperança",
+      "asking_price": 28320.0,
+      "price_display": "R$ 28.320,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "Descrição: ID99968 Imóvel Urbano: Residência com área construída de 70,00m², dentro de um terreno com área de 12,50m², situada na Rua do Hospital, Lote 08, Boa Esperança, município de Presidente Sarney - MA. Melhor descrita na matrícula nº 211 da Serventia Extrajudicial de Presidente Sarney - MA. Status da Ocupação: Ocupado. O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "211",
+      "registry_office": "Serventia Extrajudicial de Presidente Sarney - MA",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/14837",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11244_1.png"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11320",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11320",
+      "external_reference": "100129",
+      "city": "Apicum-Açu",
+      "state": "MA",
+      "address": "Travessa Firmino Oliveira, nº 11, Centro",
+      "asking_price": 34200.0,
+      "price_display": "R$ 34.200,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID100129 APICUM-AÇU(MA) Descrição legal: Imóvel Urbano: Residência com área construída de 74,81m², dentro de um terreno com área de 82,79, situada na Travessa Firmino Oliveira, nº 11, Centro, município de Apicum-Açu - MA. Melhor descrito na matrícula nº 198 da Serventia Extrajudicial de Apicum-Açu - MA. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "198",
+      "registry_office": "Serventia Extrajudicial de Apicum-Açu - MA",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/14878",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11320_1.png",
+        "https://www.seuimovelbb.com.br/imagem/imovel/11320_2.png"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11673",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11673",
+      "external_reference": "101323",
+      "city": "Santa Luzia do Paruá",
+      "state": "MA",
+      "address": "Rua Tamandaré, nº 114, Bairro Lacerda",
+      "asking_price": 35000.0,
+      "price_display": "R$ 35.000,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID101323 SANTA LUZIA DO PARUÁ (MA) Descrição legal: Descrição legal: Imóvel Urbano: Residência com área construída de 64,80m² em terreno de 140,00m², situada na Rua Tamandaré, nº 114, Bairro Lacerda, Município de Santa Luzia do Paruá - MA. Melhor descrita na matrícula 2691 do Cartório Extrajudicial do 1º Ofício de Santa Luzia do Paruá - MA. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "2691",
+      "registry_office": "Cartório Extrajudicial do 1º Ofício de Santa Luzia do Paruá - MA",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/14996",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11673_1.png"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11733",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11733",
+      "external_reference": "100903",
+      "city": "Grajaú",
+      "state": "MA",
+      "address": "Rua Ornilo Martins Jorge, Lote 22, Quadra 66",
+      "asking_price": 118580.0,
+      "price_display": "R$ 118.580,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID100903 GRAJAÚ (MA) Descrição legal: Imóvel Urbano Residencial, Casa localizada no Condomínio Residencial Vila Esperança, situada na Rua Ornilo Martins Jorge, Lote 22, Quadra 66, Município de Grajaú - MA. Melhor descrito na matrícula 15727 do 1º Ofício de Registro de Imóveis de Grajaú - MA. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente; b) A titularidade do IPTU encontra-se atualmente em nome de terceiros, cabendo ao arrematante a obrigação de promover, após a arrematação, a devida atualização cadastral e a transferência da titularidade para o seu nome junto ao órgão municipal competente, arcando integralmente com todas as providências, custos e eventuais despesas necessárias à regularização. Os valores de IPTU eventualmente devidos serão tratados conforme o disposto no item 16.7 deste Edital; c) A titularidade do Condomínio encontra-se atualmente em nome de terceiros, cabendo ao arrematante a obrigação de promover, após a arrematação, a devida atualização cadastral e a transferência da titularidade para o seu nome junto ao condomínio, arcando integralmente com todas as providências, custos e eventuais despesas necessárias à regularização. Os valores de condomínio eventualmente devidos serão tratados conforme o disposto no item 16.7 deste Edital.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "15727",
+      "registry_office": "1º Ofício de Registro de Imóveis de Grajaú - MA",
+      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=27293",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11733_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/11733_2.jpg"
+      ],
+      "latitude": -5.794549,
+      "longitude": -46.163354,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11949",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11949",
+      "external_reference": null,
+      "city": "Chapadinha",
+      "state": "MA",
+      "address": "Av. São José de Ribamar 38, Boa Vista, Chapadinha-MA, CEP 65500-000",
+      "asking_price": 811657.38,
+      "price_display": "R$ 811.657,38",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 811657.38,
+      "second_auction_minimum_bid": 625572.37,
+      "description": "Nº DO BEM: 542556196 CHAPADINHA (MA) Descrição: IMÓVEL DE MATRÍCULA 11.334 DO CARTÓRIO DO PRIMEIRO OFÍCIO DE CHAPADINHA-MA, ASSIM DESCRITO: Casa, com área construída de 337,86m² e terreno com área total de 500,00m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 01-01-004-0038-000 Localização: Av. São José de Ribamar 38, Boa Vista, Chapadinha-MA, CEP 65500-000 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 811.657,38 (oitocentos e onze mil seiscentos e cinquenta e sete reais e trinta e oito centavos) Lance mínimo para arrematação em 2º leilão: R$ 625.572,37 (seiscentos e vinte e cinco mil, quinhentos e setenta e dois reais e trinta e sete centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "11.334",
+      "registry_office": "CARTÓRIO DO PRIMEIRO OFÍCIO DE CHAPADINHA-MA",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27703",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11949_1.jpg"
+      ],
+      "latitude": -2.488494,
+      "longitude": -44.188972,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11950",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11950",
+      "external_reference": null,
+      "city": "Cururupu",
+      "state": "MA",
+      "address": "Tv. Projetada 03, LT 73, Unidade 72, Areia Branca, Cururupu-MA, CEP 65268-000",
+      "asking_price": 152318.84,
+      "price_display": "R$ 152.318,84",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 152318.84,
+      "second_auction_minimum_bid": 141697.5,
+      "description": "Nº DO BEM: 528255130 CURURUPU (MA) Descrição: IMÓVEL DE MATRÍCULA 1.242 DO 1º OFÍCIO DE CURURUPU-MA, ASSIM DESCRITO: Casa, com área construída de 70,00m² e respectivo terreno com área total de 126,00m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 112514 Localização: Tv. Projetada 03, LT 73, Unidade 72, Areia Branca, Cururupu-MA, CEP 65268-000 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 152.318,84 (cento e cinquenta e dois mil trezentos e dezoito reais e oitenta e quatro centavos) Lance mínimo para arrematação em 2º leilão: R$ 141.697,50 (cento e quarenta e um mil, seiscentos e noventa e sete reais e cinquenta centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "1.242",
+      "registry_office": "1º OFÍCIO DE CURURUPU-MA",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27704",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11950_1.jpg"
+      ],
+      "latitude": -1.822422,
+      "longitude": -44.879039,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11951",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11951",
+      "external_reference": null,
+      "city": "Imperatriz",
+      "state": "MA",
+      "address": "Rua El Salvador, nº 08, Lt.08, Qd.434, Jardim América II, Imperatriz-MA, CEP: 65914-772.",
+      "asking_price": 133670.35,
+      "price_display": "R$ 133.670,35",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 133670.35,
+      "second_auction_minimum_bid": 155571.08,
+      "description": "Nº DO BEM: 524533758 IMPERATRIZ (MA) Descrição: IMÓVEL DE MATRÍCULA 30.097 DO 7º OFÍCIO EXTRAJUDICIAL REGISTRO DE IMÓVEIS - 2ª ZONA DE IMPERATRIZ-MA, ASSIM DESCRITO: Casa nº 08, com área construída de 55,94m2 em terreno com área total de 144,00m2, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 85.07.434.0437.000 Localização: Rua El Salvador, nº 08, Lt.08, Qd.434, Jardim América II, Imperatriz-MA, CEP: 65914-772. Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 133.670,35 (cento e trinta e três mil seiscentos e setenta reais e trinta e cinco centavos) Lance mínimo para arrematação em 2º leilão: R$ 155.571,08 (cento e cinquenta e cinco mil, quinhentos e setenta e um reais e oito centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "30.097",
+      "registry_office": "7º OFÍCIO EXTRAJUDICIAL REGISTRO DE IMÓVEIS - 2ª ZONA DE IMPERATRIZ-MA",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27705",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11951_1.jpg"
+      ],
+      "latitude": -5.496105,
+      "longitude": -47.445089,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11952",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11952",
+      "external_reference": null,
+      "city": "Pinheiro",
+      "state": "MA",
+      "address": "R. Projetada, 49, Miolo, Pinheiro-MA, CEP 65200-000",
+      "asking_price": 139017.17,
+      "price_display": "R$ 139.017,17",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 139017.17,
+      "second_auction_minimum_bid": 132623.7,
+      "description": "Nº DO BEM: 531434965 PINHEIRO (MA) Descrição: IMÓVEL DE MATRÍCULA 10.058 DO 1º OFÍCIO DE PINHEIRO-MA, ASSIM DESCRITO: Casa nº 49, com área construída de 70,00m² e respectivo terreno com área total de 130,53m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 1000104070048999936 Localização: R. Projetada, 49, Miolo, Pinheiro-MA, CEP 65200-000 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 139.017,17 (cento e trinta e nove mil e dezessete reais e dezessete centavos) Lance mínimo para arrematação em 2º leilão: R$ 132.623,70 (cento e trinta e dois mil, seiscentos e vinte e três reais e setenta centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "10.058",
+      "registry_office": "1º OFÍCIO DE PINHEIRO-MA",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27706",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11952_1.jpg"
+      ],
+      "latitude": -9.60157,
+      "longitude": -35.721657,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11953",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11953",
+      "external_reference": null,
+      "city": "Pinheiro",
+      "state": "MA",
+      "address": "R. do Angelim, Casa 28, Res. São Francisco, Pedrinhas dos Fugaças, Pinheiro-MA, CEP 65200-000",
+      "asking_price": 122976.72,
+      "price_display": "R$ 122.976,72",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 122976.72,
+      "second_auction_minimum_bid": 129334.38,
+      "description": "Nº DO BEM: 530133201 PINHEIRO (MA) Descrição: IMÓVEL DE MATRÍCULA 9.878 DO 1º OFÍCIO DE PINHEIRO-MA, ASSIM DESCRITO: Casa nº 28, com área construída de 69,95m² e respectivo terreno com área total de 125,12m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 1000104070028000000 Localização: R. do Angelim, Casa 28, Res. São Francisco, Pedrinhas dos Fugaças, Pinheiro-MA, CEP 65200-000 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 122.976,72 (cento e vinte e dois mil novecentos e setenta e seis reais e setenta e dois centavos) Lance mínimo para arrematação em 2º leilão: R$ 129.334,38 (cento e vinte e nove mil, trezentos e trinta e quatro reais e trinta e oito centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "9.878",
+      "registry_office": "1º OFÍCIO DE PINHEIRO-MA",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27707",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11953_1.jpg"
+      ],
+      "latitude": -2.539583,
+      "longitude": -45.098969,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11954",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11954",
+      "external_reference": null,
+      "city": "São Luís",
+      "state": "MA",
+      "address": "Estr. de Ribamar, KM-03, Unidade 34, T C8, Cond. Res. Vitória São Luís, Forquilha, São Luís-MA, CEP 65054-005",
+      "asking_price": 135000.0,
+      "price_display": "R$ 135.000,00",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 135000.0,
+      "second_auction_minimum_bid": 117295.43,
+      "description": "Nº DO BEM: 522066523 SÃO LUÍS (MA) Descrição: IMÓVEL DE MATRÍCULA 51.281 DO 2º REGISTRO DE IMÓVEIS DE SÃO LUÍS-MA, ASSIM DESCRITO: Apartamento nº 34, com área privativa de 42,90m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 23060453005109560 Localização: Estr. de Ribamar, KM-03, Unidade 34, T C8, Cond. Res. Vitória São Luís, Forquilha, São Luís-MA, CEP 65054-005 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 135.000,00 (cento e trinta e cinco mil reais) Lance mínimo para arrematação em 2º leilão: R$ 117.295,43 (cento e dezessete mil, duzentos e noventa e cinco reais e quarenta e três centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "51.281",
+      "registry_office": "2º REGISTRO DE IMÓVEIS DE SÃO LUÍS-MA",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27708",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11954_1.jpg"
+      ],
+      "latitude": -2.550657,
+      "longitude": -44.124039,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11955",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11955",
+      "external_reference": null,
+      "city": "Sucupira do Norte",
+      "state": "MA",
+      "address": "R. 2 de Novembro, 244, Centro, Sucupira do Norte-MA, CEP 65860-000",
+      "asking_price": 117629.91,
+      "price_display": "R$ 117.629,91",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 117629.91,
+      "second_auction_minimum_bid": 103957.83,
+      "description": "Nº DO BEM: 532937472 SUCUPIRA DO NORTE (MA) Descrição: IMÓVEL DE MATRÍCULA 1.115 DA SERVENTIA EXTRAJUDICIAL DE SUCUPIRA DO NORTE-MA, ASSIM DESCRITO: Casa, com área construída de 69,46m² e respectivo terreno com área total de 170,61m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 000 Localização: R. 2 de Novembro, 244, Centro, Sucupira do Norte-MA, CEP 65860-000 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 117.629,91 (cento e dezessete mil seiscentos e vinte e nove reais e noventa e um centavos) Lance mínimo para arrematação em 2º leilão: R$ 103.957,83 (cento e três mil, novecentos e cinquenta e sete reais e oitenta e três centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "1.115",
+      "registry_office": "SERVENTIA EXTRAJUDICIAL DE SUCUPIRA DO NORTE-MA",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27709",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11955_1.jpg"
+      ],
+      "latitude": -6.47529,
+      "longitude": -44.192443,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12185",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12185",
+      "external_reference": "94868",
+      "city": "Santa Luzia do Paruá",
+      "state": "MA",
+      "address": "Rua Castanheira, nº 17, Bairro Vila Verde",
+      "asking_price": null,
+      "price_display": "Aceita BB?",
+      "sale_modality_hint": "aceita_bb",
+      "auction_date_raw": "13/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID94868 SANTA LUZIA DO PARUÁ (MA) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Castanheira, nº 17, Bairro Vila Verde, Município de Santa Luzia do Paruá MA. Melhor descrito na matrícula 2377 do 1º Ofício de Santa Luzia do Paruá - MA. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "2377",
+      "registry_office": "1º Ofício de Santa Luzia do Paruá - MA",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27915",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12185_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12185_2.jpeg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12185_3.jpg"
+      ],
+      "latitude": -2.5440774,
+      "longitude": -45.7754197,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "7293",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/7293",
+      "external_reference": "99434",
+      "city": "Sucupira do Norte",
+      "state": "MA",
+      "address": "Rua José de Ribamar Jolé II, Lote 09, Quadra A, Residencial Andrelina Raposo, Centro",
+      "asking_price": 81100.0,
+      "price_display": "R$ 81.100,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID99434 SUCUPIRA DO NORTE (MA)Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua José de Ribamar Jolé II, Lote 09, Quadra A, Residencial Andrelina Raposo, Centro, Município de Sucupira do Norte - MA. Melhor descrito na matrícula 1409 da Serventia Extrajudicial de Sucupira do Norte - MA. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente; b) A titularidade do IPTU está em nome de terceiros; eventuais procedimentos e despesas para a regularização da pendência ficarão por conta do adquirente; c) O levantamento das despesas de Condomínio e IPTU deverão ser realizadas pelo arrematante e encaminhadas ao Banco do Brasil S/A para que seja realizado o pagamento. Não será realizado o reembolso em nenhuma hipótese caso o comprador pague os débitos.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "1409",
+      "registry_office": "Serventia Extrajudicial de Sucupira do Norte - MA",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/14596",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/7293_1.jpg"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "7294",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/7294",
+      "external_reference": "99440",
+      "city": "Sucupira do Norte",
+      "state": "MA",
+      "address": "Rua José de Ribamar Jolé II, Lote 07, Quadra A, Residencial Andrelina Raposo, Centro",
+      "asking_price": 76000.0,
+      "price_display": "R$ 76.000,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID99440 Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua José de Ribamar Jolé II, Lote 07, Quadra A, Residencial Andrelina Raposo, Centro, Município de Sucupira do Norte - MA. Melhor descrito na matrícula 1407 da Serventia Extrajudicial de Sucupira do Norte - MA. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente; b) A titularidade do IPTU está em nome de terceiros; eventuais procedimentos e despesas para a regularização da pendência ficarão por conta do adquirente; c) O levantamento das despesas de Condomínio e IPTU deverão ser realizadas pelo arrematante e encaminhadas ao Banco do Brasil S/A para que seja realizado o pagamento. Não será realizado o reembolso em nenhuma hipótese caso o comprador pague os débitos.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "1407",
+      "registry_office": "Serventia Extrajudicial de Sucupira do Norte - MA",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/14597",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/7294_1.jpg"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "7295",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/7295",
+      "external_reference": "99851",
+      "city": "Chapadinha",
+      "state": "MA",
+      "address": "Rua Edésio Vieira, nº 16 (Antigo 642), Bairro Corrente",
+      "asking_price": 170000.0,
+      "price_display": "R$ 170.000,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID99851Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Edésio Vieira, nº 16 (Antigo 642), Bairro Corrente, Município de Chapadinha - MA. Melhor descrito na matrícula 11807 do Cartório do Primeiro Ofício de Chapadinha - MA. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "11807",
+      "registry_office": "Cartório do Primeiro Ofício de Chapadinha - MA",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/14590",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/7295_1.jpg"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "7296",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/7296",
+      "external_reference": "99974",
+      "city": "Santa Luzia do Paruá",
+      "state": "MA",
+      "address": "Rua Oswaldo Cruz, nº 86, Bairro Lacerda",
+      "asking_price": 56000.0,
+      "price_display": "R$ 56.000,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID99974 Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Oswaldo Cruz, nº 86, Bairro Lacerda, Município de Santa Luzia do Paruá - MA. Melhor descrito na matrícula 2611 do Cartório Extrajudicial 1º Ofício de Santa Luzia do Paruá - MA. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "2611",
+      "registry_office": "Cartório Extrajudicial 1º Ofício de Santa Luzia do Paruá - MA",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/14594",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/7296_1.jpg"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "7297",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/7297",
+      "external_reference": "99993",
+      "city": "Santa Luzia do Paruá",
+      "state": "MA",
+      "address": "Travessa Sousa Lima, n° 03, Bairro Lacerda",
+      "asking_price": 59200.0,
+      "price_display": "R$ 59.200,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID99993 Descrição legal: Imóvel Urbano Residencial, Casa situada na Travessa Sousa Lima, n° 03, Bairro Lacerda, Município de Santa Luzia do Paruá - MA. Melhor descrito na matrícula 2591 do Cartório Extrajudicial 1º Ofício de Santa Luzia do Paruá - MA. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "2591",
+      "registry_office": "Cartório Extrajudicial 1º Ofício de Santa Luzia do Paruá - MA",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/14595",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/7297_1.jpg"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    }
+  ]
+}

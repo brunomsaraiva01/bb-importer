@@ -1,0 +1,498 @@
+{
+  "imoveis": [
+    {
+      "source_type": "bb",
+      "source_external_id": "10533",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/10533",
+      "external_reference": "0791",
+      "city": "Joinville",
+      "state": "SC",
+      "address": "Rua Presidente Costa e Silva, nº 480, Bairro América",
+      "asking_price": 1576701.0,
+      "price_display": "R$ 1.576.701,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID0791 JOINVILLE (SC) Descrição legal: Imóvel Urbano Residencial, Terreno situado na Rua Presidente Costa e Silva, nº 480, Bairro América, Município de JOINVILLE - SC. Melhor descrito na matrícula 89783 do 1º Registro de Imóveis de Joinville - SC. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente; b) Existe AÇÃO DE USUCAPIÃO n° 00410518220108240038 no TJ-SC e o arrematante declara-se informado do fato e ciente de que a responsabilidade do BANCO por evicção está disciplinada neste Edital, conforme item 4.11 e seus subitens.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "89783",
+      "registry_office": "1º Registro de Imóveis de Joinville - SC",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/14704",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/10533_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10533_2.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10533_3.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10533_4.jpg"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "10636",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/10636",
+      "external_reference": "0790",
+      "city": "Joinville",
+      "state": "SC",
+      "address": "lado par da Rua Portugal, distando 59,60 metros da faixa de domínio da BR-101 Km 48",
+      "asking_price": 349200.0,
+      "price_display": "R$ 349.200,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID0790 JOINVILLE (SC) Descrição legal: Imóvel Urbano, Terreno de formato irregular situado no lado par da Rua Portugal, distando 59,60 metros da faixa de domínio da BR-101 Km 48, Município de Joinville - SC. Melhor descrito na matrícula nº 14003 da 2ª Circunscrição do Registro de Imóveis de Joinville - SC. a) Existe AÇÃO DE EXECUÇÃO n° 00341393520118240038 no TJ-SC e o arrematante declara-se informado do fato e ciente de que a responsabilidade do BANCO por evicção; b) Existe AÇÃO DE PENHORA DE TERCEIRO n° 00341393520118240038 no TJ-SC e o arrematante declara-se informado do fato e ciente de que a responsabilidade do BANCO por evicção está disciplinada neste Edital, conforme item 4.11 e seus subitens; c) Existe AÇÃO DE EXECUÇÃO n° 00010357719968240038 no TJ-SC .",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": null,
+      "registry_number": "14003",
+      "registry_office": "2ª Circunscrição do Registro de Imóveis de Joinville - SC",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/14739",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/10636_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10636_2.jpg"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11132",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11132",
+      "external_reference": "99512",
+      "city": "Trombudo Central",
+      "state": "SC",
+      "address": "Rua Gustavo Wloch, nº 48, Bairro Botafogo",
+      "asking_price": 79540.0,
+      "price_display": "R$ 79.540,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID99512 TROMBUDO CENTRAL (SC) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Gustavo Wloch, nº 48, Bairro Botafogo, Município de TROMBUDO CENTRAL - SC. Melhor descrito na matrícula 1764 do Ofício de Registro de Imóveis Comarca de Trombudo Central - SC. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "1764",
+      "registry_office": "Ofício de Registro de Imóveis Comarca de Trombudo Central - SC",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/14794",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11132_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/11132_2.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/11132_3.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/11132_4.jpg"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11664",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11664",
+      "external_reference": "101482",
+      "city": "Criciúma",
+      "state": "SC",
+      "address": "Avenida Centenário e Rua Princesa Isabel, nº 3935, Centro",
+      "asking_price": 261450.0,
+      "price_display": "R$ 261.450,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID101482 CRICIÚMA (SC) Descrição legal: Imóvel Urbano Residencial, Apartamento nº201, situado na Avenida Centenário e Rua Princesa Isabel, nº 3935, Centro, Município de Criciúma - SC. Melhor descrito na matrícula 39003 do 1º Ofício de Registro de Imóveis de Criciúma - SC. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente;uirente;",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "39003",
+      "registry_office": "1º Ofício de Registro de Imóveis de Criciúma - SC",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/14793",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11664_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/11664_2.jpg"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12087",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12087",
+      "external_reference": null,
+      "city": "Atalanta",
+      "state": "SC",
+      "address": "R. Werner May, 36 (atual 55), Lado Direito, AD 01, Centro, Atalanta-SC, CEP 88410-000",
+      "asking_price": 203178.93,
+      "price_display": "R$ 203.178,93",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 203178.93,
+      "second_auction_minimum_bid": 169567.63,
+      "description": "Nº DO BEM: 535106174 ITUPORANGA (SC) Descrição: IMÓVEL DE MATRÍCULA 24837 DO OFÍCIO DE REGISTRO DE IMÓVEIS DE ITUPORANGA-SC, ASSIM DESCRITO: Casa, com área construída de 120,00m² e respectivo terreno com área total de 312,50m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 01.01.018.0295.1 Localização: R. Werner May, 36 (atual 55), Lado Direito, AD 01, Centro, Atalanta-SC, CEP 88410-000 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 203.178,93 (duzentos e três mil cento e setenta e oito reais e noventa e três centavos) Lance mínimo para arrematação em 2º leilão: R$ 169.567,63 (cento e sessenta e nove mil, quinhentos e sessenta e sete reais e sessenta e três centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "24837",
+      "registry_office": "OFÍCIO DE REGISTRO DE IMÓVEIS DE ITUPORANGA-SC",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27841",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12087_1.jpg"
+      ],
+      "latitude": -27.421095,
+      "longitude": -49.77995,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12088",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12088",
+      "external_reference": null,
+      "city": "Brusque",
+      "state": "SC",
+      "address": "R. Sebastião Raiser e R. Veneza, 06, AP. 104, Res. Independência, Águas Claras, Brusque-SC, CEP 88353-667",
+      "asking_price": 320000.0,
+      "price_display": "R$ 320.000,00",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 320000.0,
+      "second_auction_minimum_bid": 207777.02,
+      "description": "Nº DO BEM: 530507419 BRUSQUE (SC) Descrição: IMÓVEL DE MATRÍCULA 88083 DO OFÍCIO DE REGISTRO DE IMÓVEIS DE BRUSQUE-SC, ASSIM DESCRITO: Apartamento nº 104, com área real privativa de 49,15m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 01.20.012.2987.004 Localização: R. Sebastião Raiser e R. Veneza, 06, AP. 104, Res. Independência, Águas Claras, Brusque-SC, CEP 88353-667 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Obs.3: Consta PENHORA conforme Av. 3 da matrícula, referente ao processo nº 5009790-07.2024.8.24.0011. Nos termos do § 11 do artigo 27 da Lei nº 9.514/97, os direitos reais de garantia ou constrições, tais como penhoras, arrestos, bloqueios e indisponibilidades de qualquer natureza incidentes sobre o direito real de aquisição do fiduciante, não impedem a consolidação da propriedade em nome do credor fiduciário nem a venda do imóvel para realização da garantia. Lance mínimo para arrematação em 1º leilão: R$ 320.000,00 (trezentos e vinte mil reais) Lance mínimo para arrematação em 2º leilão: R$ 207.777,02 (duzentos e sete mil, setecentos e setenta e sete reais e dois centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "88083",
+      "registry_office": "OFÍCIO DE REGISTRO DE IMÓVEIS DE BRUSQUE-SC",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27842",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12088_1.jpg"
+      ],
+      "latitude": -27.145296,
+      "longitude": -48.907327,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12089",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12089",
+      "external_reference": null,
+      "city": "Joinville",
+      "state": "SC",
+      "address": "R. Inambú, 4.000, AP. 301, BL 05, Res. Costa e Silva, Costa e Silva, Joinville-SC, CEP 89220-002",
+      "asking_price": 229600.0,
+      "price_display": "R$ 229.600,00",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 229600.0,
+      "second_auction_minimum_bid": 139391.48,
+      "description": "Nº DO BEM: 530723450 JOINVILLE (SC) Descrição: IMÓVEL DE MATRÍCULA 145331 DO 1º OFÍCIO DE REGISTRO DE IMÓVEIS DE JOINVILLE-SC, ASSIM DESCRITO: Apartamento nº 301, com área privativa de 54,60m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 0933150521820041 Localização: R. Inambú, 4.000, AP. 301, BL 05, Res. Costa e Silva, Costa e Silva, Joinville-SC, CEP 89220-002 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 229.600,00 (duzentos e vinte e nove mil e seiscentos reais) Lance mínimo para arrematação em 2º leilão: R$ 139.391,48 (cento e trinta e nove mil, trezentos e noventa e um reais e quarenta e oito centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "145331",
+      "registry_office": "1º OFÍCIO DE REGISTRO DE IMÓVEIS DE JOINVILLE-SC",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27843",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12089_1.jpg"
+      ],
+      "latitude": -26.268916,
+      "longitude": -48.890143,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12090",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12090",
+      "external_reference": null,
+      "city": "Joinville",
+      "state": "SC",
+      "address": "R. São Paulo, 3.712, AP. 105, BL 01, Spazio Jd. Do Sol, Petrópolis, Joinville-SC, CEP 89208-545",
+      "asking_price": 195693.39,
+      "price_display": "R$ 195.693,39",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 195693.39,
+      "second_auction_minimum_bid": 315931.36,
+      "description": "Nº DO BEM: 516022935 JOINVILLE (SC) Descrição: IMÓVEL DE MATRÍCULA 40252 DO 3º OFÍCIO DE REGISTRO DE IMÓVEIS DE JOINVILLE-SC, ASSIM DESCRITO: Apartamento nº 105, com área construída de utilização exclusiva de 43,47m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 1310341302710005 Localização: R. São Paulo, 3.712, AP. 105, BL 01, Spazio Jd. Do Sol, Petrópolis, Joinville-SC, CEP 89208-545 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 195.693,39 (cento e noventa e cinco mil seiscentos e noventa e três reais e trinta e nove centavos) Lance mínimo para arrematação em 2º leilão: R$ 315.931,36 (trezentos e quinze mil, novecentos e trinta e um reais e trinta e seis centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "40252",
+      "registry_office": "3º OFÍCIO DE REGISTRO DE IMÓVEIS DE JOINVILLE-SC",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27844",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12090_1.jpg"
+      ],
+      "latitude": -26.341106,
+      "longitude": -48.842128,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12091",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12091",
+      "external_reference": null,
+      "city": "Joinville",
+      "state": "SC",
+      "address": "R. São Gabriel Arcanjo, 102, Casa 03, Res. São Gabriel Arcanjo, Vila Nova, Joinville-SC, CEP 89237-180",
+      "asking_price": 326589.0,
+      "price_display": "R$ 326.589,00",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 326589.0,
+      "second_auction_minimum_bid": 158699.61,
+      "description": "Nº DO BEM: 530348750 JOINVILLE (SC) Descrição: IMÓVEL DE MATRÍCULA 51771 DO 2º OFÍCIO DE REGISTRO DE IMÓVEIS DE JOINVILLE-SC, ASSIM DESCRITO: Casa 03, com área privativa de 62,86m² e respectivo terreno com área de 89,10m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 923441011050003 Localização: R. São Gabriel Arcanjo, 102, Casa 03, Res. São Gabriel Arcanjo, Vila Nova, Joinville-SC, CEP 89237-180 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 326.589,00 (trezentos e vinte e seis mil quinhentos e oitenta e nove reais) Lance mínimo para arrematação em 2º leilão: R$ 158.699,61 (cento e cinquenta e oito mil, seiscentos e noventa e nove reais e sessenta e um centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "51771",
+      "registry_office": "2º OFÍCIO DE REGISTRO DE IMÓVEIS DE JOINVILLE-SC",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27845",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12091_1.jpg"
+      ],
+      "latitude": -26.29825,
+      "longitude": -48.897278,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12092",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12092",
+      "external_reference": null,
+      "city": "Joinville",
+      "state": "SC",
+      "address": "R. Hildo Novaes, 640, AP. 404, BL 10, Cond. Spazio Jd. de Hanover, Vila Nova, Joinville-SC, CEP 89237-345",
+      "asking_price": 217666.0,
+      "price_display": "R$ 217.666,00",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 217666.0,
+      "second_auction_minimum_bid": 178517.46,
+      "description": "Nº DO BEM: 542854083 JOINVILLE (SC) Descrição: IMÓVEL DE MATRÍCULA 48190 DO 2º OFÍCIO DE REGISTRO DE IMÓVEIS DE JOINVILLE-SC, ASSIM DESCRITO: Apartamento nº 404, com área construída privativa de utilização exclusiva de 41,85m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 0923440915460196 Localização: R. Hildo Novaes, 640, AP. 404, BL 10, Cond. Spazio Jd. de Hanover, Vila Nova, Joinville-SC, CEP 89237-345 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 217.666,00 (duzentos e dezessete mil seiscentos e sessenta e seis reais) Lance mínimo para arrematação em 2º leilão: R$ 178.517,46 (cento e setenta e oito mil, quinhentos e dezessete reais e quarenta e seis centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "48190",
+      "registry_office": "2º OFÍCIO DE REGISTRO DE IMÓVEIS DE JOINVILLE-SC",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27846",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12092_1.jpg"
+      ],
+      "latitude": -26.28967,
+      "longitude": -48.911722,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12129",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12129",
+      "external_reference": "102695",
+      "city": "Campos Novos",
+      "state": "SC",
+      "address": null,
+      "asking_price": 190000.0,
+      "price_display": "R$ 190.000,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID102695 CAMPOS NOVOS (SC) Descrição legal: Imóvel rural. Um terreno rural, situado no Imóvel Fazenda Pinheiro Seco, atualmente \" Fazenda Santa Izabel\", neste Município e Comarca de Campos Novos- SC com área superficial de 36.300,00 m² Imóvel melhor descrito na Matrícula nº 30032 , Folhas 01, do CRI da Comarca de Campos Novos - SC. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente, conforme item 16.8 deste Edital; b) Existem pendências para a regularização do CIB junto a Receita Federal do Brasil sobre o imóvel e o arrematante se declara informado do fato, ficando a regularização a cargo do arrematante. c) Existem pendências para a regularização do CCIR junto ao Incra sobre o imóvel e o arrematante se declara informado do fato, ficando a regularização a cargo do arrematante. d) Deverá o comprador verificar a necessidade de realizar GEORREFERENCIAMENTO da área, ficando a realização e registros cartorários, regularização junto aos órgãos competentes e a quitação dos débitos a cargo do arrematante. e) Existe pendência de averbação e regularização do CAR na matrícula e as providências de regularização junto ao (SICAR) Sistema Nacional de Cadastro Ambiental Rural, INCRA e Cartório de Registro de Imóveis competente correrão a cargo do adquirente que também deverá observar a legislação vigente sobre a área de preservação permanente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "30032",
+      "registry_office": null,
+      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=27548",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12129_1.png",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12129_2.jpeg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12129_3.jpeg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12129_4.jpeg"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12130",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12130",
+      "external_reference": "191",
+      "city": "Campo Belo do Sul",
+      "state": "SC",
+      "address": null,
+      "asking_price": 331400.0,
+      "price_display": "R$ 331.400,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID191 e 192 CERRO NEGRO (SC) Descrição legal: Imóvel rural. Área de terras com área total de 327,5525 Ha, cabendo ao BB a parte ideal de 46,4395Ha. na localidade de Pinheiros Ralos, no Município de Cerro Negro. Imóvel melhor descrito na Matrícula nº 614, Livro 02 às fls 01 do ORI da Comarca da Cidade de Campo Belo do Sul - SC. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente, conforme item 16.8 deste Edital; b) Existem débitos e pendências para a regularização do CCIR junto ao Incra sobre o imóvel e o arrematante se declara informado do fato, ficando a regularização e a quitação dos débitos a cargo do arrematante. c) Deverá o comprador verificar a necessidade de realizar GEORREFERENCIAMENTO da área, ficando a realização e registros cartorários, regularização junto aos órgãos competentes e a quitação dos débitos a cargo do arrematante. d) Existe pendência de averbação e regularização do CAR na matrícula e as providências de regularização junto ao (SICAR) Sistema Nacional de Cadastro Ambiental Rural, INCRA e Cartório de Registro de Imóveis competente correrão a cargo do adquirente que também deverá observar a legislação vigente sobre a área de preservação permanente. e) Existem débitos e pendências (área, titularidade e outros) para regularização do ITR e CAFIR, referente ao imóvel, junto à Receita Federal e o arrematante se declara informado do fato, ficando a regularização e a quitação dos débitos a cargo do adquirente; f) O imóvel possui coproprietário com direito de preferência na aquisição do bem, conforme item 4.9 deste Edital. g) Se necessário, o comprador deve realizar o DESMEMBRAMENTO da área, ficando a realização e registros cartorários, regularização junto aos órgãos competentes, quitação de débitos e outras exigências a cargo do arrematante.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "614",
+      "registry_office": null,
+      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=27549",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12130_1.jpeg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12130_2.jpeg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12130_3.jpeg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12130_4.jpeg"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12262",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12262",
+      "external_reference": "75227",
+      "city": "Campo Alegre",
+      "state": "SC",
+      "address": "RUA PE.LUIZ GILG,138 CENTRO- CAMPO ALEGRE - SC",
+      "asking_price": 2520000.0,
+      "price_display": "R$ 2.520.000,00",
+      "sale_modality_hint": null,
+      "auction_date_raw": "20/10/2026 a partir das 11h00",
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID75227 CAMPO ALEGRE (SC) Descrição legal: Imóvel Urbano: Prédio Comercial, situado na RUA PE.LUIZ GILG,138 CENTRO- CAMPO ALEGRE - SC. Melhor descrito na Matrícula 42.983 do CRI de SÃO BENTO DO SUL- SC. a) Do imóvel adquirido na presente licitação será obrigatoriamente locado ao BANCO do Brasil S/A, sendo que o Banco do Brasil alugará integralmente o imóvel; b) Prazo da Locação: (por até 60 meses); c) O adquirente se submete às todos os itens previstas na Cláusula 3.2 do ANEXO 7 deste edital; d) Valor de locação inicialmente estabelecido será de R$ 16.380,00; e) Caberá ao arrematante, às suas custas e após a compra, quaisquer providências por eventual necessidade de desembaraço e regularização documental do imóvel arrematado, como regularização da área no registro de imóvel, no cadastro na Prefeitura e a encontrada no local, entre outros. f) Caberá ao arrematante a realização tempestiva de benfeitorias necessárias para reparo de infiltração na ventilação permanente do sanitário masculino, rachadura em uma parede do saguão e reforma da calçada externa, considerada bastante antiga, quebrada e com risco aos pedestres. g) O arrematante declara estar ciente de que o imóvel possui áreas com acesso restrito, destinadas exclusivamente ao uso interno de funcionários do Banco do Brasil, sendo expressamente vedado o ingresso de terceiros. h) O arrematante se declara ciente de que está em curso a realização de obras na agência por conta do Banco.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": null,
+      "registry_number": "42.983",
+      "registry_office": "CRI de SÃO BENTO DO SUL- SC",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27990",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12262_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12262_2.jpg"
+      ],
+      "latitude": -26.191128,
+      "longitude": -49.266533,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "8706",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/8706",
+      "external_reference": "99281",
+      "city": "Araranguá",
+      "state": "SC",
+      "address": null,
+      "asking_price": 58510.0,
+      "price_display": "R$ 58.510,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID99281, 99282, 99283 e 99284 ARARANGUÁ (SC) Descrição legal: Imóvel Urbano Residencial, Terrenos situados nos Lotes 07, 08, 25 e 26, do Loteamento Vila Floresta, Quadra O, Bairro Urussanguinha, Município de Araranguá - SC. Melhor descritos nas matrículas nº 98238, 98239, 98240 e 98241 do 1º Ofício de Registro de Imóveis de Araranguá - SC. a) A titularidade do IPTU está em nome de terceiros; eventuais procedimentos e despesas para a regularização da pendência ficarão por conta do adquirente; b) Loteamento denominado Vila Floresta de 1979, com situação embargada, sem licenciamento ambiental. Restrições do loteamento: localizado em APP, de acordo com a Lei 12.651/2012 - Código Florestal, Art. 4º, Incisos V a XI, que trata de encostas, restingas, manguezais, tabuleiros ou chapadas, topos de morro, montes, montanhas e serras, altitude superior a 1.800,00m e veredas e com a Lei 6.766/1979 - Parcelamento do Solo Urbano, Art. 3º, que diz que não é permitido parcelamento do solo em terrenos com declividade igual ou superior a 30%. O arrematante declara-se ciente do fato; c) O imóvel possui área de preservação permanente, e o arrematante se declara informado do fato, assumindo a responsabilidade pelos riscos, providências e custas necessárias para a manutenção das restrições relativas ao uso da área de preservação permanente e, quando for o caso, da reserva legal, nos exatos termos da legislação ambiental.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": null,
+      "registry_number": null,
+      "registry_office": null,
+      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=25428",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/8706_1.jfif",
+        "https://www.seuimovelbb.com.br/imagem/imovel/8706_2.jfif",
+        "https://www.seuimovelbb.com.br/imagem/imovel/8706_3.jfif",
+        "https://www.seuimovelbb.com.br/imagem/imovel/8706_4.jfif"
+      ],
+      "latitude": -28.940145,
+      "longitude": -49.47745,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    }
+  ]
+}

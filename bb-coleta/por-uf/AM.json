@@ -1,0 +1,178 @@
+{
+  "imoveis": [
+    {
+      "source_type": "bb",
+      "source_external_id": "10543",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/10543",
+      "external_reference": "90507",
+      "city": "Coari",
+      "state": "AM",
+      "address": "Rua Antônio Aguiar, nº 220, Bairro Urucu",
+      "asking_price": 413800.0,
+      "price_display": "R$ 413.800,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID90507 COARI (AM) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Antônio Aguiar, nº 220, Bairro Urucu, Município de Coari - AM. Melhor descrito na matrícula nº 3.841 do Cartório do 2º Ofício da Comarca de Coari - AM. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "3.841",
+      "registry_office": "Cartório do 2º Ofício da Comarca de Coari - AM",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/14714",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/10543_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10543_2.jpg"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11622",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11622",
+      "external_reference": "99449",
+      "city": "Fonte Boa",
+      "state": "AM",
+      "address": "Rua 05, s/nº, Bairro Átila Lins",
+      "asking_price": 72000.0,
+      "price_display": "R$ 72.000,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID99449 FONTE BOA (AM) Descrição legal: Descrição legal: Imóvel Urbano: Residência com área construída de 216,00m² em terreno de 240,00m², situada na Rua 05, s/nº, Bairro Átila Lins, Município de Fonte Boa - AM. Melhor descrita na matrícula 594 do Cartório de Registro de Imóveis de Fonte Boa - AM. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "594",
+      "registry_office": "Cartório de Registro de Imóveis de Fonte Boa - AM",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/14972",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11622_1.png",
+        "https://www.seuimovelbb.com.br/imagem/imovel/11622_2.png",
+        "https://www.seuimovelbb.com.br/imagem/imovel/11622_3.png",
+        "https://www.seuimovelbb.com.br/imagem/imovel/11622_4.png"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11828",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11828",
+      "external_reference": null,
+      "city": "Parintins",
+      "state": "AM",
+      "address": "R. Paraguai, 135, Pascal Alárgio, Parintins-AM, CEP 69152-602",
+      "asking_price": 177422.25,
+      "price_display": "R$ 177.422,25",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 177422.25,
+      "second_auction_minimum_bid": 700923.01,
+      "description": "Nº DO BEM: 524429054 PARINTINS (AM) Descrição: IMÓVEL DE MATRÍCULA 3.230 DO CARTÓRIO DO 2º OFÍCIO AMAZONAS DE PARINTINS-AM, ASSIM DESCRITO: Casa, com área construída de 64,83m² e respectivo terreno com área total de 250,00m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 45127 Localização: R. Paraguai, 135, Pascal Alárgio, Parintins-AM, CEP 69152-602 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 177.422,25 (cento e setenta e sete mil quatrocentos e vinte e dois reais e vinte e cinco centavos) Lance mínimo para arrematação em 2º leilão: R$ 700.923,01 (setecentos mil, novecentos e vinte e três reais e um centavo)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "3.230",
+      "registry_office": "CARTÓRIO DO 2º OFÍCIO AMAZONAS DE PARINTINS-AM",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27582",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11828_1.jpg"
+      ],
+      "latitude": -2.643891,
+      "longitude": -56.76,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11829",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11829",
+      "external_reference": null,
+      "city": "Parintins",
+      "state": "AM",
+      "address": "R. Paraguai, 105, Pascal Alárgio, Parintins-AM, CEP 69152-602",
+      "asking_price": 115339.03,
+      "price_display": "R$ 115.339,03",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 115339.03,
+      "second_auction_minimum_bid": 124255.16,
+      "description": "Nº DO BEM: 523194220 PARINTINS (AM) Descrição: IMÓVEL DE MATRÍCULA 3.563 DO CARTÓRIO DO 2º OFÍCIO DE PARINTINS-AM, ASSIM DESCRITO: Casa, com área construída de 51,07m² e respectivo terreno com área total de 250,00m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 31233 Localização: R. Paraguai, 105, Pascal Alárgio, Parintins-AM, CEP 69152-602 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 115.339,03 (cento e quinze mil trezentos e trinta e nove reais e três centavos) Lance mínimo para arrematação em 2º leilão: R$ 124.255,16 (cento e vinte e quatro mil, duzentos e cinquenta e cinco reais e dezesseis centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "3.563",
+      "registry_office": "CARTÓRIO DO 2º OFÍCIO DE PARINTINS-AM",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27583",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11829_1.jpg"
+      ],
+      "latitude": -2.643533,
+      "longitude": -56.759644,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "7171",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/7171",
+      "external_reference": "99452",
+      "city": "Fonte Boa",
+      "state": "AM",
+      "address": "Estrada da Baré, s/n, Bairro Mãe Creuza",
+      "asking_price": 68400.0,
+      "price_display": "R$ 68.400,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID99452Descrição legal: Imóvel Urbano, Casa Comercial situada na Estrada da Baré, s/n, Bairro Mãe Creuza, Município de Fonte Boa - AM. Melhor descrito na matrícula 96 do Cartório de Registro de Imóveis da Comarca de Fonte Boa - AM.a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente;b) A titularidade do IPTU está em nome de terceiros; eventuais procedimentos e despesas para a regularização da pendência ficarão por conta do adquirente",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "96",
+      "registry_office": "Cartório de Registro de Imóveis da Comarca de Fonte Boa - AM",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/14559",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/7171_1.jpg"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    }
+  ]
+}

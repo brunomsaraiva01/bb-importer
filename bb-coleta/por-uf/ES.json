@@ -1,0 +1,107 @@
+{
+  "imoveis": [
+    {
+      "source_type": "bb",
+      "source_external_id": "11873",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11873",
+      "external_reference": null,
+      "city": "Serra",
+      "state": "ES",
+      "address": "R. Dom Pedro II, 130, AP. 108, BL 02, Cond. Res. Pq. Gama, Colina de Laranjeiras, Serra-ES, CEP 29167-168",
+      "asking_price": 150070.54,
+      "price_display": "R$ 150.070,54",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 150070.54,
+      "second_auction_minimum_bid": 153788.33,
+      "description": "Nº DO BEM: 514301681 SERRA (ES) Descrição: IMÓVEL DE MATRÍCULA 80.781 DO CARTÓRIO DO 1º OFÍCIO DE SERRA-ES, ASSIM DESCRITO: Apartamento nº 108, com área privativa de 43,00m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 1040083315068 Localização: R. Dom Pedro II, 130, AP. 108, BL 02, Cond. Res. Pq. Gama, Colina de Laranjeiras, Serra-ES, CEP 29167-168 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 150.070,54 (cento e cinquenta mil e setenta reais e cinquenta e quatro centavos) Lance mínimo para arrematação em 2º leilão: R$ 153.788,33 (cento e cinquenta e três mil, setecentos e oitenta e oito reais e trinta e três centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "80.781",
+      "registry_office": "CARTÓRIO DO 1º OFÍCIO DE SERRA-ES",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27627",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11873_1.jpg"
+      ],
+      "latitude": 39.463333,
+      "longitude": -0.367241,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11874",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11874",
+      "external_reference": null,
+      "city": "Serra",
+      "state": "ES",
+      "address": "R. dos Mainás, 278, Casa 07, Cond. Via di Lucca, Morada de Laranjeiras, Serra-ES, CEP 29166-774",
+      "asking_price": 830922.86,
+      "price_display": "R$ 830.922,86",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 830922.86,
+      "second_auction_minimum_bid": 578723.12,
+      "description": "Nº DO BEM: 539704470 SERRA (ES) Descrição: IMÓVEL DE MATRÍCULA 105.459 DO CARTÓRIO DO 1º OFÍCIO - 2ª ZONA DE SERRA-ES, ASSIM DESCRITO: Casa nº 07, com área privativa de 103,70m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 1080020960007 Localização: R. dos Mainás, 278, Casa 07, Cond. Via di Lucca, Morada de Laranjeiras, Serra-ES, CEP 29166-774 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 830.922,86 (oitocentos e trinta mil novecentos e vinte e dois reais e oitenta e seis centavos) Lance mínimo para arrematação em 2º leilão: R$ 578.723,12 (quinhentos e setenta e oito mil, setecentos e vinte e três reais e doze centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "105.459",
+      "registry_office": "CARTÓRIO DO 1º OFÍCIO - 2ª ZONA DE SERRA-ES",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27628",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11874_1.jpg"
+      ],
+      "latitude": 43.661691,
+      "longitude": -8.055744,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12248",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12248",
+      "external_reference": "74148",
+      "city": "Serra",
+      "state": "ES",
+      "address": "Avenida Getúlio Vargas, 330 - Centro - Serra - ES",
+      "asking_price": 4168460.0,
+      "price_display": "R$ 4.168.460,00",
+      "sale_modality_hint": null,
+      "auction_date_raw": "20/10/2026 a partir das 11h00",
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID74148 SERRA (ES) Descrição legal: Imóvel Urbano: Prédio Comercial, situado na Avenida Getúlio Vargas, 330 - Centro - Serra - ES. Melhor descrito nas Matrículas 16968 e 5246 do 1° CRI de Serra - ES. a) Do imóvel adquirido na presente licitação será obrigatoriamente locado ao BANCO do Brasil S/A, sendo que o Banco do Brasil alugará integralmente o imóvel; b) Prazo da Locação: (por até 60 meses); c) O adquirente se submete às todos os itens previstas na Cláusula 3.2 do ANEXO 7 deste edital; d) Valor de locação inicialmente estabelecido será de R$ 33.348,00; e) Caberá ao arrematante, às suas custas e após a compra, quaisquer providências por eventual necessidade de desembaraço e regularização documental do imóvel arrematado, como abertura de matrícula, regularização da área encontrada na matrícula e no cadastro na Prefeitura, entre outros. f) O arrematante se declara ciente de que está em curso a realização de obras na agência. g) Será locado o imóvel todo, inclusive a área de estacionamento.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": null,
+      "registry_number": null,
+      "registry_office": null,
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27976",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12248_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12248_2.jpg"
+      ],
+      "latitude": -20.125269,
+      "longitude": -40.306942,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    }
+  ]
+}

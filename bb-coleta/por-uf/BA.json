@@ -1,0 +1,539 @@
+{
+  "imoveis": [
+    {
+      "source_type": "bb",
+      "source_external_id": "11830",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11830",
+      "external_reference": null,
+      "city": "Camaçari",
+      "state": "BA",
+      "address": "Av. das Palmeiras s/n, AP 102, BL 003, Res Terra Brasilis, Cond Praia de Arembepe, Industrial, Camaçari-BA, CEP 42800-929",
+      "asking_price": 155896.72,
+      "price_display": "R$ 155.896,72",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 155896.72,
+      "second_auction_minimum_bid": 245714.25,
+      "description": "Nº DO BEM: 524233459 CAMAÇARI (BA) Descrição: IMÓVEL DE MATRÍCULA 31.218 DO 2º OFÍCIO DE REGISTRO DE IMÓVEIS DE CAMAÇARI-BA, ASSIM DESCRITO: Apartamento nº 102, com área privativa de 39,03m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 0000678258 Localização: Av. das Palmeiras s/n, AP 102, BL 003, Res Terra Brasilis, Cond Praia de Arembepe, Industrial, Camaçari-BA, CEP 42800-929 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Obs.3: Consta AÇÃO JUDICIAL conforme Av. 05 da matrícula, referente ao processo nº 0005890-50.2021.8.05.0039. Nos termos do § 11 do artigo 27 da Lei nº 9.514/97, os direitos reais de garantia ou constrições, tais como penhoras, arrestos, bloqueios e indisponibilidades de qualquer natureza incidentes sobre o direito real de aquisição do fiduciante, não impedem a consolidação da propriedade em nome do credor fiduciário nem a venda do imóvel para realização da garantia. Lance mínimo para arrematação em 1º leilão: R$ 155.896,72 (cento e cinquenta e cinco mil, oitocentos e noventa e seis reais e setenta e dois centavos) Lance mínimo para arrematação em 2º leilão: R$ 245.714,25 (duzentos e quarenta e cinco mil, setecentos e quatorze reais e vinte e cinco centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "31.218",
+      "registry_office": "2º OFÍCIO DE REGISTRO DE IMÓVEIS DE CAMAÇARI-BA",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27584",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11830_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/11830_2.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/11830_3.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/11830_4.jpg"
+      ],
+      "latitude": -12.714709,
+      "longitude": -38.307107,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11831",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11831",
+      "external_reference": null,
+      "city": "Correntina",
+      "state": "BA",
+      "address": "R. T, Qd. 8, Lt. 14, São José, Correntina-BA, CEP 47650-000",
+      "asking_price": 417722.25,
+      "price_display": "R$ 417.722,25",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 417722.25,
+      "second_auction_minimum_bid": 465719.14,
+      "description": "Nº DO BEM: 510881257 CORRENTINA (BA) Descrição: IMÓVEL DE MATRÍCULA 3.384 DO 1º REGISTRO DE IMÓVEIS BAHIA DE CORRENTINA-BA, ASSIM DESCRITO: Casa residencial, com área construída de 101,65m² e respectivo terreno com área total de 360,00m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 1020080086001 Localização: R. T, Qd. 8, Lt. 14, São José, Correntina-BA, CEP 47650-000 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 417.722,25 (quatrocentos e dezessete mil setecentos e vinte e dois reais e vinte e cinco centavos) Lance mínimo para arrematação em 2º leilão: R$ 465.719,14 (quatrocentos e sessenta e cinco mil, setecentos e dezenove reais e quatorze centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "3.384",
+      "registry_office": "1º REGISTRO DE IMÓVEIS BAHIA DE CORRENTINA-BA",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27585",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11831_1.jpg"
+      ],
+      "latitude": 37.414237,
+      "longitude": -122.064007,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11832",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11832",
+      "external_reference": null,
+      "city": "Feira de Santana",
+      "state": "BA",
+      "address": "R. Politeama, s/n, AP. 304, BL 10, Cond. Res. Pq. Fonte das Águas, 35º BI, Feira de Santana-BA, CEP 44094-444",
+      "asking_price": 190000.0,
+      "price_display": "R$ 190.000,00",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 190000.0,
+      "second_auction_minimum_bid": 304575.6,
+      "description": "Nº DO BEM: 514636729 FEIRA DE SANTANA (BA) Descrição: IMÓVEL DE MATRÍCULA 42.774 DO 2º OFÍCIO DE REGISTRO DE IMÓVEIS E HIPOTECAS DE FEIRA DE SANTANA-BA, ASSIM DESCRITO: Apartamento nº 304, com área real privativa coberta de 45,93m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 248840-0 Localização: R. Politeama, s/n, AP. 304, BL 10, Cond. Res. Pq. Fonte das Águas, 35º BI, Feira de Santana-BA, CEP 44094-444 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 190.000,00 (cento e noventa mil reais) Lance mínimo para arrematação em 2º leilão: R$ 304.575,60 (trezentos e quatro mil, quinhentos e setenta e cinco reais e sessenta centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "42.774",
+      "registry_office": "2º OFÍCIO DE REGISTRO DE IMÓVEIS E HIPOTECAS DE FEIRA DE SANTANA-BA",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27586",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11832_1.jpg"
+      ],
+      "latitude": -12.279436,
+      "longitude": -38.934945,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11833",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11833",
+      "external_reference": null,
+      "city": "Feira de Santana",
+      "state": "BA",
+      "address": "Av. Papa João XXIII, 1687, AP. 204, BL 06, Cond. Res. Pq. Fonte dos Pássaros, Tomba, Feira de Santana-BA, CEP 44090-652",
+      "asking_price": 210000.0,
+      "price_display": "R$ 210.000,00",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 210000.0,
+      "second_auction_minimum_bid": 272083.25,
+      "description": "Nº DO BEM: 514793051 FEIRA DE SANTANA (BA) Descrição: IMÓVEL DE MATRÍCULA 48.328 DO 2º OFÍCIO DE REGISTRO DE IMÓVEIS E HIPOTECA DE FEIRA DE SANTANA-BA, ASSIM DESCRITO: Apartamento nº 204, com área real privativa coberta de 43,81m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 246931-6 Localização: Av. Papa João XXIII, 1687, AP. 204, BL 06, Cond. Res. Pq. Fonte dos Pássaros, Tomba, Feira de Santana-BA, CEP 44090-652 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 210.000,00 (duzentos e dez mil reais) Lance mínimo para arrematação em 2º leilão: R$ 272.083,25 (duzentos e setenta e dois mil, oitenta e três reais e vinte e cinco centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "48.328",
+      "registry_office": "2º OFÍCIO DE REGISTRO DE IMÓVEIS E HIPOTECA DE FEIRA DE SANTANA-BA",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27587",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11833_1.jpg"
+      ],
+      "latitude": -12.274975,
+      "longitude": -38.959189,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11834",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11834",
+      "external_reference": null,
+      "city": "Iaçu",
+      "state": "BA",
+      "address": "R. Mestre André, 263, Boiadeira, Iaçu-BA, CEP 46860-000",
+      "asking_price": 93731.66,
+      "price_display": "R$ 93.731,66",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 93731.66,
+      "second_auction_minimum_bid": 128759.54,
+      "description": "Nº DO BEM: 522506766 IAÇU (BA) Descrição: IMÓVEL DE MATRÍCULA 3.582 DO OFÍCIO DO REGISTRO DE IMÓVEIS E HIPOTECAS DE IAÇU-BA, ASSIM DESCRITO: Casa Residencial nº 263, com área de 68,80m² e terreno com área total de 104,00m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 1020960219001 Localização: R. Mestre André, 263, Boiadeira, Iaçu-BA, CEP 46860-000 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 93.731,66 (noventa e três mil setecentos e trinta e um reais e sessenta e seis centavos) Lance mínimo para arrematação em 2º leilão: R$ 128.759,54 (cento e vinte e oito mil, setecentos e cinquenta e nove reais e cinquenta e quatro centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "3.582",
+      "registry_office": "OFÍCIO DO REGISTRO DE IMÓVEIS E HIPOTECAS DE IAÇU-BA",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27588",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11834_1.jpg"
+      ],
+      "latitude": -13.825107,
+      "longitude": -44.458333,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11835",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11835",
+      "external_reference": null,
+      "city": "João Dourado",
+      "state": "BA",
+      "address": "R. Edith Cardoso, 349, Boa Vista, João Dourado-BA, CEP 44920-000",
+      "asking_price": 168673.3,
+      "price_display": "R$ 168.673,30",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 168673.3,
+      "second_auction_minimum_bid": 535606.66,
+      "description": "Nº DO BEM: 526700850 JOÃO DOURADO (BA) Descrição: IMÓVEL DE MATRÍCULA 756 DO 1º OFÍCIO DE REGISTRO DE IMÓVEIS, CIVIL DA PESSOA JURÍDICA E CIVIL DE PESSOAS NATURAIS DE JOÃO DOURADO-BA, ASSIM DESCRITO: Imóvel, com área construída de 225,00m² e terreno com área total de 198,00m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 1020580282002 Localização: R. Edith Cardoso, 349, Boa Vista, João Dourado-BA, CEP 44920-000 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 168.673,30 (cento e sessenta e oito mil, seiscentos e setenta e três reais e trinta centavos) Lance mínimo para arrematação em 2º leilão: R$ 535.606,66 (quinhentos e trinta e cinco mil, seiscentos e seis reais e sessenta e seis centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "756",
+      "registry_office": "1º OFÍCIO DE REGISTRO DE IMÓVEIS, CIVIL DA PESSOA JURÍDICA E CIVIL DE PESSOAS NATURAIS DE JOÃO DOURADO-BA",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27589",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11835_1.jpg"
+      ],
+      "latitude": -11.341583,
+      "longitude": -41.665873,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11836",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11836",
+      "external_reference": null,
+      "city": "Lauro de Freitas",
+      "state": "BA",
+      "address": "R. Jurema, 608, AP. 404, BL 28, Cond. Pq. Solar do Bosque, Caixa D`Água, Lauro de Freitas-BA, CEP 42711-820",
+      "asking_price": 150312.18,
+      "price_display": "R$ 150.312,18",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 150312.18,
+      "second_auction_minimum_bid": 205626.59,
+      "description": "Nº DO BEM: 523269457 LAURO DE FREITAS (BA) Descrição: IMÓVEL DE MATRÍCULA 43.459 DO REGISTRO DE IMÓVEIS E PESSOAS JURÍDICAS DE LAURO DE FREITAS-BA, ASSIM DESCRITO: Apartamento nº 404, com área privativa de 40,28m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 4168500608BB404 Localização: R. Jurema, 608, AP. 404, BL 28, Cond. Pq. Solar do Bosque, Caixa D`Água, Lauro de Freitas-BA, CEP 42711-820 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 150.312,18 (cento e cinquenta mil trezentos e doze reais e dezoito centavos) Lance mínimo para arrematação em 2º leilão: R$ 205.626,59 (duzentos e cinco mil, seiscentos e vinte e seis reais e cinquenta e nove centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "43.459",
+      "registry_office": "REGISTRO DE IMÓVEIS E PESSOAS JURÍDICAS DE LAURO DE FREITAS-BA",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27590",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11836_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/11836_2.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/11836_3.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/11836_4.jpg"
+      ],
+      "latitude": -12.864639,
+      "longitude": -38.320821,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11837",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11837",
+      "external_reference": null,
+      "city": "Salvador",
+      "state": "BA",
+      "address": "Av. Aliomar Baleeiro, 12315, AP. 304, BL 14, Cond. Res. Verde Vida, São Cristóvão, Salvador-BA, CEP 41500-660",
+      "asking_price": 145156.3,
+      "price_display": "R$ 145.156,30",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 145156.3,
+      "second_auction_minimum_bid": 320407.65,
+      "description": "Nº DO BEM: 515048935 SALVADOR (BA) Descrição: IMÓVEL DE MATRÍCULA 152.937 DO 2º OFÍCIO DO REGISTRO DE IMÓVEIS E HIPOTECAS DE SALVADOR-BA, ASSIM DESCRITO: Apartamento nº 304, com área privativa de 40,05m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 744795-7 Localização: Av. Aliomar Baleeiro, 12315, AP. 304, BL 14, Cond. Res. Verde Vida, São Cristóvão, Salvador-BA, CEP 41500-660 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 145.156,30 (cento e quarenta e cinco mil cento e cinquenta e seis reais e trinta centavos) Lance mínimo para arrematação em 2º leilão: R$ 320.407,65 (trezentos e vinte mil, quatrocentos e sete reais e sessenta e cinco centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "152.937",
+      "registry_office": "2º OFÍCIO DO REGISTRO DE IMÓVEIS E HIPOTECAS DE SALVADOR-BA",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27591",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11837_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/11837_2.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/11837_3.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/11837_4.jpg"
+      ],
+      "latitude": -12.904683,
+      "longitude": -38.378258,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11838",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11838",
+      "external_reference": null,
+      "city": "Salvador",
+      "state": "BA",
+      "address": "R. Dinah Silveira de Queiroz, 213, Candeal, Salvador-BA, CEP 40296-160",
+      "asking_price": 2682430.61,
+      "price_display": "R$ 2.682.430,61",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 2682430.61,
+      "second_auction_minimum_bid": 896664.22,
+      "description": "Nº DO BEM: 507460996 SALVADOR (BA) Descrição: IMÓVEL DE MATRÍCULA 68.067 DO 3º OFÍCIO DO REGISTRO DE IMÓVEIS DE SALVADOR-BA, ASSIM DESCRITO: Casa nº 213, com área construída de 444,24m² e respectivo terreno com área total de 504,00m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 264657-9 Localização: R. Dinah Silveira de Queiroz, 213, Candeal, Salvador-BA, CEP 40296-160 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 2.682.430,61 (dois milhões seiscentos e oitenta e dois mil quatrocentos e trinta reais e sessenta e um centavos) Lance mínimo para arrematação em 2º leilão: R$ 896.664,22 (oitocentos e noventa e seis mil, seiscentos e sessenta e quatro reais e vinte e dois centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "68.067",
+      "registry_office": "3º OFÍCIO DO REGISTRO DE IMÓVEIS DE SALVADOR-BA",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27592",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11838_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/11838_2.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/11838_3.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/11838_4.jpg"
+      ],
+      "latitude": -12.99761,
+      "longitude": -38.481956,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11839",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11839",
+      "external_reference": null,
+      "city": "Salvador",
+      "state": "BA",
+      "address": "R. Ewerton Visco, 160, AP. 1810, Tipo C, Cond. Boulevard Side Res., Caminho das Árvores, Salvador-BA, CEP 41820-022",
+      "asking_price": 402740.75,
+      "price_display": "R$ 402.740,75",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 402740.75,
+      "second_auction_minimum_bid": 583423.49,
+      "description": "Nº DO BEM: 538644536 SALVADOR (BA) Descrição: IMÓVEL DE MATRÍCULA 74.756 DO 6º OFÍCIO DO REGISTRO DE IMÓVEIS DE SALVADOR-BA, ASSIM DESCRITO: Apartamento nº 1810, com área privativa de 49,40m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 693242-8 Localização: R. Ewerton Visco, 160, AP. 1810, Tipo C, Cond. Boulevard Side Res., Caminho das Árvores, Salvador-BA, CEP 41820-022 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 402.740,75 (quatrocentos e dois mil setecentos e quarenta reais e setenta e cinco centavos) Lance mínimo para arrematação em 2º leilão: R$ 583.423,49 (quinhentos e oitenta e três mil, quatrocentos e vinte e três reais e quarenta e nove centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "74.756",
+      "registry_office": "6º OFÍCIO DO REGISTRO DE IMÓVEIS DE SALVADOR-BA",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27593",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11839_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/11839_2.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/11839_3.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/11839_4.jpg"
+      ],
+      "latitude": -12.982291,
+      "longitude": -38.455687,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11840",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11840",
+      "external_reference": null,
+      "city": "Salvador",
+      "state": "BA",
+      "address": "R. Formosa São João, 359, AP. 401, BL 09, Res. Mar Azul, Plataforma, Salvador-BA, CEP 40718-900",
+      "asking_price": 151033.32,
+      "price_display": "R$ 151.033,32",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 151033.32,
+      "second_auction_minimum_bid": 142731.0,
+      "description": "Nº DO BEM: 528218603 SALVADOR (BA) Descrição: IMÓVEL DE MATRÍCULA 169.916 DO 2º OFÍCIO DE REGISTRO DE IMÓVEIS DE SALVADOR-BA, ASSIM DESCRITO: Apartamento nº 401, com área privativa de 40,05m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 924660-6 Localização: R. Formosa São João, 359, AP. 401, BL 09, Res. Mar Azul, Plataforma, Salvador-BA, CEP 40718-900 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 151.033,32 (cento e cinquenta e um mil, trinta e três reais e trinta e dois centavos) Lance mínimo para arrematação em 2º leilão: R$ 142.731,00 (cento e quarenta e dois mil, setecentos e trinta e um reais)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "169.916",
+      "registry_office": "2º OFÍCIO DE REGISTRO DE IMÓVEIS DE SALVADOR-BA",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27594",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11840_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/11840_2.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/11840_3.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/11840_4.jpg"
+      ],
+      "latitude": -12.852607,
+      "longitude": -38.472323,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11841",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11841",
+      "external_reference": null,
+      "city": "Salvador",
+      "state": "BA",
+      "address": "R. dos Bandeirantes, 72, Matatu, Salvador-BA, CEP 40260-000",
+      "asking_price": 421938.08,
+      "price_display": "R$ 421.938,08",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 421938.08,
+      "second_auction_minimum_bid": 1662408.21,
+      "description": "Nº DO BEM: 525559141 SALVADOR (BA) Descrição: IMÓVEL DE MATRÍCULA 94.282 DO 3º REGISTRO DE IMÓVEIS DE SALVADOR-BA, ASSIM DESCRITO: Pavimento Superior, com área construída de 130,00m² melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 618177-5 Localização: R. dos Bandeirantes, 72, Matatu, Salvador-BA, CEP 40260-000 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 421.938,08 (quatrocentos e vinte e um mil, novecentos e trinta e oito reais e oito centavos) Lance mínimo para arrematação em 2º leilão: R$ 1.662.408,21 (um milhão, seiscentos e sessenta e dois mil, quatrocentos e oito reais e vinte e um centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "94.282",
+      "registry_office": "3º REGISTRO DE IMÓVEIS DE SALVADOR-BA",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27595",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11841_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/11841_2.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/11841_3.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/11841_4.jpg"
+      ],
+      "latitude": -12.842452,
+      "longitude": -38.359543,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12171",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12171",
+      "external_reference": "94495",
+      "city": "Barreiras",
+      "state": "BA",
+      "address": "Rua Claudionor Barros de Carvalho, nº 106, Loteamento Morada da Lua",
+      "asking_price": null,
+      "price_display": "Aceita BB?",
+      "sale_modality_hint": "aceita_bb",
+      "auction_date_raw": "13/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID94495 BARREIRAS (BA) Descrição legal: Imóvel Urbano Residencial, Casa 08 do Condomínio Edifício Residencial João Marques I, situada na Rua Claudionor Barros de Carvalho, nº 106, Loteamento Morada da Lua, Município de Barreiras - BA. Melhor descrito na matrícula 32859 do 01º Ofício de Registro de Imóveis e Hipotecas da Comarca de Barreiras -BA. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente;",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "32859",
+      "registry_office": "01º Ofício de Registro de Imóveis e Hipotecas da Comarca de Barreiras -BA",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27901",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12171_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12171_2.jpeg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12171_3.jpg"
+      ],
+      "latitude": -12.170147,
+      "longitude": -44.989644,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12246",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12246",
+      "external_reference": "74900",
+      "city": "Presidente Dutra",
+      "state": "BA",
+      "address": "PRAÇA LIA BARRETO,337 CENTRO PRESIDENTE DUTRA - BA",
+      "asking_price": 1280000.0,
+      "price_display": "R$ 1.280.000,00",
+      "sale_modality_hint": null,
+      "auction_date_raw": "20/10/2026 a partir das 11h00",
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID74900 PRESIDENTE DUTRA (BA) Descrição legal: Imóvel Urbano: Prédio Comercial, situado na PRAÇA LIA BARRETO,337 CENTRO PRESIDENTE DUTRA - BA. Melhor descrito na Matrícula 4.861 do CRI de Central - BA. a) Do imóvel adquirido na presente licitação será obrigatoriamente locado ao BANCO do Brasil S/A, sendo que o Banco do Brasil alugará integralmente o imóvel; b) Prazo da Locação: (por até 60 meses); c) O adquirente se submete às todos os itens previstas na Cláusula 3.2 do ANEXO 7 deste edital; d) Valor de locação inicialmente estabelecido será de R$ 8.320,00; e) Caberá ao arrematante, às suas custas e após a compra, quaisquer providências por eventual necessidade de desembaraço e regularização documental do imóvel arrematado, como regularização da área no registro de imóvel, no cadastro na Prefeitura e a encontrada no local, entre outros. f) O arrematante declara estar ciente de que o imóvel possui áreas com acesso restrito, destinada exclusivamente ao uso interno de funcionários do Banco do Brasil, sendo expressamente vedado o ingresso de terceiros. g) O arrematante se declara ciente de que está em curso a realização de obras na agência por conta do Banco.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": null,
+      "registry_number": "4.861",
+      "registry_office": "CRI de Central - BA",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27974",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12246_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12246_2.jpg"
+      ],
+      "latitude": -11.294981,
+      "longitude": -41.985493,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "9817",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/9817",
+      "external_reference": "100881",
+      "city": "Iaçu",
+      "state": "BA",
+      "address": "Rua Osvaldo Brito 308 - Monte",
+      "asking_price": 51500.0,
+      "price_display": "R$ 51.500,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID100881 IAÇU(BA) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Osvaldo Brito 308 - Monte, Município de IAÇU - BA. Melhor descrito na matrícula 3937 do Único Ofício do Registro de Imóveis e Hipotecas de Iaçu-BA. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "3937",
+      "registry_office": "Único Ofício do Registro de Imóveis e Hipotecas de Iaçu-BA",
+      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=25669",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/9817_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/9817_2.jpg"
+      ],
+      "latitude": -12.770733,
+      "longitude": -40.213424,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    }
+  ]
+}

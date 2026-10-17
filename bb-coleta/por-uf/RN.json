@@ -1,0 +1,1566 @@
+{
+  "imoveis": [
+    {
+      "source_type": "bb",
+      "source_external_id": "10600",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/10600",
+      "external_reference": "90713",
+      "city": "Campo Redondo",
+      "state": "RN",
+      "address": null,
+      "asking_price": 40891.36,
+      "price_display": "R$ 40.891,36",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID90713 CAMPO REDONDO (RN)Residência unifamiliar e respectivo terreno com área de 200,00², melhor descrito e caracterizado na matrícula 1.108 do Ofício Único de Campo Redondo Comarca de Santa Cruz/RN. Status da Ocupação: Ocupado.Endereço: Rua Sebastião Felipe de Souto, 41 - Campo Belo - Campo Redondo/RN.Considerações Importantes: O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "1.108",
+      "registry_office": "Ofício Único de Campo Redondo Comarca de Santa Cruz/RN",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/119",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/10600_1.jpg"
+      ],
+      "latitude": -6.2291968,
+      "longitude": -36.1777998,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "10601",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/10601",
+      "external_reference": "73798",
+      "city": "Ceará-Mirim",
+      "state": "RN",
+      "address": null,
+      "asking_price": 20880.0,
+      "price_display": "R$ 20.880,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID73798 CEARÁ-MIRIM (RN)Casa e respectivo lote de terra designado lote 144 da quadra 09 com área de 200,00m², melhor descrito e caracterizado na matrícula 20036 do Cartório de Registro de Imóveis de Ceará Mirim/ RN. Status da Ocupação: Ocupado. Endereço: Rua Cidade da Esperança, 147, Quadra 09, Lote 144 - São Geraldo -Ceará Mirim/RN.Considerações Importantes: O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "20036",
+      "registry_office": "Cartório de Registro de Imóveis de Ceará Mirim/ RN",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/118",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/10601_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10601_2.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10601_3.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10601_4.jpg"
+      ],
+      "latitude": -5.8401919,
+      "longitude": -35.2745035,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "10602",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/10602",
+      "external_reference": "91321",
+      "city": "Ceará-Mirim",
+      "state": "RN",
+      "address": null,
+      "asking_price": 20460.0,
+      "price_display": "R$ 20.460,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID91321 CEARÁ-MIRIM (RN)Casa e respectivo lote nº 328 da quadra 12 do loteamento denominado PARAÍSO DE CEARÁ-MIRIM, com área de 200,00m², melhor descrito e caracterizado na matrícula 22235 do 1º Ofício de Notas e de Registro de Imóveis de Ceará-Mirim/RN. Status da Ocupação: Ocupado. Endereço: Rua Hélio Venâncio Rodrigues, nº 813, Lote 328, Quadra 12 - Bairro Planaloteo - Ceará Mirim/RN. Considerações Importantes: O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "22235",
+      "registry_office": "1º Ofício de Notas e de Registro de Imóveis de Ceará-Mirim/RN",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/200",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/10602_1.jpg"
+      ],
+      "latitude": -5.6634238,
+      "longitude": -35.4248239,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "10603",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/10603",
+      "external_reference": "93244",
+      "city": "Ceará-Mirim",
+      "state": "RN",
+      "address": null,
+      "asking_price": 21990.0,
+      "price_display": "R$ 21.990,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID93244 CEARÁ-MIRIM (GO)Casa nº 157 no Loteamento Paraízo do Vale e respectivo do lote de terra nº 145 da quadra 09, medindo uma área de 200,00m², melhor descrito e caracterizado na matrícula 20037 do 1º Ofício de Notas e Registro de Imóveis de Ceará Mirim/RN. Status da Ocupação: Ocupado. Endereço: Rua Cidade da Esperança, nº 157, Quadra 09, Lote 145 - Bairro São Geraldo - Ceará-Mirim/RN. Considerações Importantes: O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "20037",
+      "registry_office": "1º Ofício de Notas e Registro de Imóveis de Ceará Mirim/RN",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/254",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/10603_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10603_2.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10603_3.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10603_4.jpg"
+      ],
+      "latitude": -5.8401919,
+      "longitude": -35.2745035,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "10637",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/10637",
+      "external_reference": "91737",
+      "city": "Campo Redondo",
+      "state": "RN",
+      "address": "Rua Sebastião Felipe de Souto, nº 35, Bairro Campo Belo",
+      "asking_price": 36000.0,
+      "price_display": "R$ 36.000,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID91737 CAMPO REDONDO (RN) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Sebastião Felipe de Souto, nº 35, Bairro Campo Belo, Município de Campo Redondo - RN. Melhor descrito na matrícula nº 1066 do Ofício Único de Campo Redondo - RN. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "1066",
+      "registry_office": "Ofício Único de Campo Redondo - RN",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/14740",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/10637_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10637_2.jpg"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "10638",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/10638",
+      "external_reference": "96610",
+      "city": "Ceará-Mirim",
+      "state": "RN",
+      "address": "Rua Cidade Alta, nº 136, Quadra 10, Lote 170, Loteamento Paraiso do Vale, Bairro Planalto",
+      "asking_price": 34052.1,
+      "price_display": "R$ 34.052,10",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID96610 CEARÁ-MIRIM (RN) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Cidade Alta, nº 136, Quadra 10, Lote 170, Loteamento Paraiso do Vale, Bairro Planalto, Município de Ceará Mirim - RN. Melhor descrito na matrícula nº 22653 do 1º Ofício de Notas e Registro de Imóveis de Ceará Mirim - RN. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente; b) O imóvel teve seu estado de conservação alterado, e o arrematante se declara informado do fato, devendo verificar as condições gerais do imóvel. Eventuais procedimentos e despesas para a regularização da pendência ficarão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "22653",
+      "registry_office": "1º Ofício de Notas e Registro de Imóveis de Ceará Mirim - RN",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/14741",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/10638_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10638_2.jpg"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "10639",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/10639",
+      "external_reference": "96690",
+      "city": "CEARÁ-MIRIM",
+      "state": "RN",
+      "address": "Rua Outono, nº 60, Quadra A, Lote 06, Bairro Lagoa do Cosme",
+      "asking_price": 31643.71,
+      "price_display": "R$ 31.643,71",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID96690 CEARÁ-MIRIM (RN) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Outono, nº 60, Quadra A, Lote 06, Bairro Lagoa do Cosme, Município de Ceará Mirim - RN. Melhor descrito na matrícula nº 19195 do 1º Ofício de Notas e Registro de Imóveis de Ceará Mirim - RN. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "19195",
+      "registry_office": "1º Ofício de Notas e Registro de Imóveis de Ceará Mirim - RN",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/14742",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/10639_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10639_2.jpg"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "10640",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/10640",
+      "external_reference": "96840",
+      "city": "Mossoró",
+      "state": "RN",
+      "address": "Rua Mestre Antônio do Rosário, nº 100, Bairro Planalto 13 de Maio",
+      "asking_price": 94200.0,
+      "price_display": "R$ 94.200,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID96840 MOSSORÓ (RN) Descrição legal: Imóvel Urbano Residencial, Casa nº 02, do Residencial Alameda Jardins, situada na Rua Mestre Antônio do Rosário, nº 100, Bairro Planalto 13 de Maio, Município de Mossoró - RN. Melhor descrito na matrícula nº 18639 do Registro de Imóveis de Mossoró - RN. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente; b) A titularidade do condomínio encontra-se atualmente em nome de terceiros, cabendo ao arrematante a obrigação de promover, após a arrematação, a devida atualização cadastral e a transferência da titularidade para o seu nome junto ao condomínio, arcando integralmente com todas as providências, custos e eventuais despesas necessárias à regularização.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "18639",
+      "registry_office": "Registro de Imóveis de Mossoró - RN",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/14743",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/10640_1.jpg"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11356",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11356",
+      "external_reference": "95119",
+      "city": "Campo Redondo",
+      "state": "RN",
+      "address": "Rua Marinete Alves da Silva, 118, Lauro Maia, Campo Redondo, RN",
+      "asking_price": 54760.0,
+      "price_display": "R$ 54.760,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID95119 CAMPO REDONDO (RN) Descrição legal: IMÓVEL URBANO: Um terreno com 160,00 m² de área contendo uma casa com 84,71 m² de área, situado na Rua Marinete Alves da Silva, 118, Lauro Maia, Campo Redondo, RN. Melhor descrito na matrícula 1278 do Ofício Único de Campo Redondo RN. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "1278",
+      "registry_office": "Ofício Único de Campo Redondo RN",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/14915",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11356_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/11356_2.jpg"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11407",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11407",
+      "external_reference": "101202",
+      "city": "Natal",
+      "state": "RN",
+      "address": "Rua Santa Inês, Bairro Pajuçara",
+      "asking_price": 90720.0,
+      "price_display": "R$ 90.720,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID101202 NATAL (RN)Descrição legal: Imóvel Urbano: Apartamento nº 104, com área privativa de 47,97m² e 1 (uma) vaga de garagem nº 264 com área de 10,80m², localizado no Bloco 10 do Condomínio Residencial Parque Nova Aurora, situado na Rua Santa Inês, Bairro Pajuçara, município de Natal - RN. Melhor descrito na matrícula nº 40570 do Cartório do 3º Ofício de Notas de Natal - RN. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente. Existe ação revisional processo nr. 08203410920268205001",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "40570",
+      "registry_office": "Cartório do 3º Ofício de Notas de Natal - RN",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/14966",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11407_1.png"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11725",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11725",
+      "external_reference": "101466",
+      "city": "Ceará-Mirim",
+      "state": "RN",
+      "address": "Rua Hélio Venâncio Rodrigues, nº 429, Bairro Planalto",
+      "asking_price": 26000.0,
+      "price_display": "R$ 26.000,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID101466 CEARÁ-MIRIM (RN) Descrição legal: Imóvel Urbano: Terreno com edificação de 59,37m², situado na Rua Hélio Venâncio Rodrigues, nº 429, Bairro Planalto, Município de Ceará-Mirim - RN. Melhor descrito na matrícula 24239 do Cartório de Registro de Imóveis de Ceará-Mirim - RN. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "24239",
+      "registry_office": "Cartório de Registro de Imóveis de Ceará-Mirim - RN",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/15028",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11725_1.png",
+        "https://www.seuimovelbb.com.br/imagem/imovel/11725_2.png"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12059",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12059",
+      "external_reference": null,
+      "city": "Jaçanã",
+      "state": "RN",
+      "address": "R. Maximina Salustino da Costa, 663, São José, Jaçanã-RN, CEP 59225-000",
+      "asking_price": 78772.57,
+      "price_display": "R$ 78.772,57",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 78772.57,
+      "second_auction_minimum_bid": 102719.49,
+      "description": "Nº DO BEM: 514609262 JAÇANÃ DE SANTA CRUZ (RN) Descrição: IMÓVEL DE MATRÍCULA 779 DO CARTÓRIO ÚNICO DE JAÇANÃ DE SANTA CRUZ-RN, ASSIM DESCRITO: Casa, com área construída de 51,00m² e terreno com área total de 200,00m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 01030280062001 Localização: R. Maximina Salustino da Costa, 663, São José, Jaçanã-RN, CEP 59225-000 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 78.772,57 (setenta e oito mil setecentos e setenta e dois reais e cinquenta e sete centavos) Lance mínimo para arrematação em 2º leilão: R$ 102.719,49 (cento e dois mil, setecentos e dezenove reais e quarenta e nove centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "779",
+      "registry_office": "CARTÓRIO ÚNICO DE JAÇANÃ DE SANTA CRUZ-RN",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27813",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12059_1.jpg"
+      ],
+      "latitude": -6.426441,
+      "longitude": -36.208683,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12060",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12060",
+      "external_reference": null,
+      "city": "Macaíba",
+      "state": "RN",
+      "address": "R. São Paulo, 254, Lot. Esperança, Vilar, Macaíba-RN, CEP 59285-393",
+      "asking_price": 95583.22,
+      "price_display": "R$ 95.583,22",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 95583.22,
+      "second_auction_minimum_bid": 80553.71,
+      "description": "Nº DO BEM: 514790505 MACAÍBA (RN) Descrição: IMÓVEL DE MATRÍCULA 12426 DO 1º OFÍCIO DE NOTAS DE MACAÍBA-RN, ASSIM DESCRITO: Casa, com área total construída de 66,81m² e respectivo terreno com área total de 200,00m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 1001680402008000000 Localização: R. São Paulo, 254, Lot. Esperança, Vilar, Macaíba-RN, CEP 59285-393 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 95.583,22 (noventa e cinco mil quinhentos e oitenta e três reais e vinte e dois centavos) Lance mínimo para arrematação em 2º leilão: R$ 80.553,71 (oitenta mil, quinhentos e cinquenta e três reais e setenta e um centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "12426",
+      "registry_office": "1º OFÍCIO DE NOTAS DE MACAÍBA-RN",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27814",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12060_1.jpg"
+      ],
+      "latitude": -5.913244,
+      "longitude": -35.291431,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12061",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12061",
+      "external_reference": null,
+      "city": "Mossoró",
+      "state": "RN",
+      "address": "R. São Gonçalo Futebol Clube, 59, Santa Júlia, Mossoró-RN, CEP 59640-458",
+      "asking_price": 120578.56,
+      "price_display": "R$ 120.578,56",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 120578.56,
+      "second_auction_minimum_bid": 129849.96,
+      "description": "Nº DO BEM: 524479839 MOSSORÓ (RN) Descrição: IMÓVEL DE MATRÍCULA 25777 DO 6º OFÍCIO DE NOTAS DE MOSSORÓ-RN, ASSIM DESCRITO: Residência, com área construída de 58,66m² e respectivo terreno com área total de 200,00m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 1003116603027000064 Localização: R. São Gonçalo Futebol Clube, 59, Santa Júlia, Mossoró-RN, CEP 59640-458 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 120.578,56 (cento e vinte mil quinhentos e setenta e oito reais e cinquenta e seis centavos) Lance mínimo para arrematação em 2º leilão: R$ 129.849,96 (cento e vinte e nove mil, oitocentos e quarenta e nove reais e noventa e seis centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "25777",
+      "registry_office": "6º OFÍCIO DE NOTAS DE MOSSORÓ-RN",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27815",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12061_1.jpg"
+      ],
+      "latitude": -5.122558,
+      "longitude": -37.323769,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12062",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12062",
+      "external_reference": null,
+      "city": "Mossoró",
+      "state": "RN",
+      "address": "R. Alto do Rodrigues Futebol Clube, 425, Santa Júlia, Mossoró-RN, CEP 59640-472",
+      "asking_price": 125975.33,
+      "price_display": "R$ 125.975,33",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 125975.33,
+      "second_auction_minimum_bid": 123118.07,
+      "description": "Nº DO BEM: 523323438 MOSSORÓ (RN) Descrição: IMÓVEL DE MATRÍCULA 24111 DO 6º OFÍCIO DE NOTAS DE MOSSORÓ-RN, ASSIM DESCRITO: Casa, com área construída de 63,42m² e respectivo terreno com área total de 200,00m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 1003113901009600000 Localização: R. Alto do Rodrigues Futebol Clube, 425, Santa Júlia, Mossoró-RN, CEP 59640-472 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 125.975,33 (cento e vinte e cinco mil novecentos e setenta e cinco reais e trinta e três centavos) Lance mínimo para arrematação em 2º leilão: R$ 123.118,07 (cento e vinte e três mil, cento e dezoito reais e sete centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "24111",
+      "registry_office": "6º OFÍCIO DE NOTAS DE MOSSORÓ-RN",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27816",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12062_1.jpg"
+      ],
+      "latitude": -5.245273,
+      "longitude": -37.383942,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12063",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12063",
+      "external_reference": null,
+      "city": "Mossoró",
+      "state": "RN",
+      "address": "R. Lada, 260, Santa Júlia, Mossoró-RN, CEP 59640-284",
+      "asking_price": 133670.35,
+      "price_display": "R$ 133.670,35",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 133670.35,
+      "second_auction_minimum_bid": 116830.76,
+      "description": "Nº DO BEM: 527661438 MOSSORÓ (RN) Descrição: IMÓVEL DE MATRÍCULA 24756 DO CARTÓRIO 6º OFÍCIO DE NOTAS DE MOSSORÓ-RN, ASSIM DESCRITO: Residência unifamiliar, com área de construção de 73,60m² e respectivo terreno com área total de 200,00m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 1003128901008000000 Localização: R. Lada, 260, Santa Júlia, Mossoró-RN, CEP 59640-284 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 133.670,35 (cento e trinta e três mil seiscentos e setenta reais e trinta e cinco centavos) Lance mínimo para arrematação em 2º leilão: R$ 116.830,76 (cento e dezesseis mil, oitocentos e trinta reais e setenta e seis centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "24756",
+      "registry_office": "CARTÓRIO 6º OFÍCIO DE NOTAS DE MOSSORÓ-RN",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27817",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12063_1.jpg"
+      ],
+      "latitude": -5.122624,
+      "longitude": -37.326038,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12064",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12064",
+      "external_reference": null,
+      "city": "Mossoró",
+      "state": "RN",
+      "address": "R. Lamborghini, 71, Santa Júlia, Mossoró-RN, CEP 59640-286",
+      "asking_price": 128323.54,
+      "price_display": "R$ 128.323,54",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 128323.54,
+      "second_auction_minimum_bid": 131285.49,
+      "description": "Nº DO BEM: 527616731 MOSSORÓ (RN) Descrição: IMÓVEL DE MATRÍCULA 27698 DO CARTÓRIO 6º OFÍCIO DE NOTAS DE MOSSORÓ-RN, ASSIM DESCRITO: Residência unifamiliar, com área de construção de 71,00m² e respectivo terreno com área total de 200,00m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 1003128803030000000 Localização: R. Lamborghini, 71, Santa Júlia, Mossoró-RN, CEP 59640-286 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 128.323,54 (cento e vinte e oito mil trezentos e vinte e três reais e cinquenta e quatro centavos) Lance mínimo para arrematação em 2º leilão: R$ 131.285,49 (cento e trinta e um mil, duzentos e oitenta e cinco reais e quarenta e nove centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "27698",
+      "registry_office": "CARTÓRIO 6º OFÍCIO DE NOTAS DE MOSSORÓ-RN",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27818",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12064_1.jpg"
+      ],
+      "latitude": -5.12428,
+      "longitude": -37.326641,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12065",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12065",
+      "external_reference": null,
+      "city": "Mossoró",
+      "state": "RN",
+      "address": "R. Ipiranga Futebol Clube, 46, Santa Júlia, Mossoró-RN, CEP 59640-405",
+      "asking_price": 122935.23,
+      "price_display": "R$ 122.935,23",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 122935.23,
+      "second_auction_minimum_bid": 103149.75,
+      "description": "Nº DO BEM: 519749155 MOSSORÓ (RN) Descrição: IMÓVEL DE MATRÍCULA 23579 DO 6º OFÍCIO DE NOTAS DE MOSSORÓ-RN, ASSIM DESCRITO: Casa, com área construída de 59,75m² e respectivo terreno com área total de 200,00m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 1003115602007299968 Localização: R. Ipiranga Futebol Clube, 46, Santa Júlia, Mossoró-RN, CEP 59640-405 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 122.935,23 (cento e vinte e dois mil novecentos e trinta e cinco reais e vinte e três centavos) Lance mínimo para arrematação em 2º leilão: R$ 103.149,75 (cento e três mil, cento e quarenta e nove reais e setenta e cinco centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "23579",
+      "registry_office": "6º OFÍCIO DE NOTAS DE MOSSORÓ-RN",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27819",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12065_1.jpg"
+      ],
+      "latitude": -5.119994,
+      "longitude": -37.326122,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12066",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12066",
+      "external_reference": null,
+      "city": "Mossoró",
+      "state": "RN",
+      "address": "R. Nadir Almeida de Matos, 61, Redenção, Mossoró-RN, CEP 59620-720",
+      "asking_price": 112283.1,
+      "price_display": "R$ 112.283,10",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 112283.1,
+      "second_auction_minimum_bid": 110785.35,
+      "description": "Nº DO BEM: 532771793 MOSSORÓ (RN) Descrição: IMÓVEL DE MATRÍCULA 29893 DO CARTÓRIO 6º OFÍCIO DE NOTAS DE MOSSORÓ-RN, ASSIM DESCRITO: Casa, com área construída de 49,92m² e terreno com área total de 200,00m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 1001627004040099968 Localização: R. Nadir Almeida de Matos, 61, Redenção, Mossoró-RN, CEP 59620-720 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 112.283,10 (cento e doze mil duzentos e oitenta e três reais e dez centavos) Lance mínimo para arrematação em 2º leilão: R$ 110.785,35 (cento e dez mil, setecentos e oitenta e cinco reais e trinta e cinco centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "29893",
+      "registry_office": "CARTÓRIO 6º OFÍCIO DE NOTAS DE MOSSORÓ-RN",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27820",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12066_1.jpg"
+      ],
+      "latitude": -5.146578,
+      "longitude": -37.339203,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12067",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12067",
+      "external_reference": null,
+      "city": "Mossoró",
+      "state": "RN",
+      "address": "R. Mestre Antônio do Rosário, 100, Casa 06, Res. Al. Jardins, Planalto Treze de maio, Mossoró-RN, CEP 59631-520",
+      "asking_price": 151848.08,
+      "price_display": "R$ 151.848,08",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 151848.08,
+      "second_auction_minimum_bid": 218432.38,
+      "description": "Nº DO BEM: 513132396 MOSSORÓ (RN) Descrição: IMÓVEL DE MATRÍCULA 18640 DO 1º OFÍCIO DE NOTAS DE MOSSORÓ-RN, ASSIM DESCRITO: Casa 06, com área construída da unidade de 79,80m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 1001009602013299968 Localização: R. Mestre Antônio do Rosário, 100, Casa 06, Res. Al. Jardins, Planalto Treze de maio, Mossoró-RN, CEP 59631-520 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 151.848,08 (cento e cinquenta e um mil oitocentos e quarenta e oito reais e oito centavos) Lance mínimo para arrematação em 2º leilão: R$ 218.432,38 (duzentos e dezoito mil, quatrocentos e trinta e dois reais e trinta e oito centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "18640",
+      "registry_office": "1º OFÍCIO DE NOTAS DE MOSSORÓ-RN",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27821",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12067_1.jpg"
+      ],
+      "latitude": -5.221819,
+      "longitude": -37.339319,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12068",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12068",
+      "external_reference": null,
+      "city": "Mossoró",
+      "state": "RN",
+      "address": "R. Ferrari, 50, Santa Júlia, Mossoró-RN, CEP 59640-262",
+      "asking_price": 122976.76,
+      "price_display": "R$ 122.976,76",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 122976.76,
+      "second_auction_minimum_bid": 109693.45,
+      "description": "Nº DO BEM: 527293352 MOSSORÓ (RN) Descrição: IMÓVEL DE MATRÍCULA 25416 DO 6º OFÍCIO DE NOTAS DE MOSSORÓ-RN, ASSIM DESCRITO: Residência, com área de construção de 64,17m² e respectivo terreno com área total de 200,00m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 1003126601004999936 Localização: R. Ferrari, 50, Santa Júlia, Mossoró-RN, CEP 59640-262 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 122.976,76 (cento e vinte e dois mil novecentos e setenta e seis reais e setenta e seis centavos) Lance mínimo para arrematação em 2º leilão: R$ 109.693,45 (cento e nove mil, seiscentos e noventa e três reais e quarenta e cinco centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "25416",
+      "registry_office": "6º OFÍCIO DE NOTAS DE MOSSORÓ-RN",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27822",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12068_1.jpg"
+      ],
+      "latitude": -5.121597,
+      "longitude": -37.331318,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12069",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12069",
+      "external_reference": null,
+      "city": "São Gonçalo do Amarante",
+      "state": "RN",
+      "address": "R. Daniel Cabral, 56, Casa 02, Lot. Pq. Amarante, Santo Antônio do Potengi, São Gonçalo do Amarante-RN, CEP 59297-576",
+      "asking_price": 112000.0,
+      "price_display": "R$ 112.000,00",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 112000.0,
+      "second_auction_minimum_bid": 101845.43,
+      "description": "Nº DO BEM: 525304021 SÃO GONÇALO DO AMARANTE (RN) Descrição: IMÓVEL DE MATRÍCULA 42233 DO 1º OFÍCIO DE NOTAS DE SÃO GONÇALO DO AMARANTE-RN, ASSIM DESCRITO: Casa 02, com área privativa de 50,24m² e respectivo terreno com área total de 100,00m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 2000207402007500032 Localização: R. Daniel Cabral, 56, Casa 02, Lot. Pq. Amarante, Santo Antônio do Potengi, São Gonçalo do Amarante-RN, CEP 59297-576 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 112.000,00 (cento e doze mil reais) Lance mínimo para arrematação em 2º leilão: R$ 101.845,43 (cento e um mil, oitocentos e quarenta e cinco reais e quarenta e três centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "42233",
+      "registry_office": "1º OFÍCIO DE NOTAS DE SÃO GONÇALO DO AMARANTE-RN",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27823",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12069_1.jpg"
+      ],
+      "latitude": -5.77235,
+      "longitude": -35.304299,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12070",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12070",
+      "external_reference": null,
+      "city": "Tibau",
+      "state": "RN",
+      "address": "R. Projetada 06, 04, Lot. Jd. de Alicia, Tibau-RN, CEP 59678-000",
+      "asking_price": 100239.61,
+      "price_display": "R$ 100.239,61",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 100239.61,
+      "second_auction_minimum_bid": 108325.56,
+      "description": "Nº DO BEM: 520298359 TIBAU DE MOSSORÓ (RN) Descrição: IMÓVEL DE MATRÍCULA 3249 DO OFÍCIO ÚNICO DE TIBAU DE MOSSORÓ-RN, ASSIM DESCRITO: Casa, com área de 63,96m² de superfície e respectivo terreno com área total de 200,00m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 1017480240001 Localização: R. Projetada 06, 04, Lot. Jd. de Alicia, Tibau-RN, CEP 59678-000 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 100.239,61 (cem mil duzentos e trinta e nove reais e sessenta e um centavos) Lance mínimo para arrematação em 2º leilão: R$ 108.325,56 (cento e oito mil, trezentos e vinte e cinco reais e cinquenta e seis centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "3249",
+      "registry_office": "OFÍCIO ÚNICO DE TIBAU DE MOSSORÓ-RN",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27824",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12070_1.jpg"
+      ],
+      "latitude": -4.840123,
+      "longitude": -37.2528,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12141",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12141",
+      "external_reference": "91765",
+      "city": "Currais Novos",
+      "state": "RN",
+      "address": "Rua Hermes Albino de Freitas, 452, Alto de Santa Rita",
+      "asking_price": 72000.0,
+      "price_display": "R$ 72.000,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID91765 CURRAIS NOVOS (RN) Descrição legal: Imóvel Urbano: Residência com área construída de 75,00 m², em terreno de 150,00 m², situada na Rua Hermes Albino de Freitas, 452, Alto de Santa Rita, Município de Currais Novos-RN. Melhor descrita na Matrícula 10879 do 1º Cartório de Registro de Notas de Currais Novos-RN a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "10879",
+      "registry_office": "1º Cartório de Registro de Notas de Currais Novos-RN",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/15143",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12141_1.png"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12142",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12142",
+      "external_reference": "101252",
+      "city": "Canguaretama",
+      "state": "RN",
+      "address": "Rua Oceania, Lote 16 da Quadra E, Loteamento Antilhas, Lagoa de São João",
+      "asking_price": 36000.0,
+      "price_display": "R$ 36.000,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID101252 CANGUARETAMA (RN) Descrição legal: Imóvel Urbano: Residência com área construída de 56,41 m², em terreno de 231,04 m², situada na Rua Oceania, Lote 16 da Quadra E, Loteamento Antilhas, Lagoa de São João, Município de Canguaretama-RN. Melhor descrita na Matrícula 4317 do Cartório do Ofício Único de Canguaretama-RN a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "4317",
+      "registry_office": "Cartório do Ofício Único de Canguaretama-RN",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/15142",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12142_1.png"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12145",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12145",
+      "external_reference": "100260",
+      "city": "São Gonçalo do Amarante",
+      "state": "RN",
+      "address": "Rua Boa Saúde, 490, Lote 16 da Quadra 6, Loteamento Boa Vista III, Jardins",
+      "asking_price": 61000.0,
+      "price_display": "R$ 61.000,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID100260 SÃO GONÇALO DO AMARANTE (RN) Descrição legal: Imóvel Urbano: Casa 01, com área privativa de 52,46 m² e terreno exclusivo de 72,56 m², situada na Rua Boa Saúde, 490, Lote 16 da Quadra 6, Loteamento Boa Vista III, Jardins, Município de São Gonçalo do Amarante-RN. Melhor descrita na Matrícula 39184 do 1º Ofício de Registro de Imóveis de São Gonçalo do Amarante-RN a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "39184",
+      "registry_office": "1º Ofício de Registro de Imóveis de São Gonçalo do Amarante-RN",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/15149",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12145_1.png"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12227",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12227",
+      "external_reference": "94838",
+      "city": "Campo Redondo",
+      "state": "RN",
+      "address": "Rua Maria da Guia de Araújo, nº 04, Bairro Campo Belo",
+      "asking_price": null,
+      "price_display": "Aceita BB?",
+      "sale_modality_hint": "aceita_bb",
+      "auction_date_raw": "13/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID94838 CAMPO REDONDO (RN) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Maria da Guia de Araújo, nº 04, Bairro Campo Belo, Município de Campo Redondo - RN. Melhor descrito na matrícula 1064 do Ofício Único de Campo Redondo - RN. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "1064",
+      "registry_office": "Ofício Único de Campo Redondo - RN",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27957",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12227_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12227_2.jpeg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12227_3.jpg"
+      ],
+      "latitude": -6.229741,
+      "longitude": -36.17765,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12228",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12228",
+      "external_reference": "95513",
+      "city": "Campo Redondo",
+      "state": "RN",
+      "address": "Rua Petronilo Xavier Gomes, nº 27, Conjunto Lauro Maia",
+      "asking_price": null,
+      "price_display": "Aceita BB?",
+      "sale_modality_hint": "aceita_bb",
+      "auction_date_raw": "13/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID95513 CAMPO REDONDO (RN) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Petronilo Xavier Gomes, nº 27, Conjunto Lauro Maia, Município de Campo Redondo - RN. Melhor descrito na matrícula 1134 do Ofício Único de Campo Redondo - RN. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "1134",
+      "registry_office": "Ofício Único de Campo Redondo - RN",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27958",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12228_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12228_2.jpeg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12228_3.jpg"
+      ],
+      "latitude": -6.234177,
+      "longitude": -36.182705,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12229",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12229",
+      "external_reference": "97807",
+      "city": "Campo Redondo",
+      "state": "RN",
+      "address": "Rua Natércio Barbosa da Silva, nº 89, Bairro Lauro Maia",
+      "asking_price": null,
+      "price_display": "Aceita BB?",
+      "sale_modality_hint": "aceita_bb",
+      "auction_date_raw": "13/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID97807 CAMPO REDONDO (RN) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Natércio Barbosa da Silva, nº 89, Bairro Lauro Maia, Município de Campo Redondo - RN. Melhor descrito na matrícula 1320 no Ofício Único de Campo Redondo - RN. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "1320",
+      "registry_office": null,
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27959",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12229_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12229_2.jpeg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12229_3.jpg"
+      ],
+      "latitude": -6.2454401,
+      "longitude": -36.1826185,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12230",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12230",
+      "external_reference": "97818",
+      "city": "Campo Redondo",
+      "state": "RN",
+      "address": "Rua Maria da Guia de Araújo, nº 85, Loteamento Campo Belo",
+      "asking_price": null,
+      "price_display": "Aceita BB?",
+      "sale_modality_hint": "aceita_bb",
+      "auction_date_raw": "13/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID97818 CAMPO REDONDO (RN) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Maria da Guia de Araújo, nº 85, Loteamento Campo Belo, Município de Campo Redondo - RN. Melhor descrito na matrícula 1294 do Ofício Único de Campo Redondo - RN. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "1294",
+      "registry_office": "Ofício Único de Campo Redondo - RN",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27960",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12230_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12230_2.jpeg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12230_3.jpg"
+      ],
+      "latitude": -6.229741,
+      "longitude": -36.17765,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12231",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12231",
+      "external_reference": "97616",
+      "city": "Jaçanã",
+      "state": "RN",
+      "address": null,
+      "asking_price": null,
+      "price_display": "Aceita BB?",
+      "sale_modality_hint": "aceita_bb",
+      "auction_date_raw": "13/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID97616 JAÇANÃ (RN) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Luiz Bertoldo da Costa, nº 677, Bairro São José, Jaçanã - RN. Imóvel melhor descrito na matrícula 869 do Cartório Único de Jaçanã - RN. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente; b) A titularidade do IPTU encontra-se atualmente em nome de terceiros, cabendo ao arrematante a obrigação de promover, após a arrematação, a devida atualização cadastral e a transferência da titularidade para o seu nome junto ao órgão municipal competente, arcando integralmente com todas as providências, custos e eventuais despesas necessárias à regularização. Os valores de IPTU eventualmente devidos serão tratados conforme o disposto no item 16.7 deste Edital.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "869",
+      "registry_office": "Cartório Único de Jaçanã - RN",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27961",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12231_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12231_2.jpeg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12231_3.jpg"
+      ],
+      "latitude": -27.5950396,
+      "longitude": -48.6137681,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12232",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12232",
+      "external_reference": "97633",
+      "city": "Jaçanã",
+      "state": "RN",
+      "address": "Rua Luiz Bertoldo da Costa, nº 665, Bairro São José, no município de Jaçanã - RN",
+      "asking_price": null,
+      "price_display": "Aceita BB?",
+      "sale_modality_hint": "aceita_bb",
+      "auction_date_raw": "13/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID97633 JAÇANÃ (RN) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Luiz Bertoldo da Costa, nº 665, Bairro São José, no município de Jaçanã - RN. Melhor descrito na matrícula 866 do Cartório Único de Jaçanã - RN. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "866",
+      "registry_office": "Cartório Único de Jaçanã - RN",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27962",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12232_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12232_2.jpeg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12232_3.jpg"
+      ],
+      "latitude": -27.5950396,
+      "longitude": -48.6137681,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12233",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12233",
+      "external_reference": "97639",
+      "city": "Jaçanã",
+      "state": "RN",
+      "address": "Rua Luiz Bertoldo da Costa, nº 669, Bairro São José",
+      "asking_price": null,
+      "price_display": "Aceita BB?",
+      "sale_modality_hint": "aceita_bb",
+      "auction_date_raw": "13/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID97639 JAÇANÃ (RN) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Luiz Bertoldo da Costa, nº 669, Bairro São José, Município de Jaçanã - RN. Melhor descrito na matrícula 867 do Cartório Único de Jaçanã - RN. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente; b) A titularidade do IPTU encontra-se atualmente em nome de terceiros, cabendo ao arrematante a obrigação de promover, após a arrematação, a devida atualização cadastral e a transferência da titularidade para o seu nome junto ao órgão municipal competente, arcando integralmente com todas as providências, custos e eventuais despesas necessárias à regularização. Os valores de IPTU eventualmente devidos serão tratados conforme o disposto no item 16.7 deste Edital.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "867",
+      "registry_office": "Cartório Único de Jaçanã - RN",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27963",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12233_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12233_2.jpeg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12233_3.jpg"
+      ],
+      "latitude": -6.4263991,
+      "longitude": -36.2022367,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12310",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12310",
+      "external_reference": "100820",
+      "city": "Lajes Pintadas",
+      "state": "RN",
+      "address": "Rua Walfredo Witurino, nº 65, Centro",
+      "asking_price": 38500.0,
+      "price_display": "R$ 38.500,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID100820 LAJES PINTADAS (RN)Descrição legal: Imóvel Urbano: Residência com área construída de 70,00m², dentro de um terreno com área de 150,00m², situada na Rua Walfredo Witurino, nº 65, Centro, município de Lajes Pintadas - RN. Melhor descrita na matrícula nº 768 do Ofício Único de Lajes Pintadas - RN. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "768",
+      "registry_office": "Ofício Único de Lajes Pintadas - RN",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/14965",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12310_1.png"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "3756",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/3756",
+      "external_reference": "97640",
+      "city": "Jaçanã",
+      "state": "RN",
+      "address": "Rua Maximina Salustino da Costa, nº 675, Bairro São José",
+      "asking_price": 28950.0,
+      "price_display": "R$ 28.950,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID97640 JAÇANÃ (RN) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Maximina Salustino da Costa, nº 675, Bairro São José, município de Jaçanã - RN. Melhor descrito na matrícula 782 do Cartório Único de Jaçanã - RN. a) O imóvel teve seu estado de conservação alterado, possui somente paredes e pisos, e o arrematante se declara informado do fato. Eventuais procedimentos e despesas para regularização da pendência correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": null,
+      "registry_number": "782",
+      "registry_office": "Cartório Único de Jaçanã - RN",
+      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=21789",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/3756_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/3756_2.jpg"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "7096",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/7096",
+      "external_reference": "100034",
+      "city": "Ceará-Mirim",
+      "state": "RN",
+      "address": "Rua Village Central, nº 11, Lote 11, Quadra 20, Massaranduba, Ceará-Mirim/RN, CEP: 59570-000.Considerações Importantes: O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "asking_price": 31550.0,
+      "price_display": "R$ 31.550,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID100034 Casa residencial com 54,70m² de área construída, melhor descrita e caracterizada na matrícula 22312 do cartório de registro de imóveis da comarca de Ceará-Mirim do Estado do Rio Grande do Norte. Status da Ocupação: Ocupado. Inscrição Imobiliária: 6.0001.020.04.0430.0001.1Localização: Rua Village Central, nº 11, Lote 11, Quadra 20, Massaranduba, Ceará-Mirim/RN, CEP: 59570-000.Considerações Importantes: O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "22312",
+      "registry_office": "cartório de registro de imóveis da comarca de Ceará-Mirim do Estado do Rio Grande do Norte",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/342",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/7096_1.jpg"
+      ],
+      "latitude": -5.7234295,
+      "longitude": -35.3647772,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "7101",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/7101",
+      "external_reference": "95320",
+      "city": "Mossoró",
+      "state": "RN",
+      "address": "Rua Antônia Rodrigues Dantas, nº 65, Quadra C, Lote 22, loteamento Ecopark, Bairro Presidente Costa e Silva",
+      "asking_price": 56200.0,
+      "price_display": "R$ 56.200,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID95320 Descrição legal: Imóvel Urbano Residencial, Casa situada à Rua Antônia Rodrigues Dantas, nº 65, Quadra C, Lote 22, loteamento Ecopark, Bairro Presidente Costa e Silva, município de Mossoró/RN. Melhor descrito na matrícula 26032 do Registro de Imóveis de Mossoró/RN. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "26032",
+      "registry_office": "Registro de Imóveis de Mossoró/RN",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/725",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/7101_1.png",
+        "https://www.seuimovelbb.com.br/imagem/imovel/7101_2.png"
+      ],
+      "latitude": -5.1919109,
+      "longitude": -37.3423886,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "7105",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/7105",
+      "external_reference": "96830",
+      "city": "Mossoró",
+      "state": "RN",
+      "address": "Rua Francisco Gurgel de Brito, 195, Quadra B, Lote 09, loteamento Ecopark, Bairro Presidente Costa e Silva",
+      "asking_price": 94590.0,
+      "price_display": "R$ 94.590,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID96830 Descrição legal: Imóvel Urbano Residencial, Casa situada à Rua Francisco Gurgel de Brito, 195, Quadra B, Lote 09, loteamento Ecopark, Bairro Presidente Costa e Silva, município de Mossoró/RN. Melhor descrito na matrícula 25856 do Registro de Imóveis de Mossoró/RN. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "25856",
+      "registry_office": "Registro de Imóveis de Mossoró/RN",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/727",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/7105_1.png",
+        "https://www.seuimovelbb.com.br/imagem/imovel/7105_2.png"
+      ],
+      "latitude": -5.2239937,
+      "longitude": -37.2915486,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "7106",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/7106",
+      "external_reference": "97475",
+      "city": "Extremoz",
+      "state": "RN",
+      "address": "RUA PADRE BARTOLOMEU DE GUSMAO, nº 404, LT 21 QD 10 Considerações importantes: O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "asking_price": 37150.0,
+      "price_display": "R$ 37.150,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID97475 Casa residencial situada Rua Padre Bartolomeu de Gusmão, nº 404, loteamento Santos Dumont na cidade de Extremoz-RN, melhor descrita e caracterizada na matrícula 21582 do CRI de Extremoz/RN. Status da Ocupação: Ocupado. Localização: RUA PADRE BARTOLOMEU DE GUSMAO, nº 404, LT 21 QD 10 Considerações importantes: O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "21582",
+      "registry_office": "CRI de Extremoz/RN",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/458",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/7106_1.jpg"
+      ],
+      "latitude": -5.7059293,
+      "longitude": -35.3032604,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "7111",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/7111",
+      "external_reference": "97776",
+      "city": "Mossoró",
+      "state": "RN",
+      "address": "Rua Francisco Gurgel de Brito, 205, Lote 08, Quadra B, loteamento Ecopark, Bairro Presidente Costa E Silva",
+      "asking_price": 59040.0,
+      "price_display": "R$ 59.040,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID97776 Descrição legal: Imóvel Urbano Residencial, Casa situada à Rua Francisco Gurgel de Brito, 205, Lote 08, Quadra B, loteamento Ecopark, Bairro Presidente Costa E Silva, município de Mossoró - RN. Melhor descrito na Matrícula 25855 do Registro de Imóveis de Mossoró/RN. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "25855",
+      "registry_office": "Registro de Imóveis de Mossoró/RN",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/729",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/7111_1.png",
+        "https://www.seuimovelbb.com.br/imagem/imovel/7111_2.png"
+      ],
+      "latitude": -5.2239937,
+      "longitude": -37.2915486,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "7112",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/7112",
+      "external_reference": "98587",
+      "city": "Jaçanã",
+      "state": "RN",
+      "address": "Rua Ana Medeiros de Farias, nº 694, Bairro São José",
+      "asking_price": 35370.0,
+      "price_display": "R$ 35.370,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID98587 Descrição legal: Imóvel Urbano Residencial, Casa situada à Rua Ana Medeiros de Farias, nº 694, Bairro São José, município de Jaçanã/RN. Melhor descrito na Matrícula 861 do Cartório Único de Jaçanã/RN. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "861",
+      "registry_office": "Cartório Único de Jaçanã/RN",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/730",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/7112_1.png",
+        "https://www.seuimovelbb.com.br/imagem/imovel/7112_2.png"
+      ],
+      "latitude": -6.4307151,
+      "longitude": -36.2043394,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "7180",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/7180",
+      "external_reference": "97824",
+      "city": "Campo Redondo",
+      "state": "RN",
+      "address": "Rua José Avelino Sobrinho, nº 62, Bairro Lauro Maia",
+      "asking_price": 42500.0,
+      "price_display": "R$ 42.500,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID97824 Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua José Avelino Sobrinho, nº 62, Bairro Lauro Maia, Município de Campo Redondo - RN. Melhor descrito na matrícula 1136 do Cartório Único de Campo Redondo - RN. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "1136",
+      "registry_office": "Cartório Único de Campo Redondo - RN",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/14601",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/7180_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/7180_2.jpg"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "7181",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/7181",
+      "external_reference": "99967",
+      "city": "Assú",
+      "state": "RN",
+      "address": "Rua Luiza Pereira Nobre, nº 55, Lote 65, Quadra 04, Bairro Lagoa do Ferreiro",
+      "asking_price": 66100.0,
+      "price_display": "R$ 66.100,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID99967 Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Luiza Pereira Nobre, nº 55, Lote 65, Quadra 04, Bairro Lagoa do Ferreiro, Município de Assú - RN. Melhor descrito na matrícula 15128 do 1º Ofício de Serviços Notarial e Registral Imobiliário de Assú - RN. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "15128",
+      "registry_office": "1º Ofício de Serviços Notarial e Registral Imobiliário de Assú - RN",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/14598",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/7181_1.jpg"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "9872",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/9872",
+      "external_reference": "100574",
+      "city": "Ceará-Mirim",
+      "state": "RN",
+      "address": "Rua Hélio Venâncio Rodrigues, 278, Planalto - Lot. Paraiso",
+      "asking_price": 58000.0,
+      "price_display": "R$ 58.000,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID100574 CEARÁ-MIRIM(RN) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Hélio Venâncio Rodrigues, 278, Planalto - Lot. Paraiso, Município de CEARÁ-MIRIM - RN. Melhor descrito na matrícula 22298 do Cartório de Registro de Imóveis do 1º Ofício de Notas de Ceará-Mirim-RN. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "22298",
+      "registry_office": "Cartório de Registro de Imóveis do 1º Ofício de Notas de Ceará-Mirim-RN",
+      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=25750",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/9872_1.jpg"
+      ],
+      "latitude": -5.65073,
+      "longitude": -35.443781,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "9874",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/9874",
+      "external_reference": "100199",
+      "city": "Extremoz",
+      "state": "RN",
+      "address": "Rua Butia Nº173 L 31 Q 12 - Carao",
+      "asking_price": 63000.0,
+      "price_display": "R$ 63.000,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID100199 EXTREMOZ(RN) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Butia Nº173 L 31 Q 12 - Carao, Município de EXTREMOZ - RN. Melhor descrito na matrícula 22735 do Cartório de Registro de Imóveis de Extremoz-RN. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "22735",
+      "registry_office": "Cartório de Registro de Imóveis de Extremoz-RN",
+      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=25752",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/9874_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/9874_2.jpg"
+      ],
+      "latitude": -5.696462,
+      "longitude": -35.319648,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    }
+  ]
+}

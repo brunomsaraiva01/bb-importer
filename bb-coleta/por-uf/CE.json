@@ -1,0 +1,1200 @@
+{
+  "imoveis": [
+    {
+      "source_type": "bb",
+      "source_external_id": "10814",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/10814",
+      "external_reference": "2076",
+      "city": "Juazeiro do Norte",
+      "state": "CE",
+      "address": "Rua Vicência Maria de Oliveira, nº 940, Lote11-A, Quadra 02-A, do Loteamento Jardim Vila Real",
+      "asking_price": 134200.0,
+      "price_display": "R$ 134.200,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID2076 JUAZEIRO DO NORTE (CE) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Vicência Maria de Oliveira, nº 940, Lote11-A, Quadra 02-A, do Loteamento Jardim Vila Real, Município de Juazeiro do Norte/CE. Melhor descrito na matrícula nº 34897 do 2º Ofício de Registro de Imóveis de Juazeiro do Norte/CE. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "34897",
+      "registry_office": "2º Ofício de Registro de Imóveis de Juazeiro do Norte/CE",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/14748",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/10814_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10814_2.jpg"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11213",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11213",
+      "external_reference": "100000",
+      "city": "Araripe",
+      "state": "CE",
+      "address": "Rua Cruz do Monte, 210",
+      "asking_price": 39980.0,
+      "price_display": "R$ 39.980,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID100000 ARARIPE (CE) Descrição legal: Residência dentro de um terreno com área de 344,00m², situada na Rua Cruz do Monte, 210, município de Araripe - CE. Melhor descrita na matrícula nº 983 do 2º Ofício de Registro de Imóveis de Araripe - CE.a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "983",
+      "registry_office": "2º Ofício de Registro de Imóveis de Araripe - CE",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/14803",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11213_1.png"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11625",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11625",
+      "external_reference": "102078",
+      "city": "São Benedito",
+      "state": "CE",
+      "address": "Rua 02, nº 294, Bairro Boa Vista",
+      "asking_price": 66000.0,
+      "price_display": "R$ 66.000,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID102078 SÃO BENEDITO (CE) Descrição legal: Descrição legal: Imóvel Urbano: Casa com edificação de 89,68m², situado na Rua 02, nº 294, Bairro Boa Vista, Município de São Benedito - CE. Melhor descrito na matrícula 5682 do Cartório do 1º Ofício da Comarca de São Benedito - CE. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "5682",
+      "registry_office": "Cartório do 1º Ofício da Comarca de São Benedito - CE",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/14975",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11625_1.png",
+        "https://www.seuimovelbb.com.br/imagem/imovel/11625_2.png"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11842",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11842",
+      "external_reference": null,
+      "city": "Acopiara",
+      "state": "CE",
+      "address": "R. Joaquim Pedro de Queiroz, 07, Casa 02, Nova Acopiara, Acopiara-CE, CEP 63560-000",
+      "asking_price": 133670.35,
+      "price_display": "R$ 133.670,35",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 133670.35,
+      "second_auction_minimum_bid": 134658.44,
+      "description": "Nº DO BEM: 529288473 ACOPIARA (CE) Descrição: IMÓVEL DE MATRÍCULA 4.219 DO 2º OFÍCIO DE REGISTRO DE IMÓVEIS DE ACOPIARA-CE, ASSIM DESCRITO: Residência unifamiliar, com área edificada de 90,00m² e terreno com área total de 140,00m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 092174 Localização: R. Joaquim Pedro de Queiroz, 07, Casa 02, Nova Acopiara, Acopiara-CE, CEP 63560-000 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 133.670,35 (cento e trinta e três mil seiscentos e setenta reais e trinta e cinco centavos) Lance mínimo para arrematação em 2º leilão: R$ 134.658,44 (cento e trinta e quatro mil, seiscentos e cinquenta e oito reais e quarenta e quatro centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "4.219",
+      "registry_office": "2º OFÍCIO DE REGISTRO DE IMÓVEIS DE ACOPIARA-CE",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27596",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11842_1.jpg"
+      ],
+      "latitude": -4.171603,
+      "longitude": -38.131036,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11843",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11843",
+      "external_reference": null,
+      "city": "Fortaleza",
+      "state": "CE",
+      "address": "R. José Barreto Parente, 725, AP 1002, Ed. Assis França, Eng. Luciano Cavalcante, Fortaleza-CE, CEP 60811-160",
+      "asking_price": 655692.57,
+      "price_display": "R$ 655.692,57",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 655692.57,
+      "second_auction_minimum_bid": 1128688.81,
+      "description": "Nº DO BEM: 507240741 FORTALEZA (CE) Descrição: IMÓVEL DE MATRÍCULA 76.427 DO REGISTRO DE IMÓVEIS DA 1ª ZONA DE FORTALEZA-CE, ASSIM DESCRITO: Apartamento nº 1002, com área privativa construída de 136,20m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 685092-8 Localização: R. José Barreto Parente, 725, AP 1002, Ed. Assis França, Eng. Luciano Cavalcante, Fortaleza-CE, CEP 60811-160 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 655.692,57 (seiscentos e cinquenta e cinco mil, seiscentos e noventa e dois reais e cinquenta e sete centavos) Lance mínimo para arrematação em 2º leilão: R$ 1.128.688,81 (um milhão, cento e vinte e oito mil, seiscentos e oitenta e oito reais e oitenta e um centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "76.427",
+      "registry_office": "REGISTRO DE IMÓVEIS DA 1ª ZONA DE FORTALEZA-CE",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27597",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11843_1.jpg"
+      ],
+      "latitude": -3.776906,
+      "longitude": -38.48655,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11844",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11844",
+      "external_reference": null,
+      "city": "Fortaleza",
+      "state": "CE",
+      "address": "R. Raimundo Oliveira Filho, 303, AP 402, BL B, Cond. Res. Los Angeles, Papicu, Fortaleza-CE, CEP 60175-175",
+      "asking_price": 173765.89,
+      "price_display": "R$ 173.765,89",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 173765.89,
+      "second_auction_minimum_bid": 330102.32,
+      "description": "Nº DO BEM: 513661509 FORTALEZA (CE) Descrição: IMÓVEL DE MATRÍCULA 002.089 DO REGISTRO DE IMÓVEIS DA 5ª ZONA COMARCA DE FORTALEZA-CE, ASSIM DESCRITO: Apartamento nº 402, com área privativa de 94,87m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 431086-1 Localização: R. Raimundo Oliveira Filho, 303, AP 402, BL B, Cond. Res. Los Angeles, Papicu, Fortaleza-CE, CEP 60175-175 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 173.765,89 (cento e setenta e três mil, setecentos e sessenta e cinco reais e oitenta e nove centavos) Lance mínimo para arrematação em 2º leilão: R$ 330.102,32 (trezentos e trinta mil, cento e dois reais e trinta e dois centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "002.089",
+      "registry_office": "REGISTRO DE IMÓVEIS DA 5ª ZONA COMARCA DE FORTALEZA-CE",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27598",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11844_1.jpg"
+      ],
+      "latitude": -3.735612,
+      "longitude": -38.481431,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11845",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11845",
+      "external_reference": null,
+      "city": "Fortaleza",
+      "state": "CE",
+      "address": "R. Beta, 188, AP 205, BL 03, Cond. Pq. Farol da Costa, Vila Velha, Fortaleza-CE, CEP 60349-130",
+      "asking_price": 174467.02,
+      "price_display": "R$ 174.467,02",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 174467.02,
+      "second_auction_minimum_bid": 142821.23,
+      "description": "Nº DO BEM: 523356269 FORTALEZA (CE) Descrição: IMÓVEL DE MATRÍCULA 110.784 DO 3º OFÍCIO DE REGISTRO DE IMÓVEIS DE FORTALEZA-CE, ASSIM DESCRITO: Apartamento nº 205, com área real privativa coberta padrão de 44,79m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 820.073-4 Localização: R. Beta, 188, AP 205, BL 03, Cond. Pq. Farol da Costa, Vila Velha, Fortaleza-CE, CEP 60349-130 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 174.467,02 (cento e setenta e quatro mil, quatrocentos e sessenta e sete reais e dois centavos) Lance mínimo para arrematação em 2º leilão: R$ 142.821,23 (cento e quarenta e dois mil, oitocentos e vinte e um reais e vinte e três centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "110.784",
+      "registry_office": "3º OFÍCIO DE REGISTRO DE IMÓVEIS DE FORTALEZA-CE",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27599",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11845_1.jpg"
+      ],
+      "latitude": -3.736231,
+      "longitude": -38.49831,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11846",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11846",
+      "external_reference": null,
+      "city": "Fortaleza",
+      "state": "CE",
+      "address": "R. Artur de Sousa, 2011, AP 512, BL 04, TP E, Moratta Cond. Clube, Mondubim, Planalto Ayrton Senna, Fortaleza-CE, CEP 60766-120",
+      "asking_price": 185000.0,
+      "price_display": "R$ 185.000,00",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 185000.0,
+      "second_auction_minimum_bid": 120097.9,
+      "description": "Nº DO BEM: 515279411 FORTALEZA (CE) Descrição: IMÓVEL DE MATRÍCULA 82.094 DO 6º OFÍCIO DE REGISTRO DE IMÓVEIS DE FORTALEZA-CE, ASSIM DESCRITO: Apartamento nº 512, com área equivalente privativa de 41,72m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 794772-0 Localização: R. Artur de Sousa, 2011, AP 512, BL 04, TP E, Moratta Cond. Clube, Mondubim, Planalto Ayrton Senna, Fortaleza-CE, CEP 60766-120 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 185.000,00 (cento e oitenta e cinco mil reais) Lance mínimo para arrematação em 2º leilão: R$ 120.097,90 (cento e vinte mil, noventa e sete reais e noventa centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "82.094",
+      "registry_office": "6º OFÍCIO DE REGISTRO DE IMÓVEIS DE FORTALEZA-CE",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27600",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11846_1.jpg"
+      ],
+      "latitude": -3.824399,
+      "longitude": -38.577826,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11847",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11847",
+      "external_reference": null,
+      "city": "Fortaleza",
+      "state": "CE",
+      "address": "Via Marginal Riacho Martinho, 51, AP 106, TP 1, BL 03, Reserva Jardim Cond Clube, Dias Macedo, Fortaleza-CE, CEP 60860-675",
+      "asking_price": 517252.87,
+      "price_display": "R$ 517.252,87",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 517252.87,
+      "second_auction_minimum_bid": 218850.86,
+      "description": "Nº DO BEM: 522419602 FORTALEZA (CE) Descrição: IMÓVEL DE MATRÍCULA 94.128 DO REGISTRO DE IMÓVEIS DA 2ª ZONA DE FORTALEZA-CE, ASSIM DESCRITO: Apartamento nº 106, com área equivalente privativa de 46,26m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 822784-5 Localização: Via Marginal Riacho Martinho, 51, AP 106, TP 1, BL 03, Reserva Jardim Cond Clube, Dias Macedo, Fortaleza-CE, CEP 60860-675 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 517.252,87 (quinhentos e dezessete mil duzentos e cinquenta e dois reais e oitenta e sete centavos) Lance mínimo para arrematação em 2º leilão: R$ 218.850,86 (duzentos e dezoito mil, oitocentos e cinquenta reais e oitenta e seis centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "94.128",
+      "registry_office": "REGISTRO DE IMÓVEIS DA 2ª ZONA DE FORTALEZA-CE",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27601",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11847_1.jpg"
+      ],
+      "latitude": -3.788427,
+      "longitude": -38.517296,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11848",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11848",
+      "external_reference": null,
+      "city": "Fortaleza",
+      "state": "CE",
+      "address": "R. 41, 1296, Conj. Planalto da Barra, Vila Velha, Fortaleza-CE, CEP 60348-580",
+      "asking_price": 226485.45,
+      "price_display": "R$ 226.485,45",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 226485.45,
+      "second_auction_minimum_bid": 55879.19,
+      "description": "Nº DO BEM: 519043704 FORTALEZA (CE) Descrição: IMÓVEL DE MATRÍCULA 29.631 DO 3º OFÍCIO DE REGISTRO DE IMÓVEIS DE FORTALEZA-CE, ASSIM DESCRITO: Casa, com área construída de 50,49m² e terreno com área total de 228,00m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 359123-9 Localização: R. 41, 1296, Conj. Planalto da Barra, Vila Velha, Fortaleza-CE, CEP 60348-580 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 226.485,45 (duzentos e vinte e seis mil, quatrocentos e oitenta e cinco reais e quarenta e cinco centavos) Lance mínimo para arrematação em 2º leilão: R$ 55.879,19 (cinquenta e cinco mil, oitocentos e setenta e nove reais e dezenove centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "29.631",
+      "registry_office": "3º OFÍCIO DE REGISTRO DE IMÓVEIS DE FORTALEZA-CE",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27602",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11848_1.jpg"
+      ],
+      "latitude": -3.716014,
+      "longitude": -38.599667,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11849",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11849",
+      "external_reference": null,
+      "city": "Horizonte",
+      "state": "CE",
+      "address": "Av. Marina Ferreira de Almeida, 5296, Casa A, Vertente, Dourado, Horizonte-CE, CEP 62898-000",
+      "asking_price": 156423.72,
+      "price_display": "R$ 156.423,72",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 156423.72,
+      "second_auction_minimum_bid": 127199.35,
+      "description": "Nº DO BEM: 516052327 HORIZONTE (CE) Descrição: IMÓVEL DE MATRÍCULA 5.714 DO 2º OFÍCIO DE REGISTRO DE IMÓVEIS DE HORIZONTE-CE, ASSIM DESCRITO: Casa A, com área construída de 53,14m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 62266408 Localização: Av. Marina Ferreira de Almeida, 5296, Casa A, Vertente, Dourado, Horizonte-CE, CEP 62898-000 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 156.423,72 (cento e cinquenta e seis mil quatrocentos e vinte e três reais e setenta e dois centavos) Lance mínimo para arrematação em 2º leilão: R$ 127.199,35 (cento e vinte e sete mil, cento e noventa e nove reais e trinta e cinco centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "5.714",
+      "registry_office": "2º OFÍCIO DE REGISTRO DE IMÓVEIS DE HORIZONTE-CE",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27603",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11849_1.jpg"
+      ],
+      "latitude": -4.09481,
+      "longitude": -38.451858,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11850",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11850",
+      "external_reference": null,
+      "city": "Horizonte",
+      "state": "CE",
+      "address": "R. Espanha, 125, Casa B, Dourado, Horizonte-CE, CEP 62898-000",
+      "asking_price": 108695.0,
+      "price_display": "R$ 108.695,00",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 108695.0,
+      "second_auction_minimum_bid": 140749.69,
+      "description": "Nº DO BEM: 518680936 HORIZONTE (CE) Descrição: IMÓVEL DE MATRÍCULA 6.049 DO 2º OFÍCIO DE REGISTRO DE IMÓVEIS DE HORIZONTE-CE, ASSIM DESCRITO: Casa B, com área construída de 53,14m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 62266443 Localização: R. Espanha, 125, Casa B, Dourado, Horizonte-CE, CEP 62898-000 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 108.695,00 (cento e oito mil seiscentos e noventa e cinco reais) Lance mínimo para arrematação em 2º leilão: R$ 140.749,69 (cento e quarenta mil, setecentos e quarenta e nove reais e sessenta e nove centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "6.049",
+      "registry_office": "2º OFÍCIO DE REGISTRO DE IMÓVEIS DE HORIZONTE-CE",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27604",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11850_1.jpg"
+      ],
+      "latitude": -4.095721,
+      "longitude": -38.452206,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11851",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11851",
+      "external_reference": null,
+      "city": "Horizonte",
+      "state": "CE",
+      "address": "R. Letícia Nogueira Paiva, 103, Casa A, Gameleira, Horizonte-CE, CEP 62885-583",
+      "asking_price": 167787.51,
+      "price_display": "R$ 167.787,51",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 167787.51,
+      "second_auction_minimum_bid": 155074.9,
+      "description": "Nº DO BEM: 533035088 HORIZONTE (CE) Descrição: IMÓVEL DE MATRÍCULA 11.770 DO 2º OFÍCIO DE REGISTRO DE IMÓVEIS DE HORIZONTE-CE, ASSIM DESCRITO: Casa A, com área construída de 67,61m²,00m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 62266085 Localização: R. Letícia Nogueira Paiva, 103, Casa A, Gameleira, Horizonte-CE, CEP 62885-583 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 167.787,51 (cento e sessenta e sete mil setecentos e oitenta e sete reais e cinquenta e um centavos) Lance mínimo para arrematação em 2º leilão: R$ 155.074,90 (cento e cinquenta e cinco mil, setenta e quatro reais e noventa centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "11.770",
+      "registry_office": "2º OFÍCIO DE REGISTRO DE IMÓVEIS DE HORIZONTE-CE",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27605",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11851_1.jpg"
+      ],
+      "latitude": -4.115962,
+      "longitude": -38.491125,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11852",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11852",
+      "external_reference": null,
+      "city": "Horizonte",
+      "state": "CE",
+      "address": "R. Áustria, 76, Casa B, LT 23, Dourado V, Carnaubal, Horizonte-CE, CEP 62898-000",
+      "asking_price": 129392.9,
+      "price_display": "R$ 129.392,90",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 129392.9,
+      "second_auction_minimum_bid": 154575.25,
+      "description": "Nº DO BEM: 529872839 HORIZONTE (CE) Descrição: IMÓVEL DE MATRÍCULA 10.487 DO 2º OFÍCIO DE REGISTRO DE IMÓVEIS DE HORIZONTE-CE, ASSIM DESCRITO: Casa B, com área construída de 60,70m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 62276719 Localização: R. Áustria, 76, Casa B, LT 23, Dourado V, Carnaubal, Horizonte-CE, CEP 62898-000 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 129.392,90 (cento e vinte e nove mil trezentos e noventa e dois reais e noventa centavos) Lance mínimo para arrematação em 2º leilão: R$ 154.575,25 (cento e cinquenta e quatro mil, quinhentos e setenta e cinco reais e vinte e cinco centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "10.487",
+      "registry_office": "2º OFÍCIO DE REGISTRO DE IMÓVEIS DE HORIZONTE-CE",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27606",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11852_1.jpg"
+      ],
+      "latitude": 44.14278,
+      "longitude": -64.608807,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11853",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11853",
+      "external_reference": null,
+      "city": "Horizonte",
+      "state": "CE",
+      "address": "R. Inglaterra, 103, QD 01, LT 11, Casa A, Vertente, Horizonte-CE, CEP 62898-000",
+      "asking_price": 129221.47,
+      "price_display": "R$ 129.221,47",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 129221.47,
+      "second_auction_minimum_bid": 105267.15,
+      "description": "Nº DO BEM: 525480896 HORIZONTE (CE) Descrição: IMÓVEL DE MATRÍCULA 8.851 DO 2º OFÍCIO DE REGISTRO DE IMÓVEIS DE HORIZONTE-CE, ASSIM DESCRITO: Casa A, com área construída de 59,97m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 62274211 Localização: R. Inglaterra, 103, QD 01, LT 11, Casa A, Vertente, Horizonte-CE, CEP 62898-000 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 129.221,47 (cento e vinte e nove mil duzentos e vinte e um reais e quarenta e sete centavos) Lance mínimo para arrematação em 2º leilão: R$ 105.267,15 (cento e cinco mil, duzentos e sessenta e sete reais e quinze centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "8.851",
+      "registry_office": "2º OFÍCIO DE REGISTRO DE IMÓVEIS DE HORIZONTE-CE",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27607",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11853_1.jpg"
+      ],
+      "latitude": -4.095131,
+      "longitude": -38.450405,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11854",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11854",
+      "external_reference": null,
+      "city": "Horizonte",
+      "state": "CE",
+      "address": "R. Itália, 80, SDO 01, LT 16, Casa B, Vertente, Dourado, Horizonte-CE, CEP 62898-000",
+      "asking_price": 295228.02,
+      "price_display": "R$ 295.228,02",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 295228.02,
+      "second_auction_minimum_bid": 124195.86,
+      "description": "Nº DO BEM: 522619720 HORIZONTE (CE) Descrição: IMÓVEL DE MATRÍCULA 7.778 DO 2º OFÍCIO DE REGISTRO DE IMÓVEIS DE HORIZONTE-CE, ASSIM DESCRITO: Casa B, com área construída de 53,14m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 62269494 Localização: R. Itália, 80, SDO 01, LT 16, Casa B, Vertente, Dourado, Horizonte-CE, CEP 62898-000 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 295.228,02 (duzentos e noventa e cinco mil duzentos e vinte e oito reais e dois centavos) Lance mínimo para arrematação em 2º leilão: R$ 124.195,86 (cento e vinte e quatro mil, cento e noventa e cinco reais e oitenta e seis centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "7.778",
+      "registry_office": "2º OFÍCIO DE REGISTRO DE IMÓVEIS DE HORIZONTE-CE",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27608",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11854_1.jpg"
+      ],
+      "latitude": -4.099165,
+      "longitude": -38.495106,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11855",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11855",
+      "external_reference": null,
+      "city": "Horizonte",
+      "state": "CE",
+      "address": "R. Suíça, 26, Casa A, Carnaubal, Distrito Dourado, Horizonte-CE, CEP 62898-000",
+      "asking_price": 146347.84,
+      "price_display": "R$ 146.347,84",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 146347.84,
+      "second_auction_minimum_bid": 146052.97,
+      "description": "Nº DO BEM: 532249926 HORIZONTE (CE) Descrição: IMÓVEL DE MATRÍCULA 11.527 DO 2º OFÍCIO DE REGISTRO DE IMÓVEIS DE HORIZONTE-CE, ASSIM DESCRITO: Casa A, com área construída de 60,70m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 62276419 Localização: R. Suíça, 26, Casa A, Carnaubal, Distrito Dourado, Horizonte-CE, CEP 62898-000 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 146.347,84 (cento e quarenta e seis mil trezentos e quarenta e sete reais e oitenta e quatro centavos) Lance mínimo para arrematação em 2º leilão: R$ 146.052,97 (cento e quarenta e seis mil, cinquenta e dois reais e noventa e sete centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "11.527",
+      "registry_office": "2º OFÍCIO DE REGISTRO DE IMÓVEIS DE HORIZONTE-CE",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27609",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11855_1.jpg"
+      ],
+      "latitude": -4.099165,
+      "longitude": -38.495106,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11856",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11856",
+      "external_reference": null,
+      "city": "Horizonte",
+      "state": "CE",
+      "address": "Av. João Maroca, 5420, Casa A, Vertente, Horizonte-CE, CEP: 62898-000",
+      "asking_price": 122976.76,
+      "price_display": "R$ 122.976,76",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 122976.76,
+      "second_auction_minimum_bid": 145452.81,
+      "description": "Nº DO BEM: 527331564 HORIZONTE (CE) Descrição: IMÓVEL DE MATRÍCULA 9.440 DO 2º OFÍCIO DE REGISTRO DE IMÓVEIS DE HORIZONTE-CE, ASSIM DESCRITO: Casa A, com área construída de 60,70m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 62275627 Localização: Av. João Maroca, 5420, Casa A, Vertente, Horizonte-CE, CEP: 62898-000 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 122.976,76 (cento e vinte e dois mil novecentos e setenta e seis reais e setenta e seis centavos) Lance mínimo para arrematação em 2º leilão: R$ 145.452,81 (cento e quarenta e cinco mil, quatrocentos e cinquenta e dois reais e oitenta e um centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "9.440",
+      "registry_office": "2º OFÍCIO DE REGISTRO DE IMÓVEIS DE HORIZONTE-CE",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27610",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11856_1.jpg"
+      ],
+      "latitude": -4.095453,
+      "longitude": -38.448564,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11857",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11857",
+      "external_reference": null,
+      "city": "Horizonte",
+      "state": "CE",
+      "address": "R. Dinamarca, 31, Casa B, Carnaubal, Distrito Dourado, Horizonte-CE, CEP 62898-000",
+      "asking_price": 152767.84,
+      "price_display": "R$ 152.767,84",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 152767.84,
+      "second_auction_minimum_bid": 124962.97,
+      "description": "Nº DO BEM: 533161002 HORIZONTE (CE) Descrição: IMÓVEL DE MATRÍCULA 11.880 DO 2º OFÍCIO DE REGISTRO DE IMÓVEIS DE HORIZONTE-CE, ASSIM DESCRITO: Casa B, com área construída de 60,70m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 62284966 Localização: R. Dinamarca, 31, Casa B, Carnaubal, Distrito Dourado, Horizonte-CE, CEP 62898-000 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 152.767,84 (cento e cinquenta e dois mil setecentos e sessenta e sete reais e oitenta e quatro centavos) Lance mínimo para arrematação em 2º leilão: R$ 124.962,97 (cento e vinte e quatro mil, novecentos e sessenta e dois reais e noventa e sete centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "11.880",
+      "registry_office": "2º OFÍCIO DE REGISTRO DE IMÓVEIS DE HORIZONTE-CE",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27611",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11857_1.jpg"
+      ],
+      "latitude": -4.099165,
+      "longitude": -38.495106,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11858",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11858",
+      "external_reference": null,
+      "city": "Horizonte",
+      "state": "CE",
+      "address": "R. Holanda, 31, Casa A, Carnaubal, Distrito Dourado, Horizonte-CE, CEP 62898-000.",
+      "asking_price": 147682.22,
+      "price_display": "R$ 147.682,22",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 147682.22,
+      "second_auction_minimum_bid": 148779.4,
+      "description": "Nº DO BEM: 531428589 HORIZONTE (CE) Descrição: IMÓVEL DE MATRÍCULA 10.947 DO 2º OFÍCIO DE REGISTRO DE IMÓVEIS DE HORIZONTE-CE, ASSIM DESCRITO: Casa A, com área construída de 60,70m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 62276399 Localização: R. Holanda, 31, Casa A, Carnaubal, Distrito Dourado, Horizonte-CE, CEP 62898-000. Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 147.682,22 (cento e quarenta e sete mil seiscentos e oitenta e dois reais e vinte e dois centavos) Lance mínimo para arrematação em 2º leilão: R$ 148.779,40 (cento e quarenta e oito mil, setecentos e setenta e nove reais e quarenta centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "10.947",
+      "registry_office": "2º OFÍCIO DE REGISTRO DE IMÓVEIS DE HORIZONTE-CE",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27612",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11858_1.jpg"
+      ],
+      "latitude": -4.092427,
+      "longitude": -38.433487,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11859",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11859",
+      "external_reference": null,
+      "city": "Horizonte",
+      "state": "CE",
+      "address": "Av. Marina Ferreira de Almeida, 5200, LT 14, Casa B, Vertente, Dourado, Horizonte-CE, CEP 62898-000",
+      "asking_price": 107769.97,
+      "price_display": "R$ 107.769,97",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 107769.97,
+      "second_auction_minimum_bid": 126774.51,
+      "description": "Nº DO BEM: 516021764 HORIZONTE (CE) Descrição: IMÓVEL DE MATRÍCULA 5.730 DO 2º OFÍCIO DE REGISTRO DE IMÓVEIS DE HORIZONTE-CE, ASSIM DESCRITO: Casa B, com área construída de 53,14m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 62266393 Localização: Av. Marina Ferreira de Almeida, 5200, LT 14, Casa B, Vertente, Dourado, Horizonte-CE, CEP 62898-000 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 107.769,97 (cento e sete mil setecentos e sessenta e nove reais e noventa e sete centavos) Lance mínimo para arrematação em 2º leilão: R$ 126.774,51 (cento e vinte e seis mil, setecentos e setenta e quatro reais e cinquenta e um centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "5.730",
+      "registry_office": "2º OFÍCIO DE REGISTRO DE IMÓVEIS DE HORIZONTE-CE",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27613",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11859_1.jpg"
+      ],
+      "latitude": -4.09538,
+      "longitude": -38.45249,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11860",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11860",
+      "external_reference": null,
+      "city": "Horizonte",
+      "state": "CE",
+      "address": "R. Espanha, 78, Vertente, Distrito Dourado, Horizonte-CE, CEP 62898-000",
+      "asking_price": 189239.88,
+      "price_display": "R$ 189.239,88",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 189239.88,
+      "second_auction_minimum_bid": 124082.77,
+      "description": "Nº DO BEM: 521230300 HORIZONTE (CE) Descrição: IMÓVEL DE MATRÍCULA 7.133 DO 2º OFÍCIO DE REGISTRO DE IMÓVEIS DE HORIZONTE-CE, ASSIM DESCRITO: Casa B, com área construída de 53,14m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 62268819 Localização: R. Espanha, 78, Vertente, Distrito Dourado, Horizonte-CE, CEP 62898-000 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 189.239,88 (cento e oitenta e nove mil duzentos e trinta e nove reais e oitenta e oito centavos) Lance mínimo para arrematação em 2º leilão: R$ 124.082,77 (cento e vinte e quatro mil, oitenta e dois reais e setenta e sete centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "7.133",
+      "registry_office": "2º OFÍCIO DE REGISTRO DE IMÓVEIS DE HORIZONTE-CE",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27614",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11860_1.jpg"
+      ],
+      "latitude": -4.096066,
+      "longitude": -38.45253,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11861",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11861",
+      "external_reference": null,
+      "city": "Horizonte",
+      "state": "CE",
+      "address": "R. Espanha, 126, Casa B, BAIRRO: Vertente, DISTRITO: Dourado, Horizonte-CE, CEP 62898-000",
+      "asking_price": 109977.24,
+      "price_display": "R$ 109.977,24",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 109977.24,
+      "second_auction_minimum_bid": 121346.59,
+      "description": "Nº DO BEM: 521200161 HORIZONTE (CE) Descrição: IMÓVEL DE MATRÍCULA 7.123 DO 2º OFÍCIO DE REGISTRO DE IMÓVEIS DE HORIZONTE-CE, ASSIM DESCRITO: Casa B, com área construída de 53,14m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 62268823 Localização: R. Espanha, 126, Casa B, BAIRRO: Vertente, DISTRITO: Dourado, Horizonte-CE, CEP 62898-000 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 109.977,24 (cento e nove mil novecentos e setenta e sete reais e vinte e quatro centavos) Lance mínimo para arrematação em 2º leilão: R$ 121.346,59 (cento e vinte e um mil, trezentos e quarenta e seis reais e cinquenta e nove centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "7.123",
+      "registry_office": "2º OFÍCIO DE REGISTRO DE IMÓVEIS DE HORIZONTE-CE",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27615",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11861_1.jpg"
+      ],
+      "latitude": -4.095783,
+      "longitude": -38.452198,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11862",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11862",
+      "external_reference": null,
+      "city": "Horizonte",
+      "state": "CE",
+      "address": "R. Dailsa Matias de Lima, 275, Casa A, Diadema, Horizonte-CE, CEP 62882-674",
+      "asking_price": 170027.23,
+      "price_display": "R$ 170.027,23",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 170027.23,
+      "second_auction_minimum_bid": 106840.99,
+      "description": "Nº DO BEM: 526806529 HORIZONTE (CE) Descrição: IMÓVEL DE MATRÍCULA 5.878 DO 2º OFÍCIO DE REGISTRO DE IMÓVEIS DE HORIZONTE-CE, ASSIM DESCRITO: Casa A, com área construída de 85,71m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 6227689 Localização: R. Dailsa Matias de Lima, 275, Casa A, Diadema, Horizonte-CE, CEP 62882-674 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 170.027,23 (cento e setenta mil e vinte e sete reais e vinte e três centavos) Lance mínimo para arrematação em 2º leilão: R$ 106.840,99 (cento e seis mil, oitocentos e quarenta reais e noventa e nove centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "5.878",
+      "registry_office": "2º OFÍCIO DE REGISTRO DE IMÓVEIS DE HORIZONTE-CE",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27616",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11862_1.jpg"
+      ],
+      "latitude": -4.093457,
+      "longitude": -38.477384,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11863",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11863",
+      "external_reference": null,
+      "city": "Juazeiro do Norte",
+      "state": "CE",
+      "address": "R. Maria Rodrigues Barbosa, 431, QD 11, LT 11A, LOT Pq. dos Teresios, Frei Damião, VL Real, Juazeiro do Norte-CE, CEP 63043-090",
+      "asking_price": 150000.0,
+      "price_display": "R$ 150.000,00",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 150000.0,
+      "second_auction_minimum_bid": 113362.97,
+      "description": "Nº DO BEM: 523503172 JUAZEIRO DO NORTE (CE) Descrição: IMÓVEL DE MATRÍCULA 37.899 DO CARTÓRIO DE REGISTRO DE IMÓVEIS E ANEXOS - 2º OFÍCIO DE JUAZEIRO DO NORTE-CE, ASSIM DESCRITO: Casa, com área construída de 107,52m² e terreno com área total de 150,00m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 0001006071 Localização: R. Maria Rodrigues Barbosa, 431, QD 11, LT 11A, LOT Pq. dos Teresios, Frei Damião, VL Real, Juazeiro do Norte-CE, CEP 63043-090 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 150.000,00 (cento e cinquenta mil reais) Lance mínimo para arrematação em 2º leilão: R$ 113.362,97 (cento e treze mil, trezentos e sessenta e dois reais e noventa e sete centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "37.899",
+      "registry_office": "CARTÓRIO DE REGISTRO DE IMÓVEIS E ANEXOS - 2º OFÍCIO DE JUAZEIRO DO NORTE-CE",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27617",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11863_1.jpg"
+      ],
+      "latitude": -7.237734,
+      "longitude": -39.341389,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11864",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11864",
+      "external_reference": null,
+      "city": "Juazeiro do Norte",
+      "state": "CE",
+      "address": "R. Iderval Ramos Pedrosa, 247, LT 11-B/12-A, QD-B, LOT Cabo Verde, São José, Juazeiro do Norte-CE, CEP 63044-682",
+      "asking_price": 162360.14,
+      "price_display": "R$ 162.360,14",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 162360.14,
+      "second_auction_minimum_bid": 450765.41,
+      "description": "Nº DO BEM: 513862231 JUAZEIRO DO NORTE (CE) Descrição: IMÓVEL DE MATRÍCULA 34.962 DO CARTÓRIO DE REGISTRO DE IMÓVEIS E ANEXOS - 2º OFÍCIO DE JUAZEIRO DO NORTE-CE, ASSIM DESCRITO: Casa, com área construída de 118,55m² e respectivo terreno com área total de 210,00m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 0001031286 Localização: R. Iderval Ramos Pedrosa, 247, LT 11-B/12-A, QD-B, LOT Cabo Verde, São José, Juazeiro do Norte-CE, CEP 63044-682 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 162.360,14 (cento e sessenta e dois mil, trezentos e sessenta reais e quatorze centavos) Lance mínimo para arrematação em 2º leilão: R$ 450.765,41 (quatrocentos e cinquenta mil, setecentos e sessenta e cinco reais e quarenta e um centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "34.962",
+      "registry_office": "CARTÓRIO DE REGISTRO DE IMÓVEIS E ANEXOS - 2º OFÍCIO DE JUAZEIRO DO NORTE-CE",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27618",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11864_1.jpg"
+      ],
+      "latitude": -7.235683,
+      "longitude": -39.350208,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11865",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11865",
+      "external_reference": null,
+      "city": "Juazeiro do Norte",
+      "state": "CE",
+      "address": "R. Vereador Francisco Rocha da Silva, 520, LT 9A, QD C, LOT JD Roberto, Betolândia, Juazeiro do Norte-CE, CEP 63036-270",
+      "asking_price": 170000.0,
+      "price_display": "R$ 170.000,00",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 170000.0,
+      "second_auction_minimum_bid": 199392.58,
+      "description": "Nº DO BEM: 527348289 JUAZEIRO DO NORTE (CE) Descrição: IMÓVEL DE MATRÍCULA 18.595 DO CARTÓRIO 5º OFÍCIO DE REGISTRO DE IMÓVEIS DE JUAZEIRO DO NORTE-CE, ASSIM DESCRITO: Casa, prédio residencial, com área construída de 109,50m² e respectivo terreno com área 180,00m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 129106011500000 Localização: R. Vereador Francisco Rocha da Silva, 520, LT 9A, QD C, LOT JD Roberto, Betolândia, Juazeiro do Norte-CE, CEP 63036-270 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 170.000,00 (cento e setenta mil reais) Lance mínimo para arrematação em 2º leilão: R$ 199.392,58 (cento e noventa e nove mil, trezentos e noventa e dois reais e cinquenta e oito centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "18.595",
+      "registry_office": "CARTÓRIO 5º OFÍCIO DE REGISTRO DE IMÓVEIS DE JUAZEIRO DO NORTE-CE",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27619",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11865_1.jpg"
+      ],
+      "latitude": -7.221152,
+      "longitude": -39.279598,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11866",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11866",
+      "external_reference": null,
+      "city": "Maracanaú",
+      "state": "CE",
+      "address": "R. Miguel Alves, 300, AP 306, BL 07, TP-B, Cond. Res. Gran Felicitá Residence Clube, Centro, Maracanaú-CE, CEP 61900-180",
+      "asking_price": 142391.32,
+      "price_display": "R$ 142.391,32",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 142391.32,
+      "second_auction_minimum_bid": 171726.72,
+      "description": "Nº DO BEM: 519944093 MARACANAÚ (CE) Descrição: IMÓVEL DE MATRÍCULA 17.086 DO 3º OFÍCIO DE REGISTRO DE IMÓVEIS DE MARACANAÚ-CE, ASSIM DESCRITO: Apartamento nº 306, com área real principal de 43,65m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 226353 Localização: R. Miguel Alves, 300, AP 306, BL 07, TP-B, Cond. Res. Gran Felicitá Residence Clube, Centro, Maracanaú-CE, CEP 61900-180 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 142.391,32 (cento e quarenta e dois mil trezentos e noventa e um reais e trinta e dois centavos) Lance mínimo para arrematação em 2º leilão: R$ 171.726,72 (cento e setenta e um mil, setecentos e vinte e seis reais e setenta e dois centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "17.086",
+      "registry_office": "3º OFÍCIO DE REGISTRO DE IMÓVEIS DE MARACANAÚ-CE",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27620",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11866_1.jpg"
+      ],
+      "latitude": -3.874898,
+      "longitude": -38.624233,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12150",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12150",
+      "external_reference": "99728",
+      "city": "Tabuleiro do Norte",
+      "state": "CE",
+      "address": "Rua Luiz Moreira de Almeida, 1385, Bom Futuro",
+      "asking_price": 62000.0,
+      "price_display": "R$ 62.000,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID99728 TABULEIRO DO NORTE (CE) Descrição legal: Imóvel Urbano: Residência com área construída de 71,80 m², em terreno de 156,25 m², situada na Rua Luiz Moreira de Almeida, 1385, Bom Futuro, Município de Tabuleiro do Norte-CE. Melhor descrita na Matrícula 1763 do 2º Ofício de Tabuleiro do Norte-CE a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "1763",
+      "registry_office": "2º Ofício de Tabuleiro do Norte-CE",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/15047",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12150_1.png"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12154",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12154",
+      "external_reference": "102037",
+      "city": "Horizonte",
+      "state": "CE",
+      "address": "Rua Inglaterra, nº 98, Bairro Vertente",
+      "asking_price": 53000.0,
+      "price_display": "R$ 53.000,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID102037 HORIZONTE (CE) Descrição legal: Imóvel Urbano: Casa geminada A, situada na Rua Inglaterra, nº 98, Bairro Vertente, Município de Horizonte-CE. Melhor descrita na matrícula nº 8956 do 2º Ofício de Registro de Imóveis de Horizonte-CE a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "8956",
+      "registry_office": "2º Ofício de Registro de Imóveis de Horizonte-CE",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/15045",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12154_1.jpg"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12155",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12155",
+      "external_reference": "102450",
+      "city": "Horizonte",
+      "state": "CE",
+      "address": "Rua Portugal, nº 181, Bairro Vertente",
+      "asking_price": 53000.0,
+      "price_display": "R$ 53.000,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID102450 HORIZONTE (CE) Descrição legal: Imóvel Urbano: Residência Casa B, situada na Rua Portugal, nº 181, Bairro Vertente, Município de Horizonte-CE. Melhor descrita na matrícula nº 6451 do 2º Ofício de Registro de Imóveis de Horizonte-CE a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "6451",
+      "registry_office": "2º Ofício de Registro de Imóveis de Horizonte-CE",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/15046",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12155_1.jpg"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12172",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12172",
+      "external_reference": "93618",
+      "city": "Horizonte",
+      "state": "CE",
+      "address": "Rua Portugal, nº 121, Bairro Vertente",
+      "asking_price": null,
+      "price_display": "Aceita BB?",
+      "sale_modality_hint": "aceita_bb",
+      "auction_date_raw": "13/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID93618 HORIZONTE (CE) Descrição legal: Imóvel Urbano Residencial, Casa B, situada na Rua Portugal, nº 121, Bairro Vertente, Município de Horizonte - CE. Melhor descrito na Matrícula 6739 do 2º Ofício de Registro de Imóveis de Horizonte - CE. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "6739",
+      "registry_office": "2º Ofício de Registro de Imóveis de Horizonte - CE",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27902",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12172_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12172_2.jpeg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12172_3.jpg"
+      ],
+      "latitude": -4.095628,
+      "longitude": -38.45128,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12247",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12247",
+      "external_reference": "75971",
+      "city": "São Gonçalo do Amarante",
+      "state": "CE",
+      "address": "Avenida Coronel Doca Paraíba, 100, Centro, São Gonçalo do Amarante - CE",
+      "asking_price": 2093668.0,
+      "price_display": "R$ 2.093.668,00",
+      "sale_modality_hint": null,
+      "auction_date_raw": "20/10/2026 a partir das 11h00",
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID75971 SÃO GONÇALO DO AMARANTE (CE) Descrição legal: Imóvel Urbano: Prédio Comercial, situado na Avenida Coronel Doca Paraíba, 100, Centro, São Gonçalo do Amarante - CE. Melhor descrito nas Matrícula 881 do 2° CRI de São Gonçalo do Amarante - CE. a) Do imóvel adquirido na presente licitação será obrigatoriamente locado ao BANCO do Brasil S/A, sendo que o Banco do Brasil alugará integralmente o imóvel; b) Prazo da Locação: (por até 60 meses); c) O adquirente se submete às todos os itens previstas na Cláusula 3.2 do ANEXO 7 deste edital; d) Valor de locação inicialmente estabelecido será de R$ 13.609,00; e) Caberá ao arrematante, às suas custas e após a compra, quaisquer providências por eventual necessidade de desembaraço e regularização documental do imóvel arrematado, como abertura de matrícula, regularização da área encontrada na matrícula e no cadastro na Prefeitura, entre outros. f) O arrematante se declara ciente de que está em curso a realização de obras na agência. g) Será locado o imóvel todo, inclusive a área de estacionamento.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": null,
+      "registry_number": "881",
+      "registry_office": "2° CRI de São Gonçalo do Amarante - CE",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27975",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12247_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12247_2.jpg"
+      ],
+      "latitude": -3.6085,
+      "longitude": -38.967594,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "7027",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/7027",
+      "external_reference": "99627",
+      "city": "Fortaleza",
+      "state": "CE",
+      "address": "Rua José Cândido, nº 514, Bairro Monte Castelo",
+      "asking_price": 178920.0,
+      "price_display": "R$ 178.920,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID99627 FORTALEZA (CE) Descrição legal: Imóvel Urbano Residencial, Apartamento nº 402, do Condomínio Residencial Adonias, com direito a 1 (uma) vaga de garagem, situado à Rua José Cândido, nº 514, Bairro Monte Castelo, município de Fortaleza - CE. Melhor descrito na matrícula 75187 do 3º Ofício de Registro de Imóveis de Fortaleza - CE. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "75187",
+      "registry_office": "3º Ofício de Registro de Imóveis de Fortaleza - CE",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/527",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/7027_1.png"
+      ],
+      "latitude": -3.7292801,
+      "longitude": -38.5511497,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "7163",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/7163",
+      "external_reference": "99003",
+      "city": "Pedra Branca",
+      "state": "CE",
+      "address": "Rua Antônio Rodrigues de Oliveira, nº 149, Bairro Santa Maria",
+      "asking_price": 130000.0,
+      "price_display": "R$ 130.000,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID99003Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Antônio Rodrigues de Oliveira, nº 149, Bairro Santa Maria, Município de Pedra Branca - CE. Melhor descrito na matrícula 3213 do 2º Ofício de Registro de Imóveis de Pedra Branca - CE.a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "3213",
+      "registry_office": "2º Ofício de Registro de Imóveis de Pedra Branca - CE",
+      "partner_url": "https://vendadiretabb.escritoriodeleiloes.com.br/lote-venda-direta/id/14561",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/7163_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/7163_2.jpg"
+      ],
+      "latitude": null,
+      "longitude": null,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    }
+  ]
+}

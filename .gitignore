@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.pyc
+bb-coleta/html/
+.DS_Store

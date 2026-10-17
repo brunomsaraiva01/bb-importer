@@ -1,0 +1,38 @@
+{
+  "imoveis": [
+    {
+      "source_type": "bb",
+      "source_external_id": "12122",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12122",
+      "external_reference": null,
+      "city": "Gurupi",
+      "state": "TO",
+      "address": "R. Horácio Joaquim Lemes, 246, Alto da Boa Vista, Gurupi-TO, CEP 77425-300",
+      "asking_price": 517252.87,
+      "price_display": "R$ 517.252,87",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 517252.87,
+      "second_auction_minimum_bid": 531870.41,
+      "description": "Nº DO BEM: 538242607 GURUPI (TO) Descrição: IMÓVEL DE MATRÍCULA 25565 DO SERVIÇO DE REGISTRO DE IMÓVEIS DE GURUPI-TO, ASSIM DESCRITO: Casa nº 246, com área de 140,16m² e respectivo terreno com área total de 360,00m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 117000200230 Localização: R. Horácio Joaquim Lemes, 246, Alto da Boa Vista, Gurupi-TO, CEP 77425-300 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Obs.3: Consta INDISPONIBILIDADE conforme Av. 17 da matrícula, referente ao processo nº 00079671720248272722. Nos termos do § 11 do artigo 27 da Lei nº 9.514/97, os direitos reais de garantia ou constrições, tais como penhoras, arrestos, bloqueios e indisponibilidades de qualquer natureza incidentes sobre o direito real de aquisição do fiduciante, não impedem a consolidação da propriedade em nome do credor fiduciário nem a venda do imóvel para realização da garantia. Lance mínimo para arrematação em 1º leilão: R$ 517.252,87 (quinhentos e dezessete mil duzentos e cinquenta e dois reais e oitenta e sete centavos) Lance mínimo para arrematação em 2º leilão: R$ 531.870,41 (quinhentos e trinta e um mil, oitocentos e setenta reais e quarenta e um centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "25565",
+      "registry_office": "SERVIÇO DE REGISTRO DE IMÓVEIS DE GURUPI-TO",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27876",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12122_1.jpg"
+      ],
+      "latitude": -11.730446,
+      "longitude": -49.095637,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    }
+  ]
+}

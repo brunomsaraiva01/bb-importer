@@ -1,0 +1,258 @@
+{
+  "imoveis": [
+    {
+      "source_type": "bb",
+      "source_external_id": "10825",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/10825",
+      "external_reference": "74382",
+      "city": "Cáceres",
+      "state": "MT",
+      "address": "Rua Coronel José Dulce, 234, Centro",
+      "asking_price": 4166866.0,
+      "price_display": "R$ 4.166.866,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID74382 CÁCERES (MT) Descrição legal : Imóvel Urbano: Prédio Comercial, situado na Rua Coronel José Dulce, 234, Centro, Município de Cáceres (MT). Melhor descrito na Transcrição 11026 do 1º Ofício do CRI de Cáceres (MT). a) Trata-se de Agência do Banco do Brasil S/A realocada para um novo endereço. Permanece no interior do imóvel alguns mobiliários, os quais serão retirados e a sua desocupação total se dará no prazo de até 90 (noventa) dias após a data do Leilão, e o adquirente se declara informado do fato. b) O imóvel possui Transcrição a qual obrigatoriamente deverá ser transformada em matrícula para Registro da venda no Cartório de Registro de Imóveis e os procedimentos, despesas e toda documentação necessárias solicitada pelo Cartório para a regularização da pendência ficarão por conta do adquirente; c) Caberá ao arrematante, às suas custas e após a compra, quaisquer providências por eventual necessidade de desembaraço e regularização documental do imóvel arrematado, como regularização da área no registro de imóvel, no cadastro na Prefeitura e a encontrada no local, entre outros. d) Todas as custas e emolumentos necessários para a confecção da Escritura e transferência no Registro de Imóveis ficarão por conta do adquirente",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": null,
+      "registry_number": null,
+      "registry_office": null,
+      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=26372",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/10825_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10825_2.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10825_3.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/10825_4.jpg"
+      ],
+      "latitude": -16.065913,
+      "longitude": -57.687237,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11956",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11956",
+      "external_reference": null,
+      "city": "Água Boa",
+      "state": "MT",
+      "address": "Rua 2 PL, 15, LT 02, QD 08, Portal do Lago, Vila Nova, Água Boa - MT, CEP 78635-000",
+      "asking_price": 517742.14,
+      "price_display": "R$ 517.742,14",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 517742.14,
+      "second_auction_minimum_bid": 428860.22,
+      "description": "Nº DO BEM: 541857198 ÁGUA BOA (MT) Descrição: IMÓVEL DE MATRÍCULA 11.316 DO 1º SERVIÇO REGISTAL DE IMÓVEL DE ÁGUA BOA-MT, ASSIM DESCRITO: Casa, com área construída de 53,88m² e respectivo terreno com a área de 310,40m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 001.25.8.PL2.1 Localização: Rua 2 PL, 15, LT 02, QD 08, Portal do Lago, Vila Nova, Água Boa - MT, CEP 78635-000 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 517.742,14 (quinhentos e dezessete mil setecentos e quarenta e dois reais e quatorze centavos) Lance mínimo para arrematação em 2º leilão: R$ 428.860,22 (quatrocentos e vinte e oito mil, oitocentos e sessenta reais e vinte e dois centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "11.316",
+      "registry_office": "1º SERVIÇO REGISTAL DE IMÓVEL DE ÁGUA BOA-MT",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27710",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11956_1.jpg"
+      ],
+      "latitude": -14.060364,
+      "longitude": -52.154784,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11957",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11957",
+      "external_reference": null,
+      "city": "Várzea Grande",
+      "state": "MT",
+      "address": "R. Rio Grande do Norte, 525, AP. 306, BL E, Cond. Pq. Chapada do Poente, Centro-Sul, Várzea Grande-MT, CEP 78135-902",
+      "asking_price": 147566.08,
+      "price_display": "R$ 147.566,08",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 147566.08,
+      "second_auction_minimum_bid": 93902.69,
+      "description": "Nº DO BEM: 514659747 VÁRZEA GRANDE (MT) Descrição: IMÓVEL DE MATRÍCULA 80.425 DO 1º SERVIÇO NOTARIAL E DE REGISTRO DE VÁRZEA GRANDE-MT, ASSIM DESCRITO: Apartamento nº 306, com área real privativa coberta padrão de 44,17m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 000000000515337 Localização: R. Rio Grande do Norte, 525, AP. 306, BL E, Cond. Pq. Chapada do Poente, Centro-Sul, Várzea Grande-MT, CEP 78135-902 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 147.566,08 (cento e quarenta e sete mil quinhentos e sessenta e seis reais e oito centavos) Lance mínimo para arrematação em 2º leilão: R$ 93.902,69 (noventa e três mil, novecentos e dois reais e sessenta e nove centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "80.425",
+      "registry_office": "1º SERVIÇO NOTARIAL E DE REGISTRO DE VÁRZEA GRANDE-MT",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27711",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11957_1.jfif",
+        "https://www.seuimovelbb.com.br/imagem/imovel/11957_2.jfif",
+        "https://www.seuimovelbb.com.br/imagem/imovel/11957_3.jfif",
+        "https://www.seuimovelbb.com.br/imagem/imovel/11957_4.jfif"
+      ],
+      "latitude": -14.391704,
+      "longitude": -51.004952,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11958",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11958",
+      "external_reference": null,
+      "city": "Várzea Grande",
+      "state": "MT",
+      "address": "R. Rio Grande do Norte, 525, AP. 205, BL C, Cond. Pq. Chapada do Poente, Centro-Sul, Várzea Grande-MT, CEP 78135-902",
+      "asking_price": 149667.89,
+      "price_display": "R$ 149.667,89",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 149667.89,
+      "second_auction_minimum_bid": 119879.61,
+      "description": "Nº DO BEM: 514886542 VÁRZEA GRANDE (MT) Descrição: IMÓVEL DE MATRÍCULA 80.316 DO 1º SERVIÇO NOTARIAL E DE REGISTRO DE VÁRZEA GRANDE-MT, ASSIM DESCRITO: Apartamento nº 205, com área real privativa coberta padrão de 41,40m², e com vaga de garagem, melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 9227928 Localização: R. Rio Grande do Norte, 525, AP. 205, BL C, Cond. Pq. Chapada do Poente, Centro-Sul, Várzea Grande-MT, CEP 78135-902 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 149.667,89 (cento e quarenta e nove mil seiscentos e sessenta e sete reais e oitenta e nove centavos) Lance mínimo para arrematação em 2º leilão: R$ 119.879,61 (cento e dezenove mil, oitocentos e setenta e nove reais e sessenta e um centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "80.316",
+      "registry_office": "1º SERVIÇO NOTARIAL E DE REGISTRO DE VÁRZEA GRANDE-MT",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27712",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11958_1.jfif",
+        "https://www.seuimovelbb.com.br/imagem/imovel/11958_2.jfif",
+        "https://www.seuimovelbb.com.br/imagem/imovel/11958_3.jfif",
+        "https://www.seuimovelbb.com.br/imagem/imovel/11958_4.jfif"
+      ],
+      "latitude": -14.391704,
+      "longitude": -51.004952,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "11959",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/11959",
+      "external_reference": null,
+      "city": "Várzea Grande",
+      "state": "MT",
+      "address": "R. Gal. Isidoro Dias, Área 02A, QD 15, Ikaray, Várzea Grande-MT, CEP 78130-436",
+      "asking_price": 160404.42,
+      "price_display": "R$ 160.404,42",
+      "sale_modality_hint": null,
+      "auction_date_raw": "23/10/2026 a partir das 10h00",
+      "first_auction_minimum_bid": 160404.42,
+      "second_auction_minimum_bid": 146881.49,
+      "description": "Nº DO BEM: 531187064 VÁRZEA GRANDE (MT) Descrição: IMÓVEL DE MATRÍCULA 110.864 DO 1º SERVIÇO NOTARIAL E DE REGISTRO DE VÁRZEA GRANDE-MT, ASSIM DESCRITO: Casa, com área construída de 69,33m² e respectivo terreno com área total de 180,00m², melhor descrito(a) e caracterizado(a) na respectiva matrícula. Inscrição Imobiliária: 000000000172232 Localização: R. Gal. Isidoro Dias, Área 02A, QD 15, Ikaray, Várzea Grande-MT, CEP 78130-436 Obs.1: Nos termos do § 7º do artigo 26 da Lei nº 9.514/97, encontra-se averbada, na matrícula do imóvel, a consolidação da propriedade em nome do fiduciário. Obs.2: O imóvel encontra-se ocupado por terceiros, e as providências para regularização e desocupação, bem como as eventuais despesas decorrentes, serão de inteira responsabilidade do adquirente. Lance mínimo para arrematação em 1º leilão: R$ 160.404,42 (cento e sessenta mil quatrocentos e quatro reais e quarenta e dois centavos) Lance mínimo para arrematação em 2º leilão: R$ 146.881,49 (cento e quarenta e seis mil, oitocentos e oitenta e um reais e quarenta e nove centavos)",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "110.864",
+      "registry_office": "1º SERVIÇO NOTARIAL E DE REGISTRO DE VÁRZEA GRANDE-MT",
+      "partner_url": "http://www.lancenoleilao.com.br/lote.php?idLote=27713",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/11959_1.jfif",
+        "https://www.seuimovelbb.com.br/imagem/imovel/11959_2.jfif",
+        "https://www.seuimovelbb.com.br/imagem/imovel/11959_3.jfif",
+        "https://www.seuimovelbb.com.br/imagem/imovel/11959_4.jfif"
+      ],
+      "latitude": -15.66836,
+      "longitude": -56.140179,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "12126",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/12126",
+      "external_reference": "156",
+      "city": "Campo Novo do Parecis",
+      "state": "MT",
+      "address": "município de Campo Novo do Parecis-MT",
+      "asking_price": 1580000.0,
+      "price_display": "R$ 1.580.000,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID156 e 157 CAMPO NOVO DO PARECIS (MT) Descrição legal: Imóvel Rural: Imóvel Rural: Um lote de terras denominado \"Fazenda Santa Clara do Ingaí\", desmembrada da Gleba Cedral, situada no município de Campo Novo do Parecis-MT. Melhor descrito na matrícula 9215 do 1º CRI de Tangará da Serra MT e Uma área de terras, destacada de uma área maior, parte da Fazenda Santa Clara do Ingaí, situada no lugar denominado município Campo Novo do Parecis-MT, na comarca de Tangará da Serra-MT. Melhor descrito na matrícula 9216 do 1º CRI de Tangará da Serra MT. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente, conforme item 16.8 deste Edital; b) Existem pendências para a regularização do CCIR junto ao Incra sobre o imóvel e o arrematante se declara informado do fato, ficando a regularização e o quitação dos débitos a cargo do arrematante; c) Existe a necessidade de realizar GEORREFERENCIAMENTO da área, ficando a realização e registros cartorários, regularização junto aos órgãos competentes e a quitação dos débitos a cargo do arrematante. d) Existe a necessidade de realizar GEORREFERENCIAMENTO para verificar a existência ou não de sobreposição de área, podendo haver diminuição da área da matrícula. e) Existe possível sobreposição das áreas dos imóveis rurais cabendo ao arrematante avaliar a possibilidade e pertinência de solucionar tais pendências, ficando o mesmo informado do fato e todas os procedimentos e custas para a regularização correm por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "9215",
+      "registry_office": "1º CRI de Tangará da Serra MT e Uma área de terras, destacada de uma área maior, parte da Fazenda Santa Clara do Ingaí, situada no lugar denominado município Campo Novo do Parecis-MT, na comarca de Tangará da Serra-MT",
+      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=27543",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/12126_1.jfif",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12126_2.jfif",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12126_3.jfif",
+        "https://www.seuimovelbb.com.br/imagem/imovel/12126_4.jfif"
+      ],
+      "latitude": -13.659778,
+      "longitude": -57.889538,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    },
+    {
+      "source_type": "bb",
+      "source_external_id": "9847",
+      "source_url": "https://www.seuimovelbb.com.br/imovel/id/9847",
+      "external_reference": "100902",
+      "city": "Porto dos Gaúchos",
+      "state": "MT",
+      "address": "Rua Itauba 53 Lt14 Qd206 - Jardim Amazônia Ii",
+      "asking_price": 130800.0,
+      "price_display": "R$ 130.800,00",
+      "sale_modality_hint": "proposta",
+      "auction_date_raw": null,
+      "first_auction_minimum_bid": null,
+      "second_auction_minimum_bid": null,
+      "description": "ID100902 PORTO DOS GAÚCHOS(MT) Descrição legal: Imóvel Urbano Residencial, Casa situada na Rua Itauba 53 Lt14 Qd206 - Jardim Amazônia Ii, Município de PORTO DOS GAÚCHOS - MT. Melhor descrito na matrícula 12426 do 1º Ofício Registral e Notarial de Porto dos Gaúchos-MT. a) O imóvel encontra-se ocupado por terceiros e as providências e eventuais despesas para regularização e desocupação do imóvel correrão por conta do adquirente.",
+      "observations": [
+        "1. Consulte matrícula do imóvel, documentos adicionais, edital, condições de venda e pagamento no site do Parceiro Vendedor;",
+        "2. As imagens dos imóveis são meramente ilustrativas e o objeto da venda a ser considerado na compra é a matrícula do imóvel."
+      ],
+      "occupancy_status": "ocupado_por_terceiros",
+      "registry_number": "12426",
+      "registry_office": "1º Ofício Registral e Notarial de Porto dos Gaúchos-MT",
+      "partner_url": "http://www.lancenoleilao.com.br/loteVendaDireta.php?idLote=25711",
+      "images": [
+        "https://www.seuimovelbb.com.br/imagem/imovel/9847_1.jpg",
+        "https://www.seuimovelbb.com.br/imagem/imovel/9847_2.jpg"
+      ],
+      "latitude": -11.540975,
+      "longitude": -57.406717,
+      "documents": {
+        "edital_url": null,
+        "matricula_url": null
+      },
+      "notes": "Dados extraídos de HTML público; confirmar edital e condições no parceiro vendedor."
+    }
+  ]
+}
