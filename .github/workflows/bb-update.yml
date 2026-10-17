@@ -3,8 +3,6 @@ name: Atualizar catalogo BB
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "17 9 * * *"
 
 permissions:
   contents: write
