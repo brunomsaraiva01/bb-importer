@@ -1,0 +1,179 @@
+
+name: Atualizar catalogo BB
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 9 * * *"
+
+permissions:
+  contents: write
+  actions: read
+
+concurrency:
+  group: bb-catalog-update
+  cancel-in-progress: false
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+
+    steps:
+      - name: Baixar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Instalar dependencias
+        run: python -m pip install beautifulsoup4
+
+      - name: Verificar intervalo de 15 dias
+        id: intervalo
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          python - <<'PY'
+          import os
+          import json
+          import subprocess
+          from datetime import datetime, timezone
+
+          output = os.environ["GITHUB_OUTPUT"]
+
+          if os.environ["GITHUB_EVENT_NAME"] == "workflow_dispatch":
+              with open(output, "a") as f:
+                  print("run=true", file=f)
+              raise SystemExit(0)
+
+          repo = os.environ["GITHUB_REPOSITORY"]
+          result = subprocess.run(
+              [
+                  "gh", "api", "--method", "GET",
+                  f"repos/{repo}/actions/workflows/bb-update.yml/runs",
+                  "-f", "status=completed",
+                  "-f", "per_page=100"
+              ],
+              capture_output=True,
+              text=True
+          )
+
+          if result.returncode != 0:
+              raise SystemExit(result.stderr)
+
+          data = json.loads(result.stdout)
+          now = datetime.now(timezone.utc)
+          successful = []
+
+          for run in data.get("workflow_runs", []):
+              if run.get("event") not in (
+                  "schedule", "workflow_dispatch"
+              ):
+                  continue
+              if run.get("conclusion") != "success":
+                  continue
+
+              finished = run.get("updated_at")
+              if finished:
+                  dt = datetime.fromisoformat(
+                      finished.replace("Z", "+00:00")
+                  )
+                  successful.append(dt)
+
+          run_now = (
+              not successful
+              or (now - max(successful)).total_seconds()
+              >= 15 * 86400
+          )
+
+          with open(output, "a") as f:
+              print(f"run={str(run_now).lower()}", file=f)
+
+          print(f"Executar coleta: {run_now}")
+          PY
+
+      - name: Verificar catalogo existente
+        if: steps.intervalo.outputs.run == 'true'
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          catalogo = Path("bb-catalogo-validacao.json")
+          pasta = Path("bb-coleta/por-uf")
+
+          if not catalogo.exists():
+              raise SystemExit("Catalogo de IDs ausente")
+
+          arquivos = list(pasta.glob("*.json"))
+          if len(arquivos) < 20:
+              raise SystemExit(
+                  "Catalogo publicado incompleto"
+              )
+
+          total = 0
+          for arquivo in arquivos:
+              dados = json.loads(
+                  arquivo.read_text(encoding="utf-8")
+              )
+              total += len(dados.get("imoveis", []))
+
+          print(f"Estados existentes: {len(arquivos)}")
+          print(f"Imoveis existentes: {total}")
+
+          if total < 700:
+              raise SystemExit(
+                  "Base existente abaixo do minimo"
+              )
+          PY
+
+      - name: Coletar amostra limitada BB
+        if: steps.intervalo.outputs.run == 'true'
+        run: |
+          python bb_coletar_catalogo.py \
+            --limite 20 \
+            --pausa 2 \
+            --saida bb-coleta-amostra
+
+      - name: Validar amostra
+        if: steps.intervalo.outputs.run == 'true'
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          auditoria = Path(
+              "bb-coleta-amostra/auditoria.json"
+          )
+
+          if not auditoria.exists():
+              raise SystemExit(
+                  "Auditoria da amostra nao encontrada"
+              )
+
+          dados = json.loads(
+              auditoria.read_text(encoding="utf-8")
+          )
+
+          print(
+              json.dumps(
+                  dados,
+                  ensure_ascii=False,
+                  indent=2
+              )
+          )
+
+          print(
+              "Amostra concluida. "
+              "Catalogo publicado preservado."
+          )
+          PY
+
+      - name: Preservar catalogo publicado
+        if: steps.intervalo.outputs.run == 'true'
+        run: |
+          echo "Nenhum JSON existente sera substituido."
+          echo "Amostra executada sem publicacao."
